@@ -1,0 +1,31 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,1.0,HOP-62,10,1
+sp24,NOD-like receptor signaling pathway,0.526757809,HOP-62,10,2
+sp7,Calcium signaling pathway,0.44984120752499995,HOP-62,10,3
+sp37,Sphingolipid signaling pathway,0.40449512763333334,HOP-62,10,4
+sp46,cGMP-PKG signaling pathway,0.347871365859,HOP-62,10,5
+sp5,B cell receptor signaling pathway,0.29243249699999996,HOP-62,10,6
+sp2,AMPK signaling pathway,0.2577812675295,HOP-62,10,7
+sp32,RIG-I-like receptor signaling pathway,0.19103638499999998,HOP-62,10,8
+sp38,T cell receptor signaling pathway,0.11495094759999999,HOP-62,10,9
+sp29,PPAR signaling pathway,0.10446755893537499,HOP-62,10,10
+sp47,mTOR signaling pathway,0.0727774929504222,HOP-62,10,11
+sp42,Toll-like receptor signaling pathway,0.0659509765,HOP-62,10,12
+sp25,Neurotrophin signaling pathway,0.0316350896,HOP-62,10,13
+sp28,PI3K-Akt signaling pathway,0.028497858855342974,HOP-62,10,14
+sp14,GnRH signaling pathway,0.026489604666666614,HOP-62,10,15
+sp13,Glucagon signaling pathway,0.024899183049999975,HOP-62,10,16
+sp6,C-type lectin receptor signaling pathway,0.0236095008,HOP-62,10,17
+sp3,Adipocytokine signaling pathway,0.02332051475,HOP-62,10,18
+sp23,NF-kappa B signaling pathway,0.0216813318,HOP-62,10,19
+sp20,Insulin signaling pathway,0.02021996619999995,HOP-62,10,20
+sp30,Phospholipase D signaling pathway,0.01478845565499999,HOP-62,10,21
+sp35,Relaxin signaling pathway,0.0119864303,HOP-62,10,22
+sp12,FoxO signaling pathway,0.011235169324999975,HOP-62,10,23
+sp48,p53 signaling pathway,0.0095150965187,HOP-62,10,24
+sp4,Apelin signaling pathway,0.009376369739999984,HOP-62,10,25
+sp41,Thyroid hormone signaling pathway,0.00933302863,HOP-62,10,26
+sp21,JAK-STAT signaling pathway,0.008470854564999974,HOP-62,10,27
+sp44,Wnt signaling pathway,0.007647667245538446,HOP-62,10,28
+sp45,cAMP signaling pathway,0.0055691840113333,HOP-62,10,29
+sp22,MAPK signaling pathway,0.0052021464249,HOP-62,10,30

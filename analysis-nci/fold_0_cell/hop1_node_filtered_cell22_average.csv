@@ -1,0 +1,26 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp32,RIG-I-like receptor signaling pathway,0.34556613,NCI-H522,22,1
+sp5,B cell receptor signaling pathway,0.342111748,NCI-H522,22,2
+sp2,AMPK signaling pathway,0.25653462272301514,NCI-H522,22,3
+sp44,Wnt signaling pathway,0.23387589948384616,NCI-H522,22,4
+sp38,T cell receptor signaling pathway,0.12680116209999995,NCI-H522,22,5
+sp24,NOD-like receptor signaling pathway,0.0879999118,NCI-H522,22,6
+sp42,Toll-like receptor signaling pathway,0.066065181445,NCI-H522,22,7
+sp37,Sphingolipid signaling pathway,0.042265483699999995,NCI-H522,22,8
+sp40,TNF signaling pathway,0.03990519739999995,NCI-H522,22,9
+sp3,Adipocytokine signaling pathway,0.0291427587,NCI-H522,22,10
+sp28,PI3K-Akt signaling pathway,0.027358300127170308,NCI-H522,22,11
+sp23,NF-kappa B signaling pathway,0.025227998099999947,NCI-H522,22,12
+sp21,JAK-STAT signaling pathway,0.024594428213333335,NCI-H522,22,13
+sp13,Glucagon signaling pathway,0.021535123425,NCI-H522,22,14
+sp6,C-type lectin receptor signaling pathway,0.021361608,NCI-H522,22,15
+sp20,Insulin signaling pathway,0.0202504582,NCI-H522,22,16
+sp30,Phospholipase D signaling pathway,0.016321453974999976,NCI-H522,22,17
+sp29,PPAR signaling pathway,0.01466797237399995,NCI-H522,22,18
+sp48,p53 signaling pathway,0.01154941344,NCI-H522,22,19
+sp12,FoxO signaling pathway,0.01096359944,NCI-H522,22,20
+sp35,Relaxin signaling pathway,0.010766673689999999,NCI-H522,22,21
+sp47,mTOR signaling pathway,0.01022850759518398,NCI-H522,22,22
+sp4,Apelin signaling pathway,0.007349077533333317,NCI-H522,22,23
+sp41,Thyroid hormone signaling pathway,0.00626710534267,NCI-H522,22,24
+sp45,cAMP signaling pathway,0.0055239009033333335,NCI-H522,22,25

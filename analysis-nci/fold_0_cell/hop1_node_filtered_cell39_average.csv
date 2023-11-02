@@ -1,0 +1,35 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,1.0,U251,39,1
+sp37,Sphingolipid signaling pathway,1.0,U251,39,2
+sp24,NOD-like receptor signaling pathway,0.52694802665,U251,39,3
+sp7,Calcium signaling pathway,0.43006148625,U251,39,4
+sp5,B cell receptor signaling pathway,0.380948218,U251,39,5
+sp46,cGMP-PKG signaling pathway,0.3500139427333333,U251,39,6
+sp32,RIG-I-like receptor signaling pathway,0.1629456519,U251,39,7
+sp38,T cell receptor signaling pathway,0.143405766,U251,39,8
+sp15,HIF-1 signaling pathway,0.13831737693905002,U251,39,9
+sp44,Wnt signaling pathway,0.11806411303255997,U251,39,10
+sp33,Rap1 signaling pathway,0.09547163790000193,U251,39,11
+sp2,AMPK signaling pathway,0.07055629963661132,U251,39,12
+sp47,mTOR signaling pathway,0.0674948673812,U251,39,13
+sp42,Toll-like receptor signaling pathway,0.06657591967499997,U251,39,14
+sp25,Neurotrophin signaling pathway,0.0267518910499999,U251,39,15
+sp28,PI3K-Akt signaling pathway,0.0251909404395409,U251,39,16
+sp3,Adipocytokine signaling pathway,0.024765508800000002,U251,39,17
+sp14,GnRH signaling pathway,0.020910885537499986,U251,39,18
+sp13,Glucagon signaling pathway,0.01948078832,U251,39,19
+sp20,Insulin signaling pathway,0.01903497822999995,U251,39,20
+sp23,NF-kappa B signaling pathway,0.01851649409199995,U251,39,21
+sp30,Phospholipase D signaling pathway,0.015839769400999983,U251,39,22
+sp6,C-type lectin receptor signaling pathway,0.0147377499,U251,39,23
+sp29,PPAR signaling pathway,0.012874071185,U251,39,24
+sp35,Relaxin signaling pathway,0.01212826043,U251,39,25
+sp8,Chemokine signaling pathway,0.01123751746,U251,39,26
+sp41,Thyroid hormone signaling pathway,0.009097636046667,U251,39,27
+sp12,FoxO signaling pathway,0.009083143147857135,U251,39,28
+sp21,JAK-STAT signaling pathway,0.00828542464375,U251,39,29
+sp4,Apelin signaling pathway,0.008059877295454522,U251,39,30
+sp34,Ras signaling pathway,0.007216126789999975,U251,39,31
+sp45,cAMP signaling pathway,0.005771089193333333,U251,39,32
+sp22,MAPK signaling pathway,0.0054103300000000005,U251,39,33
+sp17,Hippo signaling pathway,0.0044926979107213,U251,39,34

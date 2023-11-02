@@ -1,0 +1,54 @@
+# pycache
+/__pycache__/*
+**.DS_Store
+**.png
+**.pdf
+**.h5
+**.pyc
+
+# /datainfo-nci
+# /datainfo-oneil
+
+### CCLE-Dataset [methylation / mutation amplification;deletion]
+/datainfo-nci/raw_data/CCLE/
+/datainfo-oneil/raw_data/CCLE/
+# DepMap-Dataset [achilles_effect]
+/datainfo-nci/raw_data/DepMap/
+/datainfo-oneil/raw_data/DepMap/
+# GDSC-Dataset [copy_number_variation / rnaseq]
+/datainfo-nci/raw_data/GDSC/
+/datainfo-oneil/raw_data/GDSC/
+# Annotation File
+/datainfo-nci/raw_data/Annotation/
+/datainfo-oneil/raw_data/Annotation/
+# NCI60-Dataset [deeplearninginput]
+/datainfo-nci/raw_data/NCI60/ComboDrugGrowth_Nov2017.csv
+/datainfo-nci/raw_data/NCI60/NCI_drug_names.txt
+# DrugComb_fi
+/datainfo-oneil/raw_data/DrugComb_fi
+# DrugBank
+/datainfo-nci/raw_data/DrugBank/full_database.xml
+/datainfo-oneil/raw_data/DrugBank/full_database.xml
+
+
+### Middle Data Processes
+# init_data
+/datainfo-nci/init_data
+/datainfo-oneil/init_data
+
+### Form Data
+/datainfo-nci/form_data
+/datainfo-oneil/form_data
+
+### Form Analysis Data
+/datainfo-nci/form_analysis_data
+/datainfo-oneil/form_analysis_data
+
+# Analysis Data
+# /analysis-nci
+/analysis-nci/fold_0_cell/all_cell_edge.csv
+/analysis-nci/fold_1
+/analysis-nci/fold_2
+/analysis-nci/fold_3
+/analysis-nci/fold_4
+/analysis-nci/fold_5

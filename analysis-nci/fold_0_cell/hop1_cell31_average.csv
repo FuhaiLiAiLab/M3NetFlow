@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp5,B cell receptor signaling pathway,0.14255641034782607,SK-MEL-2,31,1
+sp24,NOD-like receptor signaling pathway,0.09994462828678333,SK-MEL-2,31,2
+sp14,GnRH signaling pathway,0.08953269795491524,SK-MEL-2,31,3
+sp11,Fc epsilon RI signaling pathway,0.07299061477037036,SK-MEL-2,31,4
+sp32,RIG-I-like receptor signaling pathway,0.0672209631457627,SK-MEL-2,31,5
+sp38,T cell receptor signaling pathway,0.06560186780222221,SK-MEL-2,31,6
+sp9,ErbB signaling pathway,0.062070639538196706,SK-MEL-2,31,7
+sp18,Hippo signaling pathway - multiple species,0.06035971078113206,SK-MEL-2,31,8
+sp40,TNF signaling pathway,0.058490536046542044,SK-MEL-2,31,9
+sp42,Toll-like receptor signaling pathway,0.04985739207939654,SK-MEL-2,31,10
+sp37,Sphingolipid signaling pathway,0.04704847799016042,SK-MEL-2,31,11
+sp46,cGMP-PKG signaling pathway,0.0443300041252049,SK-MEL-2,31,12
+sp43,VEGF signaling pathway,0.044283469557079624,SK-MEL-2,31,13
+sp30,Phospholipase D signaling pathway,0.042734246019274176,SK-MEL-2,31,14
+sp20,Insulin signaling pathway,0.04269888947459549,SK-MEL-2,31,15
+sp23,NF-kappa B signaling pathway,0.041815887738461524,SK-MEL-2,31,16
+sp36,Signaling pathways regulating pluripotency of stem cells,0.03856112983313558,SK-MEL-2,31,17
+sp6,C-type lectin receptor signaling pathway,0.03800569667021738,SK-MEL-2,31,18
+sp10,Estrogen signaling pathway,0.03790832973808096,SK-MEL-2,31,19
+sp39,TGF-beta signaling pathway,0.03666111735908652,SK-MEL-2,31,20
+sp7,Calcium signaling pathway,0.035438768564568714,SK-MEL-2,31,21
+sp31,Prolactin signaling pathway,0.035394448391734674,SK-MEL-2,31,22
+sp3,Adipocytokine signaling pathway,0.035386606136842094,SK-MEL-2,31,23
+sp12,FoxO signaling pathway,0.03509966169477668,SK-MEL-2,31,24
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.02990867398249998,SK-MEL-2,31,25
+sp27,Oxytocin signaling pathway,0.028767232018092153,SK-MEL-2,31,26
+sp35,Relaxin signaling pathway,0.028356027930466814,SK-MEL-2,31,27
+sp47,mTOR signaling pathway,0.028265508327440157,SK-MEL-2,31,28
+sp19,IL-17 signaling pathway,0.028030345626711698,SK-MEL-2,31,29
+sp48,p53 signaling pathway,0.027384478538199992,SK-MEL-2,31,30
+sp16,Hedgehog signaling pathway,0.026915136746972396,SK-MEL-2,31,31
+sp25,Neurotrophin signaling pathway,0.026896171626389298,SK-MEL-2,31,32
+sp4,Apelin signaling pathway,0.02588699804328518,SK-MEL-2,31,33
+sp15,HIF-1 signaling pathway,0.024641397709473017,SK-MEL-2,31,34
+sp33,Rap1 signaling pathway,0.022938731879894012,SK-MEL-2,31,35
+sp2,AMPK signaling pathway,0.022629877193851882,SK-MEL-2,31,36
+sp26,Notch signaling pathway,0.020333072416190465,SK-MEL-2,31,37
+sp13,Glucagon signaling pathway,0.02003477289708281,SK-MEL-2,31,38
+sp28,PI3K-Akt signaling pathway,0.0191140757098549,SK-MEL-2,31,39
+sp22,MAPK signaling pathway,0.01868847861166147,SK-MEL-2,31,40
+sp29,PPAR signaling pathway,0.018067510280216196,SK-MEL-2,31,41
+sp34,Ras signaling pathway,0.017924167099536162,SK-MEL-2,31,42
+sp17,Hippo signaling pathway,0.017649268479776836,SK-MEL-2,31,43
+sp45,cAMP signaling pathway,0.016631791244254887,SK-MEL-2,31,44
+sp41,Thyroid hormone signaling pathway,0.01523910847663441,SK-MEL-2,31,45
+sp44,Wnt signaling pathway,0.014905282065047605,SK-MEL-2,31,46
+sp8,Chemokine signaling pathway,0.011282438377753409,SK-MEL-2,31,47
+sp21,JAK-STAT signaling pathway,0.010514990084863897,SK-MEL-2,31,48

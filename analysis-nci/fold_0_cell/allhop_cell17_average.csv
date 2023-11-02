@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp5,B cell receptor signaling pathway,0.12621359593106793,MCF7,17,1
+sp14,GnRH signaling pathway,0.06601941991133979,MCF7,17,2
+sp24,NOD-like receptor signaling pathway,0.06410256589276091,MCF7,17,3
+sp32,RIG-I-like receptor signaling pathway,0.0636942693371019,MCF7,17,4
+sp11,Fc epsilon RI signaling pathway,0.056756758198432414,MCF7,17,5
+sp38,T cell receptor signaling pathway,0.055725192304061054,MCF7,17,6
+sp18,Hippo signaling pathway - multiple species,0.05327869057909834,MCF7,17,7
+sp40,TNF signaling pathway,0.04758064671725805,MCF7,17,8
+sp37,Sphingolipid signaling pathway,0.043650794837434316,MCF7,17,9
+sp9,ErbB signaling pathway,0.04341926797016281,MCF7,17,10
+sp36,Signaling pathways regulating pluripotency of stem cells,0.04252336571827101,MCF7,17,11
+sp30,Phospholipase D signaling pathway,0.03966789767961438,MCF7,17,12
+sp42,Toll-like receptor signaling pathway,0.039310345447779296,MCF7,17,13
+sp3,Adipocytokine signaling pathway,0.038062284558339085,MCF7,17,14
+sp6,C-type lectin receptor signaling pathway,0.0380147847839493,MCF7,17,15
+sp31,Prolactin signaling pathway,0.03769841403025131,MCF7,17,16
+sp43,VEGF signaling pathway,0.03613569456743362,MCF7,17,17
+sp20,Insulin signaling pathway,0.0349723003468432,MCF7,17,18
+sp23,NF-kappa B signaling pathway,0.02991886481074035,MCF7,17,19
+sp7,Calcium signaling pathway,0.028895548851485,MCF7,17,20
+sp10,Estrogen signaling pathway,0.028635779496146468,MCF7,17,21
+sp39,TGF-beta signaling pathway,0.028294574585457352,MCF7,17,22
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.02815622245016347,MCF7,17,23
+sp46,cGMP-PKG signaling pathway,0.0273457116911761,MCF7,17,24
+sp35,Relaxin signaling pathway,0.02715655052511447,MCF7,17,25
+sp27,Oxytocin signaling pathway,0.02694610872808325,MCF7,17,26
+sp16,Hedgehog signaling pathway,0.026815643662804454,MCF7,17,27
+sp13,Glucagon signaling pathway,0.025862070082014226,MCF7,17,28
+sp47,mTOR signaling pathway,0.024795002824954844,MCF7,17,29
+sp2,AMPK signaling pathway,0.024303305846384675,MCF7,17,30
+sp25,Neurotrophin signaling pathway,0.024084779574864146,MCF7,17,31
+sp29,PPAR signaling pathway,0.023255814560844964,MCF7,17,32
+sp15,HIF-1 signaling pathway,0.02316933718192672,MCF7,17,33
+sp19,IL-17 signaling pathway,0.02132521012910128,MCF7,17,34
+sp26,Notch signaling pathway,0.02040816409611427,MCF7,17,35
+sp4,Apelin signaling pathway,0.02011735222606809,MCF7,17,36
+sp12,FoxO signaling pathway,0.019736843317729014,MCF7,17,37
+sp41,Thyroid hormone signaling pathway,0.019354839770841743,MCF7,17,38
+sp34,Ras signaling pathway,0.019012675681523,MCF7,17,39
+sp33,Rap1 signaling pathway,0.01891831802093567,MCF7,17,40
+sp48,p53 signaling pathway,0.018413598460900835,MCF7,17,41
+sp22,MAPK signaling pathway,0.018157808283285098,MCF7,17,42
+sp45,cAMP signaling pathway,0.01698113275513311,MCF7,17,43
+sp44,Wnt signaling pathway,0.01683970671279968,MCF7,17,44
+sp17,Hippo signaling pathway,0.016632808986018894,MCF7,17,45
+sp8,Chemokine signaling pathway,0.01552328542755632,MCF7,17,46
+sp28,PI3K-Akt signaling pathway,0.015519087097469242,MCF7,17,47
+sp21,JAK-STAT signaling pathway,0.012940528993667108,MCF7,17,48

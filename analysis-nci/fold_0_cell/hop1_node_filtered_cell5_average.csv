@@ -1,0 +1,19 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp2,AMPK signaling pathway,0.340630137,CAKI-1,5,1
+sp5,B cell receptor signaling pathway,0.32261684599999996,CAKI-1,5,2
+sp32,RIG-I-like receptor signaling pathway,0.31654803299999995,CAKI-1,5,3
+sp38,T cell receptor signaling pathway,0.11576029299999996,CAKI-1,5,4
+sp35,Relaxin signaling pathway,0.11563207891499999,CAKI-1,5,5
+sp4,Apelin signaling pathway,0.10662754817166666,CAKI-1,5,6
+sp28,PI3K-Akt signaling pathway,0.10622882220939789,CAKI-1,5,7
+sp42,Toll-like receptor signaling pathway,0.09880599239999996,CAKI-1,5,8
+sp37,Sphingolipid signaling pathway,0.0322207427,CAKI-1,5,9
+sp24,NOD-like receptor signaling pathway,0.03080618249999995,CAKI-1,5,10
+sp3,Adipocytokine signaling pathway,0.0240527385,CAKI-1,5,11
+sp6,C-type lectin receptor signaling pathway,0.0212599279,CAKI-1,5,12
+sp13,Glucagon signaling pathway,0.020662434334999976,CAKI-1,5,13
+sp12,FoxO signaling pathway,0.010310774582999975,CAKI-1,5,14
+sp47,mTOR signaling pathway,0.00909688051222,CAKI-1,5,15
+sp48,p53 signaling pathway,0.008463834737649976,CAKI-1,5,16
+sp21,JAK-STAT signaling pathway,0.007789548125,CAKI-1,5,17
+sp45,cAMP signaling pathway,0.005791018869999984,CAKI-1,5,18

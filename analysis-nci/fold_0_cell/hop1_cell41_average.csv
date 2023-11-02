@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp5,B cell receptor signaling pathway,0.14369330403043476,UACC-62,41,1
+sp24,NOD-like receptor signaling pathway,0.10521057805781167,UACC-62,41,2
+sp14,GnRH signaling pathway,0.09407470241627117,UACC-62,41,3
+sp32,RIG-I-like receptor signaling pathway,0.07277544857288133,UACC-62,41,4
+sp18,Hippo signaling pathway - multiple species,0.07236499105943395,UACC-62,41,5
+sp11,Fc epsilon RI signaling pathway,0.0718654227382716,UACC-62,41,6
+sp42,Toll-like receptor signaling pathway,0.06539603185922412,UACC-62,41,7
+sp38,T cell receptor signaling pathway,0.06522319049014813,UACC-62,41,8
+sp40,TNF signaling pathway,0.05907472625878503,UACC-62,41,9
+sp30,Phospholipase D signaling pathway,0.056428467414838694,UACC-62,41,10
+sp9,ErbB signaling pathway,0.04976678417032786,UACC-62,41,11
+sp37,Sphingolipid signaling pathway,0.04972515834518715,UACC-62,41,12
+sp46,cGMP-PKG signaling pathway,0.04417115954934015,UACC-62,41,13
+sp43,VEGF signaling pathway,0.043151696788849545,UACC-62,41,14
+sp36,Signaling pathways regulating pluripotency of stem cells,0.0409904335367514,UACC-62,41,15
+sp23,NF-kappa B signaling pathway,0.040800344047307674,UACC-62,41,16
+sp20,Insulin signaling pathway,0.03930436616367243,UACC-62,41,17
+sp10,Estrogen signaling pathway,0.03710106644882184,UACC-62,41,18
+sp6,C-type lectin receptor signaling pathway,0.03644302525086955,UACC-62,41,19
+sp35,Relaxin signaling pathway,0.035516764692024555,UACC-62,41,20
+sp27,Oxytocin signaling pathway,0.03514919552494875,UACC-62,41,21
+sp19,IL-17 signaling pathway,0.03447640064716215,UACC-62,41,22
+sp39,TGF-beta signaling pathway,0.03419227002408652,UACC-62,41,23
+sp12,FoxO signaling pathway,0.03401053342441746,UACC-62,41,24
+sp3,Adipocytokine signaling pathway,0.03397937382622806,UACC-62,41,25
+sp7,Calcium signaling pathway,0.0331094588046361,UACC-62,41,26
+sp47,mTOR signaling pathway,0.031713712999342905,UACC-62,41,27
+sp16,Hedgehog signaling pathway,0.029267255859448265,UACC-62,41,28
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.028798146820245077,UACC-62,41,29
+sp31,Prolactin signaling pathway,0.028058148219931956,UACC-62,41,30
+sp25,Neurotrophin signaling pathway,0.026770912731145024,UACC-62,41,31
+sp26,Notch signaling pathway,0.025527873090816305,UACC-62,41,32
+sp48,p53 signaling pathway,0.02543385543821051,UACC-62,41,33
+sp15,HIF-1 signaling pathway,0.024806327151238386,UACC-62,41,34
+sp2,AMPK signaling pathway,0.022240514031579863,UACC-62,41,35
+sp33,Rap1 signaling pathway,0.021925471194587168,UACC-62,41,36
+sp4,Apelin signaling pathway,0.021534218392372927,UACC-62,41,37
+sp45,cAMP signaling pathway,0.02019355127618852,UACC-62,41,38
+sp17,Hippo signaling pathway,0.020085298504964193,UACC-62,41,39
+sp13,Glucagon signaling pathway,0.01892522375961624,UACC-62,41,40
+sp34,Ras signaling pathway,0.017959832911094605,UACC-62,41,41
+sp44,Wnt signaling pathway,0.017815341636082234,UACC-62,41,42
+sp41,Thyroid hormone signaling pathway,0.017762848948586162,UACC-62,41,43
+sp29,PPAR signaling pathway,0.01740797392856755,UACC-62,41,44
+sp28,PI3K-Akt signaling pathway,0.01682139116745285,UACC-62,41,45
+sp22,MAPK signaling pathway,0.016767619217707686,UACC-62,41,46
+sp8,Chemokine signaling pathway,0.012018015087020533,UACC-62,41,47
+sp21,JAK-STAT signaling pathway,0.01079160827592951,UACC-62,41,48

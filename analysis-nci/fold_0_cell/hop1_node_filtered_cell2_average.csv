@@ -1,0 +1,35 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,1.0,A549/ATCC,2,1
+sp7,Calcium signaling pathway,0.44684460640999996,A549/ATCC,2,2
+sp24,NOD-like receptor signaling pathway,0.40202974566666666,A549/ATCC,2,3
+sp37,Sphingolipid signaling pathway,0.38341926183333325,A549/ATCC,2,4
+sp46,cGMP-PKG signaling pathway,0.3492244533166666,A549/ATCC,2,5
+sp5,B cell receptor signaling pathway,0.33103072,A549/ATCC,2,6
+sp32,RIG-I-like receptor signaling pathway,0.20266737055,A549/ATCC,2,7
+sp38,T cell receptor signaling pathway,0.1129382414,A549/ATCC,2,8
+sp2,AMPK signaling pathway,0.10046582561090908,A549/ATCC,2,9
+sp6,C-type lectin receptor signaling pathway,0.10016340524999999,A549/ATCC,2,10
+sp33,Rap1 signaling pathway,0.09797689117833072,A549/ATCC,2,11
+sp29,PPAR signaling pathway,0.0962492012702222,A549/ATCC,2,12
+sp42,Toll-like receptor signaling pathway,0.08204251121499995,A549/ATCC,2,13
+sp47,mTOR signaling pathway,0.07432530046061901,A549/ATCC,2,14
+sp27,Oxytocin signaling pathway,0.0487641063,A549/ATCC,2,15
+sp25,Neurotrophin signaling pathway,0.02988305223,A549/ATCC,2,16
+sp3,Adipocytokine signaling pathway,0.0281956242,A549/ATCC,2,17
+sp28,PI3K-Akt signaling pathway,0.027841118484696767,A549/ATCC,2,18
+sp23,NF-kappa B signaling pathway,0.0224384182,A549/ATCC,2,19
+sp13,Glucagon signaling pathway,0.021278224174999975,A549/ATCC,2,20
+sp20,Insulin signaling pathway,0.021060606200000002,A549/ATCC,2,21
+sp14,GnRH signaling pathway,0.020935139706666647,A549/ATCC,2,22
+sp45,cAMP signaling pathway,0.02007301521974999,A549/ATCC,2,23
+sp30,Phospholipase D signaling pathway,0.016849120745833307,A549/ATCC,2,24
+sp8,Chemokine signaling pathway,0.013850693999999976,A549/ATCC,2,25
+sp35,Relaxin signaling pathway,0.012646713686666667,A549/ATCC,2,26
+sp12,FoxO signaling pathway,0.010070760988333318,A549/ATCC,2,27
+sp41,Thyroid hormone signaling pathway,0.009406283193334,A549/ATCC,2,28
+sp4,Apelin signaling pathway,0.009175577611666657,A549/ATCC,2,29
+sp48,p53 signaling pathway,0.008529329644499975,A549/ATCC,2,30
+sp21,JAK-STAT signaling pathway,0.008257580986363618,A549/ATCC,2,31
+sp44,Wnt signaling pathway,0.007734510459999982,A549/ATCC,2,32
+sp22,MAPK signaling pathway,0.00567176248186765,A549/ATCC,2,33
+sp17,Hippo signaling pathway,0.00489840926750415,A549/ATCC,2,34

@@ -1,0 +1,42 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp5,B cell receptor signaling pathway,0.32261684599999996,CAKI-1,5,1
+sp32,RIG-I-like receptor signaling pathway,0.31654803299999995,CAKI-1,5,2
+sp2,AMPK signaling pathway,0.2584336818395,CAKI-1,5,3
+sp24,NOD-like receptor signaling pathway,0.19562798043333332,CAKI-1,5,4
+sp34,Ras signaling pathway,0.19246683024,CAKI-1,5,5
+sp23,NF-kappa B signaling pathway,0.19022367651666663,CAKI-1,5,6
+sp15,HIF-1 signaling pathway,0.1425753634816667,CAKI-1,5,7
+sp19,IL-17 signaling pathway,0.14121205776,CAKI-1,5,8
+sp33,Rap1 signaling pathway,0.12751926211999998,CAKI-1,5,9
+sp35,Relaxin signaling pathway,0.10522920161909087,CAKI-1,5,10
+sp38,T cell receptor signaling pathway,0.09998825727499996,CAKI-1,5,11
+sp31,Prolactin signaling pathway,0.0946583693,CAKI-1,5,12
+sp8,Chemokine signaling pathway,0.08966556157419414,CAKI-1,5,13
+sp4,Apelin signaling pathway,0.08348971760062499,CAKI-1,5,14
+sp9,ErbB signaling pathway,0.0788450396,CAKI-1,5,15
+sp28,PI3K-Akt signaling pathway,0.05095183412554472,CAKI-1,5,16
+sp14,GnRH signaling pathway,0.039155758874999974,CAKI-1,5,17
+sp42,Toll-like receptor signaling pathway,0.036722166925555536,CAKI-1,5,18
+sp37,Sphingolipid signaling pathway,0.0333456587,CAKI-1,5,19
+sp36,Signaling pathways regulating pluripotency of stem cells,0.029705380809999994,CAKI-1,5,20
+sp11,Fc epsilon RI signaling pathway,0.02875801048333332,CAKI-1,5,21
+sp3,Adipocytokine signaling pathway,0.025170507208333328,CAKI-1,5,22
+sp25,Neurotrophin signaling pathway,0.0244053857192857,CAKI-1,5,23
+sp41,Thyroid hormone signaling pathway,0.023495259348749995,CAKI-1,5,24
+sp20,Insulin signaling pathway,0.023198429619857686,CAKI-1,5,25
+sp47,mTOR signaling pathway,0.023119073576301514,CAKI-1,5,26
+sp16,Hedgehog signaling pathway,0.022602757299999998,CAKI-1,5,27
+sp17,Hippo signaling pathway,0.022421524893827236,CAKI-1,5,28
+sp40,TNF signaling pathway,0.022033372474999986,CAKI-1,5,29
+sp27,Oxytocin signaling pathway,0.02153500198039997,CAKI-1,5,30
+sp6,C-type lectin receptor signaling pathway,0.0212599279,CAKI-1,5,31
+sp7,Calcium signaling pathway,0.01993005056666665,CAKI-1,5,32
+sp30,Phospholipase D signaling pathway,0.01965474221999995,CAKI-1,5,33
+sp13,Glucagon signaling pathway,0.01909424964699999,CAKI-1,5,34
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.018466231365843334,CAKI-1,5,35
+sp22,MAPK signaling pathway,0.01005785564635555,CAKI-1,5,36
+sp12,FoxO signaling pathway,0.00983045279319998,CAKI-1,5,37
+sp48,p53 signaling pathway,0.009507346553543312,CAKI-1,5,38
+sp44,Wnt signaling pathway,0.008581316813333318,CAKI-1,5,39
+sp21,JAK-STAT signaling pathway,0.007731662566,CAKI-1,5,40
+sp45,cAMP signaling pathway,0.006473601710333322,CAKI-1,5,41

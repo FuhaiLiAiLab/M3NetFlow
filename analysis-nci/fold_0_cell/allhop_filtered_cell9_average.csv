@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp5,B cell receptor signaling pathway,0.12914899951942854,HCT-15,9,1
+sp14,GnRH signaling pathway,0.06601942025148834,HCT-15,9,2
+sp32,RIG-I-like receptor signaling pathway,0.06254119787610618,HCT-15,9,3
+sp24,NOD-like receptor signaling pathway,0.06076533172316469,HCT-15,9,4
+sp11,Fc epsilon RI signaling pathway,0.05675675871956755,HCT-15,9,5
+sp18,Hippo signaling pathway - multiple species,0.05559144489511492,HCT-15,9,6
+sp38,T cell receptor signaling pathway,0.05550619428377585,HCT-15,9,7
+sp9,ErbB signaling pathway,0.047962439347471686,HCT-15,9,8
+sp40,TNF signaling pathway,0.04737131287585899,HCT-15,9,9
+sp37,Sphingolipid signaling pathway,0.04365079489375055,HCT-15,9,10
+sp36,Signaling pathways regulating pluripotency of stem cells,0.04205347797725836,HCT-15,9,11
+sp30,Phospholipase D signaling pathway,0.04022300904445995,HCT-15,9,12
+sp42,Toll-like receptor signaling pathway,0.039310345832579294,HCT-15,9,13
+sp6,C-type lectin receptor signaling pathway,0.038437978165209205,HCT-15,9,14
+sp31,Prolactin signaling pathway,0.03769841318789681,HCT-15,9,15
+sp3,Adipocytokine signaling pathway,0.03765343045859679,HCT-15,9,16
+sp43,VEGF signaling pathway,0.03613569471325957,HCT-15,9,17
+sp20,Insulin signaling pathway,0.034513228320466625,HCT-15,9,18
+sp7,Calcium signaling pathway,0.03188643892297625,HCT-15,9,19
+sp10,Estrogen signaling pathway,0.028635779535143423,HCT-15,9,20
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.02815622304784558,HCT-15,9,21
+sp39,TGF-beta signaling pathway,0.027998874503068788,HCT-15,9,22
+sp23,NF-kappa B signaling pathway,0.027309900519573018,HCT-15,9,23
+sp35,Relaxin signaling pathway,0.027156550137035447,HCT-15,9,24
+sp46,cGMP-PKG signaling pathway,0.027078322704531074,HCT-15,9,25
+sp27,Oxytocin signaling pathway,0.026946108693058284,HCT-15,9,26
+sp16,Hedgehog signaling pathway,0.026705628882951707,HCT-15,9,27
+sp13,Glucagon signaling pathway,0.025862069711073295,HCT-15,9,28
+sp2,AMPK signaling pathway,0.025303106054027264,HCT-15,9,29
+sp47,mTOR signaling pathway,0.024405383062404196,HCT-15,9,30
+sp25,Neurotrophin signaling pathway,0.024084779214130908,HCT-15,9,31
+sp19,IL-17 signaling pathway,0.023485465851413957,HCT-15,9,32
+sp29,PPAR signaling pathway,0.023255814553418908,HCT-15,9,33
+sp15,HIF-1 signaling pathway,0.02316933686635233,HCT-15,9,34
+sp26,Notch signaling pathway,0.020408163608432634,HCT-15,9,35
+sp34,Ras signaling pathway,0.020345745299892228,HCT-15,9,36
+sp4,Apelin signaling pathway,0.020117352121076248,HCT-15,9,37
+sp33,Rap1 signaling pathway,0.02004452222233304,HCT-15,9,38
+sp48,p53 signaling pathway,0.01906896697706884,HCT-15,9,39
+sp22,MAPK signaling pathway,0.019000429536864382,HCT-15,9,40
+sp41,Thyroid hormone signaling pathway,0.01885456213943315,HCT-15,9,41
+sp12,FoxO signaling pathway,0.018663139171768636,HCT-15,9,42
+sp45,cAMP signaling pathway,0.016864929381424375,HCT-15,9,43
+sp44,Wnt signaling pathway,0.016752362074833903,HCT-15,9,44
+sp17,Hippo signaling pathway,0.016632809340311454,HCT-15,9,45
+sp28,PI3K-Akt signaling pathway,0.01616692020926569,HCT-15,9,46
+sp8,Chemokine signaling pathway,0.015803292139943886,HCT-15,9,47
+sp21,JAK-STAT signaling pathway,0.013190627232362551,HCT-15,9,48

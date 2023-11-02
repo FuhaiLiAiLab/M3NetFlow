@@ -1,0 +1,36 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,1.0,PC-3,26,1
+sp24,NOD-like receptor signaling pathway,0.518090123,PC-3,26,2
+sp37,Sphingolipid signaling pathway,0.3909428216,PC-3,26,3
+sp7,Calcium signaling pathway,0.34651829282166663,PC-3,26,4
+sp5,B cell receptor signaling pathway,0.33643709099999997,PC-3,26,5
+sp19,IL-17 signaling pathway,0.2535174613,PC-3,26,6
+sp46,cGMP-PKG signaling pathway,0.18504622983333333,PC-3,26,7
+sp32,RIG-I-like receptor signaling pathway,0.18399450929999997,PC-3,26,8
+sp36,Signaling pathways regulating pluripotency of stem cells,0.13976402689999995,PC-3,26,9
+sp38,T cell receptor signaling pathway,0.1119272375,PC-3,26,10
+sp29,PPAR signaling pathway,0.0995838888828333,PC-3,26,11
+sp6,C-type lectin receptor signaling pathway,0.09252040354999996,PC-3,26,12
+sp33,Rap1 signaling pathway,0.08159219240297315,PC-3,26,13
+sp47,mTOR signaling pathway,0.07492182966142857,PC-3,26,14
+sp2,AMPK signaling pathway,0.07200408958249999,PC-3,26,15
+sp42,Toll-like receptor signaling pathway,0.06482662570499997,PC-3,26,16
+sp30,Phospholipase D signaling pathway,0.035690222790461516,PC-3,26,17
+sp25,Neurotrophin signaling pathway,0.02753070897999995,PC-3,26,18
+sp13,Glucagon signaling pathway,0.02633821365,PC-3,26,19
+sp44,Wnt signaling pathway,0.02487765001721812,PC-3,26,20
+sp3,Adipocytokine signaling pathway,0.02440411545,PC-3,26,21
+sp28,PI3K-Akt signaling pathway,0.023960751559416776,PC-3,26,22
+sp14,GnRH signaling pathway,0.02283729214166667,PC-3,26,23
+sp20,Insulin signaling pathway,0.01928404222,PC-3,26,24
+sp45,cAMP signaling pathway,0.018395556095,PC-3,26,25
+sp23,NF-kappa B signaling pathway,0.01810359650299995,PC-3,26,26
+sp48,p53 signaling pathway,0.015608685664999974,PC-3,26,27
+sp35,Relaxin signaling pathway,0.011367581476666666,PC-3,26,28
+sp17,Hippo signaling pathway,0.011024374211619949,PC-3,26,29
+sp12,FoxO signaling pathway,0.009300059337857132,PC-3,26,30
+sp8,Chemokine signaling pathway,0.00893835713,PC-3,26,31
+sp21,JAK-STAT signaling pathway,0.008655334389999976,PC-3,26,32
+sp4,Apelin signaling pathway,0.008368501019374981,PC-3,26,33
+sp41,Thyroid hormone signaling pathway,0.00813395245652305,PC-3,26,34
+sp22,MAPK signaling pathway,0.007442560261719989,PC-3,26,35

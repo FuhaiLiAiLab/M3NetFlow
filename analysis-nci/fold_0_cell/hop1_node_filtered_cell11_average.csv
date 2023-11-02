@@ -1,0 +1,32 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,1.0,HOP-92,11,1
+sp37,Sphingolipid signaling pathway,0.51676341725,HOP-92,11,2
+sp7,Calcium signaling pathway,0.43662387817500004,HOP-92,11,3
+sp24,NOD-like receptor signaling pathway,0.4091812787,HOP-92,11,4
+sp46,cGMP-PKG signaling pathway,0.3472772795066666,HOP-92,11,5
+sp5,B cell receptor signaling pathway,0.339125024,HOP-92,11,6
+sp32,RIG-I-like receptor signaling pathway,0.319540904,HOP-92,11,7
+sp19,IL-17 signaling pathway,0.23662495214999998,HOP-92,11,8
+sp33,Rap1 signaling pathway,0.152253991,HOP-92,11,9
+sp38,T cell receptor signaling pathway,0.1246888682,HOP-92,11,10
+sp29,PPAR signaling pathway,0.09781628168547779,HOP-92,11,11
+sp45,cAMP signaling pathway,0.08557105621285711,HOP-92,11,12
+sp2,AMPK signaling pathway,0.07992743797906392,HOP-92,11,13
+sp47,mTOR signaling pathway,0.06846030507704999,HOP-92,11,14
+sp42,Toll-like receptor signaling pathway,0.065954045415,HOP-92,11,15
+sp22,MAPK signaling pathway,0.06544115263499997,HOP-92,11,16
+sp28,PI3K-Akt signaling pathway,0.02790029932750969,HOP-92,11,17
+sp44,Wnt signaling pathway,0.02526259309642856,HOP-92,11,18
+sp3,Adipocytokine signaling pathway,0.02505451913,HOP-92,11,19
+sp13,Glucagon signaling pathway,0.021179183049999974,HOP-92,11,20
+sp6,C-type lectin receptor signaling pathway,0.02013190889999995,HOP-92,11,21
+sp23,NF-kappa B signaling pathway,0.01961852374,HOP-92,11,22
+sp20,Insulin signaling pathway,0.01945090063,HOP-92,11,23
+sp14,GnRH signaling pathway,0.018223672925,HOP-92,11,24
+sp4,Apelin signaling pathway,0.016554977539999984,HOP-92,11,25
+sp30,Phospholipase D signaling pathway,0.016397244037624988,HOP-92,11,26
+sp35,Relaxin signaling pathway,0.010323290563333334,HOP-92,11,27
+sp12,FoxO signaling pathway,0.009643667094166654,HOP-92,11,28
+sp48,p53 signaling pathway,0.008750875335,HOP-92,11,29
+sp21,JAK-STAT signaling pathway,0.008362463494999984,HOP-92,11,30
+sp41,Thyroid hormone signaling pathway,0.008335780479999966,HOP-92,11,31

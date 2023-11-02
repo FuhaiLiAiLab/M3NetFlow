@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,sum_rank
+sp28,PI3K-Akt signaling pathway,91.41840580526753,OVCAR-4,24,1
+sp7,Calcium signaling pathway,48.43508632761998,OVCAR-4,24,2
+sp22,MAPK signaling pathway,46.28092503010096,OVCAR-4,24,3
+sp33,Rap1 signaling pathway,42.45958361321104,OVCAR-4,24,4
+sp34,Ras signaling pathway,41.395950153479966,OVCAR-4,24,5
+sp36,Signaling pathways regulating pluripotency of stem cells,28.611504624319988,OVCAR-4,24,6
+sp45,cAMP signaling pathway,28.274858686941982,OVCAR-4,24,7
+sp4,Apelin signaling pathway,27.513262574623987,OVCAR-4,24,8
+sp47,mTOR signaling pathway,26.080595117441984,OVCAR-4,24,9
+sp24,NOD-like receptor signaling pathway,24.379515526095204,OVCAR-4,24,10
+sp30,Phospholipase D signaling pathway,23.218614296819993,OVCAR-4,24,11
+sp44,Wnt signaling pathway,22.50211951159998,OVCAR-4,24,12
+sp14,GnRH signaling pathway,22.245049661919996,OVCAR-4,24,13
+sp46,cGMP-PKG signaling pathway,22.144834455821993,OVCAR-4,24,14
+sp35,Relaxin signaling pathway,21.061093677827987,OVCAR-4,24,15
+sp5,B cell receptor signaling pathway,19.582162776999997,OVCAR-4,24,16
+sp20,Insulin signaling pathway,19.538187889433992,OVCAR-4,24,17
+sp10,Estrogen signaling pathway,19.070609056723992,OVCAR-4,24,18
+sp21,JAK-STAT signaling pathway,18.995020993519976,OVCAR-4,24,19
+sp17,Hippo signaling pathway,18.209652286241596,OVCAR-4,24,20
+sp8,Chemokine signaling pathway,17.986393542935982,OVCAR-4,24,21
+sp37,Sphingolipid signaling pathway,17.827624176259995,OVCAR-4,24,22
+sp38,T cell receptor signaling pathway,17.156743760499996,OVCAR-4,24,23
+sp39,TGF-beta signaling pathway,15.528294371279994,OVCAR-4,24,24
+sp6,C-type lectin receptor signaling pathway,14.447824038719995,OVCAR-4,24,25
+sp12,FoxO signaling pathway,14.373599488239995,OVCAR-4,24,26
+sp25,Neurotrophin signaling pathway,14.222589654199993,OVCAR-4,24,27
+sp27,Oxytocin signaling pathway,13.856356410581185,OVCAR-4,24,28
+sp40,TNF signaling pathway,13.012228869599998,OVCAR-4,24,29
+sp42,Toll-like receptor signaling pathway,12.875707069399997,OVCAR-4,24,30
+sp13,Glucagon signaling pathway,12.70944068752599,OVCAR-4,24,31
+sp9,ErbB signaling pathway,12.323111859799996,OVCAR-4,24,32
+sp15,HIF-1 signaling pathway,11.858700201926322,OVCAR-4,24,33
+sp41,Thyroid hormone signaling pathway,11.735070106581288,OVCAR-4,24,34
+sp11,Fc epsilon RI signaling pathway,11.510786970399998,OVCAR-4,24,35
+sp2,AMPK signaling pathway,11.37230597875399,OVCAR-4,24,36
+sp19,IL-17 signaling pathway,10.972075440099992,OVCAR-4,24,37
+sp31,Prolactin signaling pathway,10.660032941339995,OVCAR-4,24,38
+sp1,AGE-RAGE signaling pathway in diabetic complications,10.181210192513992,OVCAR-4,24,39
+sp43,VEGF signaling pathway,9.780000217779996,OVCAR-4,24,40
+sp23,NF-kappa B signaling pathway,9.627030499599996,OVCAR-4,24,41
+sp32,RIG-I-like receptor signaling pathway,8.707630492599998,OVCAR-4,24,42
+sp16,Hedgehog signaling pathway,8.525906116739996,OVCAR-4,24,43
+sp3,Adipocytokine signaling pathway,8.290991833019996,OVCAR-4,24,44
+sp26,Notch signaling pathway,7.759033981579995,OVCAR-4,24,45
+sp18,Hippo signaling pathway - multiple species,6.9213589222,OVCAR-4,24,46
+sp29,PPAR signaling pathway,6.506842572917994,OVCAR-4,24,47
+sp48,p53 signaling pathway,3.2361522100369364,OVCAR-4,24,48

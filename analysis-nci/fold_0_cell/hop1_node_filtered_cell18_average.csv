@@ -1,0 +1,36 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,1.0,MDA-MB-231/ATCC,18,1
+sp24,NOD-like receptor signaling pathway,0.52636336565,MDA-MB-231/ATCC,18,2
+sp37,Sphingolipid signaling pathway,0.518636535325,MDA-MB-231/ATCC,18,3
+sp7,Calcium signaling pathway,0.4407563041625,MDA-MB-231/ATCC,18,4
+sp46,cGMP-PKG signaling pathway,0.3500494757866666,MDA-MB-231/ATCC,18,5
+sp5,B cell receptor signaling pathway,0.33586954,MDA-MB-231/ATCC,18,6
+sp19,IL-17 signaling pathway,0.2310931678,MDA-MB-231/ATCC,18,7
+sp32,RIG-I-like receptor signaling pathway,0.18123609354999998,MDA-MB-231/ATCC,18,8
+sp29,PPAR signaling pathway,0.11660183209511998,MDA-MB-231/ATCC,18,9
+sp38,T cell receptor signaling pathway,0.11584490759999999,MDA-MB-231/ATCC,18,10
+sp33,Rap1 signaling pathway,0.0826253198000121,MDA-MB-231/ATCC,18,11
+sp48,p53 signaling pathway,0.08017748163333327,MDA-MB-231/ATCC,18,12
+sp47,mTOR signaling pathway,0.06864123430689471,MDA-MB-231/ATCC,18,13
+sp2,AMPK signaling pathway,0.06812677263899998,MDA-MB-231/ATCC,18,14
+sp42,Toll-like receptor signaling pathway,0.06450277474999998,MDA-MB-231/ATCC,18,15
+sp3,Adipocytokine signaling pathway,0.028092881639999998,MDA-MB-231/ATCC,18,16
+sp25,Neurotrophin signaling pathway,0.02686353455,MDA-MB-231/ATCC,18,17
+sp36,Signaling pathways regulating pluripotency of stem cells,0.0264297879999999,MDA-MB-231/ATCC,18,18
+sp44,Wnt signaling pathway,0.02589187717538459,MDA-MB-231/ATCC,18,19
+sp28,PI3K-Akt signaling pathway,0.025263034956301632,MDA-MB-231/ATCC,18,20
+sp13,Glucagon signaling pathway,0.023922267999999976,MDA-MB-231/ATCC,18,21
+sp14,GnRH signaling pathway,0.020634163134999987,MDA-MB-231/ATCC,18,22
+sp20,Insulin signaling pathway,0.01939933199999995,MDA-MB-231/ATCC,18,23
+sp23,NF-kappa B signaling pathway,0.01919159896,MDA-MB-231/ATCC,18,24
+sp6,C-type lectin receptor signaling pathway,0.0188526067,MDA-MB-231/ATCC,18,25
+sp30,Phospholipase D signaling pathway,0.01532025938699999,MDA-MB-231/ATCC,18,26
+sp39,TGF-beta signaling pathway,0.01327843517999995,MDA-MB-231/ATCC,18,27
+sp35,Relaxin signaling pathway,0.01133235456,MDA-MB-231/ATCC,18,28
+sp12,FoxO signaling pathway,0.010761885275999986,MDA-MB-231/ATCC,18,29
+sp41,Thyroid hormone signaling pathway,0.009369085700001,MDA-MB-231/ATCC,18,30
+sp21,JAK-STAT signaling pathway,0.008567994979999978,MDA-MB-231/ATCC,18,31
+sp17,Hippo signaling pathway,0.007666741313,MDA-MB-231/ATCC,18,32
+sp4,Apelin signaling pathway,0.007585954681428564,MDA-MB-231/ATCC,18,33
+sp45,cAMP signaling pathway,0.005465840984333333,MDA-MB-231/ATCC,18,34
+sp22,MAPK signaling pathway,0.004586429074,MDA-MB-231/ATCC,18,35

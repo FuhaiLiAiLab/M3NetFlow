@@ -1,0 +1,43 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp2,AMPK signaling pathway,1.0,SK-OV-3,34,1
+sp32,RIG-I-like receptor signaling pathway,0.34517604399999996,SK-OV-3,34,2
+sp5,B cell receptor signaling pathway,0.32283904499999994,SK-OV-3,34,3
+sp31,Prolactin signaling pathway,0.1045520434,SK-OV-3,34,4
+sp24,NOD-like receptor signaling pathway,0.09649696769999998,SK-OV-3,34,5
+sp38,T cell receptor signaling pathway,0.0748305561642857,SK-OV-3,34,6
+sp9,ErbB signaling pathway,0.0681020905,SK-OV-3,34,7
+sp41,Thyroid hormone signaling pathway,0.0544782923851125,SK-OV-3,34,8
+sp14,GnRH signaling pathway,0.05256125835,SK-OV-3,34,9
+sp37,Sphingolipid signaling pathway,0.0397743128,SK-OV-3,34,10
+sp42,Toll-like receptor signaling pathway,0.035624040157999984,SK-OV-3,34,11
+sp11,Fc epsilon RI signaling pathway,0.03104606599999995,SK-OV-3,34,12
+sp36,Signaling pathways regulating pluripotency of stem cells,0.030146802791999987,SK-OV-3,34,13
+sp3,Adipocytokine signaling pathway,0.02672167049999995,SK-OV-3,34,14
+sp30,Phospholipase D signaling pathway,0.02499583376,SK-OV-3,34,15
+sp33,Rap1 signaling pathway,0.022786077069999952,SK-OV-3,34,16
+sp47,mTOR signaling pathway,0.022533633808749995,SK-OV-3,34,17
+sp13,Glucagon signaling pathway,0.02108335189999998,SK-OV-3,34,18
+sp25,Neurotrophin signaling pathway,0.020976729859799984,SK-OV-3,34,19
+sp7,Calcium signaling pathway,0.019942007298333324,SK-OV-3,34,20
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.01967257388666665,SK-OV-3,34,21
+sp40,TNF signaling pathway,0.0196286481,SK-OV-3,34,22
+sp6,C-type lectin receptor signaling pathway,0.018733490999999998,SK-OV-3,34,23
+sp23,NF-kappa B signaling pathway,0.018246073494999973,SK-OV-3,34,24
+sp16,Hedgehog signaling pathway,0.0179567266,SK-OV-3,34,25
+sp27,Oxytocin signaling pathway,0.01677443297166666,SK-OV-3,34,26
+sp20,Insulin signaling pathway,0.013717553603333333,SK-OV-3,34,27
+sp28,PI3K-Akt signaling pathway,0.013669281354864856,SK-OV-3,34,28
+sp17,Hippo signaling pathway,0.01296386430822221,SK-OV-3,34,29
+sp44,Wnt signaling pathway,0.012693901517272715,SK-OV-3,34,30
+sp35,Relaxin signaling pathway,0.012424639439999987,SK-OV-3,34,31
+sp48,p53 signaling pathway,0.012257620350833318,SK-OV-3,34,32
+sp22,MAPK signaling pathway,0.01128690850391544,SK-OV-3,34,33
+sp39,TGF-beta signaling pathway,0.011258532099999951,SK-OV-3,34,34
+sp8,Chemokine signaling pathway,0.0111772266,SK-OV-3,34,35
+sp19,IL-17 signaling pathway,0.010941101496666666,SK-OV-3,34,36
+sp34,Ras signaling pathway,0.010900159464999995,SK-OV-3,34,37
+sp4,Apelin signaling pathway,0.010061971679999986,SK-OV-3,34,38
+sp12,FoxO signaling pathway,0.009311556680000001,SK-OV-3,34,39
+sp21,JAK-STAT signaling pathway,0.00870966015599998,SK-OV-3,34,40
+sp15,HIF-1 signaling pathway,0.0085148525329683,SK-OV-3,34,41
+sp45,cAMP signaling pathway,0.007103765378333308,SK-OV-3,34,42

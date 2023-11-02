@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp5,B cell receptor signaling pathway,0.14281068032028985,HOP-62,10,1
+sp24,NOD-like receptor signaling pathway,0.11461280197701026,HOP-62,10,2
+sp14,GnRH signaling pathway,0.09155286100635592,HOP-62,10,3
+sp11,Fc epsilon RI signaling pathway,0.07290922775802466,HOP-62,10,4
+sp32,RIG-I-like receptor signaling pathway,0.07285748566101694,HOP-62,10,5
+sp38,T cell receptor signaling pathway,0.062334995201407395,HOP-62,10,6
+sp40,TNF signaling pathway,0.0612253774208411,HOP-62,10,7
+sp42,Toll-like receptor signaling pathway,0.05880223003413792,HOP-62,10,8
+sp9,ErbB signaling pathway,0.05207516544139343,HOP-62,10,9
+sp18,Hippo signaling pathway - multiple species,0.05029500068679244,HOP-62,10,10
+sp37,Sphingolipid signaling pathway,0.046536716253796774,HOP-62,10,11
+sp46,cGMP-PKG signaling pathway,0.04510956047248769,HOP-62,10,12
+sp36,Signaling pathways regulating pluripotency of stem cells,0.0433769025786723,HOP-62,10,13
+sp30,Phospholipase D signaling pathway,0.043103385798911285,HOP-62,10,14
+sp20,Insulin signaling pathway,0.04206482238479386,HOP-62,10,15
+sp10,Estrogen signaling pathway,0.03924446214775626,HOP-62,10,16
+sp43,VEGF signaling pathway,0.03896825567238937,HOP-62,10,17
+sp6,C-type lectin receptor signaling pathway,0.03847752477284781,HOP-62,10,18
+sp23,NF-kappa B signaling pathway,0.0376615579310769,HOP-62,10,19
+sp31,Prolactin signaling pathway,0.03608896319666665,HOP-62,10,20
+sp7,Calcium signaling pathway,0.03519636423358489,HOP-62,10,21
+sp39,TGF-beta signaling pathway,0.034611146922788445,HOP-62,10,22
+sp12,FoxO signaling pathway,0.03450784372762134,HOP-62,10,23
+sp3,Adipocytokine signaling pathway,0.03410216581359647,HOP-62,10,24
+sp19,IL-17 signaling pathway,0.032068257750135123,HOP-62,10,25
+sp35,Relaxin signaling pathway,0.03147056130078622,HOP-62,10,26
+sp47,mTOR signaling pathway,0.03132029183179024,HOP-62,10,27
+sp27,Oxytocin signaling pathway,0.028212058296588186,HOP-62,10,28
+sp26,Notch signaling pathway,0.027737899859183655,HOP-62,10,29
+sp16,Hedgehog signaling pathway,0.027113791854551716,HOP-62,10,30
+sp33,Rap1 signaling pathway,0.025015168842111413,HOP-62,10,31
+sp15,HIF-1 signaling pathway,0.025002346337013325,HOP-62,10,32
+sp25,Neurotrophin signaling pathway,0.02420299594922136,HOP-62,10,33
+sp28,PI3K-Akt signaling pathway,0.02322469108554377,HOP-62,10,34
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.023018656724583808,HOP-62,10,35
+sp2,AMPK signaling pathway,0.022721669520125495,HOP-62,10,36
+sp4,Apelin signaling pathway,0.022637789223760498,HOP-62,10,37
+sp34,Ras signaling pathway,0.02092060693008069,HOP-62,10,38
+sp22,MAPK signaling pathway,0.01884250605709352,HOP-62,10,39
+sp13,Glucagon signaling pathway,0.018794291005330657,HOP-62,10,40
+sp29,PPAR signaling pathway,0.018514023033859444,HOP-62,10,41
+sp41,Thyroid hormone signaling pathway,0.018214092676663584,HOP-62,10,42
+sp17,Hippo signaling pathway,0.018205217776460805,HOP-62,10,43
+sp48,p53 signaling pathway,0.017811237778378935,HOP-62,10,44
+sp45,cAMP signaling pathway,0.01649275793078882,HOP-62,10,45
+sp44,Wnt signaling pathway,0.015091556838894644,HOP-62,10,46
+sp8,Chemokine signaling pathway,0.011797674716878408,HOP-62,10,47
+sp21,JAK-STAT signaling pathway,0.011386953144884556,HOP-62,10,48

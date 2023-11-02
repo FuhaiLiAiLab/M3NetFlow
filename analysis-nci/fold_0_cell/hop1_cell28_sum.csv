@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,sum_rank
+sp28,PI3K-Akt signaling pathway,77.21237680136113,SF-268,28,1
+sp7,Calcium signaling pathway,48.756943389199975,SF-268,28,2
+sp22,MAPK signaling pathway,43.491690078810564,SF-268,28,3
+sp33,Rap1 signaling pathway,39.87928145057395,SF-268,28,4
+sp34,Ras signaling pathway,37.624535747737966,SF-268,28,5
+sp36,Signaling pathways regulating pluripotency of stem cells,31.56008016159999,SF-268,28,6
+sp47,mTOR signaling pathway,31.088248831368986,SF-268,28,7
+sp35,Relaxin signaling pathway,26.839125571605926,SF-268,28,8
+sp24,NOD-like receptor signaling pathway,26.63617353306077,SF-268,28,9
+sp4,Apelin signaling pathway,24.655555271465982,SF-268,28,10
+sp17,Hippo signaling pathway,22.762148346113005,SF-268,28,11
+sp45,cAMP signaling pathway,22.74489821236758,SF-268,28,12
+sp14,GnRH signaling pathway,21.472248380479996,SF-268,28,13
+sp44,Wnt signaling pathway,21.372857669578977,SF-268,28,14
+sp46,cGMP-PKG signaling pathway,20.97827581801109,SF-268,28,15
+sp20,Insulin signaling pathway,20.45274105647999,SF-268,28,16
+sp30,Phospholipase D signaling pathway,20.178101050418793,SF-268,28,17
+sp5,B cell receptor signaling pathway,19.3948807574,SF-268,28,18
+sp10,Estrogen signaling pathway,19.216030365489992,SF-268,28,19
+sp21,JAK-STAT signaling pathway,18.197614785959978,SF-268,28,20
+sp38,T cell receptor signaling pathway,17.251823604783997,SF-268,28,21
+sp37,Sphingolipid signaling pathway,16.830145006100995,SF-268,28,22
+sp6,C-type lectin receptor signaling pathway,15.687083887269996,SF-268,28,23
+sp39,TGF-beta signaling pathway,15.634559481719993,SF-268,28,24
+sp19,IL-17 signaling pathway,15.381049222899993,SF-268,28,25
+sp42,Toll-like receptor signaling pathway,14.948453921639997,SF-268,28,26
+sp8,Chemokine signaling pathway,14.671281394882184,SF-268,28,27
+sp12,FoxO signaling pathway,14.616492922999992,SF-268,28,28
+sp25,Neurotrophin signaling pathway,13.145403518136392,SF-268,28,29
+sp27,Oxytocin signaling pathway,12.994089159251741,SF-268,28,30
+sp40,TNF signaling pathway,12.864116171979996,SF-268,28,31
+sp13,Glucagon signaling pathway,11.953770730879038,SF-268,28,32
+sp15,HIF-1 signaling pathway,11.80427879073485,SF-268,28,33
+sp31,Prolactin signaling pathway,11.629886139879995,SF-268,28,34
+sp11,Fc epsilon RI signaling pathway,11.526247308359997,SF-268,28,35
+sp9,ErbB signaling pathway,11.351953021439996,SF-268,28,36
+sp2,AMPK signaling pathway,11.02948458174518,SF-268,28,37
+sp43,VEGF signaling pathway,10.191979998939997,SF-268,28,38
+sp23,NF-kappa B signaling pathway,9.972038776079996,SF-268,28,39
+sp1,AGE-RAGE signaling pathway in diabetic complications,9.409380031543616,SF-268,28,40
+sp3,Adipocytokine signaling pathway,9.259355709719996,SF-268,28,41
+sp32,RIG-I-like receptor signaling pathway,8.9078775592,SF-268,28,42
+sp41,Thyroid hormone signaling pathway,8.385176689858978,SF-268,28,43
+sp16,Hedgehog signaling pathway,7.901082621319996,SF-268,28,44
+sp26,Notch signaling pathway,7.310638785559995,SF-268,28,45
+sp18,Hippo signaling pathway - multiple species,6.529891475999999,SF-268,28,46
+sp29,PPAR signaling pathway,6.243225368049594,SF-268,28,47
+sp48,p53 signaling pathway,2.2213170020637176,SF-268,28,48

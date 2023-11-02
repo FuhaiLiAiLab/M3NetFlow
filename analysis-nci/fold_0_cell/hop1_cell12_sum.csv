@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,sum_rank
+sp28,PI3K-Akt signaling pathway,76.19326844630129,HS 578T,12,1
+sp7,Calcium signaling pathway,50.80675460191998,HS 578T,12,2
+sp22,MAPK signaling pathway,41.76916395514996,HS 578T,12,3
+sp33,Rap1 signaling pathway,40.973081859693316,HS 578T,12,4
+sp34,Ras signaling pathway,38.53701039513797,HS 578T,12,5
+sp36,Signaling pathways regulating pluripotency of stem cells,29.37556157173999,HS 578T,12,6
+sp47,mTOR signaling pathway,28.044462006189985,HS 578T,12,7
+sp21,JAK-STAT signaling pathway,25.918755913619975,HS 578T,12,8
+sp24,NOD-like receptor signaling pathway,25.861307433699256,HS 578T,12,9
+sp35,Relaxin signaling pathway,24.656978279524036,HS 578T,12,10
+sp45,cAMP signaling pathway,23.79609144281178,HS 578T,12,11
+sp46,cGMP-PKG signaling pathway,22.42579202335269,HS 578T,12,12
+sp14,GnRH signaling pathway,22.153119603599997,HS 578T,12,13
+sp44,Wnt signaling pathway,21.99639951260798,HS 578T,12,14
+sp4,Apelin signaling pathway,21.402686417233983,HS 578T,12,15
+sp30,Phospholipase D signaling pathway,19.762190950819992,HS 578T,12,16
+sp5,B cell receptor signaling pathway,19.719030606399997,HS 578T,12,17
+sp17,Hippo signaling pathway,18.694524968757243,HS 578T,12,18
+sp20,Insulin signaling pathway,18.273590153259992,HS 578T,12,19
+sp37,Sphingolipid signaling pathway,18.015544572939994,HS 578T,12,20
+sp8,Chemokine signaling pathway,17.338455374105983,HS 578T,12,21
+sp38,T cell receptor signaling pathway,17.320686371919994,HS 578T,12,22
+sp31,Prolactin signaling pathway,15.113899340239994,HS 578T,12,23
+sp10,Estrogen signaling pathway,14.922958237767991,HS 578T,12,24
+sp6,C-type lectin receptor signaling pathway,14.875929054219995,HS 578T,12,25
+sp42,Toll-like receptor signaling pathway,14.687974949719996,HS 578T,12,26
+sp39,TGF-beta signaling pathway,14.643290818327994,HS 578T,12,27
+sp19,IL-17 signaling pathway,14.606386550739993,HS 578T,12,28
+sp25,Neurotrophin signaling pathway,13.977259869475992,HS 578T,12,29
+sp12,FoxO signaling pathway,13.925030858019996,HS 578T,12,30
+sp41,Thyroid hormone signaling pathway,13.53440559436509,HS 578T,12,31
+sp40,TNF signaling pathway,12.862550616859997,HS 578T,12,32
+sp13,Glucagon signaling pathway,12.84076357774399,HS 578T,12,33
+sp27,Oxytocin signaling pathway,12.415758085589468,HS 578T,12,34
+sp9,ErbB signaling pathway,12.150382652099998,HS 578T,12,35
+sp15,HIF-1 signaling pathway,11.824038547681491,HS 578T,12,36
+sp11,Fc epsilon RI signaling pathway,11.701528781979997,HS 578T,12,37
+sp2,AMPK signaling pathway,10.973784582878391,HS 578T,12,38
+sp23,NF-kappa B signaling pathway,9.509123771719995,HS 578T,12,39
+sp3,Adipocytokine signaling pathway,9.226527747699997,HS 578T,12,40
+sp1,AGE-RAGE signaling pathway in diabetic complications,9.155117649388323,HS 578T,12,41
+sp43,VEGF signaling pathway,9.133922795039997,HS 578T,12,42
+sp32,RIG-I-like receptor signaling pathway,8.737566797799998,HS 578T,12,43
+sp16,Hedgehog signaling pathway,8.055762749019996,HS 578T,12,44
+sp18,Hippo signaling pathway - multiple species,6.624413228199998,HS 578T,12,45
+sp29,PPAR signaling pathway,6.251949052065993,HS 578T,12,46
+sp26,Notch signaling pathway,4.876231721519996,HS 578T,12,47
+sp48,p53 signaling pathway,3.0211099060704756,HS 578T,12,48

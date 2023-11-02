@@ -1,0 +1,35 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,1.0,OVCAR-4,24,1
+sp7,Calcium signaling pathway,0.441324302175,OVCAR-4,24,2
+sp24,NOD-like receptor signaling pathway,0.4054710786,OVCAR-4,24,3
+sp37,Sphingolipid signaling pathway,0.40422062649999996,OVCAR-4,24,4
+sp46,cGMP-PKG signaling pathway,0.3512874242,OVCAR-4,24,5
+sp32,RIG-I-like receptor signaling pathway,0.33575410299999997,OVCAR-4,24,6
+sp5,B cell receptor signaling pathway,0.319452007,OVCAR-4,24,7
+sp29,PPAR signaling pathway,0.11692916652339999,OVCAR-4,24,8
+sp38,T cell receptor signaling pathway,0.11317638799999999,OVCAR-4,24,9
+sp33,Rap1 signaling pathway,0.09386275807546833,OVCAR-4,24,10
+sp4,Apelin signaling pathway,0.09308209270105261,OVCAR-4,24,11
+sp47,mTOR signaling pathway,0.08336971723952939,OVCAR-4,24,12
+sp42,Toll-like receptor signaling pathway,0.08186991424999998,OVCAR-4,24,13
+sp2,AMPK signaling pathway,0.08084604491357142,OVCAR-4,24,14
+sp28,PI3K-Akt signaling pathway,0.06677844111515074,OVCAR-4,24,15
+sp45,cAMP signaling pathway,0.06164691233874998,OVCAR-4,24,16
+sp40,TNF signaling pathway,0.041561715299999955,OVCAR-4,24,17
+sp12,FoxO signaling pathway,0.035479913333571415,OVCAR-4,24,18
+sp14,GnRH signaling pathway,0.0313881004,OVCAR-4,24,19
+sp36,Signaling pathways regulating pluripotency of stem cells,0.02978110394,OVCAR-4,24,20
+sp3,Adipocytokine signaling pathway,0.0249709718,OVCAR-4,24,21
+sp6,C-type lectin receptor signaling pathway,0.02445974649999995,OVCAR-4,24,22
+sp13,Glucagon signaling pathway,0.022308404109999975,OVCAR-4,24,23
+sp23,NF-kappa B signaling pathway,0.02132587674999995,OVCAR-4,24,24
+sp20,Insulin signaling pathway,0.02097215312999995,OVCAR-4,24,25
+sp30,Phospholipase D signaling pathway,0.020447830584999986,OVCAR-4,24,26
+sp44,Wnt signaling pathway,0.01570756109099997,OVCAR-4,24,27
+sp39,TGF-beta signaling pathway,0.014650119949999998,OVCAR-4,24,28
+sp35,Relaxin signaling pathway,0.013395565194999988,OVCAR-4,24,29
+sp22,MAPK signaling pathway,0.01227588386499995,OVCAR-4,24,30
+sp41,Thyroid hormone signaling pathway,0.010070683,OVCAR-4,24,31
+sp17,Hippo signaling pathway,0.008824822619999999,OVCAR-4,24,32
+sp21,JAK-STAT signaling pathway,0.008370454983333284,OVCAR-4,24,33
+sp48,p53 signaling pathway,0.006873756827833317,OVCAR-4,24,34

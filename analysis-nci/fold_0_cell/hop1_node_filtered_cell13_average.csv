@@ -1,0 +1,35 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,1.0,IGROV1,13,1
+sp7,Calcium signaling pathway,0.44789686492499997,IGROV1,13,2
+sp24,NOD-like receptor signaling pathway,0.4357943058666666,IGROV1,13,3
+sp37,Sphingolipid signaling pathway,0.3993997729,IGROV1,13,4
+sp5,B cell receptor signaling pathway,0.364181818,IGROV1,13,5
+sp46,cGMP-PKG signaling pathway,0.3501938726666667,IGROV1,13,6
+sp32,RIG-I-like receptor signaling pathway,0.20284939569999996,IGROV1,13,7
+sp38,T cell receptor signaling pathway,0.12246471549999996,IGROV1,13,8
+sp42,Toll-like receptor signaling pathway,0.09277659709999997,IGROV1,13,9
+sp29,PPAR signaling pathway,0.08989113327066664,IGROV1,13,10
+sp45,cAMP signaling pathway,0.07890203289166667,IGROV1,13,11
+sp33,Rap1 signaling pathway,0.07756877802562978,IGROV1,13,12
+sp48,p53 signaling pathway,0.07439661315666667,IGROV1,13,13
+sp47,mTOR signaling pathway,0.06988925621762399,IGROV1,13,14
+sp2,AMPK signaling pathway,0.06704924618341279,IGROV1,13,15
+sp27,Oxytocin signaling pathway,0.04626995753260995,IGROV1,13,16
+sp40,TNF signaling pathway,0.03481053764999997,IGROV1,13,17
+sp3,Adipocytokine signaling pathway,0.027429718799999947,IGROV1,13,18
+sp28,PI3K-Akt signaling pathway,0.025154650335509024,IGROV1,13,19
+sp25,Neurotrophin signaling pathway,0.024817061199999997,IGROV1,13,20
+sp23,NF-kappa B signaling pathway,0.02293000045,IGROV1,13,21
+sp6,C-type lectin receptor signaling pathway,0.0219755848,IGROV1,13,22
+sp14,GnRH signaling pathway,0.019706652549999978,IGROV1,13,23
+sp13,Glucagon signaling pathway,0.01946097627499995,IGROV1,13,24
+sp20,Insulin signaling pathway,0.01945149224999995,IGROV1,13,25
+sp30,Phospholipase D signaling pathway,0.01820611978285713,IGROV1,13,26
+sp35,Relaxin signaling pathway,0.01204422646666665,IGROV1,13,27
+sp12,FoxO signaling pathway,0.009502250720999984,IGROV1,13,28
+sp41,Thyroid hormone signaling pathway,0.00889860237333385,IGROV1,13,29
+sp44,Wnt signaling pathway,0.008370869941538446,IGROV1,13,30
+sp4,Apelin signaling pathway,0.00814844656125,IGROV1,13,31
+sp21,JAK-STAT signaling pathway,0.007540112893333308,IGROV1,13,32
+sp22,MAPK signaling pathway,0.005472884046483317,IGROV1,13,33
+sp17,Hippo signaling pathway,0.0032544421305309747,IGROV1,13,34

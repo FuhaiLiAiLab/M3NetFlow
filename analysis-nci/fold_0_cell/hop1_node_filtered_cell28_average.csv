@@ -1,0 +1,21 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp2,AMPK signaling pathway,0.5047471567652775,SF-268,28,1
+sp5,B cell receptor signaling pathway,0.33122213300000003,SF-268,28,2
+sp32,RIG-I-like receptor signaling pathway,0.288865661,SF-268,28,3
+sp39,TGF-beta signaling pathway,0.2057290024,SF-268,28,4
+sp38,T cell receptor signaling pathway,0.1167233628,SF-268,28,5
+sp42,Toll-like receptor signaling pathway,0.055160678049999974,SF-268,28,6
+sp24,NOD-like receptor signaling pathway,0.0464570984,SF-268,28,7
+sp28,PI3K-Akt signaling pathway,0.026222921324326774,SF-268,28,8
+sp3,Adipocytokine signaling pathway,0.02558604607999995,SF-268,28,9
+sp13,Glucagon signaling pathway,0.022861071625,SF-268,28,10
+sp47,mTOR signaling pathway,0.018251401130999986,SF-268,28,11
+sp6,C-type lectin receptor signaling pathway,0.01713566429999995,SF-268,28,12
+sp23,NF-kappa B signaling pathway,0.0159320331,SF-268,28,13
+sp35,Relaxin signaling pathway,0.01154432399,SF-268,28,14
+sp12,FoxO signaling pathway,0.010183214749999999,SF-268,28,15
+sp21,JAK-STAT signaling pathway,0.008666548934999975,SF-268,28,16
+sp44,Wnt signaling pathway,0.008105730486153834,SF-268,28,17
+sp4,Apelin signaling pathway,0.007513873054999975,SF-268,28,18
+sp17,Hippo signaling pathway,0.00635405563104835,SF-268,28,19
+sp45,cAMP signaling pathway,0.006093777396799966,SF-268,28,20

@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp5,B cell receptor signaling pathway,0.12888305470971428,CAKI-1,5,1
+sp14,GnRH signaling pathway,0.06601941873256309,CAKI-1,5,2
+sp32,RIG-I-like receptor signaling pathway,0.06142717821283185,CAKI-1,5,3
+sp24,NOD-like receptor signaling pathway,0.05961285552544384,CAKI-1,5,4
+sp18,Hippo signaling pathway - multiple species,0.05704377817215187,CAKI-1,5,5
+sp11,Fc epsilon RI signaling pathway,0.0567567584145135,CAKI-1,5,6
+sp38,T cell receptor signaling pathway,0.05411915282392856,CAKI-1,5,7
+sp40,TNF signaling pathway,0.04696401949773285,CAKI-1,5,8
+sp9,ErbB signaling pathway,0.044069982317307674,CAKI-1,5,9
+sp37,Sphingolipid signaling pathway,0.043650795277599755,CAKI-1,5,10
+sp36,Signaling pathways regulating pluripotency of stem cells,0.04162347907751199,CAKI-1,5,11
+sp42,Toll-like receptor signaling pathway,0.040395107139558586,CAKI-1,5,12
+sp30,Phospholipase D signaling pathway,0.04021892100587782,CAKI-1,5,13
+sp6,C-type lectin receptor signaling pathway,0.038479545500927616,CAKI-1,5,14
+sp31,Prolactin signaling pathway,0.03769841464222221,CAKI-1,5,15
+sp43,VEGF signaling pathway,0.03613569437315633,CAKI-1,5,16
+sp26,Notch signaling pathway,0.035622904457999975,CAKI-1,5,17
+sp20,Insulin signaling pathway,0.03560413355923366,CAKI-1,5,18
+sp16,Hedgehog signaling pathway,0.03467592490339712,CAKI-1,5,19
+sp3,Adipocytokine signaling pathway,0.033850158567911376,CAKI-1,5,20
+sp7,Calcium signaling pathway,0.030789254370240455,CAKI-1,5,21
+sp10,Estrogen signaling pathway,0.02945469415793582,CAKI-1,5,22
+sp39,TGF-beta signaling pathway,0.029066350295248553,CAKI-1,5,23
+sp23,NF-kappa B signaling pathway,0.0290170062208976,CAKI-1,5,24
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.028156222408076217,CAKI-1,5,25
+sp46,cGMP-PKG signaling pathway,0.02740050138373616,CAKI-1,5,26
+sp35,Relaxin signaling pathway,0.027156550524897745,CAKI-1,5,27
+sp27,Oxytocin signaling pathway,0.02694610883330705,CAKI-1,5,28
+sp13,Glucagon signaling pathway,0.025862070000076072,CAKI-1,5,29
+sp47,mTOR signaling pathway,0.024455057284231797,CAKI-1,5,30
+sp2,AMPK signaling pathway,0.024436285246442646,CAKI-1,5,31
+sp25,Neurotrophin signaling pathway,0.02408477985655586,CAKI-1,5,32
+sp29,PPAR signaling pathway,0.023255814650156963,CAKI-1,5,33
+sp15,HIF-1 signaling pathway,0.023169337017989764,CAKI-1,5,34
+sp34,Ras signaling pathway,0.02136833208839108,CAKI-1,5,35
+sp19,IL-17 signaling pathway,0.021325210363662504,CAKI-1,5,36
+sp4,Apelin signaling pathway,0.020117351881556368,CAKI-1,5,37
+sp33,Rap1 signaling pathway,0.019945323216844734,CAKI-1,5,38
+sp41,Thyroid hormone signaling pathway,0.01922442397487209,CAKI-1,5,39
+sp22,MAPK signaling pathway,0.018858751590272865,CAKI-1,5,40
+sp48,p53 signaling pathway,0.01841359799990018,CAKI-1,5,41
+sp12,FoxO signaling pathway,0.01832399308885436,CAKI-1,5,42
+sp45,cAMP signaling pathway,0.016845348840018287,CAKI-1,5,43
+sp44,Wnt signaling pathway,0.016573868326344866,CAKI-1,5,44
+sp17,Hippo signaling pathway,0.016532272303569042,CAKI-1,5,45
+sp28,PI3K-Akt signaling pathway,0.016103682269664275,CAKI-1,5,46
+sp8,Chemokine signaling pathway,0.015523285360009494,CAKI-1,5,47
+sp21,JAK-STAT signaling pathway,0.012940530048188586,CAKI-1,5,48

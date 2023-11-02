@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,sum_rank
+sp28,PI3K-Akt signaling pathway,261.0000075985563,SF-539,30,1
+sp22,MAPK signaling pathway,220.00000667760133,SF-539,30,2
+sp34,Ras signaling pathway,171.00000538728585,SF-539,30,3
+sp33,Rap1 signaling pathway,170.00000425405395,SF-539,30,4
+sp45,cAMP signaling pathway,162.00000798895584,SF-539,30,5
+sp7,Calcium signaling pathway,135.00000488325995,SF-539,30,6
+sp44,Wnt signaling pathway,133.00000721853988,SF-539,30,7
+sp17,Hippo signaling pathway,131.00000515078446,SF-539,30,8
+sp47,mTOR signaling pathway,127.00000542540992,SF-539,30,9
+sp8,Chemokine signaling pathway,124.00000452907908,SF-539,30,10
+sp27,Oxytocin signaling pathway,117.00000494921638,SF-539,30,11
+sp46,cGMP-PKG signaling pathway,109.00000350979393,SF-539,30,12
+sp35,Relaxin signaling pathway,102.00000248457731,SF-539,30,13
+sp20,Insulin signaling pathway,101.00000388109196,SF-539,30,14
+sp25,Neurotrophin signaling pathway,100.00000399413594,SF-539,30,15
+sp4,Apelin signaling pathway,96.00000368816193,SF-539,30,16
+sp41,Thyroid hormone signaling pathway,96.00000296306662,SF-539,30,17
+sp12,FoxO signaling pathway,96.00000119951993,SF-539,30,18
+sp21,JAK-STAT signaling pathway,94.00000286544189,SF-539,30,19
+sp36,Signaling pathways regulating pluripotency of stem cells,91.00000276553996,SF-539,30,20
+sp10,Estrogen signaling pathway,89.00000268333126,SF-539,30,21
+sp30,Phospholipase D signaling pathway,86.00000234083797,SF-539,30,22
+sp24,NOD-like receptor signaling pathway,85.00000243399116,SF-539,30,23
+sp15,HIF-1 signaling pathway,81.0000048230356,SF-539,30,24
+sp37,Sphingolipid signaling pathway,77.00000305950597,SF-539,30,25
+sp2,AMPK signaling pathway,75.00000207538365,SF-539,30,26
+sp39,TGF-beta signaling pathway,73.00000241569995,SF-539,30,27
+sp38,T cell receptor signaling pathway,73.00000217433998,SF-539,30,28
+sp6,C-type lectin receptor signaling pathway,72.00000236839597,SF-539,30,29
+sp13,Glucagon signaling pathway,69.00000211036776,SF-539,30,30
+sp14,GnRH signaling pathway,68.00000154683998,SF-539,30,31
+sp48,p53 signaling pathway,65.00000330781995,SF-539,30,32
+sp9,ErbB signaling pathway,64.00000201921998,SF-539,30,33
+sp1,AGE-RAGE signaling pathway in diabetic complications,62.00000208600879,SF-539,30,34
+sp23,NF-kappa B signaling pathway,59.000001951811974,SF-539,30,35
+sp40,TNF signaling pathway,59.00000143823998,SF-539,30,36
+sp42,Toll-like receptor signaling pathway,57.00000153543998,SF-539,30,37
+sp31,Prolactin signaling pathway,57.00000139428998,SF-539,30,38
+sp19,IL-17 signaling pathway,56.00000023955996,SF-539,30,39
+sp5,B cell receptor signaling pathway,52.00000164059999,SF-539,30,40
+sp26,Notch signaling pathway,50.000001409559964,SF-539,30,41
+sp43,VEGF signaling pathway,49.00000121703998,SF-539,30,42
+sp16,Hedgehog signaling pathway,48.00000147679998,SF-539,30,43
+sp29,PPAR signaling pathway,44.00000181973773,SF-539,30,44
+sp3,Adipocytokine signaling pathway,44.00000125211998,SF-539,30,45
+sp11,Fc epsilon RI signaling pathway,42.000001410599985,SF-539,30,46
+sp32,RIG-I-like receptor signaling pathway,40.00000082909999,SF-539,30,47
+sp18,Hippo signaling pathway - multiple species,26.00000096619999,SF-539,30,48

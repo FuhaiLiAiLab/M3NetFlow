@@ -1,0 +1,32 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,1.0,SNB-75,35,1
+sp37,Sphingolipid signaling pathway,0.5275152680999999,SNB-75,35,2
+sp7,Calcium signaling pathway,0.438754269775,SNB-75,35,3
+sp24,NOD-like receptor signaling pathway,0.3967533009,SNB-75,35,4
+sp46,cGMP-PKG signaling pathway,0.348094133547,SNB-75,35,5
+sp5,B cell receptor signaling pathway,0.34112393099999994,SNB-75,35,6
+sp32,RIG-I-like receptor signaling pathway,0.30040949100000003,SNB-75,35,7
+sp39,TGF-beta signaling pathway,0.1741163943,SNB-75,35,8
+sp29,PPAR signaling pathway,0.11451353972233998,SNB-75,35,9
+sp38,T cell receptor signaling pathway,0.1116280354,SNB-75,35,10
+sp2,AMPK signaling pathway,0.10874228116097999,SNB-75,35,11
+sp33,Rap1 signaling pathway,0.092173895625,SNB-75,35,12
+sp47,mTOR signaling pathway,0.07012826978369999,SNB-75,35,13
+sp42,Toll-like receptor signaling pathway,0.05453049129999998,SNB-75,35,14
+sp4,Apelin signaling pathway,0.04164210797449999,SNB-75,35,15
+sp28,PI3K-Akt signaling pathway,0.02756746490772889,SNB-75,35,16
+sp3,Adipocytokine signaling pathway,0.0264098072,SNB-75,35,17
+sp13,Glucagon signaling pathway,0.026194410324999973,SNB-75,35,18
+sp23,NF-kappa B signaling pathway,0.0229567055,SNB-75,35,19
+sp20,Insulin signaling pathway,0.0201121887,SNB-75,35,20
+sp6,C-type lectin receptor signaling pathway,0.01883769015,SNB-75,35,21
+sp45,cAMP signaling pathway,0.01708190894774999,SNB-75,35,22
+sp30,Phospholipase D signaling pathway,0.014818438516999988,SNB-75,35,23
+sp8,Chemokine signaling pathway,0.01408560721,SNB-75,35,24
+sp12,FoxO signaling pathway,0.01229157466199999,SNB-75,35,25
+sp35,Relaxin signaling pathway,0.010833353300000001,SNB-75,35,26
+sp17,Hippo signaling pathway,0.0096800023,SNB-75,35,27
+sp44,Wnt signaling pathway,0.0093050558242857,SNB-75,35,28
+sp41,Thyroid hormone signaling pathway,0.00881668074999995,SNB-75,35,29
+sp48,p53 signaling pathway,0.007980351220000001,SNB-75,35,30
+sp21,JAK-STAT signaling pathway,0.006621799164999985,SNB-75,35,31

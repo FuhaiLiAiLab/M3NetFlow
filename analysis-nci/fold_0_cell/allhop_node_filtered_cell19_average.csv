@@ -1,0 +1,46 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,0.509227666875,MDA-MB-468,19,1
+sp24,NOD-like receptor signaling pathway,0.363605442175,MDA-MB-468,19,2
+sp5,B cell receptor signaling pathway,0.346400487,MDA-MB-468,19,3
+sp39,TGF-beta signaling pathway,0.2116749537,MDA-MB-468,19,4
+sp37,Sphingolipid signaling pathway,0.19843163068571426,MDA-MB-468,19,5
+sp15,HIF-1 signaling pathway,0.14149599663919507,MDA-MB-468,19,6
+sp7,Calcium signaling pathway,0.11896056315117647,MDA-MB-468,19,7
+sp19,IL-17 signaling pathway,0.11642774772443129,MDA-MB-468,19,8
+sp29,PPAR signaling pathway,0.10435085989899999,MDA-MB-468,19,9
+sp48,p53 signaling pathway,0.098141597732,MDA-MB-468,19,10
+sp32,RIG-I-like receptor signaling pathway,0.09650694749999998,MDA-MB-468,19,11
+sp31,Prolactin signaling pathway,0.09401021655,MDA-MB-468,19,12
+sp10,Estrogen signaling pathway,0.08450385687171895,MDA-MB-468,19,13
+sp38,T cell receptor signaling pathway,0.07854850543571427,MDA-MB-468,19,14
+sp47,mTOR signaling pathway,0.07494607445375,MDA-MB-468,19,15
+sp36,Signaling pathways regulating pluripotency of stem cells,0.07209955022608694,MDA-MB-468,19,16
+sp17,Hippo signaling pathway,0.06780507453959998,MDA-MB-468,19,17
+sp8,Chemokine signaling pathway,0.059523642362499955,MDA-MB-468,19,18
+sp46,cGMP-PKG signaling pathway,0.052986933995015376,MDA-MB-468,19,19
+sp2,AMPK signaling pathway,0.04115425416298377,MDA-MB-468,19,20
+sp9,ErbB signaling pathway,0.04091169289399997,MDA-MB-468,19,21
+sp35,Relaxin signaling pathway,0.035935202082038445,MDA-MB-468,19,22
+sp12,FoxO signaling pathway,0.03275527469727271,MDA-MB-468,19,23
+sp11,Fc epsilon RI signaling pathway,0.03030676436666664,MDA-MB-468,19,24
+sp14,GnRH signaling pathway,0.030169657966583305,MDA-MB-468,19,25
+sp42,Toll-like receptor signaling pathway,0.029972974376249985,MDA-MB-468,19,26
+sp40,TNF signaling pathway,0.02767296855607691,MDA-MB-468,19,27
+sp3,Adipocytokine signaling pathway,0.02735412834666665,MDA-MB-468,19,28
+sp33,Rap1 signaling pathway,0.026921755808181836,MDA-MB-468,19,29
+sp4,Apelin signaling pathway,0.024277520783374983,MDA-MB-468,19,30
+sp6,C-type lectin receptor signaling pathway,0.023373874666666655,MDA-MB-468,19,31
+sp30,Phospholipase D signaling pathway,0.022786940272333314,MDA-MB-468,19,32
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.022651245861999975,MDA-MB-468,19,33
+sp27,Oxytocin signaling pathway,0.022419950255136354,MDA-MB-468,19,34
+sp25,Neurotrophin signaling pathway,0.021656602859999978,MDA-MB-468,19,35
+sp28,PI3K-Akt signaling pathway,0.01971153228924706,MDA-MB-468,19,36
+sp23,NF-kappa B signaling pathway,0.018539732,MDA-MB-468,19,37
+sp41,Thyroid hormone signaling pathway,0.018497688939414825,MDA-MB-468,19,38
+sp20,Insulin signaling pathway,0.018114993228181806,MDA-MB-468,19,39
+sp13,Glucagon signaling pathway,0.015613646659533324,MDA-MB-468,19,40
+sp22,MAPK signaling pathway,0.012345711048560967,MDA-MB-468,19,41
+sp44,Wnt signaling pathway,0.011586390365333314,MDA-MB-468,19,42
+sp34,Ras signaling pathway,0.008994849754833327,MDA-MB-468,19,43
+sp21,JAK-STAT signaling pathway,0.007312482675843729,MDA-MB-468,19,44
+sp45,cAMP signaling pathway,0.007166236556898282,MDA-MB-468,19,45

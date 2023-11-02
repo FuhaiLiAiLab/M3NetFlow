@@ -1,0 +1,30 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp30,Phospholipase D signaling pathway,0.10620987453833332,NCI-H522,22,1
+sp7,Calcium signaling pathway,0.06407523606282141,NCI-H522,22,2
+sp43,VEGF signaling pathway,0.05934930791924997,NCI-H522,22,3
+sp14,GnRH signaling pathway,0.05578547936814813,NCI-H522,22,4
+sp6,C-type lectin receptor signaling pathway,0.05157021943032786,NCI-H522,22,5
+sp42,Toll-like receptor signaling pathway,0.036305817776620675,NCI-H522,22,6
+sp20,Insulin signaling pathway,0.0353968273843259,NCI-H522,22,7
+sp23,NF-kappa B signaling pathway,0.03410474201127658,NCI-H522,22,8
+sp46,cGMP-PKG signaling pathway,0.03389703290519064,NCI-H522,22,9
+sp13,Glucagon signaling pathway,0.03197733456081631,NCI-H522,22,10
+sp35,Relaxin signaling pathway,0.0277566006852859,NCI-H522,22,11
+sp47,mTOR signaling pathway,0.02581838960214915,NCI-H522,22,12
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.025714393341372533,NCI-H522,22,13
+sp33,Rap1 signaling pathway,0.024945044969415898,NCI-H522,22,14
+sp27,Oxytocin signaling pathway,0.02490781985920503,NCI-H522,22,15
+sp29,PPAR signaling pathway,0.0229618902130657,NCI-H522,22,16
+sp19,IL-17 signaling pathway,0.02289022159151723,NCI-H522,22,17
+sp12,FoxO signaling pathway,0.022881233453099614,NCI-H522,22,18
+sp25,Neurotrophin signaling pathway,0.022790659102600228,NCI-H522,22,19
+sp15,HIF-1 signaling pathway,0.02277449268793252,NCI-H522,22,20
+sp34,Ras signaling pathway,0.01991944331296519,NCI-H522,22,21
+sp22,MAPK signaling pathway,0.019656013891598576,NCI-H522,22,22
+sp44,Wnt signaling pathway,0.018583706643606493,NCI-H522,22,23
+sp4,Apelin signaling pathway,0.017766751615551725,NCI-H522,22,24
+sp2,AMPK signaling pathway,0.01746021647403467,NCI-H522,22,25
+sp45,cAMP signaling pathway,0.017290885782946578,NCI-H522,22,26
+sp28,PI3K-Akt signaling pathway,0.01429320793465114,NCI-H522,22,27
+sp17,Hippo signaling pathway,0.013767106781138514,NCI-H522,22,28
+sp8,Chemokine signaling pathway,0.013560353365881244,NCI-H522,22,29

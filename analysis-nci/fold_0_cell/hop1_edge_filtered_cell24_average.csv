@@ -1,0 +1,30 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp18,Hippo signaling pathway - multiple species,0.057124568464240494,OVCAR-4,24,1
+sp30,Phospholipase D signaling pathway,0.05605337074046979,OVCAR-4,24,2
+sp7,Calcium signaling pathway,0.05186543578774906,OVCAR-4,24,3
+sp42,Toll-like receptor signaling pathway,0.04723693323999999,OVCAR-4,24,4
+sp11,Fc epsilon RI signaling pathway,0.04412497959731342,OVCAR-4,24,5
+sp3,Adipocytokine signaling pathway,0.04261627825591834,OVCAR-4,24,6
+sp6,C-type lectin receptor signaling pathway,0.042256886854636855,OVCAR-4,24,7
+sp27,Oxytocin signaling pathway,0.036892705539811006,OVCAR-4,24,8
+sp43,VEGF signaling pathway,0.03533904617319727,OVCAR-4,24,9
+sp19,IL-17 signaling pathway,0.031141420561944425,OVCAR-4,24,10
+sp35,Relaxin signaling pathway,0.030012375757232475,OVCAR-4,24,11
+sp23,NF-kappa B signaling pathway,0.02761952038084855,OVCAR-4,24,12
+sp28,PI3K-Akt signaling pathway,0.02609952670740366,OVCAR-4,24,13
+sp13,Glucagon signaling pathway,0.0241606753247681,OVCAR-4,24,14
+sp29,PPAR signaling pathway,0.023809534521524428,OVCAR-4,24,15
+sp46,cGMP-PKG signaling pathway,0.02300921058467067,OVCAR-4,24,16
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.022602730999769588,OVCAR-4,24,17
+sp33,Rap1 signaling pathway,0.02185495793157914,OVCAR-4,24,18
+sp4,Apelin signaling pathway,0.02130798852740358,OVCAR-4,24,19
+sp15,HIF-1 signaling pathway,0.02117447286756511,OVCAR-4,24,20
+sp48,p53 signaling pathway,0.019906443139029593,OVCAR-4,24,21
+sp41,Thyroid hormone signaling pathway,0.019064680608398155,OVCAR-4,24,22
+sp34,Ras signaling pathway,0.017974359986992743,OVCAR-4,24,23
+sp12,FoxO signaling pathway,0.017973541548051104,OVCAR-4,24,24
+sp22,MAPK signaling pathway,0.016239664353867058,OVCAR-4,24,25
+sp8,Chemokine signaling pathway,0.015252926255773236,OVCAR-4,24,26
+sp2,AMPK signaling pathway,0.014875891607518201,OVCAR-4,24,27
+sp44,Wnt signaling pathway,0.014518537506857873,OVCAR-4,24,28
+sp17,Hippo signaling pathway,0.01305630506146183,OVCAR-4,24,29

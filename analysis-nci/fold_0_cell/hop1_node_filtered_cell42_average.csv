@@ -1,0 +1,15 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp2,AMPK signaling pathway,1.0,UO-31,42,1
+sp5,B cell receptor signaling pathway,0.395851709,UO-31,42,2
+sp32,RIG-I-like receptor signaling pathway,0.38749730699999996,UO-31,42,3
+sp19,IL-17 signaling pathway,0.20530502376999998,UO-31,42,4
+sp38,T cell receptor signaling pathway,0.1306083192,UO-31,42,5
+sp42,Toll-like receptor signaling pathway,0.1197140005,UO-31,42,6
+sp24,NOD-like receptor signaling pathway,0.0359057956,UO-31,42,7
+sp28,PI3K-Akt signaling pathway,0.03411061899999999,UO-31,42,8
+sp3,Adipocytokine signaling pathway,0.0239352177999999,UO-31,42,9
+sp13,Glucagon signaling pathway,0.021964862149999976,UO-31,42,10
+sp6,C-type lectin receptor signaling pathway,0.018115542300000002,UO-31,42,11
+sp44,Wnt signaling pathway,0.018098233029999952,UO-31,42,12
+sp35,Relaxin signaling pathway,0.012877128500000001,UO-31,42,13
+sp21,JAK-STAT signaling pathway,0.008337483719999976,UO-31,42,14

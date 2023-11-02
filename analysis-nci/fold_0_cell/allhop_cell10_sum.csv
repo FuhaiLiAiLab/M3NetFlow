@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,sum_rank
+sp28,PI3K-Akt signaling pathway,261.00001294084853,HOP-62,10,1
+sp22,MAPK signaling pathway,220.0000095781215,HOP-62,10,2
+sp34,Ras signaling pathway,171.00001334240588,HOP-62,10,3
+sp33,Rap1 signaling pathway,170.00000792540217,HOP-62,10,4
+sp45,cAMP signaling pathway,162.00000973079585,HOP-62,10,5
+sp7,Calcium signaling pathway,135.00000583571992,HOP-62,10,6
+sp44,Wnt signaling pathway,133.0000053598239,HOP-62,10,7
+sp17,Hippo signaling pathway,131.00000245465992,HOP-62,10,8
+sp47,mTOR signaling pathway,127.0000025781637,HOP-62,10,9
+sp8,Chemokine signaling pathway,124.00000399840788,HOP-62,10,10
+sp27,Oxytocin signaling pathway,117.00000503794543,HOP-62,10,11
+sp46,cGMP-PKG signaling pathway,109.00000394577594,HOP-62,10,12
+sp35,Relaxin signaling pathway,102.00000290727995,HOP-62,10,13
+sp20,Insulin signaling pathway,101.00000378684935,HOP-62,10,14
+sp25,Neurotrophin signaling pathway,100.00000501530192,HOP-62,10,15
+sp4,Apelin signaling pathway,96.00000630795152,HOP-62,10,16
+sp41,Thyroid hormone signaling pathway,96.00000334391719,HOP-62,10,17
+sp12,FoxO signaling pathway,96.00000320937993,HOP-62,10,18
+sp21,JAK-STAT signaling pathway,94.00000560011989,HOP-62,10,19
+sp36,Signaling pathways regulating pluripotency of stem cells,91.00000337533997,HOP-62,10,20
+sp10,Estrogen signaling pathway,89.00000240129155,HOP-62,10,21
+sp30,Phospholipase D signaling pathway,86.00000304386197,HOP-62,10,22
+sp24,NOD-like receptor signaling pathway,85.00000242710134,HOP-62,10,23
+sp15,HIF-1 signaling pathway,81.00000157566534,HOP-62,10,24
+sp37,Sphingolipid signaling pathway,77.00000246603997,HOP-62,10,25
+sp2,AMPK signaling pathway,75.00000239412115,HOP-62,10,26
+sp39,TGF-beta signaling pathway,73.00000294502196,HOP-62,10,27
+sp38,T cell receptor signaling pathway,73.00000224257998,HOP-62,10,28
+sp6,C-type lectin receptor signaling pathway,72.00000304926797,HOP-62,10,29
+sp13,Glucagon signaling pathway,69.00000185162516,HOP-62,10,30
+sp14,GnRH signaling pathway,68.00000256413999,HOP-62,10,31
+sp48,p53 signaling pathway,65.00000157585114,HOP-62,10,32
+sp9,ErbB signaling pathway,64.00000155559998,HOP-62,10,33
+sp1,AGE-RAGE signaling pathway in diabetic complications,62.00000174697977,HOP-62,10,34
+sp23,NF-kappa B signaling pathway,59.000001558719966,HOP-62,10,35
+sp40,TNF signaling pathway,59.00000130575998,HOP-62,10,36
+sp31,Prolactin signaling pathway,57.00000213651998,HOP-62,10,37
+sp42,Toll-like receptor signaling pathway,57.00000198887998,HOP-62,10,38
+sp19,IL-17 signaling pathway,56.00000143177996,HOP-62,10,39
+sp5,B cell receptor signaling pathway,52.00000169479999,HOP-62,10,40
+sp26,Notch signaling pathway,50.00000161987996,HOP-62,10,41
+sp43,VEGF signaling pathway,49.00000130775998,HOP-62,10,42
+sp16,Hedgehog signaling pathway,48.00000169027997,HOP-62,10,43
+sp29,PPAR signaling pathway,44.00000133300997,HOP-62,10,44
+sp3,Adipocytokine signaling pathway,44.00000129571998,HOP-62,10,45
+sp11,Fc epsilon RI signaling pathway,42.00000127689999,HOP-62,10,46
+sp32,RIG-I-like receptor signaling pathway,40.00000108909999,HOP-62,10,47
+sp18,Hippo signaling pathway - multiple species,26.000000645199993,HOP-62,10,48

@@ -1,0 +1,211 @@
+SpNotation,cell_line_name,Attention,SignalingPath
+sp16,A498,1.0,Hedgehog signaling pathway
+sp24,A498,0.53122532555,NOD-like receptor signaling pathway
+sp7,A498,0.4437812807499999,Calcium signaling pathway
+sp37,A498,0.3983413376999999,Sphingolipid signaling pathway
+sp32,A498,0.36782126,RIG-I-like receptor signaling pathway
+sp16,A549/ATCC,1.0,Hedgehog signaling pathway
+sp7,A549/ATCC,0.4468446064099999,Calcium signaling pathway
+sp24,A549/ATCC,0.4020297456666666,NOD-like receptor signaling pathway
+sp37,A549/ATCC,0.3834192618333332,Sphingolipid signaling pathway
+sp46,A549/ATCC,0.3492244533166666,cGMP-PKG signaling pathway
+sp16,ACHN,1.0,Hedgehog signaling pathway
+sp37,ACHN,0.5168045152,Sphingolipid signaling pathway
+sp2,ACHN,0.50472188326,AMPK signaling pathway
+sp24,ACHN,0.4016003455833333,NOD-like receptor signaling pathway
+sp32,ACHN,0.377029645,RIG-I-like receptor signaling pathway
+sp2,BT-549,1.0,AMPK signaling pathway
+sp5,BT-549,0.4014069359999999,B cell receptor signaling pathway
+sp32,BT-549,0.384379255,RIG-I-like receptor signaling pathway
+sp42,BT-549,0.1618730955,Toll-like receptor signaling pathway
+sp38,BT-549,0.1174250962,T cell receptor signaling pathway
+sp2,CAKI-1,0.340630137,AMPK signaling pathway
+sp5,CAKI-1,0.3226168459999999,B cell receptor signaling pathway
+sp32,CAKI-1,0.3165480329999999,RIG-I-like receptor signaling pathway
+sp38,CAKI-1,0.1157602929999999,T cell receptor signaling pathway
+sp35,CAKI-1,0.1156320789149999,Relaxin signaling pathway
+sp16,DU-145,1.0,Hedgehog signaling pathway
+sp24,DU-145,0.5188079947,NOD-like receptor signaling pathway
+sp7,DU-145,0.452275036475,Calcium signaling pathway
+sp37,DU-145,0.4039714297,Sphingolipid signaling pathway
+sp5,DU-145,0.368671256,B cell receptor signaling pathway
+sp16,EKVX,1.0,Hedgehog signaling pathway
+sp37,EKVX,0.5729274826,Sphingolipid signaling pathway
+sp24,EKVX,0.52294769485,NOD-like receptor signaling pathway
+sp2,EKVX,0.504880636735,AMPK signaling pathway
+sp7,EKVX,0.438364252575,Calcium signaling pathway
+sp16,HCT-116,1.0,Hedgehog signaling pathway
+sp24,HCT-116,0.5416933723,NOD-like receptor signaling pathway
+sp7,HCT-116,0.5000000226666667,Calcium signaling pathway
+sp32,HCT-116,0.406668066,RIG-I-like receptor signaling pathway
+sp37,HCT-116,0.3899336211333333,Sphingolipid signaling pathway
+sp37,HCT-15,1.0,Sphingolipid signaling pathway
+sp16,HCT-15,1.0,Hedgehog signaling pathway
+sp46,HCT-15,1.0,cGMP-PKG signaling pathway
+sp24,HCT-15,0.53151513705,NOD-like receptor signaling pathway
+sp7,HCT-15,0.50000002,Calcium signaling pathway
+sp16,HOP-62,1.0,Hedgehog signaling pathway
+sp24,HOP-62,0.526757809,NOD-like receptor signaling pathway
+sp7,HOP-62,0.4498412075249999,Calcium signaling pathway
+sp37,HOP-62,0.4044951276333333,Sphingolipid signaling pathway
+sp46,HOP-62,0.347871365859,cGMP-PKG signaling pathway
+sp16,HOP-92,1.0,Hedgehog signaling pathway
+sp37,HOP-92,0.51676341725,Sphingolipid signaling pathway
+sp7,HOP-92,0.436623878175,Calcium signaling pathway
+sp24,HOP-92,0.4091812787,NOD-like receptor signaling pathway
+sp46,HOP-92,0.3472772795066666,cGMP-PKG signaling pathway
+sp16,HS 578T,1.0,Hedgehog signaling pathway
+sp37,HS 578T,1.0,Sphingolipid signaling pathway
+sp24,HS 578T,0.5246150253499999,NOD-like receptor signaling pathway
+sp46,HS 578T,0.5113800718,cGMP-PKG signaling pathway
+sp7,HS 578T,0.4347257398,Calcium signaling pathway
+sp16,IGROV1,1.0,Hedgehog signaling pathway
+sp7,IGROV1,0.4478968649249999,Calcium signaling pathway
+sp24,IGROV1,0.4357943058666666,NOD-like receptor signaling pathway
+sp37,IGROV1,0.3993997729,Sphingolipid signaling pathway
+sp5,IGROV1,0.364181818,B cell receptor signaling pathway
+sp16,K-562,1.0,Hedgehog signaling pathway
+sp24,K-562,0.53444457705,NOD-like receptor signaling pathway
+sp37,K-562,0.51776017455,Sphingolipid signaling pathway
+sp7,K-562,0.4485887155749999,Calcium signaling pathway
+sp46,K-562,0.34962227304,cGMP-PKG signaling pathway
+sp16,KM12,1.0,Hedgehog signaling pathway
+sp37,KM12,1.0,Sphingolipid signaling pathway
+sp46,KM12,1.0,cGMP-PKG signaling pathway
+sp7,KM12,0.500000013,Calcium signaling pathway
+sp24,KM12,0.4383154444666666,NOD-like receptor signaling pathway
+sp16,LOX IMVI,1.0,Hedgehog signaling pathway
+sp24,LOX IMVI,0.5176895736,NOD-like receptor signaling pathway
+sp37,LOX IMVI,0.516008344,Sphingolipid signaling pathway
+sp7,LOX IMVI,0.449475286825,Calcium signaling pathway
+sp32,LOX IMVI,0.3718737599999999,RIG-I-like receptor signaling pathway
+sp2,MCF7,1.0,AMPK signaling pathway
+sp32,MCF7,0.366756417,RIG-I-like receptor signaling pathway
+sp5,MCF7,0.352830578,B cell receptor signaling pathway
+sp4,MCF7,0.2688695985,Apelin signaling pathway
+sp29,MCF7,0.1886060774474333,PPAR signaling pathway
+sp16,MDA-MB-231/ATCC,1.0,Hedgehog signaling pathway
+sp24,MDA-MB-231/ATCC,0.52636336565,NOD-like receptor signaling pathway
+sp37,MDA-MB-231/ATCC,0.518636535325,Sphingolipid signaling pathway
+sp7,MDA-MB-231/ATCC,0.4407563041625,Calcium signaling pathway
+sp46,MDA-MB-231/ATCC,0.3500494757866666,cGMP-PKG signaling pathway
+sp16,MDA-MB-468,1.0,Hedgehog signaling pathway
+sp37,MDA-MB-468,0.5582877693499999,Sphingolipid signaling pathway
+sp7,MDA-MB-468,0.442089600075,Calcium signaling pathway
+sp24,MDA-MB-468,0.4277829766666667,NOD-like receptor signaling pathway
+sp46,MDA-MB-468,0.35027684934,cGMP-PKG signaling pathway
+sp16,NCI-H23,1.0,Hedgehog signaling pathway
+sp37,NCI-H23,1.0,Sphingolipid signaling pathway
+sp46,NCI-H23,1.0,cGMP-PKG signaling pathway
+sp24,NCI-H23,0.5185792635,NOD-like receptor signaling pathway
+sp7,NCI-H23,0.448438810225,Calcium signaling pathway
+sp16,NCI-H460,1.0,Hedgehog signaling pathway
+sp7,NCI-H460,0.4602190083549999,Calcium signaling pathway
+sp24,NCI-H460,0.4006389112666666,NOD-like receptor signaling pathway
+sp37,NCI-H460,0.3802406467333333,Sphingolipid signaling pathway
+sp5,NCI-H460,0.358002872,B cell receptor signaling pathway
+sp32,NCI-H522,0.34556613,RIG-I-like receptor signaling pathway
+sp5,NCI-H522,0.342111748,B cell receptor signaling pathway
+sp2,NCI-H522,0.2565346227230151,AMPK signaling pathway
+sp44,NCI-H522,0.2338758994838461,Wnt signaling pathway
+sp38,NCI-H522,0.1268011620999999,T cell receptor signaling pathway
+sp16,OVCAR-3,1.0,Hedgehog signaling pathway
+sp37,OVCAR-3,0.51954008845,Sphingolipid signaling pathway
+sp7,OVCAR-3,0.447853536125,Calcium signaling pathway
+sp24,OVCAR-3,0.4007759991999999,NOD-like receptor signaling pathway
+sp46,OVCAR-3,0.35132131747,cGMP-PKG signaling pathway
+sp16,OVCAR-4,1.0,Hedgehog signaling pathway
+sp7,OVCAR-4,0.441324302175,Calcium signaling pathway
+sp24,OVCAR-4,0.4054710786,NOD-like receptor signaling pathway
+sp37,OVCAR-4,0.4042206264999999,Sphingolipid signaling pathway
+sp46,OVCAR-4,0.3512874242,cGMP-PKG signaling pathway
+sp37,OVCAR-8,1.0,Sphingolipid signaling pathway
+sp16,OVCAR-8,1.0,Hedgehog signaling pathway
+sp24,OVCAR-8,0.5260636347,NOD-like receptor signaling pathway
+sp7,OVCAR-8,0.4630921035499999,Calcium signaling pathway
+sp46,OVCAR-8,0.34865955038265,cGMP-PKG signaling pathway
+sp16,PC-3,1.0,Hedgehog signaling pathway
+sp24,PC-3,0.518090123,NOD-like receptor signaling pathway
+sp37,PC-3,0.3909428216,Sphingolipid signaling pathway
+sp7,PC-3,0.3465182928216666,Calcium signaling pathway
+sp5,PC-3,0.3364370909999999,B cell receptor signaling pathway
+sp16,RPMI-8226,1.0,Hedgehog signaling pathway
+sp24,RPMI-8226,0.55590205415,NOD-like receptor signaling pathway
+sp37,RPMI-8226,0.51968763525,Sphingolipid signaling pathway
+sp7,RPMI-8226,0.4359672574,Calcium signaling pathway
+sp46,RPMI-8226,0.3499381705833333,cGMP-PKG signaling pathway
+sp2,SF-268,0.5047471567652775,AMPK signaling pathway
+sp5,SF-268,0.331222133,B cell receptor signaling pathway
+sp32,SF-268,0.288865661,RIG-I-like receptor signaling pathway
+sp39,SF-268,0.2057290024,TGF-beta signaling pathway
+sp38,SF-268,0.1167233628,T cell receptor signaling pathway
+sp16,SF-295,1.0,Hedgehog signaling pathway
+sp24,SF-295,0.53254490725,NOD-like receptor signaling pathway
+sp7,SF-295,0.4356114674499999,Calcium signaling pathway
+sp37,SF-295,0.4084132559333333,Sphingolipid signaling pathway
+sp5,SF-295,0.382217343,B cell receptor signaling pathway
+sp24,SF-539,1.0,NOD-like receptor signaling pathway
+sp46,SF-539,1.0,cGMP-PKG signaling pathway
+sp16,SF-539,1.0,Hedgehog signaling pathway
+sp37,SF-539,0.51808973535,Sphingolipid signaling pathway
+sp7,SF-539,0.4111689167,Calcium signaling pathway
+sp46,SK-MEL-2,1.0,cGMP-PKG signaling pathway
+sp16,SK-MEL-2,1.0,Hedgehog signaling pathway
+sp37,SK-MEL-2,0.55549350675,Sphingolipid signaling pathway
+sp24,SK-MEL-2,0.53762017775,NOD-like receptor signaling pathway
+sp7,SK-MEL-2,0.5000000136666666,Calcium signaling pathway
+sp37,SK-MEL-28,1.0,Sphingolipid signaling pathway
+sp46,SK-MEL-28,1.0,cGMP-PKG signaling pathway
+sp16,SK-MEL-28,1.0,Hedgehog signaling pathway
+sp24,SK-MEL-28,0.5304467873,NOD-like receptor signaling pathway
+sp2,SK-MEL-28,0.504361727581,AMPK signaling pathway
+sp16,SK-MEL-5,1.0,Hedgehog signaling pathway
+sp37,SK-MEL-5,0.5171354148999999,Sphingolipid signaling pathway
+sp7,SK-MEL-5,0.4386043124,Calcium signaling pathway
+sp24,SK-MEL-5,0.4032880284,NOD-like receptor signaling pathway
+sp5,SK-MEL-5,0.356168347,B cell receptor signaling pathway
+sp2,SK-OV-3,1.0,AMPK signaling pathway
+sp32,SK-OV-3,0.3451760439999999,RIG-I-like receptor signaling pathway
+sp5,SK-OV-3,0.3228390449999999,B cell receptor signaling pathway
+sp38,SK-OV-3,0.103376497,T cell receptor signaling pathway
+sp42,SK-OV-3,0.0647536362499999,Toll-like receptor signaling pathway
+sp16,SNB-75,1.0,Hedgehog signaling pathway
+sp37,SNB-75,0.5275152680999999,Sphingolipid signaling pathway
+sp7,SNB-75,0.438754269775,Calcium signaling pathway
+sp24,SNB-75,0.3967533009,NOD-like receptor signaling pathway
+sp46,SNB-75,0.348094133547,cGMP-PKG signaling pathway
+sp16,SR,1.0,Hedgehog signaling pathway
+sp7,SR,0.4521753725749999,Calcium signaling pathway
+sp24,SR,0.3964081100666666,NOD-like receptor signaling pathway
+sp37,SR,0.3960113791666666,Sphingolipid signaling pathway
+sp32,SR,0.2471380629999999,RIG-I-like receptor signaling pathway
+sp37,SW-620,1.0,Sphingolipid signaling pathway
+sp16,SW-620,1.0,Hedgehog signaling pathway
+sp24,SW-620,0.5246014394,NOD-like receptor signaling pathway
+sp7,SW-620,0.5000000096666667,Calcium signaling pathway
+sp5,SW-620,0.3838796479999999,B cell receptor signaling pathway
+sp16,T-47D,1.0,Hedgehog signaling pathway
+sp37,T-47D,0.52609639335,Sphingolipid signaling pathway
+sp24,T-47D,0.3994499755666666,NOD-like receptor signaling pathway
+sp7,T-47D,0.3525299986999999,Calcium signaling pathway
+sp46,T-47D,0.3492916244333333,cGMP-PKG signaling pathway
+sp37,U251,1.0,Sphingolipid signaling pathway
+sp16,U251,1.0,Hedgehog signaling pathway
+sp24,U251,0.52694802665,NOD-like receptor signaling pathway
+sp7,U251,0.43006148625,Calcium signaling pathway
+sp5,U251,0.380948218,B cell receptor signaling pathway
+sp16,UACC-257,1.0,Hedgehog signaling pathway
+sp37,UACC-257,0.5667955525999999,Sphingolipid signaling pathway
+sp24,UACC-257,0.51904382285,NOD-like receptor signaling pathway
+sp2,UACC-257,0.50456354345665,AMPK signaling pathway
+sp7,UACC-257,0.5000000099999999,Calcium signaling pathway
+sp16,UACC-62,1.0,Hedgehog signaling pathway
+sp37,UACC-62,0.51689237965,Sphingolipid signaling pathway
+sp2,UACC-62,0.504576874067,AMPK signaling pathway
+sp7,UACC-62,0.443571312425,Calcium signaling pathway
+sp24,UACC-62,0.4263804139,NOD-like receptor signaling pathway
+sp2,UO-31,1.0,AMPK signaling pathway
+sp5,UO-31,0.395851709,B cell receptor signaling pathway
+sp32,UO-31,0.3874973069999999,RIG-I-like receptor signaling pathway
+sp19,UO-31,0.2053050237699999,IL-17 signaling pathway
+sp38,UO-31,0.1306083192,T cell receptor signaling pathway

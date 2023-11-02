@@ -1,0 +1,34 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp30,Phospholipase D signaling pathway,0.130449636775,SK-MEL-5,33,1
+sp14,GnRH signaling pathway,0.10090356633079206,SK-MEL-5,33,2
+sp43,VEGF signaling pathway,0.04954723299216216,SK-MEL-5,33,3
+sp20,Insulin signaling pathway,0.04799114134074999,SK-MEL-5,33,4
+sp31,Prolactin signaling pathway,0.04424465765589575,SK-MEL-5,33,5
+sp6,C-type lectin receptor signaling pathway,0.043489487464782595,SK-MEL-5,33,6
+sp7,Calcium signaling pathway,0.0433994947567857,SK-MEL-5,33,7
+sp42,Toll-like receptor signaling pathway,0.04223064761827584,SK-MEL-5,33,8
+sp3,Adipocytokine signaling pathway,0.03755883357605262,SK-MEL-5,33,9
+sp16,Hedgehog signaling pathway,0.034911669828673456,SK-MEL-5,33,10
+sp39,TGF-beta signaling pathway,0.03325922091194593,SK-MEL-5,33,11
+sp13,Glucagon signaling pathway,0.02985146621315052,SK-MEL-5,33,12
+sp27,Oxytocin signaling pathway,0.02983663583455667,SK-MEL-5,33,13
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.029079626474803905,SK-MEL-5,33,14
+sp48,p53 signaling pathway,0.028350557283876737,SK-MEL-5,33,15
+sp23,NF-kappa B signaling pathway,0.027537208560029523,SK-MEL-5,33,16
+sp46,cGMP-PKG signaling pathway,0.026157582357346044,SK-MEL-5,33,17
+sp29,PPAR signaling pathway,0.025069207856315258,SK-MEL-5,33,18
+sp47,mTOR signaling pathway,0.024623589466659556,SK-MEL-5,33,19
+sp45,cAMP signaling pathway,0.023162512410637624,SK-MEL-5,33,20
+sp19,IL-17 signaling pathway,0.02286811733493623,SK-MEL-5,33,21
+sp2,AMPK signaling pathway,0.022320345062665167,SK-MEL-5,33,22
+sp34,Ras signaling pathway,0.020902558937573628,SK-MEL-5,33,23
+sp26,Notch signaling pathway,0.02079425875915491,SK-MEL-5,33,24
+sp12,FoxO signaling pathway,0.01996067249479673,SK-MEL-5,33,25
+sp33,Rap1 signaling pathway,0.018914396375456055,SK-MEL-5,33,26
+sp22,MAPK signaling pathway,0.018648898592711086,SK-MEL-5,33,27
+sp44,Wnt signaling pathway,0.018212031980069914,SK-MEL-5,33,28
+sp4,Apelin signaling pathway,0.01682565681863618,SK-MEL-5,33,29
+sp41,Thyroid hormone signaling pathway,0.016715751465738348,SK-MEL-5,33,30
+sp17,Hippo signaling pathway,0.014146726646982391,SK-MEL-5,33,31
+sp28,PI3K-Akt signaling pathway,0.013563139990956905,SK-MEL-5,33,32
+sp8,Chemokine signaling pathway,0.012833727688504977,SK-MEL-5,33,33

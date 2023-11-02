@@ -1,0 +1,72 @@
+Node_idx,Node_name,Type_name
+1,Breast,Cancer
+2,CNS,Cancer
+3,Colon,Cancer
+4,Leukemia,Cancer
+5,Lung,Cancer
+6,Melanoma,Cancer
+7,Ovarian,Cancer
+8,Prostate,Cancer
+9,Renal,Cancer
+10,A498,Cell
+11,A549/ATCC,Cell
+12,ACHN,Cell
+13,BT-549,Cell
+14,CAKI-1,Cell
+15,DU-145,Cell
+16,EKVX,Cell
+17,HCT-116,Cell
+18,HCT-15,Cell
+19,HOP-62,Cell
+20,HOP-92,Cell
+21,HS 578T,Cell
+22,IGROV1,Cell
+23,K-562,Cell
+24,KM12,Cell
+25,LOX IMVI,Cell
+26,MCF7,Cell
+27,MDA-MB-231/ATCC,Cell
+28,MDA-MB-468,Cell
+29,NCI-H23,Cell
+30,NCI-H460,Cell
+31,NCI-H522,Cell
+32,OVCAR-3,Cell
+33,OVCAR-4,Cell
+34,OVCAR-8,Cell
+35,PC-3,Cell
+36,RPMI-8226,Cell
+37,SF-268,Cell
+38,SF-295,Cell
+39,SF-539,Cell
+40,SK-MEL-2,Cell
+41,SK-MEL-28,Cell
+42,SK-MEL-5,Cell
+43,SK-OV-3,Cell
+44,SNB-75,Cell
+45,SR,Cell
+46,SW-620,Cell
+47,T-47D,Cell
+48,U251,Cell
+49,UACC-257,Cell
+50,UACC-62,Cell
+51,UO-31,Cell
+52,Apelin signaling pathway,SignalingPath
+53,Calcium signaling pathway,SignalingPath
+54,Chemokine signaling pathway,SignalingPath
+55,Glucagon signaling pathway,SignalingPath
+56,GnRH signaling pathway,SignalingPath
+57,IL-17 signaling pathway,SignalingPath
+58,JAK-STAT signaling pathway,SignalingPath
+59,MAPK signaling pathway,SignalingPath
+60,NOD-like receptor signaling pathway,SignalingPath
+61,Neurotrophin signaling pathway,SignalingPath
+62,Oxytocin signaling pathway,SignalingPath
+63,PI3K-Akt signaling pathway,SignalingPath
+64,Phospholipase D signaling pathway,SignalingPath
+65,Prolactin signaling pathway,SignalingPath
+66,Rap1 signaling pathway,SignalingPath
+67,Ras signaling pathway,SignalingPath
+68,Relaxin signaling pathway,SignalingPath
+69,Toll-like receptor signaling pathway,SignalingPath
+70,Wnt signaling pathway,SignalingPath
+71,cAMP signaling pathway,SignalingPath

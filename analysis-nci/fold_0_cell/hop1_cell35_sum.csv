@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,sum_rank
+sp28,PI3K-Akt signaling pathway,72.57555477119503,SNB-75,35,1
+sp7,Calcium signaling pathway,50.38345999183998,SNB-75,35,2
+sp22,MAPK signaling pathway,42.75174577843796,SNB-75,35,3
+sp33,Rap1 signaling pathway,40.29206620115151,SNB-75,35,4
+sp34,Ras signaling pathway,39.08035310386196,SNB-75,35,5
+sp36,Signaling pathways regulating pluripotency of stem cells,29.38662599503999,SNB-75,35,6
+sp47,mTOR signaling pathway,27.617277372879986,SNB-75,35,7
+sp21,JAK-STAT signaling pathway,26.571989634539978,SNB-75,35,8
+sp24,NOD-like receptor signaling pathway,25.707911479734797,SNB-75,35,9
+sp4,Apelin signaling pathway,24.378626307869983,SNB-75,35,10
+sp17,Hippo signaling pathway,23.35169644650413,SNB-75,35,11
+sp44,Wnt signaling pathway,23.19438471815998,SNB-75,35,12
+sp35,Relaxin signaling pathway,22.642327370555154,SNB-75,35,13
+sp14,GnRH signaling pathway,21.775885666659995,SNB-75,35,14
+sp46,cGMP-PKG signaling pathway,21.75213950649639,SNB-75,35,15
+sp45,cAMP signaling pathway,21.73624592368398,SNB-75,35,16
+sp30,Phospholipase D signaling pathway,21.02687278359399,SNB-75,35,17
+sp5,B cell receptor signaling pathway,19.5800859702,SNB-75,35,18
+sp20,Insulin signaling pathway,19.46031583287199,SNB-75,35,19
+sp37,Sphingolipid signaling pathway,17.396878840670833,SNB-75,35,20
+sp38,T cell receptor signaling pathway,17.199255263005995,SNB-75,35,21
+sp10,Estrogen signaling pathway,16.16920679822843,SNB-75,35,22
+sp31,Prolactin signaling pathway,15.316334375539995,SNB-75,35,23
+sp39,TGF-beta signaling pathway,15.269505008775992,SNB-75,35,24
+sp6,C-type lectin receptor signaling pathway,15.095710385911996,SNB-75,35,25
+sp8,Chemokine signaling pathway,14.974869517193985,SNB-75,35,26
+sp19,IL-17 signaling pathway,14.714822283899993,SNB-75,35,27
+sp42,Toll-like receptor signaling pathway,14.564835902739997,SNB-75,35,28
+sp12,FoxO signaling pathway,14.343505995199994,SNB-75,35,29
+sp25,Neurotrophin signaling pathway,13.600777737397992,SNB-75,35,30
+sp40,TNF signaling pathway,13.205243372799996,SNB-75,35,31
+sp9,ErbB signaling pathway,12.509491357639996,SNB-75,35,32
+sp13,Glucagon signaling pathway,12.151276321633192,SNB-75,35,33
+sp27,Oxytocin signaling pathway,12.140162735420825,SNB-75,35,34
+sp11,Fc epsilon RI signaling pathway,11.806003828939998,SNB-75,35,35
+sp15,HIF-1 signaling pathway,11.722802156741253,SNB-75,35,36
+sp2,AMPK signaling pathway,11.146355290411591,SNB-75,35,37
+sp41,Thyroid hormone signaling pathway,11.113699014039065,SNB-75,35,38
+sp23,NF-kappa B signaling pathway,9.966097367659994,SNB-75,35,39
+sp1,AGE-RAGE signaling pathway in diabetic complications,9.673390605118836,SNB-75,35,40
+sp32,RIG-I-like receptor signaling pathway,9.509262313599999,SNB-75,35,41
+sp43,VEGF signaling pathway,9.402728141339997,SNB-75,35,42
+sp3,Adipocytokine signaling pathway,9.089480087219997,SNB-75,35,43
+sp16,Hedgehog signaling pathway,8.746069509339994,SNB-75,35,44
+sp26,Notch signaling pathway,6.2673166715199935,SNB-75,35,45
+sp29,PPAR signaling pathway,6.225538170067194,SNB-75,35,46
+sp18,Hippo signaling pathway - multiple species,6.127590779599998,SNB-75,35,47
+sp48,p53 signaling pathway,3.0817213546799964,SNB-75,35,48

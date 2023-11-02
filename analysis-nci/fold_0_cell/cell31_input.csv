@@ -1,0 +1,4 @@
+DrugA_idx,DrugA_target_num,DrugA_target_att_sum,DrugB_idx,DrugB_target_num,DrugB_target_att_sum,Cell_idx,Score
+Gefitinib,1.0,0.37041688,Lenalidomide,1.0,0.246264418,SK-MEL-2,-0.4444444444444444
+Megestrol acetate,0.0,0.0,Lenalidomide,1.0,0.246264418,SK-MEL-2,-4.222222222222222
+Megestrol acetate,0.0,0.0,Gefitinib,1.0,0.37041688,SK-MEL-2,-9.444444444444445

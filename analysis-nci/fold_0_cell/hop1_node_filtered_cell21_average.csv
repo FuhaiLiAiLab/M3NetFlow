@@ -1,0 +1,33 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,1.0,NCI-H460,21,1
+sp7,Calcium signaling pathway,0.46021900835499996,NCI-H460,21,2
+sp24,NOD-like receptor signaling pathway,0.4006389112666666,NCI-H460,21,3
+sp37,Sphingolipid signaling pathway,0.3802406467333333,NCI-H460,21,4
+sp5,B cell receptor signaling pathway,0.358002872,NCI-H460,21,5
+sp46,cGMP-PKG signaling pathway,0.34948083732133334,NCI-H460,21,6
+sp32,RIG-I-like receptor signaling pathway,0.18660706274999994,NCI-H460,21,7
+sp33,Rap1 signaling pathway,0.177857459,NCI-H460,21,8
+sp2,AMPK signaling pathway,0.17441999867831692,NCI-H460,21,9
+sp38,T cell receptor signaling pathway,0.10738145439999999,NCI-H460,21,10
+sp29,PPAR signaling pathway,0.09738330564762221,NCI-H460,21,11
+sp6,C-type lectin receptor signaling pathway,0.08884658945,NCI-H460,21,12
+sp42,Toll-like receptor signaling pathway,0.08057679205,NCI-H460,21,13
+sp12,FoxO signaling pathway,0.07751520601499998,NCI-H460,21,14
+sp47,mTOR signaling pathway,0.07677576716955553,NCI-H460,21,15
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.07506486429999995,NCI-H460,21,16
+sp28,PI3K-Akt signaling pathway,0.03002598183650764,NCI-H460,21,17
+sp25,Neurotrophin signaling pathway,0.02901637826999995,NCI-H460,21,18
+sp14,GnRH signaling pathway,0.02508823012999998,NCI-H460,21,19
+sp3,Adipocytokine signaling pathway,0.02489043103,NCI-H460,21,20
+sp23,NF-kappa B signaling pathway,0.022508578039999998,NCI-H460,21,21
+sp20,Insulin signaling pathway,0.01991477663,NCI-H460,21,22
+sp13,Glucagon signaling pathway,0.019222744400000002,NCI-H460,21,23
+sp30,Phospholipase D signaling pathway,0.01603012002099999,NCI-H460,21,24
+sp35,Relaxin signaling pathway,0.01150681016666665,NCI-H460,21,25
+sp21,JAK-STAT signaling pathway,0.010712300134999976,NCI-H460,21,26
+sp44,Wnt signaling pathway,0.009407296558461531,NCI-H460,21,27
+sp48,p53 signaling pathway,0.008966259715000001,NCI-H460,21,28
+sp4,Apelin signaling pathway,0.00866557876399998,NCI-H460,21,29
+sp41,Thyroid hormone signaling pathway,0.008407067813445317,NCI-H460,21,30
+sp22,MAPK signaling pathway,0.006834064881555333,NCI-H460,21,31
+sp45,cAMP signaling pathway,0.005208269629999967,NCI-H460,21,32

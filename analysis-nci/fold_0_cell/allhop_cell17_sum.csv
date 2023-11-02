@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,sum_rank
+sp28,PI3K-Akt signaling pathway,261.0000068052377,MCF7,17,1
+sp22,MAPK signaling pathway,220.00000516028223,MCF7,17,2
+sp34,Ras signaling pathway,171.00000507961786,MCF7,17,3
+sp33,Rap1 signaling pathway,170.00000573612792,MCF7,17,4
+sp45,cAMP signaling pathway,162.00000648396986,MCF7,17,5
+sp7,Calcium signaling pathway,135.00000423413792,MCF7,17,6
+sp44,Wnt signaling pathway,133.00000361769187,MCF7,17,7
+sp17,Hippo signaling pathway,131.0000035738848,MCF7,17,8
+sp47,mTOR signaling pathway,127.00000446941871,MCF7,17,9
+sp8,Chemokine signaling pathway,124.00000399531989,MCF7,17,10
+sp27,Oxytocin signaling pathway,117.00000409733747,MCF7,17,11
+sp46,cGMP-PKG signaling pathway,109.00000680102794,MCF7,17,12
+sp35,Relaxin signaling pathway,102.00000377232995,MCF7,17,13
+sp20,Insulin signaling pathway,101.00000340168316,MCF7,17,14
+sp25,Neurotrophin signaling pathway,100.00000479483593,MCF7,17,15
+sp12,FoxO signaling pathway,96.00000589743392,MCF7,17,16
+sp41,Thyroid hormone signaling pathway,96.00000526337504,MCF7,17,17
+sp4,Apelin signaling pathway,96.00000482279692,MCF7,17,18
+sp21,JAK-STAT signaling pathway,94.00000260999788,MCF7,17,19
+sp36,Signaling pathways regulating pluripotency of stem cells,91.00000263709997,MCF7,17,20
+sp10,Estrogen signaling pathway,89.00000267402322,MCF7,17,21
+sp30,Phospholipase D signaling pathway,86.00000216940397,MCF7,17,22
+sp24,NOD-like receptor signaling pathway,85.00000237380097,MCF7,17,23
+sp15,HIF-1 signaling pathway,81.0000027880158,MCF7,17,24
+sp37,Sphingolipid signaling pathway,77.00000209323413,MCF7,17,25
+sp2,AMPK signaling pathway,75.0000018419431,MCF7,17,26
+sp39,TGF-beta signaling pathway,73.00000243047997,MCF7,17,27
+sp38,T cell receptor signaling pathway,73.00000191831998,MCF7,17,28
+sp6,C-type lectin receptor signaling pathway,72.00000238079997,MCF7,17,29
+sp13,Glucagon signaling pathway,69.00000297881395,MCF7,17,30
+sp14,GnRH signaling pathway,68.00000250867998,MCF7,17,31
+sp48,p53 signaling pathway,65.00000256697994,MCF7,17,32
+sp9,ErbB signaling pathway,64.00000098801998,MCF7,17,33
+sp1,AGE-RAGE signaling pathway in diabetic complications,62.000001835259965,MCF7,17,34
+sp40,TNF signaling pathway,59.00000192939998,MCF7,17,35
+sp23,NF-kappa B signaling pathway,59.00000140677997,MCF7,17,36
+sp31,Prolactin signaling pathway,57.00000201373998,MCF7,17,37
+sp42,Toll-like receptor signaling pathway,57.00000089927998,MCF7,17,38
+sp19,IL-17 signaling pathway,56.00000179901996,MCF7,17,39
+sp5,B cell receptor signaling pathway,52.00000152359999,MCF7,17,40
+sp26,Notch signaling pathway,50.00000203547996,MCF7,17,41
+sp43,VEGF signaling pathway,49.00000183343998,MCF7,17,42
+sp16,Hedgehog signaling pathway,48.000002156419974,MCF7,17,43
+sp29,PPAR signaling pathway,44.000001149118674,MCF7,17,44
+sp3,Adipocytokine signaling pathway,44.000000949439986,MCF7,17,45
+sp11,Fc epsilon RI signaling pathway,42.000001066839985,MCF7,17,46
+sp32,RIG-I-like receptor signaling pathway,40.00000114369999,MCF7,17,47
+sp18,Hippo signaling pathway - multiple species,26.00000100259999,MCF7,17,48

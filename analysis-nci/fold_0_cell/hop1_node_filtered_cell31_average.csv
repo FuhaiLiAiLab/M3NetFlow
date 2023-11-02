@@ -1,0 +1,30 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,1.0,SK-MEL-2,31,1
+sp46,cGMP-PKG signaling pathway,1.0,SK-MEL-2,31,2
+sp37,Sphingolipid signaling pathway,0.55549350675,SK-MEL-2,31,3
+sp24,NOD-like receptor signaling pathway,0.53762017775,SK-MEL-2,31,4
+sp7,Calcium signaling pathway,0.5000000136666666,SK-MEL-2,31,5
+sp5,B cell receptor signaling pathway,0.35842645399999995,SK-MEL-2,31,6
+sp32,RIG-I-like receptor signaling pathway,0.31321961,SK-MEL-2,31,7
+sp22,MAPK signaling pathway,0.17313943996142858,SK-MEL-2,31,8
+sp33,Rap1 signaling pathway,0.1721971535,SK-MEL-2,31,9
+sp2,AMPK signaling pathway,0.10867619980229679,SK-MEL-2,31,10
+sp38,T cell receptor signaling pathway,0.106358107,SK-MEL-2,31,11
+sp4,Apelin signaling pathway,0.09853646928230769,SK-MEL-2,31,12
+sp28,PI3K-Akt signaling pathway,0.0954729872753237,SK-MEL-2,31,13
+sp47,mTOR signaling pathway,0.08247464340866667,SK-MEL-2,31,14
+sp29,PPAR signaling pathway,0.0776299908985714,SK-MEL-2,31,15
+sp35,Relaxin signaling pathway,0.062324718630000005,SK-MEL-2,31,16
+sp42,Toll-like receptor signaling pathway,0.0579596256,SK-MEL-2,31,17
+sp23,NF-kappa B signaling pathway,0.02986320609999995,SK-MEL-2,31,18
+sp3,Adipocytokine signaling pathway,0.025074229899999974,SK-MEL-2,31,19
+sp13,Glucagon signaling pathway,0.024430024800000002,SK-MEL-2,31,20
+sp6,C-type lectin receptor signaling pathway,0.0223754326,SK-MEL-2,31,21
+sp21,JAK-STAT signaling pathway,0.022132373339999997,SK-MEL-2,31,22
+sp20,Insulin signaling pathway,0.0200358198,SK-MEL-2,31,23
+sp30,Phospholipase D signaling pathway,0.016035167436249994,SK-MEL-2,31,24
+sp12,FoxO signaling pathway,0.010664061391874974,SK-MEL-2,31,25
+sp41,Thyroid hormone signaling pathway,0.009818270366072749,SK-MEL-2,31,26
+sp17,Hippo signaling pathway,0.008740606585000001,SK-MEL-2,31,27
+sp44,Wnt signaling pathway,0.007983165752857128,SK-MEL-2,31,28
+sp45,cAMP signaling pathway,0.005154202693333333,SK-MEL-2,31,29

@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,sum_rank
+sp28,PI3K-Akt signaling pathway,80.66871263180622,K-562,14,1
+sp7,Calcium signaling pathway,50.17698010215997,K-562,14,2
+sp22,MAPK signaling pathway,44.41377356466776,K-562,14,3
+sp34,Ras signaling pathway,40.02712056307997,K-562,14,4
+sp33,Rap1 signaling pathway,39.564024230377726,K-562,14,5
+sp47,mTOR signaling pathway,29.29851658052401,K-562,14,6
+sp36,Signaling pathways regulating pluripotency of stem cells,25.14889939657999,K-562,14,7
+sp4,Apelin signaling pathway,24.01310827900938,K-562,14,8
+sp30,Phospholipase D signaling pathway,22.986350676313993,K-562,14,9
+sp45,cAMP signaling pathway,22.74920113329998,K-562,14,10
+sp24,NOD-like receptor signaling pathway,22.70541105608916,K-562,14,11
+sp35,Relaxin signaling pathway,22.371023600093988,K-562,14,12
+sp17,Hippo signaling pathway,22.194149102666135,K-562,14,13
+sp14,GnRH signaling pathway,22.020699758639996,K-562,14,14
+sp44,Wnt signaling pathway,21.308389236899977,K-562,14,15
+sp13,Glucagon signaling pathway,21.03652922515999,K-562,14,16
+sp46,cGMP-PKG signaling pathway,20.52538917223299,K-562,14,17
+sp5,B cell receptor signaling pathway,19.973095111,K-562,14,18
+sp27,Oxytocin signaling pathway,19.584640878697776,K-562,14,19
+sp37,Sphingolipid signaling pathway,18.542067200799995,K-562,14,20
+sp20,Insulin signaling pathway,18.167034782160293,K-562,14,21
+sp10,Estrogen signaling pathway,17.205841479649994,K-562,14,22
+sp38,T cell receptor signaling pathway,16.714503902739995,K-562,14,23
+sp31,Prolactin signaling pathway,15.869259412319996,K-562,14,24
+sp39,TGF-beta signaling pathway,15.626645663879993,K-562,14,25
+sp21,JAK-STAT signaling pathway,15.162727105261972,K-562,14,26
+sp8,Chemokine signaling pathway,15.146389647999982,K-562,14,27
+sp25,Neurotrophin signaling pathway,15.125882202995992,K-562,14,28
+sp12,FoxO signaling pathway,14.331730752299993,K-562,14,29
+sp6,C-type lectin receptor signaling pathway,13.820798558659995,K-562,14,30
+sp40,TNF signaling pathway,12.907485915441997,K-562,14,31
+sp11,Fc epsilon RI signaling pathway,12.647693899439997,K-562,14,32
+sp42,Toll-like receptor signaling pathway,12.233962329979997,K-562,14,33
+sp15,HIF-1 signaling pathway,12.14999360204717,K-562,14,34
+sp9,ErbB signaling pathway,11.884206087899996,K-562,14,35
+sp1,AGE-RAGE signaling pathway in diabetic complications,11.524923247767994,K-562,14,36
+sp2,AMPK signaling pathway,11.3044095122215,K-562,14,37
+sp23,NF-kappa B signaling pathway,9.894362314559997,K-562,14,38
+sp43,VEGF signaling pathway,9.214849603079998,K-562,14,39
+sp41,Thyroid hormone signaling pathway,8.801530784021093,K-562,14,40
+sp19,IL-17 signaling pathway,8.657793431679991,K-562,14,41
+sp16,Hedgehog signaling pathway,8.586275322379997,K-562,14,42
+sp3,Adipocytokine signaling pathway,8.508100156559998,K-562,14,43
+sp32,RIG-I-like receptor signaling pathway,8.436122505599998,K-562,14,44
+sp26,Notch signaling pathway,8.137871442399994,K-562,14,45
+sp29,PPAR signaling pathway,6.691790626505994,K-562,14,46
+sp18,Hippo signaling pathway - multiple species,5.178124548999999,K-562,14,47
+sp48,p53 signaling pathway,3.681939466939996,K-562,14,48

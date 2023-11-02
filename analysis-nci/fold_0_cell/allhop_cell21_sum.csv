@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,sum_rank
+sp28,PI3K-Akt signaling pathway,261.00000938833574,NCI-H460,21,1
+sp22,MAPK signaling pathway,220.00000877113388,NCI-H460,21,2
+sp34,Ras signaling pathway,171.00000553695585,NCI-H460,21,3
+sp33,Rap1 signaling pathway,170.00000588061485,NCI-H460,21,4
+sp45,cAMP signaling pathway,162.00001231176586,NCI-H460,21,5
+sp7,Calcium signaling pathway,135.00000490717994,NCI-H460,21,6
+sp44,Wnt signaling pathway,133.0000049831559,NCI-H460,21,7
+sp17,Hippo signaling pathway,131.00000559157695,NCI-H460,21,8
+sp47,mTOR signaling pathway,127.0000044420315,NCI-H460,21,9
+sp8,Chemokine signaling pathway,124.00000202640787,NCI-H460,21,10
+sp27,Oxytocin signaling pathway,117.00000536402669,NCI-H460,21,11
+sp46,cGMP-PKG signaling pathway,109.00000491321994,NCI-H460,21,12
+sp35,Relaxin signaling pathway,102.00000360460194,NCI-H460,21,13
+sp20,Insulin signaling pathway,101.00000295609605,NCI-H460,21,14
+sp25,Neurotrophin signaling pathway,100.00000474208593,NCI-H460,21,15
+sp41,Thyroid hormone signaling pathway,96.00000371115264,NCI-H460,21,16
+sp4,Apelin signaling pathway,96.00000335666023,NCI-H460,21,17
+sp12,FoxO signaling pathway,96.00000308139992,NCI-H460,21,18
+sp21,JAK-STAT signaling pathway,94.00000451111988,NCI-H460,21,19
+sp36,Signaling pathways regulating pluripotency of stem cells,91.00000263691997,NCI-H460,21,20
+sp10,Estrogen signaling pathway,89.00000220349315,NCI-H460,21,21
+sp30,Phospholipase D signaling pathway,86.00000302032797,NCI-H460,21,22
+sp24,NOD-like receptor signaling pathway,85.00000220934376,NCI-H460,21,23
+sp15,HIF-1 signaling pathway,81.00000245033569,NCI-H460,21,24
+sp37,Sphingolipid signaling pathway,77.00000176652998,NCI-H460,21,25
+sp2,AMPK signaling pathway,75.00000217556361,NCI-H460,21,26
+sp38,T cell receptor signaling pathway,73.00000315167998,NCI-H460,21,27
+sp39,TGF-beta signaling pathway,73.00000252845996,NCI-H460,21,28
+sp6,C-type lectin receptor signaling pathway,72.00000193889797,NCI-H460,21,29
+sp13,Glucagon signaling pathway,69.00000200414756,NCI-H460,21,30
+sp14,GnRH signaling pathway,68.00000156645999,NCI-H460,21,31
+sp48,p53 signaling pathway,65.00000132765994,NCI-H460,21,32
+sp9,ErbB signaling pathway,64.00000208917997,NCI-H460,21,33
+sp1,AGE-RAGE signaling pathway in diabetic complications,62.00000158535996,NCI-H460,21,34
+sp23,NF-kappa B signaling pathway,59.00000205203997,NCI-H460,21,35
+sp40,TNF signaling pathway,59.00000200073998,NCI-H460,21,36
+sp42,Toll-like receptor signaling pathway,57.000002728219975,NCI-H460,21,37
+sp31,Prolactin signaling pathway,57.00000233997998,NCI-H460,21,38
+sp19,IL-17 signaling pathway,56.00000238198796,NCI-H460,21,39
+sp5,B cell receptor signaling pathway,52.00000178959999,NCI-H460,21,40
+sp26,Notch signaling pathway,50.00000022397996,NCI-H460,21,41
+sp43,VEGF signaling pathway,49.000001446079985,NCI-H460,21,42
+sp16,Hedgehog signaling pathway,48.000001312799974,NCI-H460,21,43
+sp29,PPAR signaling pathway,44.000001425800264,NCI-H460,21,44
+sp3,Adipocytokine signaling pathway,44.00000088197998,NCI-H460,21,45
+sp11,Fc epsilon RI signaling pathway,42.00000126719999,NCI-H460,21,46
+sp32,RIG-I-like receptor signaling pathway,40.00000114159999,NCI-H460,21,47
+sp18,Hippo signaling pathway - multiple species,26.00000075859999,NCI-H460,21,48

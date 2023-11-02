@@ -1,0 +1,23 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp2,AMPK signaling pathway,1.0,SK-OV-3,34,1
+sp32,RIG-I-like receptor signaling pathway,0.34517604399999996,SK-OV-3,34,2
+sp5,B cell receptor signaling pathway,0.32283904499999994,SK-OV-3,34,3
+sp38,T cell receptor signaling pathway,0.10337649700000001,SK-OV-3,34,4
+sp42,Toll-like receptor signaling pathway,0.06475363624999998,SK-OV-3,34,5
+sp37,Sphingolipid signaling pathway,0.0397743128,SK-OV-3,34,6
+sp28,PI3K-Akt signaling pathway,0.03823396340833332,SK-OV-3,34,7
+sp24,NOD-like receptor signaling pathway,0.03690508039999995,SK-OV-3,34,8
+sp3,Adipocytokine signaling pathway,0.02672167049999995,SK-OV-3,34,9
+sp47,mTOR signaling pathway,0.022414619766666654,SK-OV-3,34,10
+sp36,Signaling pathways regulating pluripotency of stem cells,0.02142923786,SK-OV-3,34,11
+sp13,Glucagon signaling pathway,0.02060824515,SK-OV-3,34,12
+sp23,NF-kappa B signaling pathway,0.02000152394999995,SK-OV-3,34,13
+sp6,C-type lectin receptor signaling pathway,0.018733490999999998,SK-OV-3,34,14
+sp44,Wnt signaling pathway,0.012647622459999985,SK-OV-3,34,15
+sp35,Relaxin signaling pathway,0.01171852330999995,SK-OV-3,34,16
+sp48,p53 signaling pathway,0.011582252655,SK-OV-3,34,17
+sp39,TGF-beta signaling pathway,0.011258532099999951,SK-OV-3,34,18
+sp21,JAK-STAT signaling pathway,0.010089592264999975,SK-OV-3,34,19
+sp15,HIF-1 signaling pathway,0.007714034430052,SK-OV-3,34,20
+sp4,Apelin signaling pathway,0.007599547254999975,SK-OV-3,34,21
+sp17,Hippo signaling pathway,0.00711303002,SK-OV-3,34,22

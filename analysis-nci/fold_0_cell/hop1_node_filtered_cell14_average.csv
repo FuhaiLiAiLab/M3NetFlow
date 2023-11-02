@@ -1,0 +1,35 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,1.0,K-562,14,1
+sp24,NOD-like receptor signaling pathway,0.53444457705,K-562,14,2
+sp37,Sphingolipid signaling pathway,0.51776017455,K-562,14,3
+sp7,Calcium signaling pathway,0.44858871557499996,K-562,14,4
+sp46,cGMP-PKG signaling pathway,0.34962227304,K-562,14,5
+sp5,B cell receptor signaling pathway,0.303340587,K-562,14,6
+sp32,RIG-I-like receptor signaling pathway,0.19630953389999997,K-562,14,7
+sp2,AMPK signaling pathway,0.17495303331660117,K-562,14,8
+sp47,mTOR signaling pathway,0.1252348499937822,K-562,14,9
+sp38,T cell receptor signaling pathway,0.1132543489,K-562,14,10
+sp33,Rap1 signaling pathway,0.092246154858252,K-562,14,11
+sp42,Toll-like receptor signaling pathway,0.078572020375,K-562,14,12
+sp40,TNF signaling pathway,0.035024798627,K-562,14,13
+sp25,Neurotrophin signaling pathway,0.02853157293,K-562,14,14
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.0275829358,K-562,14,15
+sp28,PI3K-Akt signaling pathway,0.024631239432300868,K-562,14,16
+sp11,Fc epsilon RI signaling pathway,0.024337892299999997,K-562,14,17
+sp3,Adipocytokine signaling pathway,0.0237448727,K-562,14,18
+sp14,GnRH signaling pathway,0.022918905224999994,K-562,14,19
+sp30,Phospholipase D signaling pathway,0.021965195402727265,K-562,14,20
+sp6,C-type lectin receptor signaling pathway,0.0213814757,K-562,14,21
+sp23,NF-kappa B signaling pathway,0.01993667473,K-562,14,22
+sp20,Insulin signaling pathway,0.01919586346,K-562,14,23
+sp13,Glucagon signaling pathway,0.018374479602999982,K-562,14,24
+sp29,PPAR signaling pathway,0.013830948124999966,K-562,14,25
+sp48,p53 signaling pathway,0.0135812298733333,K-562,14,26
+sp12,FoxO signaling pathway,0.011540401944999975,K-562,14,27
+sp35,Relaxin signaling pathway,0.011386359306666668,K-562,14,28
+sp41,Thyroid hormone signaling pathway,0.010067785416972,K-562,14,29
+sp44,Wnt signaling pathway,0.009527018439999984,K-562,14,30
+sp4,Apelin signaling pathway,0.00909259521199999,K-562,14,31
+sp22,MAPK signaling pathway,0.007227016642499962,K-562,14,32
+sp21,JAK-STAT signaling pathway,0.007159259249999983,K-562,14,33
+sp45,cAMP signaling pathway,0.006257059069999975,K-562,14,34

@@ -1,0 +1,31 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,1.0,NCI-H23,20,1
+sp46,cGMP-PKG signaling pathway,1.0,NCI-H23,20,2
+sp37,Sphingolipid signaling pathway,1.0,NCI-H23,20,3
+sp24,NOD-like receptor signaling pathway,0.5185792635,NCI-H23,20,4
+sp7,Calcium signaling pathway,0.448438810225,NCI-H23,20,5
+sp32,RIG-I-like receptor signaling pathway,0.38340352499999997,NCI-H23,20,6
+sp5,B cell receptor signaling pathway,0.35388791299999994,NCI-H23,20,7
+sp2,AMPK signaling pathway,0.255250772598516,NCI-H23,20,8
+sp33,Rap1 signaling pathway,0.18038611059999998,NCI-H23,20,9
+sp29,PPAR signaling pathway,0.1152081735376,NCI-H23,20,10
+sp12,FoxO signaling pathway,0.11214601926499997,NCI-H23,20,11
+sp38,T cell receptor signaling pathway,0.10098190940000001,NCI-H23,20,12
+sp47,mTOR signaling pathway,0.0817883433311111,NCI-H23,20,13
+sp42,Toll-like receptor signaling pathway,0.06718493031499997,NCI-H23,20,14
+sp28,PI3K-Akt signaling pathway,0.051081268499742344,NCI-H23,20,15
+sp40,TNF signaling pathway,0.037891099965,NCI-H23,20,16
+sp35,Relaxin signaling pathway,0.032384494007499987,NCI-H23,20,17
+sp3,Adipocytokine signaling pathway,0.027005934760000003,NCI-H23,20,18
+sp30,Phospholipase D signaling pathway,0.0268130327,NCI-H23,20,19
+sp4,Apelin signaling pathway,0.023897351968333324,NCI-H23,20,20
+sp14,GnRH signaling pathway,0.023781748699999952,NCI-H23,20,21
+sp13,Glucagon signaling pathway,0.02173732048,NCI-H23,20,22
+sp20,Insulin signaling pathway,0.01982947074,NCI-H23,20,23
+sp23,NF-kappa B signaling pathway,0.019484243699999952,NCI-H23,20,24
+sp6,C-type lectin receptor signaling pathway,0.0176076419,NCI-H23,20,25
+sp45,cAMP signaling pathway,0.01565899744,NCI-H23,20,26
+sp41,Thyroid hormone signaling pathway,0.009833408100000201,NCI-H23,20,27
+sp22,MAPK signaling pathway,0.009781893,NCI-H23,20,28
+sp21,JAK-STAT signaling pathway,0.008654456445,NCI-H23,20,29
+sp44,Wnt signaling pathway,0.00784433457153845,NCI-H23,20,30

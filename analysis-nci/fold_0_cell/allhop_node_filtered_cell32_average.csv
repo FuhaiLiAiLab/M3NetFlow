@@ -1,0 +1,45 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,0.50774987817,SK-MEL-28,32,1
+sp2,AMPK signaling pathway,0.504361727581,SK-MEL-28,32,2
+sp24,NOD-like receptor signaling pathway,0.4102341599666666,SK-MEL-28,32,3
+sp5,B cell receptor signaling pathway,0.35797823399999995,SK-MEL-28,32,4
+sp32,RIG-I-like receptor signaling pathway,0.332919129,SK-MEL-28,32,5
+sp46,cGMP-PKG signaling pathway,0.272799283913225,SK-MEL-28,32,6
+sp37,Sphingolipid signaling pathway,0.22886802226,SK-MEL-28,32,7
+sp15,HIF-1 signaling pathway,0.1420913226480001,SK-MEL-28,32,8
+sp7,Calcium signaling pathway,0.1324080583976923,SK-MEL-28,32,9
+sp38,T cell receptor signaling pathway,0.07981060514285714,SK-MEL-28,32,10
+sp31,Prolactin signaling pathway,0.07399835269999999,SK-MEL-28,32,11
+sp9,ErbB signaling pathway,0.06838331145,SK-MEL-28,32,12
+sp47,mTOR signaling pathway,0.03395093434563635,SK-MEL-28,32,13
+sp42,Toll-like receptor signaling pathway,0.029301911139473676,SK-MEL-28,32,14
+sp14,GnRH signaling pathway,0.0292939289381818,SK-MEL-28,32,15
+sp11,Fc epsilon RI signaling pathway,0.02929176468333332,SK-MEL-28,32,16
+sp33,Rap1 signaling pathway,0.028882651954599985,SK-MEL-28,32,17
+sp36,Signaling pathways regulating pluripotency of stem cells,0.02684516898237498,SK-MEL-28,32,18
+sp3,Adipocytokine signaling pathway,0.0263981519,SK-MEL-28,32,19
+sp41,Thyroid hormone signaling pathway,0.026337671528848597,SK-MEL-28,32,20
+sp30,Phospholipase D signaling pathway,0.02575545691235292,SK-MEL-28,32,21
+sp13,Glucagon signaling pathway,0.025430741499999982,SK-MEL-28,32,22
+sp17,Hippo signaling pathway,0.022795785946395333,SK-MEL-28,32,23
+sp25,Neurotrophin signaling pathway,0.022665761185499976,SK-MEL-28,32,24
+sp6,C-type lectin receptor signaling pathway,0.0206857658,SK-MEL-28,32,25
+sp23,NF-kappa B signaling pathway,0.019649218849999976,SK-MEL-28,32,26
+sp40,TNF signaling pathway,0.018461206498749987,SK-MEL-28,32,27
+sp27,Oxytocin signaling pathway,0.017642106454666396,SK-MEL-28,32,28
+sp20,Insulin signaling pathway,0.016242933158761887,SK-MEL-28,32,29
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.016132382176666658,SK-MEL-28,32,30
+sp22,MAPK signaling pathway,0.015892304006195634,SK-MEL-28,32,31
+sp28,PI3K-Akt signaling pathway,0.015781491169877926,SK-MEL-28,32,32
+sp34,Ras signaling pathway,0.014043694768571414,SK-MEL-28,32,33
+sp35,Relaxin signaling pathway,0.013772521109999974,SK-MEL-28,32,34
+sp29,PPAR signaling pathway,0.013503565529999949,SK-MEL-28,32,35
+sp48,p53 signaling pathway,0.012140294559999982,SK-MEL-28,32,36
+sp39,TGF-beta signaling pathway,0.012078458399999999,SK-MEL-28,32,37
+sp19,IL-17 signaling pathway,0.012046778729999983,SK-MEL-28,32,38
+sp8,Chemokine signaling pathway,0.011182240318333316,SK-MEL-28,32,39
+sp4,Apelin signaling pathway,0.009725870248571414,SK-MEL-28,32,40
+sp12,FoxO signaling pathway,0.009642834543333317,SK-MEL-28,32,41
+sp44,Wnt signaling pathway,0.008693398012282595,SK-MEL-28,32,42
+sp45,cAMP signaling pathway,0.007584681266266781,SK-MEL-28,32,43
+sp21,JAK-STAT signaling pathway,0.007565174126,SK-MEL-28,32,44

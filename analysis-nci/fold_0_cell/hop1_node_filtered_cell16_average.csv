@@ -1,0 +1,32 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,1.0,LOX IMVI,16,1
+sp24,NOD-like receptor signaling pathway,0.5176895736,LOX IMVI,16,2
+sp37,Sphingolipid signaling pathway,0.516008344,LOX IMVI,16,3
+sp7,Calcium signaling pathway,0.449475286825,LOX IMVI,16,4
+sp32,RIG-I-like receptor signaling pathway,0.37187375999999994,LOX IMVI,16,5
+sp5,B cell receptor signaling pathway,0.36020527999999996,LOX IMVI,16,6
+sp46,cGMP-PKG signaling pathway,0.34864562732666665,LOX IMVI,16,7
+sp2,AMPK signaling pathway,0.2579264315343898,LOX IMVI,16,8
+sp19,IL-17 signaling pathway,0.22199436423,LOX IMVI,16,9
+sp22,MAPK signaling pathway,0.1773872719,LOX IMVI,16,10
+sp29,PPAR signaling pathway,0.1139707691318,LOX IMVI,16,11
+sp38,T cell receptor signaling pathway,0.11193534299999999,LOX IMVI,16,12
+sp45,cAMP signaling pathway,0.10093062366000001,LOX IMVI,16,13
+sp47,mTOR signaling pathway,0.07605656049633444,LOX IMVI,16,14
+sp42,Toll-like receptor signaling pathway,0.06688243595,LOX IMVI,16,15
+sp25,Neurotrophin signaling pathway,0.0516581865,LOX IMVI,16,16
+sp28,PI3K-Akt signaling pathway,0.028219262965589957,LOX IMVI,16,17
+sp44,Wnt signaling pathway,0.025553935339285704,LOX IMVI,16,18
+sp3,Adipocytokine signaling pathway,0.024681172,LOX IMVI,16,19
+sp14,GnRH signaling pathway,0.019553407199999998,LOX IMVI,16,20
+sp23,NF-kappa B signaling pathway,0.01921273686,LOX IMVI,16,21
+sp20,Insulin signaling pathway,0.0187620108,LOX IMVI,16,22
+sp13,Glucagon signaling pathway,0.017856875135,LOX IMVI,16,23
+sp30,Phospholipase D signaling pathway,0.0172118034392857,LOX IMVI,16,24
+sp6,C-type lectin receptor signaling pathway,0.0170333874,LOX IMVI,16,25
+sp12,FoxO signaling pathway,0.013935273234999976,LOX IMVI,16,26
+sp35,Relaxin signaling pathway,0.010926700683333299,LOX IMVI,16,27
+sp41,Thyroid hormone signaling pathway,0.01023092635000565,LOX IMVI,16,28
+sp48,p53 signaling pathway,0.0088830438625,LOX IMVI,16,29
+sp21,JAK-STAT signaling pathway,0.00846972944999999,LOX IMVI,16,30
+sp4,Apelin signaling pathway,0.008325456935999976,LOX IMVI,16,31

@@ -1,0 +1,32 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp14,GnRH signaling pathway,0.08948062206873562,KM12,15,1
+sp32,RIG-I-like receptor signaling pathway,0.062429915828235275,KM12,15,2
+sp33,Rap1 signaling pathway,0.05930671769709269,KM12,15,3
+sp18,Hippo signaling pathway - multiple species,0.0557726209553846,KM12,15,4
+sp6,C-type lectin receptor signaling pathway,0.04432491054304092,KM12,15,5
+sp31,Prolactin signaling pathway,0.0438629893084941,KM12,15,6
+sp30,Phospholipase D signaling pathway,0.040276950945229255,KM12,15,7
+sp3,Adipocytokine signaling pathway,0.037738786448245604,KM12,15,8
+sp19,IL-17 signaling pathway,0.03724564484187498,KM12,15,9
+sp20,Insulin signaling pathway,0.03618009191779385,KM12,15,10
+sp48,p53 signaling pathway,0.03593432974758619,KM12,15,11
+sp7,Calcium signaling pathway,0.028266221544417464,KM12,15,12
+sp13,Glucagon signaling pathway,0.02684888878699096,KM12,15,13
+sp44,Wnt signaling pathway,0.026114964850466816,KM12,15,14
+sp35,Relaxin signaling pathway,0.025809208306113798,KM12,15,15
+sp46,cGMP-PKG signaling pathway,0.02484040321464162,KM12,15,16
+sp29,PPAR signaling pathway,0.0248260039353862,KM12,15,17
+sp25,Neurotrophin signaling pathway,0.024591000867134845,KM12,15,18
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.024195231744215666,KM12,15,19
+sp34,Ras signaling pathway,0.022795996113406884,KM12,15,20
+sp26,Notch signaling pathway,0.02192979611289236,KM12,15,21
+sp2,AMPK signaling pathway,0.02135429709001305,KM12,15,22
+sp41,Thyroid hormone signaling pathway,0.021194070573299837,KM12,15,23
+sp45,cAMP signaling pathway,0.0200212091657216,KM12,15,24
+sp4,Apelin signaling pathway,0.019007987025750833,KM12,15,25
+sp8,Chemokine signaling pathway,0.01869921158407533,KM12,15,26
+sp17,Hippo signaling pathway,0.017145984330603756,KM12,15,27
+sp22,MAPK signaling pathway,0.017012771951836606,KM12,15,28
+sp12,FoxO signaling pathway,0.014800957303631422,KM12,15,29
+sp28,PI3K-Akt signaling pathway,0.014483439598694572,KM12,15,30
+sp47,mTOR signaling pathway,0.011177905454394219,KM12,15,31

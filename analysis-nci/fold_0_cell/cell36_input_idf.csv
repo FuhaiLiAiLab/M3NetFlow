@@ -1,0 +1,25 @@
+DrugA_idx,DrugA_target_num,DrugA_target_idfatt_sum,DrugB_idx,DrugB_target_num,DrugB_target_idfatt_sum,Cell_idx,Score
+Mitotane,1.0,0.0,Docetaxel,2.0,0.0,SR,31.22222222222222
+Mitotane,1.0,0.0,Cladribine,0.0,0.0,SR,7.333333333333333
+Megestrol acetate,0.0,0.0,Gefitinib,1.0,0.0,SR,5.111111111111111
+Cladribine,0.0,0.0,Celecoxib,0.0,0.0,SR,2.111111111111111
+Gefitinib,1.0,0.0,Lenalidomide,0.0,0.0,SR,0.1111111111111111
+Mitotane,1.0,0.0,Sirolimus,1.0,0.0,SR,-1.7777777777777777
+Fulvestrant,1.0,0.0,Cladribine,0.0,0.0,SR,-3.0
+Fulvestrant,1.0,0.0,Romidepsin,3.0,13.33443915343436,SR,-3.2222222222222223
+Mitotane,1.0,0.0,Everolimus,0.0,0.0,SR,-3.6666666666666665
+Mitotane,1.0,0.0,Tretinoin,0.0,0.0,SR,-4.111111111111111
+Fulvestrant,1.0,0.0,Paclitaxel,2.0,0.0,SR,-4.111111111111111
+Fulvestrant,1.0,0.0,Sirolimus,1.0,0.0,SR,-4.666666666666667
+Tretinoin,0.0,0.0,Celecoxib,0.0,0.0,SR,-6.555555555555555
+Tretinoin,0.0,0.0,Cladribine,0.0,0.0,SR,-8.11111111111111
+Fulvestrant,1.0,0.0,Vorinostat,3.0,13.33443915343436,SR,-8.333333333333334
+Fulvestrant,1.0,0.0,Dasatinib,10.0,7.211982129774266,SR,-8.444444444444445
+Fulvestrant,1.0,0.0,Tretinoin,0.0,0.0,SR,-8.555555555555555
+Mitotane,1.0,0.0,Dasatinib,10.0,7.211982129774266,SR,-11.333333333333334
+Fulvestrant,1.0,0.0,Celecoxib,0.0,0.0,SR,-12.444444444444445
+Mitotane,1.0,0.0,Nilotinib,2.0,7.145468192675453,SR,-12.77777777777778
+Megestrol acetate,0.0,0.0,Lenalidomide,0.0,0.0,SR,-15.444444444444445
+Fulvestrant,1.0,0.0,Nilotinib,2.0,7.145468192675453,SR,-15.555555555555555
+Mitotane,1.0,0.0,Celecoxib,0.0,0.0,SR,-17.0
+Fulvestrant,1.0,0.0,Everolimus,0.0,0.0,SR,-17.0

@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp5,B cell receptor signaling pathway,0.12916314010799998,NCI-H522,22,1
+sp24,NOD-like receptor signaling pathway,0.07345535743975254,NCI-H522,22,2
+sp32,RIG-I-like receptor signaling pathway,0.06750552414342104,NCI-H522,22,3
+sp14,GnRH signaling pathway,0.06601941870943687,NCI-H522,22,4
+sp11,Fc epsilon RI signaling pathway,0.056756758955540526,NCI-H522,22,5
+sp38,T cell receptor signaling pathway,0.05545058812262434,NCI-H522,22,6
+sp18,Hippo signaling pathway - multiple species,0.05327869038401638,NCI-H522,22,7
+sp9,ErbB signaling pathway,0.0510361749665447,NCI-H522,22,8
+sp40,TNF signaling pathway,0.046188594174989585,NCI-H522,22,9
+sp37,Sphingolipid signaling pathway,0.04277264582400942,NCI-H522,22,10
+sp6,C-type lectin receptor signaling pathway,0.042091952644787066,NCI-H522,22,11
+sp42,Toll-like receptor signaling pathway,0.041763507142688575,NCI-H522,22,12
+sp31,Prolactin signaling pathway,0.04005685732918366,NCI-H522,22,13
+sp30,Phospholipase D signaling pathway,0.039667898035368986,NCI-H522,22,14
+sp36,Signaling pathways regulating pluripotency of stem cells,0.03907798271463596,NCI-H522,22,15
+sp43,VEGF signaling pathway,0.037388757591139014,NCI-H522,22,16
+sp3,Adipocytokine signaling pathway,0.0371492260775541,NCI-H522,22,17
+sp20,Insulin signaling pathway,0.037073683958790835,NCI-H522,22,18
+sp39,TGF-beta signaling pathway,0.03606587246444107,NCI-H522,22,19
+sp16,Hedgehog signaling pathway,0.03439197302402596,NCI-H522,22,20
+sp23,NF-kappa B signaling pathway,0.03376746315368114,NCI-H522,22,21
+sp7,Calcium signaling pathway,0.03341303414923514,NCI-H522,22,22
+sp10,Estrogen signaling pathway,0.028531846110954287,NCI-H522,22,23
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.028360866472485396,NCI-H522,22,24
+sp27,Oxytocin signaling pathway,0.026946108908581755,NCI-H522,22,25
+sp13,Glucagon signaling pathway,0.026902065375473405,NCI-H522,22,26
+sp35,Relaxin signaling pathway,0.026781998420385218,NCI-H522,22,27
+sp46,cGMP-PKG signaling pathway,0.0259929942003976,NCI-H522,22,28
+sp2,AMPK signaling pathway,0.02469738434176176,NCI-H522,22,29
+sp47,mTOR signaling pathway,0.024349108679857186,NCI-H522,22,30
+sp25,Neurotrophin signaling pathway,0.02367338910493962,NCI-H522,22,31
+sp34,Ras signaling pathway,0.02339644277004226,NCI-H522,22,32
+sp33,Rap1 signaling pathway,0.023303064016306524,NCI-H522,22,33
+sp29,PPAR signaling pathway,0.023255814774930213,NCI-H522,22,34
+sp19,IL-17 signaling pathway,0.023051965735997375,NCI-H522,22,35
+sp15,HIF-1 signaling pathway,0.02280166947154513,NCI-H522,22,36
+sp48,p53 signaling pathway,0.021837711746685376,NCI-H522,22,37
+sp26,Notch signaling pathway,0.02063158575281461,NCI-H522,22,38
+sp4,Apelin signaling pathway,0.01982613680121957,NCI-H522,22,39
+sp22,MAPK signaling pathway,0.019340516453746483,NCI-H522,22,40
+sp41,Thyroid hormone signaling pathway,0.019119040155976326,NCI-H522,22,41
+sp12,FoxO signaling pathway,0.019092893033375184,NCI-H522,22,42
+sp17,Hippo signaling pathway,0.016632809410903837,NCI-H522,22,43
+sp28,PI3K-Akt signaling pathway,0.016486862582752705,NCI-H522,22,44
+sp44,Wnt signaling pathway,0.016265983097058425,NCI-H522,22,45
+sp45,cAMP signaling pathway,0.016204708457191724,NCI-H522,22,46
+sp8,Chemokine signaling pathway,0.015688998110587812,NCI-H522,22,47
+sp21,JAK-STAT signaling pathway,0.014864418335408594,NCI-H522,22,48

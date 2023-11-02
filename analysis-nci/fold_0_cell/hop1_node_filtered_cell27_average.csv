@@ -1,0 +1,34 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,1.0,RPMI-8226,27,1
+sp24,NOD-like receptor signaling pathway,0.55590205415,RPMI-8226,27,2
+sp37,Sphingolipid signaling pathway,0.51968763525,RPMI-8226,27,3
+sp7,Calcium signaling pathway,0.4359672574,RPMI-8226,27,4
+sp46,cGMP-PKG signaling pathway,0.3499381705833333,RPMI-8226,27,5
+sp5,B cell receptor signaling pathway,0.290090046,RPMI-8226,27,6
+sp2,AMPK signaling pathway,0.25670869151234876,RPMI-8226,27,7
+sp36,Signaling pathways regulating pluripotency of stem cells,0.24410496539999998,RPMI-8226,27,8
+sp8,Chemokine signaling pathway,0.23713577023000001,RPMI-8226,27,9
+sp32,RIG-I-like receptor signaling pathway,0.2050167542,RPMI-8226,27,10
+sp29,PPAR signaling pathway,0.14113045882250003,RPMI-8226,27,11
+sp38,T cell receptor signaling pathway,0.110086971,RPMI-8226,27,12
+sp17,Hippo signaling pathway,0.09965185772199997,RPMI-8226,27,13
+sp47,mTOR signaling pathway,0.09444635742766382,RPMI-8226,27,14
+sp42,Toll-like receptor signaling pathway,0.085628359125,RPMI-8226,27,15
+sp44,Wnt signaling pathway,0.05464010344272725,RPMI-8226,27,16
+sp28,PI3K-Akt signaling pathway,0.027457351934111033,RPMI-8226,27,17
+sp3,Adipocytokine signaling pathway,0.02566148269999995,RPMI-8226,27,18
+sp23,NF-kappa B signaling pathway,0.0246621226,RPMI-8226,27,19
+sp13,Glucagon signaling pathway,0.02386949507,RPMI-8226,27,20
+sp6,C-type lectin receptor signaling pathway,0.023521657799999998,RPMI-8226,27,21
+sp25,Neurotrophin signaling pathway,0.021934885100000003,RPMI-8226,27,22
+sp14,GnRH signaling pathway,0.02059185534999997,RPMI-8226,27,23
+sp20,Insulin signaling pathway,0.02008117024999995,RPMI-8226,27,24
+sp30,Phospholipase D signaling pathway,0.017474784854999995,RPMI-8226,27,25
+sp33,Rap1 signaling pathway,0.017286753192060002,RPMI-8226,27,26
+sp35,Relaxin signaling pathway,0.013598723719999968,RPMI-8226,27,27
+sp4,Apelin signaling pathway,0.011054356769999989,RPMI-8226,27,28
+sp12,FoxO signaling pathway,0.009605150537499987,RPMI-8226,27,29
+sp48,p53 signaling pathway,0.0088433936,RPMI-8226,27,30
+sp21,JAK-STAT signaling pathway,0.0081024018785,RPMI-8226,27,31
+sp22,MAPK signaling pathway,0.007941960769999984,RPMI-8226,27,32
+sp45,cAMP signaling pathway,0.006169989826666633,RPMI-8226,27,33

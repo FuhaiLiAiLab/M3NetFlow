@@ -1,0 +1,4 @@
+DrugA_idx,DrugA_target_num,DrugA_target_att_sum,DrugB_idx,DrugB_target_num,DrugB_target_att_sum,Cell_idx,Score,index1,Drug,Target,node_num,node_name,node_type,att_deg
+1496.0,1.0,0.37041688,1497.0,1.0,0.246264418,SK-MEL-2,-0.4444444444444444,1768,1496,372,372.0,EGFR,gene,0.37041688
+1498.0,0.0,0.0,1497.0,1.0,0.246264418,SK-MEL-2,-4.222222222222222,2531,1498,980,,,,
+1498.0,0.0,0.0,1496.0,1.0,0.37041688,SK-MEL-2,-9.444444444444445,242,1498,980,,,,

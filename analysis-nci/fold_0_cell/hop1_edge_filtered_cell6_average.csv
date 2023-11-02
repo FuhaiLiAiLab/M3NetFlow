@@ -1,0 +1,38 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp14,GnRH signaling pathway,0.07348185470707069,DU-145,6,1
+sp32,RIG-I-like receptor signaling pathway,0.0689874330162371,DU-145,6,2
+sp24,NOD-like receptor signaling pathway,0.0650712959364228,DU-145,6,3
+sp38,T cell receptor signaling pathway,0.056231504727696516,DU-145,6,4
+sp36,Signaling pathways regulating pluripotency of stem cells,0.04877035617217685,DU-145,6,5
+sp37,Sphingolipid signaling pathway,0.04527263046677964,DU-145,6,6
+sp43,VEGF signaling pathway,0.04383695847971263,DU-145,6,7
+sp30,Phospholipase D signaling pathway,0.04249609730531006,DU-145,6,8
+sp6,C-type lectin receptor signaling pathway,0.040094213111386126,DU-145,6,9
+sp42,Toll-like receptor signaling pathway,0.03952385235713465,DU-145,6,10
+sp31,Prolactin signaling pathway,0.03769841423082009,DU-145,6,11
+sp3,Adipocytokine signaling pathway,0.036579926367368405,DU-145,6,12
+sp7,Calcium signaling pathway,0.036422996249617104,DU-145,6,13
+sp13,Glucagon signaling pathway,0.03330693192988267,DU-145,6,14
+sp23,NF-kappa B signaling pathway,0.030937252080318167,DU-145,6,15
+sp46,cGMP-PKG signaling pathway,0.03090953017766665,DU-145,6,16
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.030108621218088223,DU-145,6,17
+sp33,Rap1 signaling pathway,0.029638917374192032,DU-145,6,18
+sp39,TGF-beta signaling pathway,0.029246200282079755,DU-145,6,19
+sp25,Neurotrophin signaling pathway,0.029004189410853067,DU-145,6,20
+sp16,Hedgehog signaling pathway,0.025060707642095222,DU-145,6,21
+sp12,FoxO signaling pathway,0.023639800206991857,DU-145,6,22
+sp44,Wnt signaling pathway,0.021890382375439787,DU-145,6,23
+sp2,AMPK signaling pathway,0.021160339136867472,DU-145,6,24
+sp35,Relaxin signaling pathway,0.021008124332332546,DU-145,6,25
+sp4,Apelin signaling pathway,0.02061096758345885,DU-145,6,26
+sp19,IL-17 signaling pathway,0.018291217868263054,DU-145,6,27
+sp15,HIF-1 signaling pathway,0.01772158683205398,DU-145,6,28
+sp47,mTOR signaling pathway,0.01769496033155554,DU-145,6,29
+sp41,Thyroid hormone signaling pathway,0.017591556804369635,DU-145,6,30
+sp22,MAPK signaling pathway,0.01738823930993725,DU-145,6,31
+sp45,cAMP signaling pathway,0.016272525379816553,DU-145,6,32
+sp28,PI3K-Akt signaling pathway,0.016089370680449154,DU-145,6,33
+sp17,Hippo signaling pathway,0.01535863655169977,DU-145,6,34
+sp48,p53 signaling pathway,0.013409062853406097,DU-145,6,35
+sp8,Chemokine signaling pathway,0.013044807948155398,DU-145,6,36
+sp21,JAK-STAT signaling pathway,0.010937986281924385,DU-145,6,37

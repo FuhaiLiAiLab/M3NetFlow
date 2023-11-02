@@ -1,0 +1,29 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp18,Hippo signaling pathway - multiple species,0.05216906335330577,PC-3,26,1
+sp6,C-type lectin receptor signaling pathway,0.04403560225986393,PC-3,26,2
+sp46,cGMP-PKG signaling pathway,0.043695636982734806,PC-3,26,3
+sp36,Signaling pathways regulating pluripotency of stem cells,0.04301430760356861,PC-3,26,4
+sp37,Sphingolipid signaling pathway,0.039376346468285195,PC-3,26,5
+sp3,Adipocytokine signaling pathway,0.039120497643859636,PC-3,26,6
+sp42,Toll-like receptor signaling pathway,0.03793744856548021,PC-3,26,7
+sp16,Hedgehog signaling pathway,0.029789237969406766,PC-3,26,8
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.029087921533578417,PC-3,26,9
+sp23,NF-kappa B signaling pathway,0.02673914131275957,PC-3,26,10
+sp27,Oxytocin signaling pathway,0.026425022981227814,PC-3,26,11
+sp7,Calcium signaling pathway,0.024258873615188664,PC-3,26,12
+sp2,AMPK signaling pathway,0.022785807875291487,PC-3,26,13
+sp13,Glucagon signaling pathway,0.022709512793759566,PC-3,26,14
+sp12,FoxO signaling pathway,0.022634822760430877,PC-3,26,15
+sp4,Apelin signaling pathway,0.021946260174371103,PC-3,26,16
+sp15,HIF-1 signaling pathway,0.021374336787278403,PC-3,26,17
+sp22,MAPK signaling pathway,0.020568033456514166,PC-3,26,18
+sp47,mTOR signaling pathway,0.02041657555475564,PC-3,26,19
+sp34,Ras signaling pathway,0.020341943791259042,PC-3,26,20
+sp41,Thyroid hormone signaling pathway,0.020242554773903906,PC-3,26,21
+sp8,Chemokine signaling pathway,0.019240774679736287,PC-3,26,22
+sp45,cAMP signaling pathway,0.018839912168703985,PC-3,26,23
+sp17,Hippo signaling pathway,0.017132755920841392,PC-3,26,24
+sp44,Wnt signaling pathway,0.014968863105147754,PC-3,26,25
+sp33,Rap1 signaling pathway,0.014944511393907452,PC-3,26,26
+sp21,JAK-STAT signaling pathway,0.014856727123461522,PC-3,26,27
+sp28,PI3K-Akt signaling pathway,0.012872153050986596,PC-3,26,28

@@ -1,0 +1,30 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp11,Fc epsilon RI signaling pathway,0.07676981208103448,OVCAR-3,23,1
+sp14,GnRH signaling pathway,0.057904795766717775,OVCAR-3,23,2
+sp3,Adipocytokine signaling pathway,0.050945463526718734,OVCAR-3,23,3
+sp36,Signaling pathways regulating pluripotency of stem cells,0.049206752721954086,OVCAR-3,23,4
+sp43,VEGF signaling pathway,0.04900698358580245,OVCAR-3,23,5
+sp6,C-type lectin receptor signaling pathway,0.043804970411164004,OVCAR-3,23,6
+sp37,Sphingolipid signaling pathway,0.0434211705721604,OVCAR-3,23,7
+sp42,Toll-like receptor signaling pathway,0.03672793608578753,OVCAR-3,23,8
+sp27,Oxytocin signaling pathway,0.0365604523370353,OVCAR-3,23,9
+sp46,cGMP-PKG signaling pathway,0.03238077368544914,OVCAR-3,23,10
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.032121132533480375,OVCAR-3,23,11
+sp47,mTOR signaling pathway,0.025948592218936577,OVCAR-3,23,12
+sp7,Calcium signaling pathway,0.02483367797790321,OVCAR-3,23,13
+sp10,Estrogen signaling pathway,0.024451690431976453,OVCAR-3,23,14
+sp15,HIF-1 signaling pathway,0.023232703125040943,OVCAR-3,23,15
+sp41,Thyroid hormone signaling pathway,0.02316542976780176,OVCAR-3,23,16
+sp4,Apelin signaling pathway,0.02085034249787268,OVCAR-3,23,17
+sp48,p53 signaling pathway,0.020818961728092472,OVCAR-3,23,18
+sp12,FoxO signaling pathway,0.02038794563625434,OVCAR-3,23,19
+sp44,Wnt signaling pathway,0.01968443703582228,OVCAR-3,23,20
+sp45,cAMP signaling pathway,0.01887031050283309,OVCAR-3,23,21
+sp34,Ras signaling pathway,0.018312488161609585,OVCAR-3,23,22
+sp22,MAPK signaling pathway,0.017376149744800503,OVCAR-3,23,23
+sp17,Hippo signaling pathway,0.01729101336235521,OVCAR-3,23,24
+sp2,AMPK signaling pathway,0.016036400122668003,OVCAR-3,23,25
+sp21,JAK-STAT signaling pathway,0.0144258515858846,OVCAR-3,23,26
+sp8,Chemokine signaling pathway,0.013931573341386973,OVCAR-3,23,27
+sp28,PI3K-Akt signaling pathway,0.01385049826505351,OVCAR-3,23,28
+sp33,Rap1 signaling pathway,0.012615187335888737,OVCAR-3,23,29

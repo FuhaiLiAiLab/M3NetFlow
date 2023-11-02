@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp5,B cell receptor signaling pathway,0.12688149575578947,RPMI-8226,27,1
+sp24,NOD-like receptor signaling pathway,0.0767135715536456,RPMI-8226,27,2
+sp32,RIG-I-like receptor signaling pathway,0.0670405136476821,RPMI-8226,27,3
+sp14,GnRH signaling pathway,0.06601941887636892,RPMI-8226,27,4
+sp11,Fc epsilon RI signaling pathway,0.05675675872689188,RPMI-8226,27,5
+sp38,T cell receptor signaling pathway,0.05625680869859783,RPMI-8226,27,6
+sp18,Hippo signaling pathway - multiple species,0.056184929890822764,RPMI-8226,27,7
+sp9,ErbB signaling pathway,0.048212302742604546,RPMI-8226,27,8
+sp40,TNF signaling pathway,0.04574952331828219,RPMI-8226,27,9
+sp37,Sphingolipid signaling pathway,0.043650795129297044,RPMI-8226,27,10
+sp36,Signaling pathways regulating pluripotency of stem cells,0.04115161555511608,RPMI-8226,27,11
+sp42,Toll-like receptor signaling pathway,0.04062788619956671,RPMI-8226,27,12
+sp30,Phospholipase D signaling pathway,0.040313413121652965,RPMI-8226,27,13
+sp6,C-type lectin receptor signaling pathway,0.04020467713644155,RPMI-8226,27,14
+sp16,Hedgehog signaling pathway,0.0387118879485465,RPMI-8226,27,15
+sp31,Prolactin signaling pathway,0.03779676660138074,RPMI-8226,27,16
+sp43,VEGF signaling pathway,0.036950241647840366,RPMI-8226,27,17
+sp23,NF-kappa B signaling pathway,0.03558187125175125,RPMI-8226,27,18
+sp20,Insulin signaling pathway,0.03552736772813823,RPMI-8226,27,19
+sp39,TGF-beta signaling pathway,0.03383288716876306,RPMI-8226,27,20
+sp7,Calcium signaling pathway,0.03191077318206937,RPMI-8226,27,21
+sp3,Adipocytokine signaling pathway,0.03173244227362287,RPMI-8226,27,22
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.02904604682365713,RPMI-8226,27,23
+sp10,Estrogen signaling pathway,0.02863578024620333,RPMI-8226,27,24
+sp46,cGMP-PKG signaling pathway,0.02776394527216946,RPMI-8226,27,25
+sp35,Relaxin signaling pathway,0.026949620599374984,RPMI-8226,27,26
+sp27,Oxytocin signaling pathway,0.026946108649752592,RPMI-8226,27,27
+sp13,Glucagon signaling pathway,0.025862069934073077,RPMI-8226,27,28
+sp2,AMPK signaling pathway,0.025236382983560967,RPMI-8226,27,29
+sp47,mTOR signaling pathway,0.024137364188575827,RPMI-8226,27,30
+sp25,Neurotrophin signaling pathway,0.02405964037095848,RPMI-8226,27,31
+sp29,PPAR signaling pathway,0.023255814552813937,RPMI-8226,27,32
+sp15,HIF-1 signaling pathway,0.023169337282344722,RPMI-8226,27,33
+sp34,Ras signaling pathway,0.022447505405862638,RPMI-8226,27,34
+sp19,IL-17 signaling pathway,0.022300665102986287,RPMI-8226,27,35
+sp33,Rap1 signaling pathway,0.02000402553926016,RPMI-8226,27,36
+sp4,Apelin signaling pathway,0.019828711709179207,RPMI-8226,27,37
+sp22,MAPK signaling pathway,0.01908164107693155,RPMI-8226,27,38
+sp26,Notch signaling pathway,0.018950640751568607,RPMI-8226,27,39
+sp41,Thyroid hormone signaling pathway,0.018818149543449278,RPMI-8226,27,40
+sp12,FoxO signaling pathway,0.018636055765444245,RPMI-8226,27,41
+sp48,p53 signaling pathway,0.01841359873888384,RPMI-8226,27,42
+sp44,Wnt signaling pathway,0.016931728115421013,RPMI-8226,27,43
+sp45,cAMP signaling pathway,0.016838866135363464,RPMI-8226,27,44
+sp28,PI3K-Akt signaling pathway,0.016109319758593314,RPMI-8226,27,45
+sp17,Hippo signaling pathway,0.01598721912937866,RPMI-8226,27,46
+sp8,Chemokine signaling pathway,0.015392772403940422,RPMI-8226,27,47
+sp21,JAK-STAT signaling pathway,0.013213174755631855,RPMI-8226,27,48

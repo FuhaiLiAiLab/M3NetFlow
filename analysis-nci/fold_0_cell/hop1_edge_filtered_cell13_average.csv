@@ -1,0 +1,37 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp14,GnRH signaling pathway,0.09056006319297752,IGROV1,13,1
+sp38,T cell receptor signaling pathway,0.07520360107733332,IGROV1,13,2
+sp24,NOD-like receptor signaling pathway,0.06910598244139099,IGROV1,13,3
+sp32,RIG-I-like receptor signaling pathway,0.0662248936477941,IGROV1,13,4
+sp40,TNF signaling pathway,0.0573023922290104,IGROV1,13,5
+sp18,Hippo signaling pathway - multiple species,0.05580834634942527,IGROV1,13,6
+sp6,C-type lectin receptor signaling pathway,0.04031748575683793,IGROV1,13,7
+sp31,Prolactin signaling pathway,0.03769841348055554,IGROV1,13,8
+sp3,Adipocytokine signaling pathway,0.03660659108412279,IGROV1,13,9
+sp43,VEGF signaling pathway,0.034913973340947355,IGROV1,13,10
+sp36,Signaling pathways regulating pluripotency of stem cells,0.03471744810217741,IGROV1,13,11
+sp30,Phospholipase D signaling pathway,0.033329523180360345,IGROV1,13,12
+sp39,TGF-beta signaling pathway,0.03236676651491303,IGROV1,13,13
+sp13,Glucagon signaling pathway,0.0323477648962064,IGROV1,13,14
+sp37,Sphingolipid signaling pathway,0.032185303639183656,IGROV1,13,15
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.029153837513529398,IGROV1,13,16
+sp47,mTOR signaling pathway,0.02770972296278947,IGROV1,13,17
+sp23,NF-kappa B signaling pathway,0.02752841631833331,IGROV1,13,18
+sp7,Calcium signaling pathway,0.027266538293687317,IGROV1,13,19
+sp16,Hedgehog signaling pathway,0.026213744692576674,IGROV1,13,20
+sp33,Rap1 signaling pathway,0.025399405965321257,IGROV1,13,21
+sp35,Relaxin signaling pathway,0.025136335899027012,IGROV1,13,22
+sp25,Neurotrophin signaling pathway,0.024241331061932266,IGROV1,13,23
+sp46,cGMP-PKG signaling pathway,0.023071870996093282,IGROV1,13,24
+sp2,AMPK signaling pathway,0.02054765765495082,IGROV1,13,25
+sp19,IL-17 signaling pathway,0.01998283634514137,IGROV1,13,26
+sp4,Apelin signaling pathway,0.019662506038377863,IGROV1,13,27
+sp48,p53 signaling pathway,0.019510772881896534,IGROV1,13,28
+sp12,FoxO signaling pathway,0.018205267161978306,IGROV1,13,29
+sp8,Chemokine signaling pathway,0.017989200328123272,IGROV1,13,30
+sp22,MAPK signaling pathway,0.01727059027326435,IGROV1,13,31
+sp45,cAMP signaling pathway,0.017034150099102308,IGROV1,13,32
+sp44,Wnt signaling pathway,0.014037459949891098,IGROV1,13,33
+sp28,PI3K-Akt signaling pathway,0.0136109779462293,IGROV1,13,34
+sp17,Hippo signaling pathway,0.013514823289943365,IGROV1,13,35
+sp21,JAK-STAT signaling pathway,0.009078364886472708,IGROV1,13,36

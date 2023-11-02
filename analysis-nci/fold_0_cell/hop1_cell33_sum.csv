@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,sum_rank
+sp28,PI3K-Akt signaling pathway,73.80660986133432,SK-MEL-5,33,1
+sp7,Calcium signaling pathway,52.252505130159975,SK-MEL-5,33,2
+sp22,MAPK signaling pathway,45.22433276383256,SK-MEL-5,33,3
+sp33,Rap1 signaling pathway,43.00417950869525,SK-MEL-5,33,4
+sp34,Ras signaling pathway,36.35450035062197,SK-MEL-5,33,5
+sp36,Signaling pathways regulating pluripotency of stem cells,28.597955942299986,SK-MEL-5,33,6
+sp44,Wnt signaling pathway,26.59490181404398,SK-MEL-5,33,7
+sp47,mTOR signaling pathway,26.301282696377985,SK-MEL-5,33,8
+sp4,Apelin signaling pathway,23.24050601509998,SK-MEL-5,33,9
+sp35,Relaxin signaling pathway,23.23043123669999,SK-MEL-5,33,10
+sp17,Hippo signaling pathway,22.631868646164417,SK-MEL-5,33,11
+sp30,Phospholipase D signaling pathway,21.993931776499995,SK-MEL-5,33,12
+sp14,GnRH signaling pathway,21.721978703939996,SK-MEL-5,33,13
+sp24,NOD-like receptor signaling pathway,21.697608700703928,SK-MEL-5,33,14
+sp45,cAMP signaling pathway,21.424140480687182,SK-MEL-5,33,15
+sp46,cGMP-PKG signaling pathway,20.473124648279192,SK-MEL-5,33,16
+sp21,JAK-STAT signaling pathway,20.155194933019978,SK-MEL-5,33,17
+sp20,Insulin signaling pathway,19.978722226053993,SK-MEL-5,33,18
+sp5,B cell receptor signaling pathway,19.635309427399996,SK-MEL-5,33,19
+sp10,Estrogen signaling pathway,18.152574387319994,SK-MEL-5,33,20
+sp27,Oxytocin signaling pathway,18.046862229124695,SK-MEL-5,33,21
+sp37,Sphingolipid signaling pathway,17.853846751279992,SK-MEL-5,33,22
+sp38,T cell receptor signaling pathway,17.49574651146,SK-MEL-5,33,23
+sp8,Chemokine signaling pathway,15.080388217205986,SK-MEL-5,33,24
+sp12,FoxO signaling pathway,14.880716537599993,SK-MEL-5,33,25
+sp39,TGF-beta signaling pathway,14.556350610399996,SK-MEL-5,33,26
+sp13,Glucagon signaling pathway,14.14476750092799,SK-MEL-5,33,27
+sp42,Toll-like receptor signaling pathway,13.834408815199996,SK-MEL-5,33,28
+sp25,Neurotrophin signaling pathway,13.480075136085992,SK-MEL-5,33,29
+sp6,C-type lectin receptor signaling pathway,13.355378492839995,SK-MEL-5,33,30
+sp9,ErbB signaling pathway,12.924687425639997,SK-MEL-5,33,31
+sp40,TNF signaling pathway,12.729463354339996,SK-MEL-5,33,32
+sp1,AGE-RAGE signaling pathway in diabetic complications,12.317604718999993,SK-MEL-5,33,33
+sp2,AMPK signaling pathway,11.990119656526792,SK-MEL-5,33,34
+sp11,Fc epsilon RI signaling pathway,11.978856959399996,SK-MEL-5,33,35
+sp15,HIF-1 signaling pathway,11.87834275062018,SK-MEL-5,33,36
+sp31,Prolactin signaling pathway,10.451651497719997,SK-MEL-5,33,37
+sp43,VEGF signaling pathway,10.120111084699998,SK-MEL-5,33,38
+sp23,NF-kappa B signaling pathway,9.769143924859994,SK-MEL-5,33,39
+sp19,IL-17 signaling pathway,8.889188890359994,SK-MEL-5,33,40
+sp41,Thyroid hormone signaling pathway,8.693525212609341,SK-MEL-5,33,41
+sp32,RIG-I-like receptor signaling pathway,8.374459511699998,SK-MEL-5,33,42
+sp16,Hedgehog signaling pathway,8.309119962219995,SK-MEL-5,33,43
+sp3,Adipocytokine signaling pathway,7.868278829179997,SK-MEL-5,33,44
+sp26,Notch signaling pathway,7.198837718019993,SK-MEL-5,33,45
+sp18,Hippo signaling pathway - multiple species,6.325491630399998,SK-MEL-5,33,46
+sp29,PPAR signaling pathway,6.167067306387594,SK-MEL-5,33,47
+sp48,p53 signaling pathway,5.448315582839998,SK-MEL-5,33,48

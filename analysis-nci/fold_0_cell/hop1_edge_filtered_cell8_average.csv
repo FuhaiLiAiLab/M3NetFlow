@@ -1,0 +1,35 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp14,GnRH signaling pathway,0.0647300592135294,HCT-116,8,1
+sp32,RIG-I-like receptor signaling pathway,0.06363725362578124,HCT-116,8,2
+sp38,T cell receptor signaling pathway,0.059693535103180706,HCT-116,8,3
+sp37,Sphingolipid signaling pathway,0.04656611162933578,HCT-116,8,4
+sp9,ErbB signaling pathway,0.043876335998818475,HCT-116,8,5
+sp42,Toll-like receptor signaling pathway,0.04299438181904016,HCT-116,8,6
+sp30,Phospholipase D signaling pathway,0.04009519027779912,HCT-116,8,7
+sp3,Adipocytokine signaling pathway,0.03874629870394735,HCT-116,8,8
+sp31,Prolactin signaling pathway,0.03769841401031745,HCT-116,8,9
+sp36,Signaling pathways regulating pluripotency of stem cells,0.03716199471346938,HCT-116,8,10
+sp20,Insulin signaling pathway,0.033966443323935655,HCT-116,8,11
+sp47,mTOR signaling pathway,0.03288456640216349,HCT-116,8,12
+sp7,Calcium signaling pathway,0.03055147623721334,HCT-116,8,13
+sp46,cGMP-PKG signaling pathway,0.027389741978971413,HCT-116,8,14
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.024575254913578416,HCT-116,8,15
+sp8,Chemokine signaling pathway,0.024505164248019587,HCT-116,8,16
+sp35,Relaxin signaling pathway,0.02343890764098789,HCT-116,8,17
+sp25,Neurotrophin signaling pathway,0.022786528250332807,HCT-116,8,18
+sp2,AMPK signaling pathway,0.022654093460994604,HCT-116,8,19
+sp33,Rap1 signaling pathway,0.02164010575913048,HCT-116,8,20
+sp15,HIF-1 signaling pathway,0.021388131691815512,HCT-116,8,21
+sp44,Wnt signaling pathway,0.02130511366911546,HCT-116,8,22
+sp12,FoxO signaling pathway,0.021221171716434412,HCT-116,8,23
+sp34,Ras signaling pathway,0.02109006559478377,HCT-116,8,24
+sp13,Glucagon signaling pathway,0.02055840046585019,HCT-116,8,25
+sp19,IL-17 signaling pathway,0.020355460562230202,HCT-116,8,26
+sp41,Thyroid hormone signaling pathway,0.019545254884168722,HCT-116,8,27
+sp17,Hippo signaling pathway,0.01953838353704339,HCT-116,8,28
+sp48,p53 signaling pathway,0.019157024067899146,HCT-116,8,29
+sp4,Apelin signaling pathway,0.01904129415157466,HCT-116,8,30
+sp22,MAPK signaling pathway,0.018267873520408474,HCT-116,8,31
+sp45,cAMP signaling pathway,0.01788066405708726,HCT-116,8,32
+sp28,PI3K-Akt signaling pathway,0.012512630498078103,HCT-116,8,33
+sp21,JAK-STAT signaling pathway,0.008859660869372924,HCT-116,8,34

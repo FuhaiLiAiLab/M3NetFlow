@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,sum_rank
+sp28,PI3K-Akt signaling pathway,96.99200329254288,A549/ATCC,2,1
+sp7,Calcium signaling pathway,53.298550801253974,A549/ATCC,2,2
+sp22,MAPK signaling pathway,48.97595435646962,A549/ATCC,2,3
+sp33,Rap1 signaling pathway,47.35100553026051,A549/ATCC,2,4
+sp34,Ras signaling pathway,44.04409728341597,A549/ATCC,2,5
+sp21,JAK-STAT signaling pathway,28.459036391819975,A549/ATCC,2,6
+sp36,Signaling pathways regulating pluripotency of stem cells,26.96667491553999,A549/ATCC,2,7
+sp47,mTOR signaling pathway,26.919381527923985,A549/ATCC,2,8
+sp24,NOD-like receptor signaling pathway,24.33835063026591,A549/ATCC,2,9
+sp35,Relaxin signaling pathway,23.558637939479986,A549/ATCC,2,10
+sp4,Apelin signaling pathway,23.301766559873784,A549/ATCC,2,11
+sp45,cAMP signaling pathway,22.24837712899398,A549/ATCC,2,12
+sp44,Wnt signaling pathway,22.057984443847978,A549/ATCC,2,13
+sp46,cGMP-PKG signaling pathway,21.369710345299993,A549/ATCC,2,14
+sp14,GnRH signaling pathway,21.236808941519996,A549/ATCC,2,15
+sp30,Phospholipase D signaling pathway,21.09468640624799,A549/ATCC,2,16
+sp20,Insulin signaling pathway,20.595831297111193,A549/ATCC,2,17
+sp17,Hippo signaling pathway,20.026693309285054,A549/ATCC,2,18
+sp5,B cell receptor signaling pathway,19.91194298,A549/ATCC,2,19
+sp27,Oxytocin signaling pathway,18.103258749112655,A549/ATCC,2,20
+sp37,Sphingolipid signaling pathway,18.052245235043994,A549/ATCC,2,21
+sp10,Estrogen signaling pathway,17.99352262088182,A549/ATCC,2,22
+sp38,T cell receptor signaling pathway,16.926270585139996,A549/ATCC,2,23
+sp39,TGF-beta signaling pathway,15.328557538919993,A549/ATCC,2,24
+sp12,FoxO signaling pathway,14.108235897199995,A549/ATCC,2,25
+sp8,Chemokine signaling pathway,13.702530968493981,A549/ATCC,2,26
+sp6,C-type lectin receptor signaling pathway,13.209904593679996,A549/ATCC,2,27
+sp25,Neurotrophin signaling pathway,13.139974115305993,A549/ATCC,2,28
+sp40,TNF signaling pathway,12.949190635119997,A549/ATCC,2,29
+sp41,Thyroid hormone signaling pathway,12.709445925610124,A549/ATCC,2,30
+sp13,Glucagon signaling pathway,12.28068691549439,A549/ATCC,2,31
+sp15,HIF-1 signaling pathway,12.16899029540732,A549/ATCC,2,32
+sp9,ErbB signaling pathway,12.032543405559997,A549/ATCC,2,33
+sp42,Toll-like receptor signaling pathway,12.015065299919996,A549/ATCC,2,34
+sp11,Fc epsilon RI signaling pathway,11.832892394459996,A549/ATCC,2,35
+sp2,AMPK signaling pathway,11.282058642719994,A549/ATCC,2,36
+sp31,Prolactin signaling pathway,11.131713120539995,A549/ATCC,2,37
+sp23,NF-kappa B signaling pathway,10.235221585059996,A549/ATCC,2,38
+sp43,VEGF signaling pathway,10.215395946139996,A549/ATCC,2,39
+sp1,AGE-RAGE signaling pathway in diabetic complications,10.117119237068595,A549/ATCC,2,40
+sp32,RIG-I-like receptor signaling pathway,8.358508935399998,A549/ATCC,2,41
+sp16,Hedgehog signaling pathway,8.029863925919996,A549/ATCC,2,42
+sp19,IL-17 signaling pathway,7.9176543099399925,A549/ATCC,2,43
+sp3,Adipocytokine signaling pathway,7.428858971159996,A549/ATCC,2,44
+sp29,PPAR signaling pathway,6.5200760660889925,A549/ATCC,2,45
+sp26,Notch signaling pathway,5.991078136639995,A549/ATCC,2,46
+sp18,Hippo signaling pathway - multiple species,5.078926081399998,A549/ATCC,2,47
+sp48,p53 signaling pathway,3.288677350640197,A549/ATCC,2,48

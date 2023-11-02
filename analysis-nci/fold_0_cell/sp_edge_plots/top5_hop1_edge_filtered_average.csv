@@ -1,0 +1,211 @@
+SpNotation,cell_line_name,Attention,SignalingPath
+sp24,A498,0.0597965305083041,NOD-like receptor signaling pathway
+sp11,A498,0.0499121245517441,Fc epsilon RI signaling pathway
+sp31,A498,0.0470078749156768,Prolactin signaling pathway
+sp40,A498,0.0415722650701066,TNF signaling pathway
+sp46,A498,0.0412696775300586,cGMP-PKG signaling pathway
+sp32,A549/ATCC,0.0674138387193037,RIG-I-like receptor signaling pathway
+sp30,A549/ATCC,0.0457850805285366,Phospholipase D signaling pathway
+sp42,A549/ATCC,0.0433188208388059,Toll-like receptor signaling pathway
+sp36,A549/ATCC,0.0412635140257107,Signaling pathways regulating pluripotency of stem cells
+sp18,A549/ATCC,0.0394369663193548,Hippo signaling pathway - multiple species
+sp42,ACHN,0.0536428565633154,Toll-like receptor signaling pathway
+sp9,ACHN,0.0484533169395901,ErbB signaling pathway
+sp40,ACHN,0.0448202360241277,TNF signaling pathway
+sp6,ACHN,0.0408897262694189,C-type lectin receptor signaling pathway
+sp20,ACHN,0.0323206237806945,Insulin signaling pathway
+sp38,BT-549,0.0557500658213932,T cell receptor signaling pathway
+sp37,BT-549,0.0522602554301165,Sphingolipid signaling pathway
+sp14,BT-549,0.0487666769683018,GnRH signaling pathway
+sp6,BT-549,0.0471592401724509,C-type lectin receptor signaling pathway
+sp3,BT-549,0.0379530901804385,Adipocytokine signaling pathway
+sp14,CAKI-1,0.0852860736472115,GnRH signaling pathway
+sp40,CAKI-1,0.0533503449712411,TNF signaling pathway
+sp6,CAKI-1,0.0420027421811462,C-type lectin receptor signaling pathway
+sp26,CAKI-1,0.0401499346888888,Notch signaling pathway
+sp43,CAKI-1,0.035757265319484,VEGF signaling pathway
+sp14,DU-145,0.0734818547070706,GnRH signaling pathway
+sp32,DU-145,0.0689874330162371,RIG-I-like receptor signaling pathway
+sp24,DU-145,0.0650712959364228,NOD-like receptor signaling pathway
+sp38,DU-145,0.0562315047276965,T cell receptor signaling pathway
+sp36,DU-145,0.0487703561721768,Signaling pathways regulating pluripotency of stem cells
+sp24,EKVX,0.0707104823453579,NOD-like receptor signaling pathway
+sp32,EKVX,0.0631933584548672,RIG-I-like receptor signaling pathway
+sp18,EKVX,0.0541571146861722,Hippo signaling pathway - multiple species
+sp38,EKVX,0.0499688058594827,T cell receptor signaling pathway
+sp6,EKVX,0.0447625634146376,C-type lectin receptor signaling pathway
+sp14,HCT-116,0.0647300592135294,GnRH signaling pathway
+sp32,HCT-116,0.0636372536257812,RIG-I-like receptor signaling pathway
+sp38,HCT-116,0.0596935351031807,T cell receptor signaling pathway
+sp37,HCT-116,0.0465661116293357,Sphingolipid signaling pathway
+sp9,HCT-116,0.0438763359988184,ErbB signaling pathway
+sp24,HCT-15,0.0779757272777751,NOD-like receptor signaling pathway
+sp11,HCT-15,0.0619665174109401,Fc epsilon RI signaling pathway
+sp14,HCT-15,0.0538359678872767,GnRH signaling pathway
+sp40,HCT-15,0.0385382055779947,TNF signaling pathway
+sp30,HCT-15,0.0381525747200184,Phospholipase D signaling pathway
+sp14,HOP-62,0.0653830102511963,GnRH signaling pathway
+sp42,HOP-62,0.0570290279223703,Toll-like receptor signaling pathway
+sp6,HOP-62,0.040291120904743,C-type lectin receptor signaling pathway
+sp43,HOP-62,0.0353883695079807,VEGF signaling pathway
+sp27,HOP-62,0.0311863897398564,Oxytocin signaling pathway
+sp38,HOP-92,0.0562124606115697,T cell receptor signaling pathway
+sp37,HOP-92,0.0556293963953568,Sphingolipid signaling pathway
+sp39,HOP-92,0.0408821472243835,TGF-beta signaling pathway
+sp6,HOP-92,0.0375149917866679,C-type lectin receptor signaling pathway
+sp20,HOP-92,0.0368523649626327,Insulin signaling pathway
+sp11,HS 578T,0.0620258670694786,Fc epsilon RI signaling pathway
+sp20,HS 578T,0.0606025455463018,Insulin signaling pathway
+sp14,HS 578T,0.0510829478779649,GnRH signaling pathway
+sp40,HS 578T,0.0425687709865356,TNF signaling pathway
+sp6,HS 578T,0.0412654096596837,C-type lectin receptor signaling pathway
+sp14,IGROV1,0.0905600631929775,GnRH signaling pathway
+sp38,IGROV1,0.0752036010773333,T cell receptor signaling pathway
+sp24,IGROV1,0.0691059824413909,NOD-like receptor signaling pathway
+sp32,IGROV1,0.0662248936477941,RIG-I-like receptor signaling pathway
+sp40,IGROV1,0.0573023922290104,TNF signaling pathway
+sp38,K-562,0.0809647741833333,T cell receptor signaling pathway
+sp24,K-562,0.0656332002725554,NOD-like receptor signaling pathway
+sp30,K-562,0.0425706619850651,Phospholipase D signaling pathway
+sp37,K-562,0.0424415035373184,Sphingolipid signaling pathway
+sp3,K-562,0.0373649679711403,Adipocytokine signaling pathway
+sp14,KM12,0.0894806220687356,GnRH signaling pathway
+sp32,KM12,0.0624299158282352,RIG-I-like receptor signaling pathway
+sp33,KM12,0.0593067176970926,Rap1 signaling pathway
+sp18,KM12,0.0557726209553846,Hippo signaling pathway - multiple species
+sp6,KM12,0.0443249105430409,C-type lectin receptor signaling pathway
+sp14,LOX IMVI,0.0573424331682269,GnRH signaling pathway
+sp37,LOX IMVI,0.0518880630701639,Sphingolipid signaling pathway
+sp42,LOX IMVI,0.0489408366692366,Toll-like receptor signaling pathway
+sp9,LOX IMVI,0.047523413959754,ErbB signaling pathway
+sp6,LOX IMVI,0.0421742062852173,C-type lectin receptor signaling pathway
+sp14,MCF7,0.127922852515873,GnRH signaling pathway
+sp38,MCF7,0.0576668729261057,T cell receptor signaling pathway
+sp42,MCF7,0.0487494385414391,Toll-like receptor signaling pathway
+sp37,MCF7,0.0421349813659998,Sphingolipid signaling pathway
+sp6,MCF7,0.0385507785890908,C-type lectin receptor signaling pathway
+sp36,MDA-MB-231/ATCC,0.0573112106819178,Signaling pathways regulating pluripotency of stem cells
+sp40,MDA-MB-231/ATCC,0.0568946678391124,TNF signaling pathway
+sp6,MDA-MB-231/ATCC,0.0403722869733794,C-type lectin receptor signaling pathway
+sp42,MDA-MB-231/ATCC,0.0364906009885925,Toll-like receptor signaling pathway
+sp43,MDA-MB-231/ATCC,0.0323361863417646,VEGF signaling pathway
+sp6,MDA-MB-468,0.0421267545775098,C-type lectin receptor signaling pathway
+sp27,MDA-MB-468,0.0376066906862222,Oxytocin signaling pathway
+sp42,MDA-MB-468,0.0374905120162962,Toll-like receptor signaling pathway
+sp3,MDA-MB-468,0.0357580147363157,Adipocytokine signaling pathway
+sp43,MDA-MB-468,0.0312559830151922,VEGF signaling pathway
+sp37,NCI-H23,0.0465490188631438,Sphingolipid signaling pathway
+sp42,NCI-H23,0.0462419122929761,Toll-like receptor signaling pathway
+sp36,NCI-H23,0.0401216448398844,Signaling pathways regulating pluripotency of stem cells
+sp6,NCI-H23,0.0381661685073912,C-type lectin receptor signaling pathway
+sp43,NCI-H23,0.0369805160208147,VEGF signaling pathway
+sp32,NCI-H460,0.0640383747046153,RIG-I-like receptor signaling pathway
+sp24,NCI-H460,0.0619006877405827,NOD-like receptor signaling pathway
+sp11,NCI-H460,0.0558672993876518,Fc epsilon RI signaling pathway
+sp14,NCI-H460,0.0549880179955828,GnRH signaling pathway
+sp38,NCI-H460,0.0537353623750638,T cell receptor signaling pathway
+sp30,NCI-H522,0.1062098745383333,Phospholipase D signaling pathway
+sp7,NCI-H522,0.0640752360628214,Calcium signaling pathway
+sp43,NCI-H522,0.0593493079192499,VEGF signaling pathway
+sp14,NCI-H522,0.0557854793681481,GnRH signaling pathway
+sp6,NCI-H522,0.0515702194303278,C-type lectin receptor signaling pathway
+sp11,OVCAR-3,0.0767698120810344,Fc epsilon RI signaling pathway
+sp14,OVCAR-3,0.0579047957667177,GnRH signaling pathway
+sp3,OVCAR-3,0.0509454635267187,Adipocytokine signaling pathway
+sp36,OVCAR-3,0.049206752721954,Signaling pathways regulating pluripotency of stem cells
+sp43,OVCAR-3,0.0490069835858024,VEGF signaling pathway
+sp18,OVCAR-4,0.0571245684642404,Hippo signaling pathway - multiple species
+sp30,OVCAR-4,0.0560533707404697,Phospholipase D signaling pathway
+sp7,OVCAR-4,0.051865435787749,Calcium signaling pathway
+sp42,OVCAR-4,0.0472369332399999,Toll-like receptor signaling pathway
+sp11,OVCAR-4,0.0441249795973134,Fc epsilon RI signaling pathway
+sp43,OVCAR-8,0.0461062996221359,VEGF signaling pathway
+sp42,OVCAR-8,0.0437862834103571,Toll-like receptor signaling pathway
+sp36,OVCAR-8,0.03788306634703,Signaling pathways regulating pluripotency of stem cells
+sp6,OVCAR-8,0.0366827048805742,C-type lectin receptor signaling pathway
+sp3,OVCAR-8,0.0359472066651754,Adipocytokine signaling pathway
+sp18,PC-3,0.0521690633533057,Hippo signaling pathway - multiple species
+sp6,PC-3,0.0440356022598639,C-type lectin receptor signaling pathway
+sp46,PC-3,0.0436956369827348,cGMP-PKG signaling pathway
+sp36,PC-3,0.0430143076035686,Signaling pathways regulating pluripotency of stem cells
+sp37,PC-3,0.0393763464682851,Sphingolipid signaling pathway
+sp24,RPMI-8226,0.0691073924382034,NOD-like receptor signaling pathway
+sp32,RPMI-8226,0.0670405136476821,RIG-I-like receptor signaling pathway
+sp6,RPMI-8226,0.0538174703558241,C-type lectin receptor signaling pathway
+sp38,RPMI-8226,0.0466136997793529,T cell receptor signaling pathway
+sp11,RPMI-8226,0.0430079787056249,Fc epsilon RI signaling pathway
+sp6,SF-268,0.0359309518626418,C-type lectin receptor signaling pathway
+sp42,SF-268,0.0346173022961481,Toll-like receptor signaling pathway
+sp3,SF-268,0.0338797550458771,Adipocytokine signaling pathway
+sp20,SF-268,0.0301227872385454,Insulin signaling pathway
+sp7,SF-268,0.0278564005409568,Calcium signaling pathway
+sp40,SF-295,0.059830192534876,TNF signaling pathway
+sp18,SF-295,0.0554587881677165,Hippo signaling pathway - multiple species
+sp42,SF-295,0.0435885717745652,Toll-like receptor signaling pathway
+sp6,SF-295,0.0426529548645833,C-type lectin receptor signaling pathway
+sp3,SF-295,0.0407440864697368,Adipocytokine signaling pathway
+sp46,SF-539,0.0504696091003916,cGMP-PKG signaling pathway
+sp30,SF-539,0.0467618761328467,Phospholipase D signaling pathway
+sp40,SF-539,0.0465924609336956,TNF signaling pathway
+sp27,SF-539,0.0430839470732131,Oxytocin signaling pathway
+sp36,SF-539,0.0416499738250837,Signaling pathways regulating pluripotency of stem cells
+sp11,SK-MEL-2,0.0714440694652727,Fc epsilon RI signaling pathway
+sp14,SK-MEL-2,0.0591110349058895,GnRH signaling pathway
+sp46,SK-MEL-2,0.0417214000356839,cGMP-PKG signaling pathway
+sp42,SK-MEL-2,0.0410658445895406,Toll-like receptor signaling pathway
+sp36,SK-MEL-2,0.0378438494996457,Signaling pathways regulating pluripotency of stem cells
+sp24,SK-MEL-28,0.0726518689978136,NOD-like receptor signaling pathway
+sp32,SK-MEL-28,0.0610393229463276,RIG-I-like receptor signaling pathway
+sp37,SK-MEL-28,0.0490311647179591,Sphingolipid signaling pathway
+sp38,SK-MEL-28,0.0483201734471186,T cell receptor signaling pathway
+sp25,SK-MEL-28,0.0428197470433333,Neurotrophin signaling pathway
+sp30,SK-MEL-5,0.130449636775,Phospholipase D signaling pathway
+sp14,SK-MEL-5,0.100903566330792,GnRH signaling pathway
+sp43,SK-MEL-5,0.0495472329921621,VEGF signaling pathway
+sp20,SK-MEL-5,0.0479911413407499,Insulin signaling pathway
+sp31,SK-MEL-5,0.0442446576558957,Prolactin signaling pathway
+sp24,SK-OV-3,0.0674561969111211,NOD-like receptor signaling pathway
+sp30,SK-OV-3,0.0396678977012915,Phospholipase D signaling pathway
+sp40,SK-OV-3,0.0350891113744961,TNF signaling pathway
+sp31,SK-OV-3,0.0323089408049999,Prolactin signaling pathway
+sp23,SK-OV-3,0.0315234551143749,NF-kappa B signaling pathway
+sp32,SNB-75,0.0662384480308917,RIG-I-like receptor signaling pathway
+sp18,SNB-75,0.0563004611901898,Hippo signaling pathway - multiple species
+sp37,SNB-75,0.0553607401942405,Sphingolipid signaling pathway
+sp11,SNB-75,0.0533140653788524,Fc epsilon RI signaling pathway
+sp3,SNB-75,0.041421270823421,Adipocytokine signaling pathway
+sp5,SR,0.1525626463666666,B cell receptor signaling pathway
+sp11,SR,0.0543370711133333,Fc epsilon RI signaling pathway
+sp18,SR,0.0530590995594827,Hippo signaling pathway - multiple species
+sp36,SR,0.0486625158764044,Signaling pathways regulating pluripotency of stem cells
+sp6,SR,0.0408078001702717,C-type lectin receptor signaling pathway
+sp39,SW-620,0.0507567203461538,TGF-beta signaling pathway
+sp40,SW-620,0.0473891264223355,TNF signaling pathway
+sp30,SW-620,0.0405409348585539,Phospholipase D signaling pathway
+sp6,SW-620,0.0388643524832539,C-type lectin receptor signaling pathway
+sp23,SW-620,0.0342457558908632,NF-kappa B signaling pathway
+sp24,T-47D,0.1313700732757249,NOD-like receptor signaling pathway
+sp18,T-47D,0.0568294643355555,Hippo signaling pathway - multiple species
+sp7,T-47D,0.0510198647997947,Calcium signaling pathway
+sp30,T-47D,0.0482087968059863,Phospholipase D signaling pathway
+sp42,T-47D,0.0481166825349659,Toll-like receptor signaling pathway
+sp18,U251,0.0511964368817708,Hippo signaling pathway - multiple species
+sp36,U251,0.0444001060275668,Signaling pathways regulating pluripotency of stem cells
+sp37,U251,0.0404097805594617,Sphingolipid signaling pathway
+sp3,U251,0.0398791112876315,Adipocytokine signaling pathway
+sp6,U251,0.0382252417369169,C-type lectin receptor signaling pathway
+sp36,UACC-257,0.049972231427234,Signaling pathways regulating pluripotency of stem cells
+sp3,UACC-257,0.0493340889117543,Adipocytokine signaling pathway
+sp37,UACC-257,0.0432596683145854,Sphingolipid signaling pathway
+sp6,UACC-257,0.0377485790009486,C-type lectin receptor signaling pathway
+sp43,UACC-257,0.0367891852229694,VEGF signaling pathway
+sp30,UACC-62,0.0591373703330999,Phospholipase D signaling pathway
+sp40,UACC-62,0.0544503241025384,TNF signaling pathway
+sp18,UACC-62,0.0542991719334449,Hippo signaling pathway - multiple species
+sp38,UACC-62,0.050838302917409,T cell receptor signaling pathway
+sp42,UACC-62,0.0388620088565384,Toll-like receptor signaling pathway
+sp14,UO-31,0.053185598597947,GnRH signaling pathway
+sp11,UO-31,0.0516700913590283,Fc epsilon RI signaling pathway
+sp3,UO-31,0.0423885217052631,Adipocytokine signaling pathway
+sp6,UO-31,0.0420024253491699,C-type lectin receptor signaling pathway
+sp36,UO-31,0.040837987626636,Signaling pathways regulating pluripotency of stem cells

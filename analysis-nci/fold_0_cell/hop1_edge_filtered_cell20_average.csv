@@ -1,0 +1,29 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp37,Sphingolipid signaling pathway,0.0465490188631438,NCI-H23,20,1
+sp42,Toll-like receptor signaling pathway,0.046241912292976174,NCI-H23,20,2
+sp36,Signaling pathways regulating pluripotency of stem cells,0.04012164483988445,NCI-H23,20,3
+sp6,C-type lectin receptor signaling pathway,0.03816616850739129,NCI-H23,20,4
+sp43,VEGF signaling pathway,0.03698051602081479,NCI-H23,20,5
+sp3,Adipocytokine signaling pathway,0.03620056672017542,NCI-H23,20,6
+sp20,Insulin signaling pathway,0.035091733939069655,NCI-H23,20,7
+sp46,cGMP-PKG signaling pathway,0.029555222857275847,NCI-H23,20,8
+sp27,Oxytocin signaling pathway,0.029139936790806155,NCI-H23,20,9
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.029120074468284296,NCI-H23,20,10
+sp7,Calcium signaling pathway,0.027633472034541768,NCI-H23,20,11
+sp16,Hedgehog signaling pathway,0.027227914135939585,NCI-H23,20,12
+sp47,mTOR signaling pathway,0.024894273157697253,NCI-H23,20,13
+sp10,Estrogen signaling pathway,0.022113226332363813,NCI-H23,20,14
+sp41,Thyroid hormone signaling pathway,0.021576884056015645,NCI-H23,20,15
+sp15,HIF-1 signaling pathway,0.021543499625127537,NCI-H23,20,16
+sp2,AMPK signaling pathway,0.020200306111943424,NCI-H23,20,17
+sp34,Ras signaling pathway,0.019817741408069734,NCI-H23,20,18
+sp17,Hippo signaling pathway,0.019782879242606105,NCI-H23,20,19
+sp4,Apelin signaling pathway,0.019753910031297974,NCI-H23,20,20
+sp45,cAMP signaling pathway,0.019389776417531306,NCI-H23,20,21
+sp12,FoxO signaling pathway,0.017131570454999984,NCI-H23,20,22
+sp44,Wnt signaling pathway,0.01664021596899621,NCI-H23,20,23
+sp8,Chemokine signaling pathway,0.01663997775628081,NCI-H23,20,24
+sp22,MAPK signaling pathway,0.01645652169935965,NCI-H23,20,25
+sp33,Rap1 signaling pathway,0.015706044483669152,NCI-H23,20,26
+sp28,PI3K-Akt signaling pathway,0.014271885229837121,NCI-H23,20,27
+sp21,JAK-STAT signaling pathway,0.013853595932369926,NCI-H23,20,28

@@ -1,0 +1,45 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,0.508815397315,SF-295,29,1
+sp5,B cell receptor signaling pathway,0.382217343,SF-295,29,2
+sp24,NOD-like receptor signaling pathway,0.28670053245,SF-295,29,3
+sp2,AMPK signaling pathway,0.25746250061982373,SF-295,29,4
+sp37,Sphingolipid signaling pathway,0.175348012005,SF-295,29,5
+sp29,PPAR signaling pathway,0.14372810021299998,SF-295,29,6
+sp46,cGMP-PKG signaling pathway,0.14287673930249997,SF-295,29,7
+sp15,HIF-1 signaling pathway,0.14171768353,SF-295,29,8
+sp7,Calcium signaling pathway,0.13070849294866665,SF-295,29,9
+sp32,RIG-I-like receptor signaling pathway,0.120231328525,SF-295,29,10
+sp31,Prolactin signaling pathway,0.1026776215,SF-295,29,11
+sp38,T cell receptor signaling pathway,0.09106764061499999,SF-295,29,12
+sp9,ErbB signaling pathway,0.07331469584999997,SF-295,29,13
+sp12,FoxO signaling pathway,0.05633755985285712,SF-295,29,14
+sp47,mTOR signaling pathway,0.035551352281569984,SF-295,29,15
+sp42,Toll-like receptor signaling pathway,0.03435732134105262,SF-295,29,16
+sp36,Signaling pathways regulating pluripotency of stem cells,0.029667758531249984,SF-295,29,17
+sp14,GnRH signaling pathway,0.028342244698124977,SF-295,29,18
+sp3,Adipocytokine signaling pathway,0.027884881400000002,SF-295,29,19
+sp11,Fc epsilon RI signaling pathway,0.027037066689999993,SF-295,29,20
+sp17,Hippo signaling pathway,0.02521587299991251,SF-295,29,21
+sp13,Glucagon signaling pathway,0.024397791213333315,SF-295,29,22
+sp25,Neurotrophin signaling pathway,0.023999264029999988,SF-295,29,23
+sp30,Phospholipase D signaling pathway,0.023516965645199988,SF-295,29,24
+sp6,C-type lectin receptor signaling pathway,0.023453869266666635,SF-295,29,25
+sp41,Thyroid hormone signaling pathway,0.021657142382631566,SF-295,29,26
+sp40,TNF signaling pathway,0.019783154756249994,SF-295,29,27
+sp21,JAK-STAT signaling pathway,0.019592254541578934,SF-295,29,28
+sp27,Oxytocin signaling pathway,0.017270471707333323,SF-295,29,29
+sp23,NF-kappa B signaling pathway,0.016734189669999976,SF-295,29,30
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.016425601193899988,SF-295,29,31
+sp20,Insulin signaling pathway,0.015719781885571413,SF-295,29,32
+sp39,TGF-beta signaling pathway,0.013892035401999975,SF-295,29,33
+sp33,Rap1 signaling pathway,0.01372649604164497,SF-295,29,34
+sp35,Relaxin signaling pathway,0.01311625293166665,SF-295,29,35
+sp34,Ras signaling pathway,0.012836775286666656,SF-295,29,36
+sp19,IL-17 signaling pathway,0.012574102504999976,SF-295,29,37
+sp28,PI3K-Akt signaling pathway,0.012412163428429206,SF-295,29,38
+sp22,MAPK signaling pathway,0.012218035946084269,SF-295,29,39
+sp8,Chemokine signaling pathway,0.011687821281666634,SF-295,29,40
+sp48,p53 signaling pathway,0.010203271764444433,SF-295,29,41
+sp4,Apelin signaling pathway,0.009770196764999982,SF-295,29,42
+sp45,cAMP signaling pathway,0.009092184420909068,SF-295,29,43
+sp44,Wnt signaling pathway,0.00862056377854165,SF-295,29,44

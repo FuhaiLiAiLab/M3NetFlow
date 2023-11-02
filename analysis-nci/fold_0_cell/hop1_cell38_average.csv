@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp5,B cell receptor signaling pathway,0.1445015475289855,T-47D,38,1
+sp24,NOD-like receptor signaling pathway,0.10578101895513367,T-47D,38,2
+sp14,GnRH signaling pathway,0.09172391929771186,T-47D,38,3
+sp11,Fc epsilon RI signaling pathway,0.07292253165246912,T-47D,38,4
+sp32,RIG-I-like receptor signaling pathway,0.07175162398305084,T-47D,38,5
+sp40,TNF signaling pathway,0.06283452804607476,T-47D,38,6
+sp38,T cell receptor signaling pathway,0.06165523943777776,T-47D,38,7
+sp9,ErbB signaling pathway,0.057985702320655724,T-47D,38,8
+sp18,Hippo signaling pathway - multiple species,0.057455675535849036,T-47D,38,9
+sp37,Sphingolipid signaling pathway,0.051713110435550456,T-47D,38,10
+sp42,Toll-like receptor signaling pathway,0.049998509225689644,T-47D,38,11
+sp30,Phospholipase D signaling pathway,0.04570373968040321,T-47D,38,12
+sp43,VEGF signaling pathway,0.045577721354070774,T-47D,38,13
+sp20,Insulin signaling pathway,0.041594998337204064,T-47D,38,14
+sp46,cGMP-PKG signaling pathway,0.04081224320912703,T-47D,38,15
+sp36,Signaling pathways regulating pluripotency of stem cells,0.03832124781567795,T-47D,38,16
+sp23,NF-kappa B signaling pathway,0.03798180158823076,T-47D,38,17
+sp10,Estrogen signaling pathway,0.03790804650619795,T-47D,38,18
+sp39,TGF-beta signaling pathway,0.0377541747472596,T-47D,38,19
+sp31,Prolactin signaling pathway,0.03632540854761904,T-47D,38,20
+sp6,C-type lectin receptor signaling pathway,0.03618447698141303,T-47D,38,21
+sp7,Calcium signaling pathway,0.03448997521925875,T-47D,38,22
+sp12,FoxO signaling pathway,0.03392804868956309,T-47D,38,23
+sp3,Adipocytokine signaling pathway,0.0325627352659649,T-47D,38,24
+sp16,Hedgehog signaling pathway,0.028442619441379286,T-47D,38,25
+sp47,mTOR signaling pathway,0.02813067425050844,T-47D,38,26
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.026934187187401946,T-47D,38,27
+sp25,Neurotrophin signaling pathway,0.026907873219770978,T-47D,38,28
+sp35,Relaxin signaling pathway,0.02663649485402947,T-47D,38,29
+sp15,HIF-1 signaling pathway,0.025322605295244292,T-47D,38,30
+sp4,Apelin signaling pathway,0.023721123564179145,T-47D,38,31
+sp27,Oxytocin signaling pathway,0.021642015567668274,T-47D,38,32
+sp2,AMPK signaling pathway,0.021553081744766663,T-47D,38,33
+sp13,Glucagon signaling pathway,0.020106603233932503,T-47D,38,34
+sp45,cAMP signaling pathway,0.01992633703077223,T-47D,38,35
+sp33,Rap1 signaling pathway,0.01968365967673964,T-47D,38,36
+sp19,IL-17 signaling pathway,0.018997493980630616,T-47D,38,37
+sp26,Notch signaling pathway,0.018277849896326515,T-47D,38,38
+sp22,MAPK signaling pathway,0.018139378676442004,T-47D,38,39
+sp28,PI3K-Akt signaling pathway,0.01808810477968329,T-47D,38,40
+sp17,Hippo signaling pathway,0.017652717353411587,T-47D,38,41
+sp48,p53 signaling pathway,0.01748046390453683,T-47D,38,42
+sp29,PPAR signaling pathway,0.017120704149999444,T-47D,38,43
+sp34,Ras signaling pathway,0.016164610964726326,T-47D,38,44
+sp44,Wnt signaling pathway,0.014948980830591617,T-47D,38,45
+sp21,JAK-STAT signaling pathway,0.014155507808274587,T-47D,38,46
+sp41,Thyroid hormone signaling pathway,0.01323980374927628,T-47D,38,47
+sp8,Chemokine signaling pathway,0.011644324558109572,T-47D,38,48

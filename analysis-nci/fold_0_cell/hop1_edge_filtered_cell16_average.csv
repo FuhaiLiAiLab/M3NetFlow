@@ -1,0 +1,29 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp14,GnRH signaling pathway,0.05734243316822698,LOX IMVI,16,1
+sp37,Sphingolipid signaling pathway,0.05188806307016391,LOX IMVI,16,2
+sp42,Toll-like receptor signaling pathway,0.04894083666923662,LOX IMVI,16,3
+sp9,ErbB signaling pathway,0.047523413959754075,LOX IMVI,16,4
+sp6,C-type lectin receptor signaling pathway,0.042174206285217376,LOX IMVI,16,5
+sp36,Signaling pathways regulating pluripotency of stem cells,0.041576025828629695,LOX IMVI,16,6
+sp43,VEGF signaling pathway,0.038227249454438485,LOX IMVI,16,7
+sp3,Adipocytokine signaling pathway,0.03302569789017542,LOX IMVI,16,8
+sp7,Calcium signaling pathway,0.029829288674528286,LOX IMVI,16,9
+sp15,HIF-1 signaling pathway,0.024867910095974756,LOX IMVI,16,10
+sp10,Estrogen signaling pathway,0.024750724702125495,LOX IMVI,16,11
+sp27,Oxytocin signaling pathway,0.024008961257740914,LOX IMVI,16,12
+sp20,Insulin signaling pathway,0.023851846271013572,LOX IMVI,16,13
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.023594021900931357,LOX IMVI,16,14
+sp47,mTOR signaling pathway,0.022986363496528148,LOX IMVI,16,15
+sp4,Apelin signaling pathway,0.022276316062570547,LOX IMVI,16,16
+sp2,AMPK signaling pathway,0.02186652002263168,LOX IMVI,16,17
+sp12,FoxO signaling pathway,0.021601712643031342,LOX IMVI,16,18
+sp34,Ras signaling pathway,0.020205819513316105,LOX IMVI,16,19
+sp33,Rap1 signaling pathway,0.019323735937977114,LOX IMVI,16,20
+sp41,Thyroid hormone signaling pathway,0.01827272973939427,LOX IMVI,16,21
+sp44,Wnt signaling pathway,0.017990878730289494,LOX IMVI,16,22
+sp45,cAMP signaling pathway,0.017873892152759262,LOX IMVI,16,23
+sp22,MAPK signaling pathway,0.017701536890574947,LOX IMVI,16,24
+sp8,Chemokine signaling pathway,0.0158745887534332,LOX IMVI,16,25
+sp17,Hippo signaling pathway,0.01429716465803799,LOX IMVI,16,26
+sp28,PI3K-Akt signaling pathway,0.012990735030970426,LOX IMVI,16,27
+sp21,JAK-STAT signaling pathway,0.010487278223428556,LOX IMVI,16,28

@@ -1,0 +1,5212 @@
+Drug,Target
+Cetuximab,EGFR
+Denileukin diftitox,IL2RB
+Etanercept,TNF
+Etanercept,TNFRSF1B
+Etanercept,LTA
+Peginterferon alfa-2a,IFNAR2
+Peginterferon alfa-2a,IFNAR1
+Alteplase,SERPINE1
+Interferon alfa-n1,IFNAR2
+Interferon alfa-n1,IFNAR1
+Darbepoetin alfa,EPOR
+Urokinase,PLAU
+Urokinase,PLAT
+Urokinase,SERPINE1
+Urokinase,LRP2
+Goserelin,LHCGR
+Reteplase,SERPINE1
+Erythropoietin,EPOR
+Interferon alfa-n3,IFNAR1
+Interferon alfa-n3,IFNAR2
+Peginterferon alfa-2b,IFNAR1
+Peginterferon alfa-2b,IFNAR2
+Thyrotropin Alfa,TSHR
+Anakinra,IL1R1
+Anistreplase,SERPINE1
+Insulin Human,INSR
+Insulin Human,IGF1R
+Insulin Human,CTSD
+Insulin Human,LRP2
+Tenecteplase,SERPINE1
+Menotropins,LHCGR
+Interferon gamma-1b,IFNGR1
+Interferon gamma-1b,IFNGR2
+"Interferon Alfa-2a, Recombinant",IFNAR1
+"Interferon Alfa-2a, Recombinant",IFNAR2
+Desmopressin,AVPR1B
+Coagulation factor VIIa Recombinant Human,F3
+Oprelvekin,IL11RA
+Palifermin,FGFR2
+Palifermin,FGFR1
+Palifermin,FGFR4
+Palifermin,FGFR3
+Glucagon recombinant,GCGR
+Glucagon recombinant,GLP1R
+Aldesleukin,IL2RB
+Lutropin alfa,LHCGR
+Lyme disease vaccine (recombinant OspA),TLR2
+Insulin Lispro,INSR
+Insulin Lispro,IGF1R
+Insulin Glargine,INSR
+Insulin Glargine,IGF1R
+Collagenase clostridium histolyticum,COL1A1
+Collagenase clostridium histolyticum,COL2A1
+Collagenase clostridium histolyticum,COL1A2
+Cetrorelix,LHCGR
+Adalimumab,TNF
+Somatotropin,GHR
+Abciximab,ITGB3
+Drotrecogin alfa,SERPINE1
+Drotrecogin alfa,THBD
+Interferon beta-1a,IFNAR1
+Interferon beta-1a,IFNAR2
+Pegademase bovine,GRB2
+Eptifibatide,ITGB3
+Infliximab,TNF
+Vasopressin,AVPR1B
+Interferon beta-1b,IFNAR1
+Interferon beta-1b,IFNAR2
+Interferon alfacon-1,IFNAR1
+Interferon alfacon-1,IFNAR2
+Hyaluronidase,TGFB1
+Insulin Pork,INSR
+Insulin Pork,IGF1R
+Insulin Pork,CTSD
+Insulin Pork,LRP2
+Trastuzumab,ERBB2
+Trastuzumab,EGFR
+Basiliximab,IL2RB
+Pegvisomant,GHR
+Streptokinase,F2R
+Cyclosporine,PPP3R2
+Cyclosporine,PPIF
+Choriogonadotropin alfa,LHCGR
+Antithymocyte immunoglobulin (rabbit),ITGB1
+Antithymocyte immunoglobulin (rabbit),ITGAV
+Antithymocyte immunoglobulin (rabbit),ITGB3
+Becaplermin,PDGFRA
+Octreotide,SSTR5
+Octreotide,SSTR2
+"Interferon Alfa-2b, Recombinant",IFNAR2
+"Interferon Alfa-2b, Recombinant",IFNAR1
+Oxytocin,OXTR
+Oxytocin,OXT
+Natalizumab,ITGA4
+Natalizumab,ICAM1
+Daclizumab,IL2RB
+Bevacizumab,VEGFA
+Pyridoxal Phosphate,PYGL
+Pyridoxal Phosphate,PYGB
+Pyridoxal Phosphate,PYGM
+Pyruvic acid,PDHB
+Pyruvic acid,PKM
+L-Phenylalanine,TH
+Biotin,ACACA
+Choline,PLD2
+Choline,PLD1
+L-Arginine,NOS3
+Vitamin C,EGLN2
+Vitamin C,EGLN3
+Spermine,CASR
+Spermine,ADRB1
+Spermine,ADRB2
+Adenosine monophosphate,CREB1
+Adenosine monophosphate,PIM1
+Adenosine monophosphate,PDE4B
+Adenosine monophosphate,PYGL
+Adenosine monophosphate,PRKAB1
+Adenosine monophosphate,PDE4D
+Adenosine monophosphate,PRKAA1
+Adenosine monophosphate,PRKAB2
+Adenosine monophosphate,ADCY1
+Adenosine monophosphate,ACSL1
+Adenosine monophosphate,FBP1
+Alpha-Linolenic Acid,FADS2
+Alpha-Linolenic Acid,SLC8A1
+Alpha-Linolenic Acid,PPARA
+Alpha-Linolenic Acid,PPARD
+Alpha-Linolenic Acid,PPARG
+Alpha-Linolenic Acid,RXRA
+L-Tyrosine,TH
+Glutamic Acid,GRM1
+Glutamic Acid,GRM4
+Glutamic Acid,GRM8
+Glutamic Acid,GRIN2D
+Glutamic Acid,GRIN3B
+Glutamic Acid,GRIN1
+Glutamic Acid,GRIN2A
+Glutamic Acid,GRIN2B
+Glutamic Acid,GRIN2C
+Glutamic Acid,GRIN3A
+Glutamic Acid,GRIA1
+Glutamic Acid,GRIA2
+Glutamic Acid,GRIA4
+Phosphatidyl serine,PRKCA
+Glycine,GRIN2A
+Glycine,GRIN2C
+Glycine,GRIN3B
+Dihomo-gamma-linolenic acid,PTGS2
+L-Citrulline,NOS1
+L-Citrulline,NOS3
+NADH,LDHAL6A
+NADH,LDHA
+NADH,LDHC
+NADH,LDHB
+NADH,EHHADH
+NADH,HMGCR
+NADH,ME1
+NADH,GAPDH
+NADH,PDHB
+NADH,HMOX1
+NADH,CYP17A1
+Icosapent,PTGS2
+Icosapent,PPARG
+Icosapent,PPARD
+Icosapent,ACSL3
+Icosapent,SLC8A1
+Icosapent,PPARA
+Vitamin E,PRKCB
+Vitamin E,PRKCA
+Vitamin E,PPP2CB
+Vitamin E,PPP2CA
+ATP,ABL2
+ATP,PRKAA1
+ATP,ACSL1
+ATP,AKT1
+ATP,APAF1
+ATP,ACVR1B
+ATP,ACVR1
+ATP,SLC25A4
+ATP,ABL1
+ATP,ADCY1
+ATP,CFTR
+ATP,PIK3CA
+ATP,CSNK2B
+L-Proline,PPIF
+Pravastatin,HMGCR
+Valsartan,AGTR1
+Baclofen,GABBR1
+Baclofen,GABBR2
+Amphetamine,ADRA1A
+Amphetamine,ADRA1B
+Amphetamine,ADRA1D
+Amphetamine,ADRA2A
+Amphetamine,ADRA2B
+Amphetamine,ADRA2C
+Amphetamine,ADRB1
+Amphetamine,ADRB2
+Amphetamine,DRD2
+Pentagastrin,CCKBR
+Cevimeline,CHRM3
+Cevimeline,CHRM1
+Esmolol,ADRB1
+Tramadol,OPRD1
+Tramadol,GRIN3A
+Tramadol,CHRM3
+Tramadol,CHRM1
+Betaxolol,ADRB1
+Betaxolol,ADRB2
+Troglitazone,PPARG
+Troglitazone,SERPINE1
+Troglitazone,PPARD
+Troglitazone,PPARA
+Caffeine,ADORA2A
+Caffeine,PDE4B
+Caffeine,RYR1
+Caffeine,PDE1B
+Caffeine,PDE1C
+Caffeine,PDE10A
+Caffeine,PDE4A
+Caffeine,PDE4B
+Caffeine,PDE4C
+Caffeine,PDE4D
+Caffeine,PDE3A
+Caffeine,PDE3B
+Caffeine,PIK3CD
+Caffeine,PIK3CA
+Caffeine,ITPR1
+Caffeine,ITPR2
+Caffeine,ITPR3
+Caffeine,ATM
+Succinylcholine,CHRM1
+Succinylcholine,CHRM3
+Dofetilide,KCNJ12
+Reserpine,BIRC5
+Trospium,CHRM1
+Adapalene,RXRG
+Adapalene,RXRB
+Adapalene,RARA
+Adapalene,RXRA
+Adapalene,PTGS2
+Midodrine,ADRA1A
+Midodrine,ADRA1B
+Midodrine,ADRA1D
+Citalopram,HRH1
+Citalopram,ADRA1A
+Citalopram,CHRM1
+Eletriptan,HTR1B
+Eletriptan,HTR1F
+Eletriptan,HTR1A
+Eletriptan,HTR1E
+Eletriptan,HTR7
+Bethanidine,ADRA2A
+Bethanidine,ADRA2B
+Bethanidine,ADRA2C
+Bethanidine,ADRB1
+Bethanidine,ADRB2
+Oxyphenonium,CHRM1
+Isoetarine,ADRB1
+Isoetarine,ADRB2
+Lovastatin,HMGCR
+Lovastatin,HDAC2
+Enflurane,GRIA1
+Aminosalicylic Acid,PTGS2
+Aminosalicylic Acid,CHUK
+Aminosalicylic Acid,PLA2G2E
+Milrinone,PDE3A
+Butabarbital,GRIA2
+Butalbital,GRIA2
+Cladribine,RRM2
+Cladribine,RRM2B
+Mesalazine,PTGS2
+Mesalazine,PPARG
+Mesalazine,CHUK
+Mesalazine,IKBKB
+Benzatropine,CHRM1
+Benzatropine,HRH1
+Ziprasidone,DRD2
+Ziprasidone,HTR2A
+Ziprasidone,DRD1
+Ziprasidone,DRD5
+Ziprasidone,HTR1A
+Ziprasidone,HTR1B
+Ziprasidone,HTR1E
+Ziprasidone,HTR6
+Ziprasidone,HTR7
+Ziprasidone,HRH1
+Ziprasidone,ADRA1A
+Ziprasidone,ADRA1B
+Ziprasidone,ADRA2A
+Ziprasidone,ADRA2B
+Ziprasidone,ADRA2C
+Ziprasidone,CHRM1
+Ziprasidone,CHRM3
+Methysergide,HTR2A
+Methysergide,HTR1A
+Methysergide,HTR7
+Methysergide,HTR1B
+Methysergide,HTR1F
+Methysergide,HTR1E
+Cabergoline,DRD2
+Cabergoline,HTR2A
+Cabergoline,ADRA2B
+Cabergoline,ADRA2A
+Cabergoline,HTR1A
+Cabergoline,ADRA2C
+Cabergoline,DRD5
+Cabergoline,DRD1
+Cabergoline,HTR1B
+Cabergoline,HTR7
+Cabergoline,ADRA1A
+Cabergoline,ADRA1B
+Cabergoline,ADRA1D
+Cabergoline,ADRB1
+Cabergoline,ADRB2
+Cabergoline,DRD1
+Cabergoline,DRD5
+Diethylstilbestrol,ESR1
+Diethylstilbestrol,ESR2
+Diethylstilbestrol,NCOA2
+Anagrelide,PDE3A
+Metoprolol,ADRB1
+Metoprolol,ADRB2
+Ropinirole,DRD2
+Ropinirole,HTR1A
+Ropinirole,DRD1
+Ropinirole,DRD5
+Ropinirole,HTR1B
+Ropinirole,HTR2A
+Ropinirole,ADRA2A
+Ropinirole,ADRA2B
+Ropinirole,ADRA2C
+Chlorotrianisene,ESR1
+Isradipine,CACNA1C
+Isradipine,CACNA2D1
+Isradipine,CACNB2
+Isradipine,CACNA2D2
+Isradipine,CACNA1D
+Betazole,HRH2
+Olmesartan,AGTR1
+Theophylline,ADORA2A
+Theophylline,ADORA2B
+Theophylline,PDE4B
+Theophylline,PDE4A
+Theophylline,PDE3A
+Theophylline,HDAC2
+Liothyronine,THRA
+Liothyronine,THRB
+Disopyramide,CHRM1
+Disopyramide,CHRM3
+Lidocaine,EGFR
+Clemastine,HRH1
+Conjugated estrogens,ESR1
+Atomoxetine,GRIN1
+Atomoxetine,GRIN2A
+Atomoxetine,GRIN2B
+Atomoxetine,GRIN2C
+Atomoxetine,GRIN2D
+Atomoxetine,GRIN3A
+Atomoxetine,GRIN3B
+Etomidate,ADRA2B
+Etonogestrel,PGR
+Etonogestrel,ESR1
+Morphine,OPRD1
+Bupivacaine,PTGER1
+Dapiprazole,ADRA1A
+Dapiprazole,ADRA1D
+Dapiprazole,ADRA1B
+Desogestrel,PGR
+Desogestrel,ESR1
+Talbutal,GRIA2
+Bexarotene,RXRA
+Bexarotene,RXRB
+Bexarotene,RXRG
+Ibutilide,CACNA1C
+Ibutilide,CACNB1
+Ibutilide,CACNA2D1
+Ibutilide,CACNG1
+Pentobarbital,GRIA2
+Pentobarbital,GRIN1
+Pentobarbital,GRIN2A
+Pentobarbital,GRIN2B
+Pentobarbital,GRIN2C
+Pentobarbital,GRIN2D
+Pentobarbital,GRIN3A
+Pentobarbital,GRIN3B
+Valproic Acid,HDAC2
+Valproic Acid,PPARA
+Valproic Acid,PPARD
+Valproic Acid,PPARG
+Zolmitriptan,HTR1B
+Zolmitriptan,HTR1F
+Zolmitriptan,HTR1A
+Acetaminophen,PTGS2
+Gefitinib,EGFR
+Codeine,OPRD1
+Dihydroergotamine,HTR1B
+Dihydroergotamine,ADRA2A
+Amitriptyline,HTR2A
+Amitriptyline,HTR1A
+Amitriptyline,OPRD1
+Amitriptyline,NTRK1
+Amitriptyline,NTRK2
+Amitriptyline,ADRA1A
+Amitriptyline,ADRA1D
+Amitriptyline,ADRA2A
+Amitriptyline,HRH1
+Amitriptyline,CHRM1
+Amitriptyline,CHRM3
+Amitriptyline,HRH2
+Amitriptyline,ADRA1B
+Amitriptyline,HTR7
+Amitriptyline,HTR1B
+Amitriptyline,HTR6
+Amitriptyline,ADRB1
+Amitriptyline,ADRB2
+Nitroprusside,NPR1
+Hydromorphone,OPRD1
+Indomethacin,PTGS2
+Indomethacin,PPARG
+Indomethacin,PPARA
+Metformin,PRKAB1
+Ipratropium,CHRM1
+Ipratropium,CHRM3
+Methadone,GRIN3A
+Methadone,OPRD1
+Olanzapine,HTR2A
+Olanzapine,DRD2
+Olanzapine,DRD1
+Olanzapine,DRD5
+Olanzapine,HTR1A
+Olanzapine,HTR1B
+Olanzapine,HTR1E
+Olanzapine,HTR6
+Olanzapine,HTR7
+Olanzapine,HRH1
+Olanzapine,ADRA1A
+Olanzapine,ADRA1B
+Olanzapine,ADRA2A
+Olanzapine,ADRA2B
+Olanzapine,ADRA2C
+Olanzapine,CHRM1
+Olanzapine,CHRM3
+Olanzapine,HTR5A
+Olanzapine,DRD1
+Olanzapine,DRD5
+Olanzapine,HRH2
+Olanzapine,ADRB1
+Olanzapine,ADRB2
+Atenolol,ADRB1
+Atenolol,ADRB2
+Pimecrolimus,MTOR
+Metixene,CHRM1
+Metixene,CHRM3
+Cetirizine,HRH1
+Terfenadine,HRH1
+Terfenadine,CHRM3
+Terfenadine,CHRM1
+Diltiazem,CACNG1
+Alfuzosin,ADRA1A
+Alfuzosin,ADRA1B
+Alfuzosin,ADRA1D
+Megestrol acetate,PGR
+Methylergometrine,DRD1
+Buclizine,HRH1
+Buclizine,CHRM1
+Chlorzoxazone,KCNMA1
+Mefloquine,ADORA2A
+Sapropterin,NOS3
+Sapropterin,TH
+Clozapine,DRD2
+Clozapine,HTR2A
+Clozapine,DRD1
+Clozapine,HTR1A
+Clozapine,HTR1B
+Clozapine,HTR1E
+Clozapine,HTR6
+Clozapine,HTR7
+Clozapine,HRH1
+Clozapine,ADRA1A
+Clozapine,ADRA1B
+Clozapine,ADRA2A
+Clozapine,ADRA2B
+Clozapine,ADRA2C
+Clozapine,CHRM1
+Clozapine,CHRM3
+Sucralfate,FGF2
+Doxylamine,HRH1
+Doxylamine,CHRM1
+Levonorgestrel,PGR
+Levonorgestrel,ESR1
+Norepinephrine,ADRA1A
+Norepinephrine,ADRA1B
+Norepinephrine,ADRA1D
+Norepinephrine,ADRA2A
+Norepinephrine,ADRA2B
+Norepinephrine,ADRA2C
+Norepinephrine,ADRB1
+Norepinephrine,ADRB2
+Mirtazapine,HTR2A
+Mirtazapine,ADRA2A
+Mirtazapine,HRH1
+Mirtazapine,ADRA2C
+Mirtazapine,HTR7
+Mirtazapine,ADRA1A
+Mirtazapine,ADRA1B
+Mirtazapine,ADRA1D
+Mirtazapine,DRD2
+Mirtazapine,DRD1
+Mirtazapine,DRD5
+Mirtazapine,ADRA1A
+Mirtazapine,ADRB1
+Mirtazapine,ADRB2
+Thiethylperazine,DRD2
+Thiethylperazine,DRD1
+Timolol,ADRB1
+Timolol,ADRB2
+Treprostinil,PPARD
+Trihexyphenidyl,CHRM1
+Trihexyphenidyl,CHRM3
+Dydrogesterone,PGR
+Amlodipine,CACNA1C
+Amlodipine,CACNA2D1
+Amlodipine,CACNB2
+Amlodipine,CACNA1D
+Amlodipine,CACNA2D3
+Oxyphencyclimine,CHRM3
+Oxyphencyclimine,CHRM1
+Procyclidine,CHRM1
+Procyclidine,CHRM3
+Phenylephrine,ADRA1A
+Phenylephrine,ADRA1B
+Phenylephrine,ADRA1D
+Digoxin,ATP1A1
+Sulpiride,DRD2
+Ethopropazine,CHRM1
+Ethopropazine,GRIN3A
+Nimodipine,CACNA1C
+Nimodipine,CACNA1D
+Nimodipine,CACNB1
+Nimodipine,CACNB2
+Nimodipine,CACNB3
+Nimodipine,CACNB4
+Progesterone,PGR
+Progesterone,ESR1
+Progesterone,CYP17A1
+Phenylpropanolamine,DRD1
+Phenylpropanolamine,ADRB1
+Phenylpropanolamine,ADRB2
+Phenylpropanolamine,ADRA2A
+Phenylpropanolamine,ADRA2B
+Phenylpropanolamine,ADRA2C
+Sorafenib,BRAF
+Sorafenib,RAF1
+Sorafenib,FLT4
+Sorafenib,KDR
+Sorafenib,FLT3
+Sorafenib,KIT
+Sorafenib,FGFR1
+Sorafenib,RET
+Sorafenib,FLT1
+Nisoldipine,CACNA1C
+Nisoldipine,CACNA2D1
+Nisoldipine,CACNB2
+Nisoldipine,CACNA1D
+Ceruletide,CCKAR
+Dexbrompheniramine,HRH1
+Loxapine,DRD2
+Loxapine,DRD1
+Loxapine,HTR2A
+Loxapine,HTR1A
+Loxapine,HTR1B
+Loxapine,HTR1E
+Loxapine,HTR5A
+Loxapine,HTR6
+Loxapine,HTR7
+Loxapine,ADRA1A
+Loxapine,ADRA1B
+Loxapine,ADRA2A
+Loxapine,ADRA2B
+Loxapine,ADRA2C
+Loxapine,ADRB1
+Loxapine,CHRM1
+Loxapine,CHRM3
+Loxapine,DRD1
+Loxapine,DRD5
+Loxapine,DRD5
+Loxapine,HRH1
+Loxapine,HRH2
+Remoxipride,DRD2
+Remoxipride,HTR2A
+Carbachol,CHRM1
+Carbachol,CHRM3
+Rosiglitazone,PPARG
+Rosiglitazone,PPARA
+Rosiglitazone,PPARD
+Rosiglitazone,RXRA
+Rosiglitazone,RXRB
+Rosiglitazone,RXRG
+Pramipexole,DRD2
+Pramipexole,ADRA2B
+Pramipexole,HTR1A
+Pramipexole,ADRA2A
+Pramipexole,HTR1B
+Pramipexole,HTR2A
+Pramipexole,ADRA2C
+Pramipexole,DRD1
+Pramipexole,DRD5
+Ampicillin,TEK
+Secobarbital,GRIA2
+Secobarbital,GRIN1
+Secobarbital,GRIN2A
+Secobarbital,GRIN2B
+Secobarbital,GRIN2C
+Secobarbital,GRIN2D
+Secobarbital,GRIN3A
+Secobarbital,GRIN3B
+Promazine,DRD2
+Promazine,HTR2A
+Promazine,DRD1
+Promazine,CHRM3
+Promazine,CHRM1
+Promazine,ADRA1B
+Promazine,ADRA1A
+Promazine,HRH1
+Promazine,ADRA1D
+Spironolactone,PGR
+Spironolactone,CACNG1
+Spironolactone,CACNA2D1
+Spironolactone,CACNA2D2
+Spironolactone,CACNA2D3
+Spironolactone,CACNA1C
+Spironolactone,CACNA1D
+Spironolactone,CACNB1
+Spironolactone,CACNB2
+Spironolactone,CACNB3
+Spironolactone,CACNB4
+Hyoscyamine,CHRM1
+Hyoscyamine,CHRM3
+Triprolidine,HRH1
+Carboprost Tromethamine,PTGER1
+Lindane,PGR
+Lindane,ESR1
+Prochlorperazine,DRD2
+Cyproheptadine,HRH1
+Cyproheptadine,HTR2A
+Cyproheptadine,CHRM1
+Cyproheptadine,CHRM3
+Cyproheptadine,HTR7
+Bendroflumethiazide,KCNMA1
+Cerivastatin,HMGCR
+Lansoprazole,MAPT
+Dipivefrin,ADRA1A
+Dipivefrin,ADRA2A
+Dipivefrin,ADRB2
+Droperidol,DRD2
+Droperidol,ADRA1A
+Levothyroxine,THRA
+Levothyroxine,THRB
+Framycetin,CXCR4
+Pethidine,GRIN1
+Pethidine,GRIN2B
+Pethidine,GRIN2A
+Pethidine,GRIN2C
+Pethidine,GRIN2D
+Pethidine,CHRM1
+Pethidine,CHRM3
+Loratadine,HRH1
+Prazosin,ADRA1A
+Prazosin,ADRA1B
+Prazosin,ADRA1D
+Prazosin,ADRA2A
+Prazosin,ADRA2B
+Imipramine,HTR2A
+Imipramine,HRH1
+Imipramine,ADRA1A
+Imipramine,ADRA1D
+Imipramine,CHRM1
+Imipramine,CHRM3
+Imipramine,ADRA1B
+Imipramine,HTR7
+Imipramine,DRD1
+Imipramine,DRD5
+Imipramine,DRD2
+Imipramine,HTR1A
+Imipramine,HTR6
+Acitretin,RXRA
+Acitretin,RARA
+Acitretin,RXRB
+Acitretin,RXRG
+Nabumetone,PTGS2
+Methylscopolamine bromide,CHRM1
+Methylscopolamine bromide,CHRM3
+Metharbital,GRIA2
+Ketorolac,PTGS2
+Tenoxicam,PTGS2
+Dronabinol,CNR1
+Chlorpromazine,DRD2
+Chlorpromazine,DRD1
+Chlorpromazine,HTR1A
+Chlorpromazine,HTR2A
+Chlorpromazine,ADRA1A
+Chlorpromazine,ADRA1B
+Chlorpromazine,HRH1
+Chlorpromazine,DRD1
+Chlorpromazine,DRD5
+Chlorpromazine,DRD5
+Chlorpromazine,HTR2A
+Chlorpromazine,ADRA1A
+Chlorpromazine,ADRA1B
+Chlorpromazine,ADRA1D
+Chlorpromazine,ADRA2A
+Chlorpromazine,ADRA2B
+Chlorpromazine,ADRA2C
+Chlorpromazine,CHRM1
+Chlorpromazine,CHRM3
+Chlorpromazine,CALM1
+Chlorpromazine,CALM2
+Chlorpromazine,CALM3
+Chlorpromazine,HTR6
+Chlorpromazine,HTR7
+Lenalidomide,PTGS2
+Raloxifene,ESR1
+Raloxifene,ESR2
+Raloxifene,TFF1
+Celecoxib,PTGS2
+Celecoxib,PDPK1
+Gallamine Triethiodide,CHRM1
+Brimonidine,ADRA2A
+Brimonidine,ADRA2B
+Brimonidine,ADRA2C
+Nabilone,CNR1
+Sotalol,ADRB1
+Sotalol,ADRB2
+Buspirone,HTR1A
+Buspirone,DRD2
+Darifenacin,CHRM3
+Darifenacin,CHRM1
+Oxycodone,OPRD1
+Tolmetin,PTGS2
+Cimetidine,HRH2
+Haloperidol,DRD2
+Haloperidol,DRD1
+Haloperidol,GRIN2B
+Haloperidol,HTR2A
+Tridihexethyl,CHRM3
+Tridihexethyl,CHRM1
+Triflupromazine,DRD1
+Triflupromazine,DRD2
+Triflupromazine,CHRM1
+Dextrothyroxine,THRA
+Dextrothyroxine,THRB
+Acetyldigitoxin,ATP1A1
+Aminocaproic Acid,PLAT
+Dextromethorphan,GRIN3A
+Dextromethorphan,OPRD1
+Dextromethorphan,RAC1
+Cisplatin,TF
+Anisotropine Methylbromide,CHRM1
+Anisotropine Methylbromide,CHRM3
+Carteolol,ADRB2
+Carteolol,ADRB1
+Alitretinoin,RARA
+Alitretinoin,RXRA
+Alitretinoin,RXRB
+Alitretinoin,RXRG
+Alitretinoin,IGFBP3
+Cinchocaine,CALM1
+Cinchocaine,CALM2
+Cinchocaine,CALM3
+Lercanidipine,CACNG1
+Erlotinib,EGFR
+Rofecoxib,PTGS2
+Guanidine,DLG4
+Toremifene,ESR1
+Nortriptyline,HTR2A
+Nortriptyline,HTR1A
+Nortriptyline,HRH1
+Nortriptyline,ADRA1A
+Nortriptyline,ADRA1D
+Nortriptyline,CHRM1
+Nortriptyline,CHRM3
+Nortriptyline,HTR6
+Nortriptyline,ADRA1B
+Nortriptyline,ADRA2A
+Nortriptyline,ADRA2B
+Nortriptyline,ADRA2C
+Nortriptyline,ADRB1
+Nortriptyline,ADRB2
+Nortriptyline,DRD2
+Amoxapine,DRD2
+Amoxapine,DRD1
+Amoxapine,ADRA2A
+Amoxapine,ADRA1A
+Amoxapine,CHRM1
+Amoxapine,HTR2A
+Amoxapine,HTR6
+Amoxapine,HTR7
+Amoxapine,HRH1
+Amoxapine,ADRA1A
+Amoxapine,ADRA1B
+Amoxapine,ADRA1D
+Amoxapine,CHRM1
+Amoxapine,CHRM3
+Amoxapine,HTR1A
+Amoxapine,HTR1B
+Amoxapine,ADRA2A
+Amoxapine,ADRA2B
+Amoxapine,ADRA2C
+Piroxicam,PTGS2
+Lamotrigine,ADORA2A
+Lamotrigine,ADRA1A
+Lamotrigine,ADRA2A
+Lamotrigine,ADRB1
+Lamotrigine,DRD1
+Lamotrigine,DRD5
+Lamotrigine,DRD2
+Lamotrigine,HRH1
+Lamotrigine,CHRM1
+Lamotrigine,CHRM3
+Lamotrigine,HTR2A
+Hydroxyzine,HRH1
+Bosentan,EDNRB
+Cinnarizine,HRH1
+Cinnarizine,CACNA1C
+Cinnarizine,CACNA1D
+Cinnarizine,DRD2
+Cinnarizine,DRD1
+Cinnarizine,DRD5
+Cinnarizine,CHRM1
+Cinnarizine,CHRM3
+Vinblastine,JUN
+Propranolol,ADRB1
+Propranolol,ADRB2
+Propranolol,HTR1A
+Propranolol,HTR1B
+Atropine,CHRM1
+Atropine,CHRM3
+Fenoprofen,PTGS2
+Fenoprofen,PPARA
+Fenoprofen,PPARG
+Fenfluramine,HTR2A
+Clonidine,ADRA2A
+Clonidine,ADRA2B
+Clonidine,ADRA2C
+Clonidine,ADRA1A
+Clonidine,ADRA1B
+Clonidine,ADRA1D
+Valdecoxib,PTGS2
+L-Carnitine,CPT2
+L-Carnitine,CPT1A
+Nizatidine,HRH2
+Diclofenac,PTGS2
+Fluticasone propionate,PGR
+Lisuride,DRD2
+Lisuride,DRD1
+Lisuride,DRD5
+Lisuride,HTR1A
+Lisuride,HTR2A
+Lisuride,HTR1B
+Lisuride,ADRA2A
+Lisuride,ADRA2B
+Lisuride,ADRA2C
+Lisuride,HTR7
+Doxazosin,ADRA1A
+Doxazosin,ADRA1B
+Doxazosin,ADRA1D
+Amiloride,PLAU
+Labetalol,ADRB1
+Labetalol,ADRB2
+Labetalol,ADRA1A
+Labetalol,ADRA1B
+Labetalol,ADRA1D
+Thiopental,GRIA2
+Thiopental,CHRM3
+Medroxyprogesterone acetate,PGR
+Medroxyprogesterone acetate,ESR1
+Cisapride,HTR2A
+Sulindac,PTGS2
+Sulindac,MAPK3
+Sulindac,PPARD
+Cyclothiazide,FXYD2
+Cyclothiazide,SFRP4
+Chloroquine,TNF
+Chloroquine,TLR9
+Metaraminol,ADRA1A
+Butorphanol,OPRD1
+Bisoprolol,ADRB1
+Bisoprolol,ADRB2
+Rifabutin,HSP90AA1
+Rifabutin,HSP90B1
+Imatinib,KIT
+Imatinib,NTRK1
+Imatinib,CSF1R
+Imatinib,PDGFRA
+Imatinib,ABL1
+Nicardipine,CACNA1C
+Nicardipine,CACNB2
+Nicardipine,CACNA1D
+Nicardipine,CACNA2D1
+Nicardipine,PDE1B
+Nicardipine,ADRA1A
+Nicardipine,ADRA1B
+Nicardipine,ADRA1D
+Nicardipine,CHRM1
+Nicardipine,CHRM3
+Nicardipine,CALM1
+Nicardipine,CALM2
+Nicardipine,CALM3
+Fluphenazine,DRD2
+Fluphenazine,DRD1
+Fluphenazine,CALM1
+Fluphenazine,CALM2
+Fluphenazine,CALM3
+Fluphenazine,HTR2A
+Testosterone,ESR1
+Guanabenz,ADRA2A
+Guanabenz,ADRA2B
+Alendronic acid,ATP6V1A
+Dexmedetomidine,ADRA2A
+Clofibrate,PPARA
+Astemizole,HRH1
+Astemizole,MAPT
+Adenosine,ADORA2A
+Adenosine,ADORA2B
+Simvastatin,HMGCR
+Simvastatin,ITGB2
+Dextropropoxyphene,OPRD1
+Mitotane,ESR1
+Mitotane,PGR
+Dyphylline,PDE4B
+Dyphylline,PDE4A
+Dyphylline,PDE4C
+Dyphylline,PDE4D
+Dyphylline,ADORA2A
+Magnesium sulfate,CACNG1
+Magnesium sulfate,CACNA2D1
+Magnesium sulfate,CACNA1C
+Magnesium sulfate,CACNB1
+Magnesium sulfate,CACNB2
+Estrone,ESR1
+Estrone,ESR2
+Trazodone,HTR2A
+Trazodone,HTR1A
+Trazodone,HRH1
+Trazodone,ADRA1A
+Trazodone,ADRA2A
+Acamprosate,GRIN1
+Acamprosate,GRIN2A
+Acamprosate,GRIN2B
+Acamprosate,GRIN2C
+Acamprosate,GRIN2D
+Acamprosate,GRIN3A
+Acamprosate,GRIN3B
+Verapamil,CACNA1C
+Verapamil,CACNA1D
+Verapamil,CACNB1
+Verapamil,CACNB2
+Verapamil,CACNB3
+Verapamil,CACNB4
+Verapamil,ADRA1A
+Verapamil,ADRA1B
+Verapamil,ADRA1D
+Epinephrine,ADRA1A
+Epinephrine,ADRA1B
+Epinephrine,ADRB1
+Epinephrine,ADRB2
+Epinephrine,ADRA2A
+Epinephrine,ADRA2B
+Epinephrine,ADRA1D
+Epinephrine,ADRA2C
+Epinephrine,TNF
+Sumatriptan,HTR1B
+Sumatriptan,HTR1F
+Sumatriptan,HTR1A
+Pirenzepine,CHRM1
+Aprepitant,TACR1
+Tamoxifen,ESR1
+Tamoxifen,ESR2
+Tamoxifen,PRKCA
+Tamoxifen,PRKCB
+Tamoxifen,PRKCD
+Tamoxifen,PRKCE
+Tamoxifen,PRKCG
+Tamoxifen,PRKCI
+Tamoxifen,PRKCQ
+Tamoxifen,PRKCZ
+Isoflurophate,TF
+Losartan,AGTR1
+Thioridazine,DRD2
+Thioridazine,DRD1
+Thioridazine,ADRA1A
+Thioridazine,ADRA1B
+Thioridazine,HTR2A
+Pentosan Polysulfate,FGF2
+Pentosan Polysulfate,FGF1
+Pentosan Polysulfate,FGF4
+Phentolamine,ADRA2A
+Phentolamine,ADRA1A
+Phentolamine,ADRA1B
+Phentolamine,ADRA1D
+Ergotamine,HTR1B
+Ergotamine,HTR2A
+Ergotamine,DRD2
+Ergotamine,ADRA1A
+Ergotamine,ADRA1B
+Ergotamine,ADRA1D
+Ergotamine,ADRA2A
+Ergotamine,ADRA2B
+Ergotamine,DRD1
+Ergotamine,DRD5
+Ergotamine,HTR1A
+Ergotamine,HTR1F
+Tizanidine,ADRA2A
+Tizanidine,ADRA2B
+Tizanidine,ADRA2C
+Nicergoline,ADRA1A
+Naltrexone,OPRD1
+Tamsulosin,ADRA1A
+Tamsulosin,ADRA1D
+Tamsulosin,ADRA1B
+Sufentanil,OPRD1
+Flurbiprofen,PTGS2
+Apomorphine,DRD2
+Apomorphine,ADRA2C
+Apomorphine,ADRA2B
+Apomorphine,DRD5
+Apomorphine,HTR1A
+Apomorphine,HTR2A
+Apomorphine,ADRA2A
+Apomorphine,DRD1
+Apomorphine,HTR1B
+Paroxetine,HTR2A
+Paroxetine,CHRM1
+Paroxetine,CHRM3
+Nedocromil,HSP90AA1
+Norethisterone,PGR
+Azatadine,HRH1
+Clodronic Acid,SLC25A4
+Procaine,GRIN3A
+Procaine,KCNMA1
+Procaine,KCNMB3
+Procaine,KCNMB4
+Methoxamine,ADRA1A
+Methoxamine,ADRA1B
+Methoxamine,ADRA1D
+Homatropine Methylbromide,CHRM1
+Homatropine Methylbromide,CHRM3
+Trimipramine,HTR2A
+Trimipramine,HTR1A
+Trimipramine,ADRA1A
+Trimipramine,ADRA1B
+Trimipramine,DRD2
+Trimipramine,ADRA2B
+Trimipramine,HRH1
+Trimipramine,ADRA2A
+Trimipramine,DRD1
+Trimipramine,DRD5
+Trimipramine,ADRB1
+Trimipramine,ADRB2
+Trimipramine,CHRM1
+Trimipramine,CHRM3
+Nitroglycerin,NPR1
+Diphemanil Methylsulfate,CHRM3
+Nateglinide,PPARG
+Risperidone,HTR2A
+Risperidone,DRD2
+Risperidone,ADRA1A
+Risperidone,ADRA1B
+Risperidone,HRH1
+Risperidone,ADRA2A
+Risperidone,ADRA2B
+Risperidone,ADRA2C
+Risperidone,HTR1A
+Risperidone,DRD1
+Risperidone,HTR7
+Meclizine,HRH1
+Modafinil,ADRA1B
+Scopolamine,CHRM1
+Scopolamine,CHRM3
+Carbinoxamine,HRH1
+Etodolac,PTGS2
+Etodolac,RXRA
+Epinastine,HRH1
+Epinastine,HRH2
+Epinastine,ADRA1A
+Epinastine,ADRA2A
+Epinastine,HTR2A
+Epinastine,HTR7
+Isoflurane,GRIA1
+Isoflurane,CALM1
+Isoflurane,CALM2
+Isoflurane,CALM3
+Tretinoin,RXRB
+Tretinoin,RXRG
+Tretinoin,RARA
+Tretinoin,RXRA
+Hexachlorophene,ESR1
+Mometasone,PGR
+Metyrosine,TH
+Benzquinamide,HRH1
+Benzquinamide,CHRM1
+Benzquinamide,CHRM3
+Olopatadine,HRH1
+Alprostadil,PTGER2
+Alprostadil,PTGER1
+Clidinium,CHRM1
+Hydroflumethiazide,ATP1A1
+Hydroflumethiazide,KCNMA1
+Tirofiban,ITGB3
+Propiomazine,HRH1
+Propiomazine,HTR2A
+Propiomazine,DRD2
+Propiomazine,DRD1
+Propiomazine,ADRA1A
+Propiomazine,ADRA1B
+Propiomazine,ADRA1D
+Propiomazine,CHRM3
+Propiomazine,CHRM1
+Propantheline,CHRM1
+Estradiol,ESR1
+Estradiol,ESR2
+Estradiol,NCOA2
+Estradiol,BECN1
+Mefenamic acid,PTGS2
+Cryptenamine,CHRM1
+Cryptenamine,CHRM3
+Marimastat,MMP2
+Naproxen,PTGS2
+Perindopril,SFRP4
+Tripelennamine,HRH1
+Primidone,GRIA2
+Sulfasalazine,PTGS2
+Sulfasalazine,PPARG
+Sulfasalazine,CHUK
+Sulfasalazine,IKBKB
+Candesartan cilexetil,AGTR1
+Tolazoline,ADRA1A
+Tolazoline,ADRA2A
+Tolazoline,HRH1
+Tolazoline,HRH2
+Tolazoline,ADRA2C
+Tolazoline,ADRA2B
+Gentamicin,LRP2
+Tazarotene,RARA
+Tazarotene,RXRB
+Fenoldopam,DRD5
+Fenoldopam,DRD1
+Fenoldopam,ADRA2B
+Fenoldopam,ADRA2C
+Fenoldopam,ADRA2A
+Fenoldopam,ADRA1B
+Fenoldopam,ADRA1D
+Fenoldopam,ADRA1A
+Dicyclomine,CHRM1
+Minaprine,HTR2A
+Minaprine,DRD1
+Minaprine,DRD2
+Minaprine,CHRM1
+Pentoxifylline,PDE4B
+Pentoxifylline,PDE4A
+Pentoxifylline,ADORA2A
+Tropicamide,CHRM1
+Tropicamide,CHRM3
+Biperiden,CHRM1
+Phenylbutazone,PTGS2
+Fentanyl,OPRD1
+Meloxicam,PTGS2
+Orciprenaline,ADRB2
+Carprofen,PTGS2
+Ethynodiol diacetate,PGR
+Ethynodiol diacetate,ESR1
+Enprofylline,PDE4A
+Enprofylline,PDE4B
+Enprofylline,ADORA2B
+Enprofylline,ADORA2A
+Menthol,CACNA1C
+Menthol,CACNA1D
+Menthol,CACNB1
+Menthol,CACNB2
+Menthol,CACNB3
+Menthol,CACNB4
+Trifluoperazine,DRD2
+Trifluoperazine,ADRA1A
+Trifluoperazine,CALM1
+Trifluoperazine,CALM2
+Trifluoperazine,CALM3
+Mifepristone,PGR
+Brompheniramine,HRH1
+Brompheniramine,CHRM1
+Brompheniramine,CHRM3
+Loperamide,OPRD1
+Loperamide,POMC
+Loperamide,CALM1
+Loperamide,CALM2
+Loperamide,CALM3
+Progabide,GABBR1
+Dobutamine,ADRB1
+Dobutamine,ADRB2
+Dobutamine,ADRA1A
+Dobutamine,ADRA1B
+Dobutamine,ADRA1D
+Dobutamine,ESR1
+Donepezil,HTR2A
+Nalbuphine,OPRD1
+Methylphenobarbital,GRIA2
+Perphenazine,DRD2
+Perphenazine,DRD1
+Perphenazine,CALM1
+Perphenazine,CALM2
+Perphenazine,CALM3
+Pseudoephedrine,ADRA1A
+Pseudoephedrine,ADRA2A
+Pseudoephedrine,ADRB2
+Pseudoephedrine,ADRB1
+Pseudoephedrine,NFATC1
+Pseudoephedrine,TNF
+Pseudoephedrine,ATF2
+Pseudoephedrine,ATF4
+Pseudoephedrine,FOS
+Pseudoephedrine,JUN
+Levorphanol,OPRD1
+Diflunisal,PTGS2
+Ranitidine,HRH2
+Benzphetamine,ADRA2A
+Benzphetamine,ADRA1A
+Alprenolol,ADRB1
+Alprenolol,ADRB2
+Alprenolol,HTR1A
+Ritodrine,ADRB2
+Suprofen,PTGS2
+Terbutaline,ADRB2
+Terbutaline,ADRB1
+Flupentixol,DRD2
+Flupentixol,HTR2A
+Flupentixol,DRD1
+Flupentixol,ADRA1A
+Flupentixol,CHRM1
+Eprosartan,AGTR1
+Sirolimus,MTOR
+Sirolimus,FGF2
+Clomifene,ESR1
+Isosorbide Dinitrate,NPR1
+Bumetanide,CFTR
+Dienestrol,ESR1
+Ethanol,GRIN3A
+Ethanol,CACNB1
+Ethanol,CACNA1C
+Ethanol,GRIA1
+Ethanol,CACNG1
+Ethanol,GRIA2
+Ethanol,GRIA4
+Ethanol,KCNJ3
+Ethanol,KCNJ6
+Ethanol,KCNJ5
+Ethanol,CACNA1D
+Ethanol,CACNG2
+Remifentanil,OPRD1
+Bitolterol,ADRB2
+Methdilazine,HRH1
+Etacrynic acid,ATP1A1
+Etacrynic acid,LEF1
+Ondansetron,HTR1A
+Ondansetron,HTR1B
+Bimatoprost,PTGER1
+Cocaine,CHRM1
+Quinidine,ADRA1A
+Quinidine,ADRA1B
+Quinidine,ADRA1D
+Repaglinide,PPARG
+Phenformin,PRKAA1
+Amantadine,GRIN3A
+Amantadine,DRD2
+Dinoprostone,PTGER2
+Dinoprostone,PTGER1
+Almotriptan,HTR1B
+Ketotifen,HRH1
+Buprenorphine,OPRD1
+Levosimendan,PDE3A
+Cyclobenzaprine,HTR2A
+Phenoxybenzamine,ADRA1A
+Phenoxybenzamine,ADRA2A
+Phenoxybenzamine,ADRA2C
+Phenoxybenzamine,ADRA2B
+Phenoxybenzamine,CALM1
+Phenoxybenzamine,CALM2
+Phenoxybenzamine,CALM3
+Phenoxybenzamine,ADRB2
+Phenoxybenzamine,ADRA1B
+Phenoxybenzamine,ADRA1D
+Etretinate,RARA
+Etretinate,RXRA
+Etretinate,RXRG
+Etretinate,RXRB
+Famotidine,HRH2
+Misoprostol,PTGER2
+Mesoridazine,HTR2A
+Mesoridazine,DRD2
+Maprotiline,HRH1
+Maprotiline,CHRM1
+Maprotiline,CHRM3
+Maprotiline,ADRA1A
+Maprotiline,ADRA1B
+Maprotiline,ADRA1D
+Maprotiline,HTR2A
+Maprotiline,HTR7
+Maprotiline,DRD2
+Maprotiline,ADRA2A
+Maprotiline,ADRA2B
+Maprotiline,ADRA2C
+Oxymetazoline,ADRA1A
+Oxymetazoline,ADRA2A
+Oxymetazoline,ADRA2C
+Oxymetazoline,ADRA2B
+Oxymetazoline,ADRA1B
+Oxymetazoline,ADRA1D
+Salicylic acid,PTGS2
+Salmeterol,ADRB2
+Salmeterol,ADRB1
+Meclofenamic acid,PTGS2
+Methantheline,CHRM1
+Methantheline,HRH2
+Cycrimine,CHRM1
+Acetylsalicylic acid,PTGS2
+Acetylsalicylic acid,PRKAA1
+Acetylsalicylic acid,PRKAA2
+Acetylsalicylic acid,PRKAB1
+Acetylsalicylic acid,PRKAB2
+Acetylsalicylic acid,PRKAG1
+Acetylsalicylic acid,PRKAG2
+Acetylsalicylic acid,PRKAG3
+Acetylsalicylic acid,IKBKB
+Acetylsalicylic acid,TP53
+Acetylsalicylic acid,NFKBIA
+Acetylsalicylic acid,NFKB2
+Acetylsalicylic acid,NFKB1
+Fulvestrant,ESR1
+Felbamate,GRIN2B
+Felbamate,GRIN3A
+Felbamate,GRIN2A
+Fexofenadine,HRH1
+Naratriptan,HTR1B
+Naratriptan,HTR1F
+Naratriptan,HTR1A
+Rizatriptan,HTR1B
+Rizatriptan,HTR1F
+Hydrocodone,OPRD1
+Norgestimate,PGR
+Norgestimate,ESR1
+Pindolol,ADRB1
+Pindolol,ADRB2
+Pindolol,HTR1A
+Pindolol,HTR1B
+Bromfenac,PTGS2
+Apraclonidine,ADRA2A
+Apraclonidine,ADRA1A
+Apraclonidine,ADRA2B
+Telmisartan,AGTR1
+Telmisartan,PPARG
+Desloratadine,HRH1
+Methyldopa,ADRA2A
+Azelastine,HRH1
+Dipyridamole,PDE10A
+Dipyridamole,PDE4A
+Dipyridamole,RCAN1
+Ethinyl Estradiol,ESR1
+Cyclopentolate,CHRM1
+Isotretinoin,RARA
+Formoterol,ADRB2
+Formoterol,ADRB1
+Dimenhydrinate,HRH1
+Glycopyrronium,CHRM1
+Glycopyrronium,CHRM3
+Dopamine,DRD2
+Dopamine,DRD1
+Dopamine,DRD5
+Dopamine,HTR1A
+Dopamine,HTR7
+Dopamine,DRD1
+Dopamine,DRD5
+Oxaprozin,PTGS2
+Azathioprine,RAC1
+Neomycin,CASR
+Auranofin,IKBKB
+Gabapentin,CACNA2D1
+Gabapentin,CACNA2D2
+Gabapentin,GRIN1
+Gabapentin,GRIN2A
+Gabapentin,GRIN2B
+Gabapentin,GRIN2C
+Gabapentin,GRIN2D
+Gabapentin,GRIN3A
+Gabapentin,GRIN3B
+Gabapentin,GABBR1
+Gabapentin,GABBR2
+Frovatriptan,HTR1B
+Hydrochlorothiazide,KCNMA1
+Salbutamol,ADRB2
+Salbutamol,ADRB1
+Cromoglicic acid,KCNMA1
+Ketoprofen,PTGS2
+Cinacalcet,CASR
+Balsalazide,PPARG
+Balsalazide,PTGS2
+Glyburide,KCNJ5
+Glyburide,CFTR
+Glyburide,CPT1A
+Minocycline,VEGFA
+Minocycline,CASP3
+Minocycline,CYCS
+Guanfacine,ADRA2A
+Guanfacine,ADRA2B
+Bethanechol,CHRM1
+Bethanechol,CHRM3
+Trichlormethiazide,ATP1A1
+Felodipine,CACNA1C
+Felodipine,CACNA2D1
+Felodipine,CACNB2
+Felodipine,CACNA1D
+Felodipine,CACNA2D2
+Felodipine,CALM1
+Felodipine,CALM2
+Felodipine,CALM3
+Felodipine,PDE1B
+Amlexanox,IL3
+Amlexanox,FGF1
+Methoxyflurane,GRIA1
+Irbesartan,AGTR1
+Irbesartan,JUN
+Cerulenin,FASN
+Tolterodine,CHRM3
+Tolterodine,CHRM1
+Carphenazine,DRD2
+Carphenazine,DRD1
+Carphenazine,DRD5
+Fenofibrate,PPARA
+Fenofibrate,PPARG
+Fenofibrate,PPARD
+Thalidomide,TNF
+Thalidomide,NFKB1
+Thalidomide,FGFR2
+Thalidomide,PTGS2
+Memantine,GRIN3A
+Memantine,GRIN2A
+Memantine,GRIN2B
+Memantine,DRD2
+Memantine,GRIN1
+Fluocinonide,SMO
+Ergoloid mesylate,DRD1
+Ergoloid mesylate,DRD5
+Ergoloid mesylate,DRD2
+Ergoloid mesylate,ADRA1A
+Ergoloid mesylate,ADRA1B
+Ergoloid mesylate,ADRA1D
+Ergoloid mesylate,ADRA2A
+Ergoloid mesylate,ADRA2B
+Ergoloid mesylate,ADRA2C
+Ergoloid mesylate,ADRB1
+Ergoloid mesylate,ADRB2
+Ergoloid mesylate,HTR1A
+Ergoloid mesylate,HTR1B
+Ergoloid mesylate,HTR1E
+Ergoloid mesylate,HTR1F
+Ergoloid mesylate,HTR2A
+Ergoloid mesylate,HTR6
+Ergoloid mesylate,HTR7
+Ibuprofen,PTGS2
+Ibuprofen,BCL2
+Ibuprofen,THBD
+Ibuprofen,PLAT
+Ibuprofen,PPARG
+Ibuprofen,CFTR
+Ibuprofen,PPARA
+Nitrendipine,CACNA1C
+Nitrendipine,CACNA2D1
+Nitrendipine,CACNB2
+Nitrendipine,CACNG1
+Nitrendipine,CACNA1D
+Nitrendipine,CACNA2D2
+Oxybutynin,CHRM3
+Oxybutynin,CHRM1
+Acetophenazine,DRD2
+Acetophenazine,DRD1
+Isoprenaline,ADRB1
+Isoprenaline,ADRB2
+Isoprenaline,MAPK1
+Isoprenaline,PIK3R1
+Isoprenaline,PIK3R2
+Isoprenaline,PIK3R3
+Melatonin,ESR1
+Melatonin,CALM1
+Melatonin,CALM2
+Melatonin,CALM3
+Glipizide,PPARG
+Promethazine,HRH1
+Promethazine,DRD2
+Promethazine,CHRM1
+Promethazine,CHRM3
+Promethazine,ADRA1A
+Promethazine,HTR2A
+Promethazine,CALM1
+Promethazine,CALM2
+Promethazine,CALM3
+Promethazine,HRH2
+Mequitazine,HRH1
+Perhexiline,CPT1A
+Perhexiline,CPT2
+Diphenhydramine,HRH1
+Atorvastatin,HMGCR
+Etidronic acid,ATP6V1A
+Deslanoside,ATP1A1
+Tegaserod,HTR2A
+Vigabatrin,GABBR1
+Diphenoxylate,OPRD1
+Orlistat,FASN
+Emedastine,HRH1
+Pilocarpine,CHRM3
+Pilocarpine,CHRM1
+Iloprost,PTGER1
+Iloprost,PDE4A
+Iloprost,PDE4B
+Iloprost,PDE4C
+Iloprost,PDE4D
+Iloprost,PLAT
+Ouabain,ATP1A1
+Ouabain,ATP1A3
+Fluvastatin,HMGCR
+Leflunomide,PTK2B
+Rosuvastatin,HMGCR
+Pimozide,DRD2
+Pimozide,CALM1
+Pimozide,CALM2
+Pimozide,CALM3
+Arbutamine,ADRB1
+Arbutamine,ADRB2
+Quinacrine,PLA2G6
+Levocabastine,HRH1
+Trilostane,ESR1
+Trilostane,ESR2
+Heparin,FGFR4
+Heparin,FGF4
+Heparin,FGF19
+Heparin,FGFR1
+Heparin,FGF1
+Heparin,FGFR2
+Heparin,FGF2
+Miconazole,NOS3
+Miconazole,KCNMA1
+Miconazole,KCNMB3
+Miconazole,KCNMB4
+Papaverine,PDE4B
+Papaverine,PDE10A
+Chlorphenamine,HRH1
+Nifedipine,CACNA1C
+Nifedipine,CACNA2D1
+Nifedipine,CACNB2
+Nifedipine,CACNA1D
+Nifedipine,CALM1
+Nifedipine,CALM2
+Nifedipine,CALM3
+Amiodarone,ADRB1
+Amiodarone,CACNA2D2
+Amiodarone,THRA
+Amiodarone,THRB
+Amiodarone,PPARG
+Diazoxide,ATP1A1
+Diazoxide,KCNMA1
+Gliclazide,VEGFA
+Pioglitazone,PPARG
+Pioglitazone,PPARD
+Pioglitazone,PPARA
+Tiludronic acid,ATP6V1A
+Tiludronic acid,PTPN1
+Carvedilol,ADRB1
+Carvedilol,ADRA1A
+Carvedilol,ADRB2
+Carvedilol,VEGFA
+Carvedilol,NPPB
+Carvedilol,ADRA1D
+Carvedilol,ADRA1B
+Carvedilol,ADRA2C
+Carvedilol,ADRA2B
+Carvedilol,ADRA2A
+Carvedilol,HIF1A
+Carvedilol,KCNJ4
+Doxepin,HRH1
+Doxepin,HRH2
+Doxepin,HTR2A
+Doxepin,CHRM1
+Doxepin,CHRM3
+Doxepin,ADRA1A
+Doxepin,ADRA1B
+Doxepin,ADRA1D
+Doxepin,HTR1A
+Doxepin,ADRA2A
+Doxepin,ADRA2B
+Doxepin,ADRA2C
+Doxepin,DRD2
+Doxepin,HTR6
+Diphenylpyraline,HRH1
+Flavoxate,CHRM1
+Nefazodone,HTR2A
+Nefazodone,HTR1A
+Nefazodone,ADRA1B
+Nefazodone,ADRA2A
+Nefazodone,ADRA1A
+Desipramine,HTR2A
+Desipramine,ADRB2
+Desipramine,ADRB1
+Desipramine,HRH1
+Desipramine,ADRA1A
+Desipramine,ADRA1B
+Desipramine,ADRA1D
+Desipramine,CHRM1
+Desipramine,CHRM3
+Desipramine,HTR1A
+Desipramine,DRD2
+Desipramine,ADRA2A
+Desipramine,ADRA2B
+Desipramine,ADRA2C
+Bretylium,ATP1A1
+Halothane,KCNMA1
+Halothane,GRIN3A
+Halothane,GRIN3B
+Halothane,GRIN2A
+Halothane,KCNJ6
+Halothane,KCNJ3
+Chloroprocaine,GRIN3A
+Terazosin,ADRA1A
+Terazosin,ADRA1B
+Terazosin,ADRA1D
+Cilostazol,PDE3A
+Arsenic trioxide,IKBKB
+Arsenic trioxide,JUN
+Arsenic trioxide,CCND1
+Arsenic trioxide,MAPK3
+Arsenic trioxide,MAPK1
+Arsenic trioxide,AKT1
+Arsenic trioxide,CDKN1A
+Arsenic trioxide,HDAC1
+Orphenadrine,GRIN2D
+Orphenadrine,GRIN1
+Orphenadrine,GRIN3B
+Orphenadrine,GRIN3A
+Orphenadrine,HRH1
+Phenobarbital,GRIA2
+Phenobarbital,GRIN1
+Phenobarbital,GRIN2A
+Phenobarbital,GRIN2B
+Phenobarbital,GRIN2C
+Phenobarbital,GRIN2D
+Phenobarbital,GRIN3A
+Phenobarbital,GRIN3B
+Escitalopram,ADRA1A
+Escitalopram,CHRM1
+Escitalopram,HRH1
+Cyclizine,HRH1
+Propafenone,ADRB1
+Propafenone,ADRB2
+Naloxone,OPRD1
+Naloxone,CREB1
+Naloxone,ESR1
+Domperidone,DRD2
+Fluoxymesterone,ESR1
+Pergolide,DRD2
+Pergolide,HTR1A
+Pergolide,HTR2A
+Pergolide,ADRA2B
+Pergolide,ADRA2A
+Pergolide,ADRA2C
+Pergolide,DRD5
+Pergolide,DRD1
+Pergolide,HTR1B
+Pergolide,ADRA1A
+Pergolide,ADRA1B
+Pergolide,ADRA1D
+Ciclopirox,ATP1A1
+Desflurane,GRIA1
+Oxymorphone,OPRD1
+Acebutolol,ADRB1
+Acebutolol,ADRB2
+Estramustine,ESR1
+Estramustine,ESR2
+Captopril,MMP2
+Bromocriptine,DRD2
+Bromocriptine,ADRA2A
+Bromocriptine,HTR1A
+Bromocriptine,ADRA2C
+Bromocriptine,ADRA2B
+Bromocriptine,HTR2A
+Bromocriptine,HTR1B
+Bromocriptine,DRD5
+Bromocriptine,DRD1
+Bromocriptine,ADRA1A
+Bromocriptine,ADRA1B
+Bromocriptine,ADRA1D
+Bromocriptine,HTR7
+Nadolol,ADRB1
+Nadolol,ADRB2
+Ridogrel,TBXA2R
+Levobunolol,ADRB2
+Levobunolol,ADRB1
+Fomepizole,CAT
+Metipranolol,ADRB2
+Metipranolol,ADRB1
+Dantrolene,RYR1
+Ketamine,GRIN3A
+Ketamine,TACR1
+Ketamine,DRD2
+Ketamine,OPRD1
+Ketamine,CHRM1
+Ketamine,CHRM3
+Ketamine,HTR2A
+Ketamine,HTR1A
+Ketamine,HTR1B
+Ketamine,HTR1E
+Ketamine,HTR1F
+Ketamine,NOS1
+Aminophylline,PDE3A
+Aminophylline,HDAC2
+Quetiapine,HTR2A
+Quetiapine,DRD2
+Quetiapine,HTR1A
+Quetiapine,HTR1B
+Quetiapine,HTR1E
+Quetiapine,HTR6
+Quetiapine,HTR7
+Quetiapine,DRD1
+Quetiapine,DRD5
+Quetiapine,HRH1
+Quetiapine,ADRA1A
+Quetiapine,ADRA1B
+Quetiapine,ADRA1D
+Quetiapine,ADRA2A
+Quetiapine,ADRA2B
+Quetiapine,ADRA2C
+Quetiapine,CHRM1
+Quetiapine,CHRM3
+Mivacurium,CHRM3
+Paclitaxel,BCL2
+Paclitaxel,MAPT
+Diphenidol,CHRM1
+Diphenidol,CHRM3
+Metoclopramide,DRD2
+Metoclopramide,CHRM1
+Levodopa,DRD1
+Levodopa,DRD5
+Levodopa,DRD2
+Sevoflurane,GRIA1
+Bromodiphenhydramine,HRH1
+Aripiprazole,HTR2A
+Aripiprazole,DRD2
+Aripiprazole,HTR1A
+Aripiprazole,HTR1B
+Aripiprazole,HTR1E
+Aripiprazole,HTR6
+Aripiprazole,HTR7
+Aripiprazole,DRD1
+Aripiprazole,DRD5
+Aripiprazole,HRH1
+Aripiprazole,ADRA1A
+Aripiprazole,ADRA1B
+Aripiprazole,ADRA2A
+Aripiprazole,ADRA2B
+Aripiprazole,ADRA2C
+Aripiprazole,CHRM1
+Aripiprazole,CHRM3
+Chlorprothixene,DRD2
+Chlorprothixene,DRD1
+Chlorprothixene,HTR2A
+Chlorprothixene,HRH1
+Chlorprothixene,CHRM1
+Chlorprothixene,CHRM3
+Gemfibrozil,PPARA
+Clomipramine,HTR2A
+Bepridil,CACNA2D2
+Bepridil,ATP1A1
+Bepridil,CALM1
+Bepridil,CALM2
+Bepridil,CALM3
+Bepridil,PDE1B
+Alimemazine,HRH1
+Docetaxel,BCL2
+Docetaxel,MAPT
+Mitiglinide,PPARG
+Ergonovine,ADRA1A
+Dasatinib,ABL1
+Dasatinib,SRC
+Dasatinib,EPHA2
+Dasatinib,LCK
+Dasatinib,KIT
+Dasatinib,STAT5B
+Dasatinib,ABL2
+Dasatinib,FYN
+Dasatinib,FGR
+Dasatinib,HSPA8
+Dasatinib,LYN
+Dasatinib,MAPK14
+Lisdexamfetamine,ADRA1B
+Lapatinib,EGFR
+Lapatinib,ERBB2
+Paliperidone,HTR2A
+Paliperidone,DRD2
+Paliperidone,HRH1
+Paliperidone,ADRA1A
+Paliperidone,ADRA1B
+Paliperidone,ADRA2A
+Paliperidone,ADRA2B
+Paliperidone,ADRA2C
+Paliperidone,HTR1A
+Paliperidone,DRD1
+Paliperidone,HTR7
+Sunitinib,FLT1
+Sunitinib,KIT
+Sunitinib,KDR
+Sunitinib,FLT4
+Sunitinib,FLT3
+Sunitinib,CSF1R
+Sunitinib,PDGFRA
+Panitumumab,EGFR
+Ranibizumab,VEGFA
+Arformoterol,ADRB2
+Exenatide,GLP1R
+Mecasermin,IGF1R
+Mecasermin,IGFBP3
+Mecasermin,INSR
+Carbetocin,OXTR
+Lumiracoxib,PTGS2
+Tetracosactide,MC2R
+Corticotropin,MC2R
+Fenoterol,ADRB2
+Fenoterol,ADRB1
+Pirbuterol,ADRB2
+Pirbuterol,ADRB1
+Bevantolol,ADRB1
+Bevantolol,ADRB2
+Bevantolol,ADRA1A
+Glucosamine,NFKB2
+Glucosamine,TNF
+Practolol,ADRB1
+Oxtriphylline,PDE3A
+Oxtriphylline,PDE4A
+Oxtriphylline,ADORA2A
+Oxtriphylline,HDAC2
+Insulin Aspart,INSR
+Insulin Detemir,INSR
+Insulin Glulisine,INSR
+Cefazolin,IL15
+Pancuronium,CHRM3
+Pipecuronium,CHRM3
+Forasartan,AGTR1
+Potassium,ATP1A1
+Quinidine barbiturate,GRIA2
+Saprisartan,AGTR1
+Tasosartan,AGTR1
+Amobarbital,GRIA2
+Aprobarbital,GRIA2
+Butethal,GRIA2
+Heptabarbital,GRIA2
+Hexobarbital,GRIA2
+Lithium,GSK3B
+Mestranol,ESR1
+Penbutolol,ADRB1
+Penbutolol,ADRB2
+Penbutolol,HTR1A
+Penbutolol,HTR1B
+Ephedra,ADRA2A
+Ephedra,ADRA2B
+Ephedra,ADRA2C
+Ephedra,ADRB1
+Ephedra,ADRB2
+Ephedrine,ADRA1A
+Mephentermine,ADRA1A
+Mephentermine,ADRA1B
+Mephentermine,ADRA1D
+Mephentermine,ADRA2A
+Mephentermine,ADRA2B
+Mephentermine,ADRA2C
+Mephentermine,ADRB1
+Mephentermine,ADRB2
+Procaterol,ADRB2
+Rasagiline,BCL2
+Aluminium,TF
+Aluminium,ATP1A1
+Calcium,CACNA1C
+Calcium,COMP
+Calcium,CALM1
+Calcium,CALM2
+Calcium,CALM3
+Calcium,S100A9
+Calcium,BMP4
+Aluminium monostearate,VDAC1
+Aluminium monostearate,VDAC2
+Aluminium monostearate,VDAC3
+Magnesium,ATP1A1
+Mibefradil,CACNA1C
+Mibefradil,CACNA1D
+Mibefradil,CACNB1
+Mibefradil,CACNB2
+Mibefradil,CACNB3
+Mibefradil,CACNB4
+Yohimbine,ADRA2A
+Yohimbine,ADRA2B
+Yohimbine,ADRA2C
+Yohimbine,HTR1A
+Yohimbine,HTR1B
+Yohimbine,DRD2
+Yohimbine,HTR2A
+Yohimbine,KCNJ12
+Bezafibrate,PPARA
+Bezafibrate,PPARD
+Bezafibrate,PPARG
+Bezafibrate,RXRA
+Bezafibrate,RXRB
+Bezafibrate,RXRG
+Drospirenone,PGR
+Digitoxin,ATP1A1
+Magnesium salicylate,PTGS2
+Salsalate,PTGS2
+Choline magnesium trisalicylate,PTGS2
+Methotrimeprazine,DRD2
+Methotrimeprazine,DRD1
+Methotrimeprazine,DRD5
+Methotrimeprazine,HTR2A
+Methotrimeprazine,HRH1
+Methotrimeprazine,CHRM1
+Methotrimeprazine,CHRM3
+Methotrimeprazine,ADRA1A
+Methotrimeprazine,ADRA1B
+Methotrimeprazine,ADRA1D
+Methotrimeprazine,ADRA2A
+Methotrimeprazine,ADRA2B
+Methotrimeprazine,ADRA2C
+Ginseng,PTGS2
+Danazol,ESR1
+Danazol,PGR
+Clenbuterol,ADRB2
+Clenbuterol,ADRB1
+Clenbuterol,NGF
+Clenbuterol,TNF
+Bambuterol,ADRB2
+Tiotropium,CHRM3
+Tiotropium,CHRM1
+Pranlukast,TNF
+Pranlukast,NFKB1
+Theobromine,ADORA2A
+Theobromine,PDE4B
+Antrafenine,PTGS2
+Alizapride,DRD2
+Amrinone,PDE3A
+Amrinone,PDE4B
+Amrinone,TNF
+Oxybenzone,PGR
+Oxybenzone,ESR1
+Oxybenzone,ESR2
+Aprindine,CALM1
+Aprindine,CALM2
+Aprindine,CALM3
+Almitrine,ATP1A1
+Allylestrenol,PGR
+Allylestrenol,ESR1
+Antipyrine,PTGS2
+Alfacalcidol,RXRA
+3-Methylthiofentanyl,OPRD1
+MMDA,HTR2A
+Dimethylthiambutene,OPRD1
+Heroin,OPRD1
+Midomafetamine,HTR2A
+4-Methoxyamphetamine,ADRA1A
+4-Methoxyamphetamine,ADRA2A
+Barbital,GRIA2
+Dimethyltryptamine,HTR6
+Dimethyltryptamine,HTR2A
+Barbituric acid derivative,GRIA2
+Etorphine,OPRD1
+Etorphine,POMC
+Tenocyclidine,GRIN3A
+Tenocyclidine,GRIN3B
+Tenocyclidine,GRIN2A
+Tenocyclidine,GRIN2C
+Tenocyclidine,GRIN2B
+Tenocyclidine,GRIN2D
+Carfentanil,OPRD1
+"4-Bromo-2,5-dimethoxyphenethylamine",HTR2A
+Diprenorphine,OPRD1
+Rolicyclidine,GRIN3A
+Rolicyclidine,DRD2
+Dihydromorphine,OPRD1
+Dihydromorphine,POMC
+3-Methylfentanyl,OPRD1
+Dextroamphetamine,ADRA1A
+Dextroamphetamine,ADRA1B
+Methamphetamine,ADRA2A
+Methamphetamine,ADRA2B
+Methamphetamine,ADRA2C
+Phendimetrazine,ADRA1A
+Phendimetrazine,ADRA1B
+Oxprenolol,ADRB1
+Oxprenolol,ADRB2
+Liotrix,THRA
+Liotrix,THRB
+Everolimus,MTOR
+Solifenacin,CHRM3
+Solifenacin,CHRM1
+Iron,TFRC
+Iron,TF
+Zinc,ALDOA
+Zinc,ENO1
+Zinc,ESR1
+Zinc,IL3
+Zinc,HDAC1
+Zinc,HDAC4
+Zinc,SIVA1
+Zinc,MDM2
+Zinc,INS
+Zinc,S100A9
+Zinc,TP73
+Zinc,TP53
+Zinc,APOA1
+Zinc,FN1
+Zinc,KRT16
+Zinc,KRT9
+Zinc,TF
+Tiaprofenic acid,PTGS2
+Propericiazine,DRD1
+Propericiazine,ADRA2A
+Propericiazine,ADRA1B
+Hydroxychloroquine,TLR9
+Amyl Nitrite,NPR1
+Erythrityl Tetranitrate,NPR1
+Erythrityl Tetranitrate,NPR2
+Acepromazine,DRD2
+Acepromazine,DRD1
+Acepromazine,HTR2A
+Acepromazine,HTR1A
+Acepromazine,ADRA1A
+Acepromazine,ADRA1B
+Aceprometazine,HRH1
+Alverine,HTR1A
+Molindone,DRD2
+Molindone,HTR1A
+Molindone,HTR2A
+Molindone,CHRM1
+Phenindamine,HRH1
+Pheniramine,HRH1
+Pipotiazine,DRD2
+Pipotiazine,DRD1
+Pipotiazine,HTR2A
+Pipotiazine,HTR1A
+Thioproperazine,DRD2
+Thioproperazine,DRD1
+Thioproperazine,HTR2A
+Thioproperazine,HTR1A
+Thioproperazine,ADRA1A
+Thioproperazine,ADRA1B
+Thiothixene,DRD2
+Thiothixene,DRD1
+Thiothixene,HTR2A
+Zuclopenthixol,DRD1
+Zuclopenthixol,DRD5
+Zuclopenthixol,DRD2
+Zuclopenthixol,ADRA1A
+Zuclopenthixol,ADRA2A
+Zuclopenthixol,HTR2A
+Zuclopenthixol,HRH1
+Isopropamide,CHRM3
+Etoricoxib,PTGS2
+SC-74020,MMP2
+Methyl Nonanoate (Ester),LCN2
+"(5r)-6-(4-{[2-(3-Iodobenzyl)-3-Oxocyclohex-1-En-1-Yl]Amino}Phenyl)-5-Methyl-4,5-Dihydropyridazin-3(2h)-One",PDE3B
+Genistein,ESR2
+Genistein,PTK2B
+Genistein,NCOA1
+Genistein,ESR1
+Genistein,NCOA2
+Genistein,AKT1
+Daxalipram,PDE4B
+7-Methyl-Gpppa,EIF4E
+Roflumilast,PDE4D
+Roflumilast,PDE4A
+Roflumilast,PDE4B
+Roflumilast,PDE4C
+(S)-Des-Me-Ampa,GRIA2
+D-Myo-Inositol-Hexasulphate,FST
+"2,3-Dihydroxy-Benzoic Acid",LCN2
+RU84687,SRC
+"N,N-dimethylarginine",NOS3
+D-tartaric acid,ATP6V1C1
+Prasterone,ESR1
+Prasterone,ESR2
+Prasterone,GRIN1
+Prasterone,GRIN2A
+Prasterone,GRIN2B
+Prasterone,GRIN2C
+Prasterone,GRIN2D
+Prasterone,GRIN3A
+Prasterone,GRIN3B
+Prasterone,PPARA
+2-phospho-D-glyceric acid,ENO3
+"2-{2-hydroxy-[1,1'-biphenyl]-3-yl}-1H-1,3-benzodiazole-5-carboximidamide",PLAU
+L-Phospholactate,PKM
+3-(Oxalyl-Amino)-Naphthalene-2-Carboxylic Acid,PTPN1
+[3-(Dodecanoylamino)Propyl](Hydroxy)Dimethylammonium,SLC25A4
+Phosphorylcolamine,PRKCB
+1-naphthaleneacetic acid,SKP1
+S-adenosyl-L-homocysteine,PRMT1
+S-adenosyl-L-homocysteine,SETD7
+"3,4-Dihydroxy-1-Methylquinolin-2(1h)-One",PIM1
+4-[5-[2-(1-Phenyl-Ethylamino)-Pyrimidin-4-Yl]-1-Methyl-4-(3-Trifluoromethylphenyl)-1h-Imidazol-2-Yl]-Piperidine,MAPK14
+Beta-(2-Naphthyl)-Alanine,PIN1
+"3-[3-(2,3-Dihydroxy-Propylamino)-Phenyl]-4-(5-Fluoro-1-Methyl-1h-Indol-3-Yl)-Pyrrole-2,5-Dione",GSK3B
+M-Cresol,INS
+Fusicoccin,YWHAE
+"2,6-Dihydroanthra/1,9-Cd/Pyrazol-6-One",MAPK8IP1
+"2,6-Dihydroanthra/1,9-Cd/Pyrazol-6-One",MAPK8
+Piclamilast,PDE4A
+Piclamilast,PDE4B
+Piclamilast,PDE4C
+Piclamilast,PDE4D
+SB-409513,GSK3B
+"N-[(3z)-5-Tert-Butyl-2-Phenyl-1,2-Dihydro-3h-Pyrazol-3-Ylidene]-N'-(4-Chlorophenyl)Urea",MAPK14
+"1-Ter-Butyl-3-P-Tolyl-1h-Pyrazolo[3,4-D]Pyrimidin-4-Ylamine",HCK
+"1-Ter-Butyl-3-P-Tolyl-1h-Pyrazolo[3,4-D]Pyrimidin-4-Ylamine",RET
+Phosphoenolpyruvate,ENO3
+"Compound 12, N-Acetyl-4-[(Carboxycarbonyl)(2-Carboxyphenyl)Amino]-N-Pentyl-1-Napthylalaniamide",PTPN1
+"L-N(Omega)-Nitroarginine-2,4-L-Diaminobutyric Amide",NOS3
+"L-N(Omega)-Nitroarginine-2,4-L-Diaminobutyric Amide",NOS1
+Beta-D-Glucopyranose Spirohydantoin,PYGM
+"{4-[2-Acetylamino-2-(3-Carbamoyl-2-Cyclohexylmethoxy-6,7,8,9-Tetrahydro-5h-Benzocyclohepten-5ylcarbamoyl)-Ethyl]-2-Phosphono-Phenyl}-Phosphonic Acid",LCK
+L-2-Amino-4-(Guanidinooxy)Butyric Acid,NOS3
+"3-Amino-8,9,10-Trihydroxy-7-Hydroxymethyl-6-Oxa-1,3-Diaza-Spiro[4.5]Decane-2,4-Dione",PYGM
+"Inositol 1,3,4,5-Tetrakisphosphate",AKT1
+"Inositol 1,3,4,5-Tetrakisphosphate",CYTH2
+"Inositol 1,3,4,5-Tetrakisphosphate",CYTH3
+"Inositol 1,3,4,5-Tetrakisphosphate",PDPK1
+5'-Guanosine-Diphosphate-Monothiophosphate,ARF6
+RU79256,SRC
+Benzophenone,ESR1
+Benzophenone,ESR2
+"4-[5-(Trans-4-Aminocyclohexylamino)-3-Isopropylpyrazolo[1,5-a]Pyrimidin-7-Ylamino]-N,N-Dimethylbenzenesulfonamide",CDK2
+"N,N-Bis(3-(D-gluconamido)propyl)deoxycholamide",PPARA
+N6-Benzyl Adenosine-5'-Diphosphate,SRC
+Sucrosofate,FGF1
+Sucrosofate,FGFR2
+2-(2-Hydroxy-5-Methoxy-Phenyl)-1h-Benzoimidazole-5-Carboxamidine,PLAU
+RU85493,SRC
+Putrescine,ADRB1
+Putrescine,ADRB2
+Pentanal,PRKACA
+Carboxymycobactin S,LCN2
+"Dcka, 5,7-Dichlorokynurenic Acid",GRIN1
+7-Hydroxystaurosporine,PDPK1
+Balanol Analog 2,PRKACA
+"6-[1-(3,5,5,8,8-Pentamethyl-5,6,7,8-Tetrahydronaphthalen-2-Yl)Cyclopropyl]Pyridine-3-Carboxylic Acid",RXRB
+Formic Acid,HMOX1
+Formic Acid,CTBP1
+Formic Acid,NOS1
+Formic Acid,CYTH2
+Formic Acid,FGF1
+"3-[1-(3-Aminopropyl)-1h-Indol-3-Yl]-4-(1-Methyl-1h-Indol-3-Yl)-1h-Pyrrole-2,5-Dione",PDPK1
+RU78262,SRC
+"1-(2,6-Dichlorophenyl)-5-(2,4-Difluorophenyl)-7-Piperidin-4-Yl-3,4-Dihydroquinolin-2(1h)-One",MAPK14
+"N-(4-Methoxybenzyl)-N'-(5-Nitro-1,3-Thiazol-2-Yl)Urea",GSK3B
+Inhibitor of P38 Kinase,MAPK14
+Rolipram,PDE4D
+Rolipram,PDE4B
+"1,4-Butanediol",PLA2G2E
+Taurine,GRIN2B
+Taurine,GABBR1
+"3,5-Dimethyl-1-(3-Nitrophenyl)-1h-Pyrazole-4-Carboxylic Acid Ethyl Ester",PDE4B
+"3,5-Dimethyl-1-(3-Nitrophenyl)-1h-Pyrazole-4-Carboxylic Acid Ethyl Ester",PDE4D
+7n-Methyl-8-Hydroguanosine-5'-Diphosphate,EIF4E
+Phosphonotyrosine,HCK
+Phosphonotyrosine,SRC
+Phosphonotyrosine,KIT
+"Hg9a-9, Nonanoyl-N-Hydroxyethylglucamide",PDE3B
+Guanosine-5'-Monophosphate,DLG4
+6-(N-Phenylcarbamyl)-2-Naphthalenecarboxamidine,PLAU
+6((S)-3-Benzylpiperazin-1-Yl)-3-(Naphthalen-2-Yl)-4-(Pyridin-4-Yl)Pyrazine,MAPK14
+Coenzyme A,DBI
+Coenzyme A,HMGCR
+Coenzyme A,KAT2A
+3-Bromo-7-Nitroindazole,NOS3
+3-Bromo-7-Nitroindazole,NOS1
+alpha-D-glucose 6-phosphate,HK1
+alpha-D-glucose 6-phosphate,PYGM
+Staurosporine,LCK
+Staurosporine,PIM1
+Staurosporine,SYK
+Staurosporine,MAPKAPK2
+Staurosporine,GSK3B
+Staurosporine,CDK2
+Staurosporine,PDPK1
+Staurosporine,PRKCQ
+Staurosporine,ZAP70
+Staurosporine,CHRM1
+Compound 9,PTPN1
+N-{(4s)-4-Amino-5-[(2-Aminoethyl)Amino]Pentyl}-N'-Nitroguanidine,NOS3
+N-{(4s)-4-Amino-5-[(2-Aminoethyl)Amino]Pentyl}-N'-Nitroguanidine,NOS1
+N-(3-(Aminomethyl)Benzyl)Acetamidine,NOS3
+N-(3-(Aminomethyl)Benzyl)Acetamidine,NOS1
+"1,2,4-Triazole-Carboxamidine",NOS3
+Indirubin-3'-Monoxime,CDK1
+Indirubin-3'-Monoxime,GSK3B
+Indirubin-3'-Monoxime,CDK2
+(S)-AMPA,GRIA2
+SU4984,FGFR2
+SU4984,FGFR1
+Adenosine-5-Diphosphoribose,EEF2
+Adenosine-5-Diphosphoribose,GAPDH
+"2-(Oxalyl-Amino)-4,7-Dihydro-5h-Thieno[2,3-C]Thiopyran-3-Carboxylic Acid",PTPN1
+Biliverdine IX Alpha,HMOX1
+L-N(omega)-Nitroarginine-(4R)-Amino-L-Proline Amide,NOS3
+L-N(omega)-Nitroarginine-(4R)-Amino-L-Proline Amide,NOS1
+Triglyme,PFN2
+Triglyme,FYN
+Triglyme,PPIF
+CP-526423,PYGL
+"4-(2,4-Dimethyl-Thiazol-5-Yl)-Pyrimidin-2-Ylamine",CDK2
+2-Chlorodideoxyadenosine,HSP90B1
+"[3,5-Dibromo-4-(4-Hydroxy-3-Phenethylcarbamoyl-Phenoxy)-Phenyl]-Acetic Acid",THRB
+Protoporphyrin Ix Containing Co,CYCS
+Olomoucine,CDK2
+Olomoucine,CDK1
+Olomoucine,MAPK1
+"S,S'-(1,4-Phenylene-Bis(1,2-Ethanediyl))Bis-Isothiourea",NOS3
+N-Isopropyl-N'-Hydroxyguanidine,NOS1
+K-252a,MET
+K-252a,MAP2K1
+Balanol Analog 8,PRKACA
+"9,10-Deepithio-9,10-Didehydroacanthifolicin",PPP1CC
+Malonic acid,SRC
+Equilin,ESR1
+"3-(4-Fluorophenyl)-1-Hydroxy-2-(Pyridin-4-Yl)-1h-Pyrrolo[3,2-B]Pyridine",MAPK14
+"4-[(4-Imidazo[1,2-a]Pyridin-3-Ylpyrimidin-2-Yl)Amino]Benzenesulfonamide",CDK2
+7-Nitroindazole,NOS3
+"Hexane-1,6-Diol",HRAS
+S-Methylcysteine,CTSD
+S-Ethylisothiourea,NOS3
+"3-(3,5-Dibromo-4-Hydroxy-Benzoyl)-2-Ethyl-Benzofuran-6-Sulfonic Acid (4-Sulfamoyl-Phenyl)-Amide",PTPN1
+Platelet Activating Factor,PTAFR
+O2-Sulfo-Glucuronic Acid,FGF1
+Flufenamic Acid,PTGS2
+Flufenamic Acid,PPARA
+Flufenamic Acid,PPARG
+1-(5-Tert-Butyl-2-Methyl-2h-Pyrazol-3-Yl)-3-(4-Chloro-Phenyl)-Urea,MAPK14
+2-(2-Hydroxy-Phenyl)-3h-Benzoimidazole-5-Carboxamidine,PLAU
+2-Amino-6-Chloropyrazine,CDK2
+1-N-Acetyl-Beta-D-Glucosamine,PYGM
+1-N-Acetyl-Beta-D-Glucosamine,PYGL
+Heparin Disaccharide I-S,CCL5
+Isopropyl Alcohol,GDF5
+Isopropyl Alcohol,TNF
+2-Aminothiazoline,NOS3
+RU83876,SRC
+2-Methoxyestradiol,HIF1A
+Selenocysteine,CAMP
+2-Amino-3-(5-Tert-Butyl-3-(Phosphonomethoxy)-4-Isoxazolyl)Propionic Acid,GRIA2
+Fluoro-Phosphite Ion,PYGM
+3-(Benzyloxy)Pyridin-2-Amine,MAPK14
+Heparin Disaccharide Iii-S,CCL5
+"9-Butyl-8-(2,5-Dimethoxy-Benzyl)-9h-Purin-6-Ylamine",HSP90AA1
+Myricetin,JAK1
+Beta-D-Glucose,PYGM
+Beta-D-Glucose,GCK
+Beta-D-Glucose,HK1
+Beta-D-Glucose,PYGL
+6-[N-(4-(Aminomethyl)Phenyl)Carbamyl]-2-Naphthalenecarboxamidine,PLAU
+"4-Hydroxy-1,2,5-Oxadiazole-3-Carboxylic Acid",LDHB
+6-O-Cyclohexylmethyl Guanine,CDK2
+"[[4-(Aminomethyl)Phenyl]Amino]Oxo-Acetic Acid,",PTPN1
+Geldanamycin,HSP90AB1
+Geldanamycin,HSP90AA1
+Geldanamycin,HSP90B1
+Carboxyatractyloside,SLC25A4
+RU90395,SRC
+2-{4-[(2s)-2-[({[(1s)-1-Carboxy-2-Phenylethyl]Amino}Carbonyl)Amino]-3-Oxo-3-(Pentylamino)Propyl]Phenoxy}Malonic Acid,PTPN1
+"3,8,9,10-Tetrahydroxy-7-Hydroxymethyl-6-Oxa-1,3-Diaza-Spiro[4.5]Decane-2,4-Dione",PYGM
+N-Tridecanoic Acid,PLA2G2E
+B-nonylglucoside,KCNJ3
+12-Phenylheme,HMOX1
+Nojirimycine Tetrazole,PYGM
+"6-[N-(1-Isopropyl-3,4-Dihydro-7-Isoquinolinyl)Carbamyl]-2-Naphthalenecarboxamidine",PLAU
+Phosphonothreonine,PRKACA
+Phosphonothreonine,PRKACB
+Phosphonothreonine,MAPK12
+Phosphonothreonine,PRKCQ
+Phosphonothreonine,MAPK1
+Etheno-Nad,LDHA
+4-[4-(1-Amino-1-Methylethyl)Phenyl]-5-Chloro-N-[4-(2-Morpholin-4-Ylethyl)Phenyl]Pyrimidin-2-Amine,FGFR2
+"2,6,8-Trimethyl-3-Amino-9-Benzyl-9-Methoxynonanoic Acid",PPP1CA
+"2,6,8-Trimethyl-3-Amino-9-Benzyl-9-Methoxynonanoic Acid",PPP2R1A
+"2,6,8-Trimethyl-3-Amino-9-Benzyl-9-Methoxynonanoic Acid",PPP2CA
+"2,6,8-Trimethyl-3-Amino-9-Benzyl-9-Methoxynonanoic Acid",PPP2R5C
+"2,6,8-Trimethyl-3-Amino-9-Benzyl-9-Methoxynonanoic Acid",PPP2R2A
+"1,6-Fructose Diphosphate (Linear Form)",ALDOA
+Indirubin-5-Sulphonate,PYGM
+CRA_10655,PLAU
+gamma-Aminobutyric acid,GABBR1
+gamma-Aminobutyric acid,GABBR2
+"N-[4-(2-Methylimidazo[1,2-a]Pyridin-3-Yl)-2-Pyrimidinyl]Acetamide",CDK2
+Vorinostat,HDAC1
+Vorinostat,HDAC2
+Vorinostat,HDAC3
+"8-(2-Chloro-3,4,5-Trimethoxy-Benzyl)-2-Fluoro-9-Pent-4-Ylnyl-9h-Purin-6-Ylamine",HSP90AA1
+"6-[N-(4-Ethyl-1,2,3,4-Tetrahydro-6-Isoquinolinyl)Carbamyl]-2-Naphthalenecarboxamidine",PLAU
+Pentaglyme,PFN2
+Colforsin,ADCY2
+Colforsin,GNAS
+Colforsin,ADCY5
+Colforsin,CFTR
+Se-Ethyl-Isoselenourea,NOS3
+1-Amino-6-Cyclohex-3-Enylmethyloxypurine,CDK2
+2-Deoxy-Glucose-6-Phosphate,PYGM
+Balanol Analog 1,PRKACA
+Compound 19,PTPN1
+Compound 19,ESR1
+Sp7343-Sp7964,PTPN1
+2-(Oxalyl-Amino)-Benzoic Acid,PTPN1
+Aminophosphonic Acid-Guanylate Ester,CDC42
+"9-Hydroxy-8-Methoxy-6-Nitro-Phenanthrol[3,4-D][1,3]Dioxole-5-Carboxylic Acid",PLA2G2E
+Terlipressin,AVPR1B
+N-Omega-Propyl-L-Arginine,NOS1
+N-(5-Cyclopropyl-1h-Pyrazol-3-Yl)Benzamide,CDK2
+"{[2-(1h-1,2,3-Benzotriazol-1-Yl)-2-(3,4-Difluorophenyl)Propane-1,3-Diyl]Bis[4,1-Phenylene(Difluoromethylene)]}Bis(Phosphonic Acid)",PTPN1
+LY-294002,PIM1
+Filaminast,PDE4B
+Novo Nordisk a/S Compound,PTPN1
+"2-[3-(2-Hydroxy-1,1-Dihydroxymethyl-Ethylamino)-Propylamino]-2-Hydroxymethyl-Propane-1,3-Diol",PDE4D
+Nicotinamide,LDHA
+"6-[N-(1-Isopropyl-1,2,3,4-Tetrahydro-7-Isoquinolinyl)Carbamyl]-2-Naphthalenecarboxamidine",PLAU
+Resveratrol,PTGS2
+Resveratrol,ITGA5
+Resveratrol,ITGB3
+Resveratrol,ESR1
+Resveratrol,SLC2A1
+Resveratrol,PPARA
+Resveratrol,PPARG
+Resveratrol,AKT1
+"2,3,-Dihydroxybenzoylserine",LCN2
+Compound 18,ESR1
+7-Methyl-Guanosine-5'-Triphosphate,EIF4E
+C-(1-Hydrogyl-Beta-D-Glucopyranosyl) Formamide,PYGM
+Alpha-D-Glucopyranosyl-2-Carboxylic Acid Amide,PYGM
+2-Phosphoglycolic Acid,PKM
+2-Phosphoglycolic Acid,ENO2
+2-Phosphoglycolic Acid,ENO3
+N-Butyl-N'-Hydroxyguanidine,NOS1
+Purvalanol,CDK4
+Purvalanol,MAPK1
+Purvalanol,MAPK3
+Purvalanol,CDK2
+Phthalic Acid,ESR1
+Phthalic Acid,PGR
+Phthalic Acid,ESR2
+Phthalic Acid,PPARA
+Phthalic Acid,PPARD
+Phthalic Acid,PPARG
+Phthalic Acid,RXRA
+Phthalic Acid,RXRB
+Phthalic Acid,RXRG
+"9-Butyl-8-(3,4,5-Trimethoxybenzyl)-9h-Purin-6-Amine",HSP90AB1
+"9-Butyl-8-(3,4,5-Trimethoxybenzyl)-9h-Purin-6-Amine",HSP90AA1
+Pyrazole,ESR1
+Pyrazole,ESR2
+Indolylpropionic Acid,PLA2G2E
+RU79072,SRC
+5-Mercapto-2-Nitro-Benzoic Acid,IL12B
+"1,3-Propandiol",ARF1
+"2,5-Anhydroglucitol-1,6-Biphosphate",FBP1
+Dodecane-Trimethylamine,PTPN11
+N-[4-(2-{2-[3-(2-Bromo-Acetylamino)-Propionylamino]-3-Hydroxy-Propionylamino}-Ethyl)-Phenyl]-Oxalamic Acid,PTPN1
+P-Anisic Acid,PLA2G2E
+Iodo-Willardiine,GRIA2
+"7-(1,1-Dioxo-1h-Benzo[D]Isothiazol-3-Yloxymethyl)-2-(Oxalyl-Amino)-4,7-Dihydro-5h-Thieno[2,3-C]Pyran-3-Carboxylic Acid",PTPN1
+[4-(2-Amino-4-Methyl-Thiazol-5-Yl)-Pyrimidin-2-Yl]-(3-Nitro-Phenyl)-Amine,CDK2
+"4-(1,3-Benzodioxol-5-Yl)-5-(5-Ethyl-2,4-Dihydroxyphenyl)-2h-Pyrazole-3-Carboxylic Acid",HSP90AA1
+alpha-D-glucose-1-phosphate,PYGM
+"{4-[3-(6,7-Diethoxy-Quinazolin-4-Ylamino)-Phenyl]-Thiazol-2-Yl}-Methanol",FBP1
+Calyculin A,PPP1CC
+"3''-(Beta-Chloroethyl)-2'',4''-Dioxo-3, 5''-Spiro-Oxazolidino-4-Deacetoxy-Vinblastine",CALM1
+"3''-(Beta-Chloroethyl)-2'',4''-Dioxo-3, 5''-Spiro-Oxazolidino-4-Deacetoxy-Vinblastine",CALM2
+"3''-(Beta-Chloroethyl)-2'',4''-Dioxo-3, 5''-Spiro-Oxazolidino-4-Deacetoxy-Vinblastine",CALM3
+"Cis-[4,5-Bis-(4-Bromophenyl)-2-(2-Ethoxy-4-Methoxyphenyl)-4,5-Dihydroimidazol-1-Yl]-[4-(2-Hydroxyethyl)Piperazin-1-Yl]Methanone",MDM2
+"1-(2,6-Dichlorophenyl)-5-(2,4-Difluorophenyl)-7-Piperazin-1-Yl-3,4-Dihydroquinazolin-2(1h)-One",MAPK14
+5-{[(2-Amino-9h-Purin-6-Yl)Oxy]Methyl}-2-Pyrrolidinone,CDK2
+Stanolone,ESR1
+RU78783,SRC
+Octanoyl-Coenzyme A,ACADM
+"2,4-Diamino-6-Phenyl-5,6,7,8,-Tetrahydropteridine",NOS3
+"4-(2,4-Dimethyl-1,3-thiazol-5-yl)-N-[4-(trifluoromethyl)phenyl]-2-pyrimidinamine",CDK2
+6-(4-Difluoromethoxy-3-Methoxy-Phenyl)-2h-Pyridazin-3-One,PDE4D
+Diglyme,HSP90B1
+Hymenialdisine,CDK1
+Hymenialdisine,CDK2
+Alpha-Aminoisobutyric Acid,NPY
+Ricinoleic Acid,CNR1
+"(5-Chloropyrazolo[1,5-a]Pyrimidin-7-Yl)-(4-Methanesulfonylphenyl)Amine",CDK2
+"8,9,10-Trihydroxy-7-Hydroxymethyl-2-Thioxo-6-Oxa-1,3-Diaza-Spiro[4.5]Decan-4-One",PYGM
+Fluoro-Willardiine,GRIA2
+4-(5-Bromo-2-Oxo-2h-Indol-3-Ylazo)-Benzenesulfonamide,CDK2
+PNU177836,PTPN1
+"N1,N14-Bis((S-Methyl)Isothioureido)Tetradecane",NOS3
+Para-Mercury-Benzenesulfonic Acid,ESR2
+"4-[3-Methylsulfanylanilino]-6,7-Dimethoxyquinazoline",MAPK14
+S-Ethyl-N-[4-(Trifluoromethyl)Phenyl]Isothiourea,NOS1
+Cacodylic acid,NOS3
+Methyltrienolone,PGR
+Methyltrienolone,NCOA2
+Quisqualate,GRIA2
+Lauric Acid,HNF4A
+Lauric Acid,PPARA
+"4-(2,5-Dichloro-Thiophen-3-Yl)-Pyrimidin-2-Ylamine",CDK2
+"1-Tert-Butyl-3-(4-Chloro-Phenyl)-1h-Pyrazolo[3,4-D]Pyrimidin-4-Ylamine",LCK
+"1-Tert-Butyl-3-(4-Chloro-Phenyl)-1h-Pyrazolo[3,4-D]Pyrimidin-4-Ylamine",LYN
+"1-Tert-Butyl-3-(4-Chloro-Phenyl)-1h-Pyrazolo[3,4-D]Pyrimidin-4-Ylamine",SRC
+1h-Benoximidazole-2-Carboxylic Acid,CTSD
+1-(5-Tert-Butyl-2-P-Tolyl-2h-Pyrazol-3-Yl)-3-[4-(2-Morpholin-4-Yl-Ethoxy)-Naphthalen-1-Yl]-Urea,MAPK14
+7-Methoxy-8-[1-(Methylsulfonyl)-1h-Pyrazol-4-Yl]Naphthalene-2-Carboximidamide,PLAU
+7-Nitroindazole-2-Carboxamidine,NOS3
+"4-{2,4-Bis[(3-Nitrobenzoyl)Amino]Phenoxy}Phthalic Acid",PYGM
+PASBN,SRC
+6-[(Z)-Amino(Imino)Methyl]-N-[4-(Aminomethyl)Phenyl]-4-(Pyrimidin-2-Ylamino)-2-Naphthamide,PLAU
+IC261,CSNK1G2
+Pidolic Acid,VEGFA
+"8-(2,5-Dimethoxy-Benzyl)-2-Fluoro-9h-Purin-6-Ylamine",HSP90AA1
+N-Aminoethylmorpholine,CTSD
+6-Nitroindazole,NOS3
+"2-(Oxalyl-Amino)-4,7-Dihydro-5h-Thieno[2,3-C]Pyran-3-Carboxylic Acid",PTPN1
+RU82129,SRC
+2-Chlorophenol,MAPK14
+PAS219,SRC
+"5-Bromo-N-(2,3-Dihydroxypropoxy)-3,4-Difluoro-2-[(2-Fluoro-4-Iodophenyl)Amino]Benzamide",MAP2K1
+5-[4-(1-Carboxymethyl-2-Oxo-Propylcarbamoyl)-Benzylsulfamoyl]-2-Hydroxy-Benzoic Acid,CASP3
+Benzamidine,PLAU
+Acetylcholine,CHRM1
+Acetylcholine,CHRM3
+"2-(Beta-D-Glucopyranosyl)-5-Methyl-1,2,3-Benzimidazole",PYGM
+4-Iodobenzo[B]Thiophene-2-Carboxamidine,PLAU
+"8-(2,5-Dimethoxy-Benzyl)-2-Fluoro-9-Pent-9h-Purin-6-Ylamine",HSP90AA1
+N-Omega-Hydroxy-L-Arginine,NOS3
+N-Omega-Hydroxy-L-Arginine,NOS1
+Flavin adenine dinucleotide,ACADM
+Flavin adenine dinucleotide,NOS1
+Flavin adenine dinucleotide,ACOX1
+{[7-(Difluoro-Phosphono-Methyl)-Naphthalen-2-Yl]-Difluoro-Methyl}-Phosphonic Acid,PTPN1
+CRA_8696,PLAU
+(S)-Hmg-Coa,HMGCR
+KB-141,THRB
+KB-141,THRA
+"2-[4-(4-Hydroxy-3-Isopropyl-Phenoxy)-3,5-Dimethyl-Phenyl]-2h-[1,2,4]Triazine-3,5-Dione",THRB
+"1-(4-Aminophenyl)-3,5-Dimethyl-1h-Pyrazole-4-Carboxylic Acid Ethyl Ester",PDE4D
+Stearic acid,PPARA
+DPI59,SRC
+N-Acetyl-N'-Beta-D-Glucopyranosyl Urea,PYGM
+Diphthamide,EEF2
+Trifluoroethanol,HRAS
+"(S)-2-Amino-3-(1,3,5,7-Pentahydro-2,4-Dioxo-Cyclopenta[E]Pyrimidin-1-Yl) Proionic Acid",GRIA2
+Flavin mononucleotide,RPS6KA4
+Flavin mononucleotide,NOS1
+Flavin mononucleotide,SGK1
+"2-(Beta-D-Glucopyranosyl)-5-Methyl-1,3,4-Benzothiazole",PYGM
+RU82197,SRC
+"4-[(10s,14s,18s)-18-(2-Amino-2-Oxoethyl)-14-(1-Naphthylmethyl)-8,17,20-Trioxo-7,16,19-Triazaspiro[5.14]Icos-11-En-10-Yl]Benzylphosphonic Acid",GRB2
+C-(1-Azido-Alpha-D-Glucopyranosyl) Formamide,PYGM
+5-Chloro-1h-Indole-2-Carboxylic Acid{[Cyclopentyl-(2-Hydroxy-Ethyl)-Carbamoyl]-Methyl}-Amide,PYGL
+Benzylsulfinic Acid,SOD2
+Phenylphosphate,SRC
+N5-Iminoethyl-L-Ornithine,NOS3
+RU78300,SRC
+4-[(6-Amino-4-Pyrimidinyl)Amino]Benzenesulfonamide,CDK2
+"3-(3,5-Dibromo-4-Hydroxy-Benzoyl)-2-Ethyl-Benzofuran-6-Sulfonic Acid [4-(Thiazol-2-Ylsulfamoyl)-Phenyl]-Amide",PTPN1
+"1,4-Diethylene Dioxide",TGFB3
+Heme C,CYCS
+(S)-ATPA,GRIA2
+"5,6-Cyclic-Tetrahydropteridine",NOS3
+Heptyl-Beta-D-Glucopyranoside,PPARD
+"Inositol-(1,3,4,5,6)-Pentakisphosphate",CYTH3
+Triethyl Phosphate,TP53
+8-Bromo-Adenosine-5'-Monophosphate,PDE4B
+"2-(Beta-D-Glucopyranosyl)-5-Methyl-1,3,4-Oxadiazole",PYGM
+"4-[3-Hydroxyanilino]-6,7-Dimethoxyquinazoline",CDK2
+Imidazole,PIM1
+Imidazole,CYCS
+"3,5-Diiodotyrosine",PRKACA
+L-Tyrosinamide,NPY
+Hexadecanal,DBI
+5-Chloro-1h-Indole-2-Carboxylic Acid [1-(4-Fluorobenzyl)-2-(4-Hydroxypiperidin-1yl)-2-Oxoethyl]Amide,PYGM
+"(3,4,5-Trihydroxy-6-Hydroxymethyl-Tetrahydro-Pyran-2-Yl)-Phosphoramidic Acid Dimethyl Ester",PYGM
+"1D-myo-inositol 1,4,5-trisphosphate",CYTH2
+"1D-myo-inositol 1,4,5-trisphosphate",PLCD1
+"1D-myo-inositol 1,4,5-trisphosphate",ITPR1
+3-Thiaoctanoyl-Coenzyme A,ACADM
+SU9516,CDK1
+SU9516,CDK2
+Cardiolipin,SLC25A4
+"(3e)-6'-Bromo-2,3'-Biindole-2',3(1h,1'h)-Dione 3-Oxime",GSK3B
+N-(4-(2-((3-Chlorophenylmethyl)Amino)Ethyl)Phenyl)-2-Thiophecarboxamidine,NOS1
+2'-Monophosphoadenosine 5'-Diphosphoribose,ME1
+2'-Monophosphoadenosine 5'-Diphosphoribose,NOS1
+2'-Monophosphoadenosine 5'-Diphosphoribose,HMGCR
+Naringenin,ESR1
+Naringenin,ESR2
+Trans-6-(2-Phenylcyclopropyl)-Naphthalene-2-Carboxamidine,PLAU
+1-Phenylsulfonamide-3-Trifluoromethyl-5-Parabromophenylpyrazole,PTGS2
+"8,9,10-Trihydroxy-7-Hydroxymethyl-3-Methyl-6-Oxa-1,3-Diaza-Spiro[4.5]Decane-2,4-Dione",PYGM
+4-Benzoylamino-4-{1-{1-Carbamoyl-2-[4-(Difluoro-Phosphono-Methyl)-Phenyl]-Ethylcarbamoyl}-2-[4-(Difluoro-Phosphono-Methyl)-Phenyl]-Ethylcarbamoyl}-Butyric Acid,PTPN1
+"3-Pyridin-4-Yl-2,4-Dihydro-Indeno[1,2-.C.]Pyrazole",CDK2
+Alvocidib,CDK2
+Alvocidib,CDK1
+Alvocidib,CDK6
+Alvocidib,EGFR
+Alvocidib,CDK4
+Alvocidib,PYGM
+Alvocidib,PYGB
+Alvocidib,PYGL
+"9-Butyl-8-(2-Chloro-3,4,5-Trimethoxy-Benzyl)-9h-Purin-6-Ylamine",HSP90AA1
+Eniluracil,AOX1
+RU79073,SRC
+3-Tyrosine,TH
+N-{1-[5-(1-Carbamoyl-2-Mercapto-Ethylcarbamoyl)-Pentylcarbamoyl]-2-[4-(Difluoro-Phosphono-Methyl)-Phenyl]-Ethyl}-3-{2-[4-(Difluoro-Phosphono-Methyl)-Phenyl]-Acetylamino}-Succinamic Acid,PTPN1
+Spermidine,ADRB1
+Spermidine,ADRB2
+Phencyclidine,GRIN3A
+"(2e,3s)-3-Hydroxy-5'-[(4-Hydroxypiperidin-1-Yl)Sulfonyl]-3-Methyl-1,3-Dihydro-2,3'-Biindol-2'(1'h)-One",CDK2
+Oxyphenbutazone,PLA2G2E
+RU82209,SRC
+Capric acid,PPARG
+Tiratricol,THRB
+(S)-Rolipram,PDE4D
+(S)-Rolipram,PDE4B
+ISO24,SRC
+Phosphonoacetohydroxamic Acid,ENO3
+(3e)-3-[(4-Hydroxyphenyl)Imino]-1h-Indol-2(3h)-One,PIM1
+1-Deoxy-1-Methoxycarbamido-Beta-D-Glucopyranose,PYGM
+Cysteinesulfonic Acid,PTPN1
+Cysteinesulfonic Acid,CDC25B
+"1-[(2-Amino-6,9-Dihydro-1h-Purin-6-Yl)Oxy]-3-Methyl-2-Butanol",CDK2
+"2-(Oxalyl-Amino)-4,5,6,7-Tetrahydro-Thieno[2,3-C]Pyridine-3-Carboxylic Acid",PTPN1
+N-(2-Aminoethyl)-5-Chloroisoquinoline-8-Sulfonamide,CSNK1G2
+S-Ethyl-N-Phenyl-Isothiourea,NOS3
+S-Ethyl-N-Phenyl-Isothiourea,NOS1
+N5-(1-Imino-3-Butenyl)-L-Ornithine,NOS1
+RU85053,SRC
+4-Carbamoyl-4-{[6-(Difluoro-Phosphono-Methyl)-Naphthalene-2-Carbonyl]-Amino}-Butyric Acid,PTPN1
+N-Ethyl-5'-Carboxamido Adenosine,HSP90B1
+2-Amino-5-Hydroxy-Benzimidazole,PLAU
+"4-((3r,4s,5r)-4-Amino-3,5-Dihydroxy-Hex-1-Ynyl)-5-Fluoro-3-[1-(3-Methoxy-1h-Pyrrol-2-Yl)-Meth-(Z)-Ylidene]-1,3-Dihydro-Indol-2-One",CDK2
+Compound 4-D,ESR1
+"Cp403700, (S)-1-{2-[(5-Chloro-1h-Indole-2-Carbonyl)-Amino]-3-Phenyl-Propionyl}-Azetidine-3-Carboxylate",PYGL
+"4-(1h-Imidazol-4-Yl)-3-(5-Ethyl-2,4-Dihydroxy-Phenyl)-1h-Pyrazole",HSP90AA1
+Tromethamine,VEGFA
+Doconexent,PPARA
+Doconexent,PPARG
+Doconexent,RXRA
+Doconexent,RXRB
+Doconexent,RXRG
+Doconexent,SREBF1
+Radicicol,HSP90AB1
+Radicicol,HSP90B1
+FG-9041,GRIA2
+Rbt205 Inhibitor,PIM1
+Rbt205 Inhibitor,PDPK1
+Rbt205 Inhibitor,PRKCI
+N-(1-Adamantyl)-N'-(4-Guanidinobenzyl)Urea,PLAU
+GC-24,THRB
+Palmitic Acid,PPARA
+Lysine Nz-Carboxylic Acid,CDK2
+"1-[4-(Octahydro-Pyrido[1,2-a]Pyrazin-2-Yl)-Phenyl]-2-Phenyl-1,2,3,4-Tetrahydro-Isoquinolin-6-Ol",ESR1
+"1-(2-Chlorophenyl)-3,5-Dimethyl-1h-Pyrazole-4-Carboxylic Acid Ethyl Ester",PDE4B
+9-Butyl-8-(3-Methoxybenzyl)-9h-Purin-6-Amine,HSP90AA1
+RU78299,SRC
+"N-[(5S,7R,8S,9S,10R)-8,9,10-Trihydroxy-7-(hydroxymethyl)-2,4-dioxo-6-oxa-1,3-diazaspiro[4.5]dec-3-yl]acetamide",PYGM
+Cilomilast,PDE4D
+Cilomilast,PDE4B
+"N-Butyl-11-[(7r,8r,9s,13s,14s,17s)-3,17-Dihydroxy-13-Methyl-7,8,9,11,12,13,14,15,16,17-Decahydro-6h-Cyclopenta[a]Phenanthren-7-Yl]-N-Methylundecanamide",ESR2
+6-Chloro-2-(2-Hydroxy-Biphenyl-3-Yl)-1h-Indole-5-Carboxamidine,PLAU
+Prostaglandin G2,PTGS2
+"Thieno[2,3-B]Pyridine-2-Carboxamidine",PLAU
+N-[4-Methyl-3-[[4-(3-Pyridinyl)-2-Pyrimidinyl]Amino]Phenyl]-3-Pyridinecarboxamide,ABL1
+"5-Alpha-Androstane-3-Beta,17beta-Diol",ESR2
+5-N-Allyl-Arginine,NOS1
+Thionicotinamide-Adenine-Dinucleotide,GAPDH
+9-Butyl-8-(4-Methoxybenzyl)-9h-Purin-6-Amine,HSP90AA1
+2-Methyl-2-Propanol,CALM1
+2-Methyl-2-Propanol,CALM2
+2-Methyl-2-Propanol,CALM3
+Oxalic Acid,SRC
+Urea,CTNNB1
+2-Phenylheme,HMOX1
+"Adenosine-5'-[Beta, Gamma-Methylene]Triphosphate",INSR
+"Adenosine-5'-[Beta, Gamma-Methylene]Triphosphate",ATP2A1
+"S,S'-(1,3-Phenylene-Bis(1,2-Ethanediyl))Bis-Isothiourea",NOS3
+"6S-5,6,7,8-Tetrahydrobiopterin",NOS3
+4-(3-Pyridin-2-Yl-1h-Pyrazol-4-Yl)Quinoline,TGFBR1
+D-Serine,GRIN1
+Protoporphyrin Ix Containing Zn,CYCS
+"1,4-Dideoxy-O2-Sulfo-Glucuronic Acid",FGF2
+Oxamic Acid,LDHA
+Oxamic Acid,LDHB
+"Inositol 2,4,5-trisphosphate",PLCD1
+"N,O6-Disulfo-Glucosamine",FGF2
+"N,O6-Disulfo-Glucosamine",FGF1
+S-(Dimethylarsenic)Cysteine,TLR2
+S-(Dimethylarsenic)Cysteine,NOS3
+L-Homoarginine,NOS3
+N-Trimethyllysine,CYCS
+N-Trimethyllysine,CALM1
+N-Trimethyllysine,CALM2
+N-Trimethyllysine,CALM3
+4-(Fluorophenyl)-1-Cyclopropylmethyl-5-(2-Amino-4-Pyrimidinyl)Imidazole,MAPK14
+"1,4-Dideoxy-5-Dehydro-O2-Sulfo-Glucuronic Acid",FGF2
+"Compound 5, 2-(Naphthalen-1-Yl-Oxalyl-Amino)-Benzoicacid",PTPN1
+"2,6-Diamino-Hexanoic Acid Amide",ADCYAP1
+Bromo-Willardiine,GRIA2
+6-(Oxalyl-Amino)-1h-Indole-5-Carboxylic Acid,PTPN1
+{4-[(2S)-2-Acetamido-3-({(1S)-1-[3-carbamoyl-4-(cyclohexylmethoxy)phenyl]ethyl}amino)-3-oxopropyl]-2-phosphonophenoxy}acetic acid,LCK
+"[2-Amino-6-(2,6-Difluoro-Benzoyl)-Imidazo[1,2-a]Pyridin-3-Yl]-Phenyl-Methanone",CDK2
+1-Deoxy-1-Methoxycarbamido-Beta-D-Gluco-2-Heptulopyranosonamide,PYGM
+Alsterpaullone,CDK1
+Alsterpaullone,GSK3B
+S-Isopropyl-Isothiourea,NOS3
+"4-(2-{[4-{[3-(4-Chlorophenyl)Propyl]Sulfanyl}-6-(1-Piperazinyl)-1,3,5-Triazin-2-Yl]Amino}Ethyl)Phenol",ESR2
+Carboxymycobactin T,LCN2
+4-{2-[(3-Nitrobenzoyl)Amino]Phenoxy}Phthalic Acid,PYGM
+"9-Butyl-8-(2,5-Dimethoxy-Benzyl)-2-Fluoro-9h-Purin-6-Ylamine",HSP90AA1
+"2,3-Dicarboxy-4-(2-Chloro-Phenyl)-1-Ethyl-5-Isopropoxycarbonyl-6-Methyl-Pyridinium",PYGM
+8-(Pyrimidin-2-Ylamino)Naphthalene-2-Carboximidamide,PLAU
+RU78191,SRC
+N'-Pyridoxyl-Lysine-5'-Monophosphate,PYGM
+N-(Allyloxycarbonyl)-4-[N-(Carboxy-Formyl)-2-(Benzoic Acid)-Amino]-L-Phenylalaninyl-Amino-Butyloxy-(6-Hydroxy-Benzoic Acid Methyl Ester),PTPN1
+Balanol,PRKACA
+"N-[4-(2,4-Dimethyl-1,3-Thiazol-5-Yl)Pyrimidin-2-Yl]-N'-Hydroxyimidoformamide",CDK2
+Berberine,BIRC5
+Hexatantalum Dodecabromide,CAMK2A
+Guanosine-3'-Monophosphate-5'-Diphosphate,ARF1
+Willardiine,GRIA2
+Guanosine-5'-Triphosphate,HRAS
+Guanosine-5'-Triphosphate,RHEB
+Guanosine-5'-Triphosphate,ARF1
+"3-(3,5-Dibromo-4-Hydroxy-Benzoyl)-2-Ethyl-Benzofuran-6-Sulfonic Acid Dimethylamide",PTPN1
+"Cis-[4,5-Bis-(4-Chlorophenyl)-2-(2-Isopropoxy-4-Methoxyphenyl)-4,5-Dihyd Roimidazol-1-Yl]-Piperazin-1-Yl-Methanone",MDM2
+(R)-Rolipram,PDE4B
+(R)-Rolipram,PDE4D
+"2-Amino-3-(3-Hydroxy-7,8-Dihydro-6h-Cyclohepta[D]-4-Isoxazolyl)Propionic Acid",GRIA2
+"[2,4,6-Triisopropyl-Phenylsulfonyl-L-[3-Amidino-Phenylalanine]]-Piperazine-N'-Beta-Alanine",PLAU
+Mdl-29951,FBP1
+Di-Stearoyl-3-Sn-Phosphatidylcholine,SLC25A4
+"N'-(Pyrrolidino[2,1-B]Isoindolin-4-On-8-Yl)-N-(Pyridin-2-Yl)Urea",CDK2
+Heptulose-2-Phosphate,PYGM
+[(4-{4-[4-(Difluoro-Phosphono-Methyl)-Phenyl]-Butyl}-Phenyl)-Difluoro-Methyl]-Phosphonic Acid,PTPN1
+Dequalinium,KCNMA1
+Quercetin,HCK
+Quercetin,PIM1
+Quercetin,ESR1
+Quercetin,ESR2
+Quercetin,ACTB
+Quercetin,CSNK2B
+Quercetin,HSP90AA1
+Quercetin,HSPA2
+Quercetin,CEBPB
+Nitroarginine,NOS3
+Nitroarginine,NOS1
+Oleic Acid,PPARA
+Oleic Acid,PPARD
+Oleic Acid,RXRA
+Oleic Acid,PPARG
+Zinc Substituted Heme C,CYCS
+"8-Benzo[1,3]Dioxol-,5-Ylmethyl-9-Butyl-2-Fluoro-9h-Purin-6-Ylamine",HSP90AA1
+4-(1-Amino-1-Carboxy-Ethyl)-Benzoic Acid,GRM1
+(S)-3-(4-(2-Carbazol-9-Yl-Ethoxy)-Phenyl)-2-Ethoxy-Propionic Acid,PPARG
+"3,5-Dimethyl-1h-Pyrazole-4-Carboxylic Acid Ethyl Ester",PDE4D
+Citric Acid,SRC
+"{4-[(2s,4e)-2-(1,3-Benzothiazol-2-Yl)-2-(1h-1,2,3-Benzotriazol-1-Yl)-5-Phenylpent-4-Enyl]Phenyl}(Difluoro)Methylphosphonic Acid",PTPN1
+2-[Trans-(4-Aminocyclohexyl)Amino]-6-(Benzyl-Amino)-9-Cyclopentylpurine,CDK2
+N-Benzoyl-N'-Beta-D-Glucopyranosyl Urea,PYGM
+Guanosine-5'-Diphosphate,GNAI1
+Guanosine-5'-Diphosphate,RHEB
+Guanosine-5'-Diphosphate,CDC42
+Guanosine-5'-Diphosphate,ARF1
+Guanosine-5'-Diphosphate,EEF2
+Guanosine-5'-Diphosphate,HRAS
+Guanosine-5'-Diphosphate,RHOA
+Guanosine-5'-Diphosphate,RALA
+Guanosine-5'-Diphosphate,ARF6
+Guanosine-5'-Diphosphate,RAC1
+Dihydroxyacetone phosphate,ALDOA
+Phosphatidylethanolamine,PTEN
+SB220025,MAPK14
+SB220025,MAPK1
+Arecoline,CHRM1
+Arecoline,CHRM3
+13-Acetylphorbol,PRKCD
+3-Hydroxy-3-Methyl-Glutaric Acid,HMGCR
+Phosphoaminophosphonic Acid-Adenylate Ester,CFTR
+Phosphoaminophosphonic Acid-Adenylate Ester,MAPK12
+Phosphoaminophosphonic Acid-Adenylate Ester,GSK3B
+Phosphoaminophosphonic Acid-Adenylate Ester,IGF1R
+Phosphoaminophosphonic Acid-Adenylate Ester,PIM1
+Phosphoaminophosphonic Acid-Adenylate Ester,HK1
+Phosphoaminophosphonic Acid-Adenylate Ester,LCK
+Phosphoaminophosphonic Acid-Adenylate Ester,EPHA2
+Phosphoaminophosphonic Acid-Adenylate Ester,PFKFB4
+"L-erythro-7,8-dihydrobiopterin",TH
+4-[4-(4-Methyl-2-Methylamino-Thiazol-5-Yl)-Pyrimidin-2-Ylamino]-Phenol,CDK2
+Naphthalene Trisulfonate,FGF1
+Naphthyridine Inhibitor,TGFBR1
+3-Fluorotyrosine,SOD2
+Tetrafluoroaluminate Ion,GNAI1
+Tetrafluoroaluminate Ion,ATP2A1
+"1,4-Dithiothreitol",CAMK2A
+"1,4-Dithiothreitol",AXIN1
+"1,4-Dithiothreitol",HMGCR
+N-Formylmethionine,UBC
+Afimoxifene,ESR2
+Afimoxifene,ESR1
+Afimoxifene,TFF1
+"1-(4-Methoxyphenyl)-3,5-Dimethyl-1h-Pyrazole-4-Carboxylic Acid Ethyl Ester",PDE4D
+"2-Phenyl-1-[4-(2-Piperidin-1-Yl-Ethoxy)-Phenyl]-1,2,3,4-Tetrahydro-Isoquinolin-6-Ol",ESR1
+"Trencam-3,2-Hopo",LCN2
+"3-(4-Fluorophenyl)-2-(6-Methylpyridin-2-Yl)-5,6-Dihydro-4h-Pyrrolo[1,2-B]Pyrazole",TGFBR1
+Fructose-6-Phosphate,FBP1
+Fructose-6-Phosphate,PFKFB4
+RU81843,SRC
+"8-(2-Chloro-3,4,5-Trimethoxy-Benzyl)-9-Pent-4-Ylnyl-9h-Purin-6-Ylamine",HSP90AA1
+N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide,CALM1
+N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide,CALM2
+N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide,CALM3
+N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide,TNNI3
+"3-[4-(2,4-Dimethyl-Thiazol-5-Yl)-Pyrimidin-2-Ylamino]-Phenol",CDK2
+Caprylic acid,PPARA
+Dexfosfoserine,PRKACA
+Dexfosfoserine,TAOK2
+Dexfosfoserine,SMAD2
+Dexfosfoserine,CFTR
+Dexfosfoserine,PDPK1
+Dexfosfoserine,PIM1
+Dexfosfoserine,PRKCQ
+Dexfosfoserine,PYGL
+Dexfosfoserine,PYGM
+2-(Carboxymethoxy)-5-[(2s)-2-({(2s)-2-[(3-Carboxypropanoyl)Amino] -3-Phenylpropanoyl}Amino)-3-Oxo-3-(Pentylamino)Propyl]Benzoic Acid,PTPN1
+"S,S-(2-Hydroxyethyl)Thiocysteine",PDE1B
+"S,S-(2-Hydroxyethyl)Thiocysteine",CYTH2
+"S,S-(2-Hydroxyethyl)Thiocysteine",PDE4B
+"S,S-(2-Hydroxyethyl)Thiocysteine",PRKACA
+"S,S-(2-Hydroxyethyl)Thiocysteine",PIM1
+5-Nitroindazole,NOS3
+1-Deoxy-1-Acetylamino-Beta-D-Gluco-2-Heptulopyranosonamide,PYGM
+Niflumic Acid,PTGS2
+Arachidonic Acid,PPARA
+Arachidonic Acid,RXRA
+N-(Chlorophenyl)-N'-Hydroxyguanidine,NOS3
+Inosinic Acid,PYGM
+Estriol,ESR1
+Estriol,ESR2
+Estrone sulfate,ESR1
+Estrone sulfate,ESR2
+Quinestrol,ESR1
+"N-[4-(AMINOSULFONYL)BENZYL]-5-(5-CHLORO-2,4-DIHYDROXYPHENYL)-1H-PYRAZOLE-4-CARBOXAMIDE",HSP90AA1
+Aniracetam,HTR2A
+Aniracetam,DRD2
+Aniracetam,GRIA2
+5-iodotubercidin,CSNK1G2
+5-iodotubercidin,MAPK3
+"PHENYLAMINOIMIDAZO(1,2-ALPHA)PYRIDINE",CDK2
+Cycloleucine,GRIN1
+4-(2-HYDROXYBENZYLAMINO)-N-(3-(4-FLUOROPHENOXY)PHENYL)PIPERIDINE-1-SULFONAMIDE,MAPK14
+"2,5-DI-(TERT-BUTYL)-1,4,BENZOHYDROQUINONE",ATP2A1
+"7-{2,6-DICHLORO-4-[3-(2-CHLORO-BENZOYL)-UREIDO]-PHENOXY}-HEPTANOIC ACID",PYGM
+"4-{3-CHLORO-4-[3-(2,4-DICHLORO-BENZOYL)-UREIDO]-PHENOXY}-BUTYRIC ACID",PYGM
+"4-{4-[3-(2,4-DICHLORO-BENZOYL)-UREIDO]-2,3-DIMETHYL-PHENOXY}-BUTYRIC ACID",PYGM
+"5-{3-[3-(2,4-DICHLORO-BENZOYL)-UREIDO]-2-METHYL-PHENOXY}-PENTANOIC ACID",PYGM
+Corticosterone,NCOA1
+OLOMOUCINE II,CDK2
+TRIAZOLOPYRIMIDINE,CDK2
+2-{5-[3-(6-BENZOYL-1-PROPYLNAPHTHALEN-2-YLOXY)PROPOXY]INDOL-1-YL}ETHANOIC ACID,PPARG
+Hydroxyfasudil,ROCK1
+Hydroxyfasudil,PRKACA
+IMIDAZOPYRIDAZIN 1,PIM1
+"2-(1,1-DIMETHYLETHYL)9-FLUORO-3,6-DIHYDRO-7H-BENZ[H]-IMIDAZ[4,5-F]ISOQUINOLIN-7-ONE",JAK2
+"2-(1,1-DIMETHYLETHYL)9-FLUORO-3,6-DIHYDRO-7H-BENZ[H]-IMIDAZ[4,5-F]ISOQUINOLIN-7-ONE",JAK1
+"2-(1,1-DIMETHYLETHYL)9-FLUORO-3,6-DIHYDRO-7H-BENZ[H]-IMIDAZ[4,5-F]ISOQUINOLIN-7-ONE",JAK3
+"2-(1,1-DIMETHYLETHYL)9-FLUORO-3,6-DIHYDRO-7H-BENZ[H]-IMIDAZ[4,5-F]ISOQUINOLIN-7-ONE",TYK2
+Licofelone,PLA2G2E
+Licofelone,PTGS2
+"N-(4-{4-AMINO-6-[4-(METHYLOXY)PHENYL]FURO[2,3-D]PYRIMIDIN-5-YL}PHENYL)-N'-[2-FLUORO-5-(TRIFLUOROMETHYL)PHENYL]UREA",KDR
+"1,6-DI-O-PHOSPHONO-D-MANNITOL",ALDOA
+Motuporin,PPP1CC
+4-[(4-METHYL-1-PIPERAZINYL)METHYL]-N-[3-[[4-(3-PYRIDINYL)-2-PYRIMIDINYL]AMINO]PHENYL]-BENZAMIDE,SRC
+Nimesulide,PTGS2
+Nimesulide,PLA2G2E
+Purvalanol A,SRC
+Purvalanol A,CSNK1G3
+Purvalanol A,RPS6KA1
+Suramin,RYR1
+Tanaproget,PGR
+Triazolopyridine,MAPK14
+THIO-ATPA,GRIA2
+1-METHYL-3-PHENYL-1H-PYRAZOL-5-YLSULFAMIC ACID,PTPN1
+(11E)-OCTADEC-11-ENOIC ACID,PPARD
+Verdoheme,HMOX1
+Phenolphthalein,ESR1
+Prenylamine,CALM1
+Prenylamine,CALM2
+Prenylamine,CALM3
+Lysergic Acid Diethylamide,HTR1A
+Lysergic Acid Diethylamide,HTR6
+Clofedanol,HRH1
+Cyclandelate,CACNA2D1
+Flunarizine,HRH1
+Flunarizine,CALM1
+Flunarizine,CALM2
+Flunarizine,CALM3
+Fluspirilene,DRD2
+Fluspirilene,HTR2A
+Fluspirilene,CACNG1
+Mepenzolate,CHRM1
+Mepenzolate,CHRM3
+Tetrabenazine,DRD2
+Celiprolol,ADRB1
+Celiprolol,ADRB2
+Celiprolol,ADRA2A
+Celiprolol,ADRA2B
+Celiprolol,ADRA2C
+Roxadustat,EGLN2
+Roxadustat,EGLN3
+Cediranib,KDR
+Binodenoson,ADORA2A
+Dronedarone,ADRA1A
+Dronedarone,ADRA1B
+Dronedarone,ADRA1D
+Dronedarone,ADRA2A
+Dronedarone,ADRA2B
+Dronedarone,ADRA2C
+Dronedarone,ADRB1
+Dronedarone,CACNA1C
+Dronedarone,CACNA1D
+Dronedarone,CACNB1
+Dronedarone,CACNB2
+Dronedarone,CACNB3
+Dronedarone,CACNB4
+Dexloxiglumide,CCKAR
+Brasofensine,DRD2
+Nebivolol,ADRB1
+Nebivolol,ADRB2
+Lefradafiban,ITGB3
+Halofuginone,COL1A1
+Halofuginone,MMP2
+Lintitript,CCKAR
+Nilotinib,ABL1
+Nilotinib,KIT
+Osanetant,TACR3
+Vatalanib,FLT1
+Vatalanib,KDR
+Vatalanib,FLT4
+Enoximone,PDE3A
+Dapoxetine,HTR1A
+Dapoxetine,HTR1B
+Bifeprunox,DRD2
+Bifeprunox,HTR1A
+Bicifadine,DRD2
+Bepotastine,HRH1
+Becocalcidiol,MED1
+Vapreotide,SSTR2
+Vapreotide,SSTR5
+Vapreotide,TACR1
+Milnacipran,GRIN1
+Milnacipran,GRIN2A
+Milnacipran,GRIN2B
+Milnacipran,GRIN2C
+Milnacipran,GRIN2D
+Milnacipran,GRIN3A
+Milnacipran,GRIN3B
+Nesiritide,NPR1
+Nesiritide,NPR2
+Tesmilifene,HRH1
+Flibanserin,HTR1A
+Flibanserin,HTR2A
+Stannsoporfin,HMOX1
+Clevidipine,CACNA1D
+Clevidipine,CACNA1C
+Itopride,DRD2
+Itopride,CHRM3
+Neramexane,GRIN3A
+Permethrin,ESR1
+Defibrotide,ADORA2A
+Defibrotide,ADORA2B
+Ospemifene,ESR1
+Crofelemer,CFTR
+Tamibarotene,RARA
+Iloperidone,HTR2A
+Iloperidone,DRD2
+Iloperidone,DRD1
+Iloperidone,HTR1A
+Iloperidone,HTR6
+Iloperidone,HTR7
+Iloperidone,ADRA1A
+Iloperidone,HRH1
+Iloperidone,ADRA2C
+Lofexidine,ADRA2A
+Lofexidine,ADRA1A
+Lofexidine,HTR1A
+Lofexidine,HTR7
+Afelimomab,TNF
+Lesopitron,HTR1A
+Reglixane,PPARA
+Reglixane,PPARG
+LErafAON,RAF1
+AP1903,MTOR
+Talampanel,GRIA1
+Talampanel,GRIA2
+Talampanel,GRIA4
+IGN311,EGFR
+IGN311,ERBB2
+ATL1102,ITGA4
+Imexon,RRM2
+AC162352,NPY1R
+Apadenoson,ADORA2A
+SGS-742,GABBR1
+SGS-742,GABBR2
+Ingenol Mebutate,PRKCD
+Ingenol Mebutate,PRKCA
+XL999,FGFR3
+XL999,FGFR1
+XL999,KDR
+XL999,FLT3
+Belinostat,HDAC1
+Belinostat,HDAC2
+Belinostat,HDAC3
+Belinostat,HDAC4
+Belinostat,HDAC5
+YSIL6,TNF
+ATL1101,IGF1R
+Ularitide,NPR1
+Eprotirome,THRA
+Eprotirome,THRB
+AT7519,CDK1
+AT7519,CDK2
+Anatibant,BDKRB2
+Indacaterol,ADRB2
+SGS518,HTR6
+PSN357,PYGL
+CX717,GRIA4
+CX717,BDNF
+CX717,GRIA1
+CX717,GRIA2
+ADL5859,OPRD1
+MF101,ESR2
+MB-07803,FBP1
+AV608,TACR1
+TG-100801,FLT1
+TG-100801,KDR
+TG-100801,FLT4
+SLV319,CNR1
+AER001,IL4R
+HY10275,HRH1
+HY10275,HTR2A
+OBE101,HRH1
+CDP323,ITGA4
+Cimicoxib,PTGS2
+LY2140023,GRM2
+LY2140023,GRM3
+Leptin,LEPR
+Matuzumab,EGFR
+NN344,INSR
+AT1391,INSR
+R1295,ITGA4
+R1295,ITGB4
+Tanespimycin,HSP90AA1
+Tanespimycin,HSP90AB1
+CR002,PDGFD
+LY2181308,BIRC5
+XL820,KDR
+XL820,KIT
+XL820,PDGFRA
+XL844,CHEK2
+XL844,CHEK1
+NGX267,CHRM1
+KC706,MAPK14
+KC706,MAPK11
+KC706,MAPK12
+KC706,MAPK13
+LY2275796,EIF4E
+E-2012,PSENEN
+MLN0415,IKBKB
+XL228,IGF1R
+XL228,SRC
+XL228,ABL1
+XL228,ABL2
+Elafibranor,PPARA
+Elafibranor,PPARD
+Elafibranor,PPARG
+KD3010,PPARD
+XL281,BRAF
+XL281,RAF1
+Atl146e,ADORA2A
+MB07811,THRB
+CYC116,KDR
+V24343,CNR1
+SD118,TNF
+SD118,IL1R1
+SF1126,PIK3R1
+SF1126,PIK3R2
+SF1126,PIK3R3
+SF1126,MTOR
+HE3286,NFKB1
+HE3286,NFKB2
+PN0621,TNF
+Crisaborole,PDE4A
+Crisaborole,PDE4B
+Crisaborole,PDE4C
+Crisaborole,PDE4D
+Pracinostat,HDAC1
+Pracinostat,HDAC2
+Pracinostat,HDAC3
+APD791,HTR2A
+AP1081,ESR1
+NRP409,THRA
+Cobimetinib,MAP2K1
+XL765,PIK3CA
+XL765,PIK3CD
+XL765,MTOR
+XL019,JAK2
+Proellex,PGR
+Fibrinolysin,SERPINE1
+Fibrinolysin,PLAU
+Ronacaleret,CASR
+Natural alpha interferon,IFNAR1
+Gallium nitrate,RRM2
+Gallium nitrate,ATP6V1B2
+Ibudilast,PDE4A
+Ibudilast,PDE4B
+Ibudilast,PDE4C
+Ibudilast,PDE4D
+Ibudilast,PDE3A
+iCo-007,RAF1
+Rotigotine,DRD2
+Rotigotine,DRD5
+Rotigotine,DRD1
+Rotigotine,HTR1A
+Rotigotine,ADRA2B
+S-8184,BCL2
+Vandetanib,VEGFA
+Vandetanib,EGFR
+Vandetanib,TEK
+Vandetanib,RET
+Paclitaxel docosahexaenoic acid,BCL2
+Tetomilast,PDE4D
+LAX-101,PLD1
+OMS-103HP,TNF
+OMS-103HP,IL1R1
+Cintredekin Besudotox,IL13
+TP-508,FGF4
+Pimavanserin,HTR2A
+Pimavanserin,DRD2
+TAK-475,HMGCR
+MN-305,HTR1A
+SO-101,HRH1
+SR-123781A,F2R
+HZT-501,HRH2
+CP-945598,CNR1
+Rindopepimut,EGFR
+Histamine,HRH1
+Histamine,HRH2
+AE-941,MMP2
+CEP-1347,MAPK12
+AZD 3355,TP53
+TBC-3711,EDN1
+Emricasan,CASP3
+Talmapimod,MAPK14
+Talmapimod,TNF
+GW-501516,PPARD
+GW-501516,PPARA
+GW 597599,TACR1
+CP-122721,TACR1
+Canertinib,EGFR
+motexafin gadolinium,RRM2
+ABT-510,FGF2
+ABT-510,VEGFA
+AVI-4557,HNF4A
+P54,NFKB2
+P54,NFKB1
+PH-284,AVPR1B
+SR 121463,AVPR1B
+Briakinumab,IL12B
+OPC-28326,ADRA2C
+OPC-28326,ADRA2B
+ISS-1018,TLR9
+NOX-700,NFKB2
+NOX-700,NFKB1
+Tandutinib,FLT3
+Tandutinib,PDGFD
+R673,TACR1
+R411,ITGA4
+R450,ADRA1A
+R450,ADRA1B
+R450,ADRA1D
+VX-702,MAPK14
+VX-702,TNF
+SGN-30,NFKB1
+SGN-30,NFKB2
+omega interferon,IFNAR1
+omega interferon,IFNAR2
+Golotimod,TLR2
+Golotimod,TLR9
+Custirsen,ESR1
+Custirsen,NFKB2
+Custirsen,NFKB1
+T131,PPARG
+Epicept NP-1,HTR2A
+Epicept NP-1,ADRA1A
+Epicept NP-1,ADRA1B
+Epicept NP-1,ADRA1D
+Epicept NP-1,ADRA2A
+Epicept NP-1,ADRA2B
+Epicept NP-1,ADRA2C
+Epicept NP-1,HRH1
+AMD-070,CXCR4
+ISIS 113715,PTPN1
+LI-301,HTR1A
+Atiprimod,TNF
+Managlinat dialanetil,FBP1
+Pelitinib,EGFR
+CPG 10101,TLR9
+TG100-115,PIK3CD
+Naluzotan,HTR1A
+Ramucirumab,KDR
+NP-50301,ESR1
+Apremilast,PDE4D
+Apremilast,PDE4A
+Apremilast,PDE4B
+Apremilast,TNF
+Apremilast,NOS3
+Ustekinumab,IL12B
+Ustekinumab,IL12B
+BL-1020,DRD2
+BL-1020,HTR2A
+NPS-2143,CASR
+CYT006-AngQb,AGTR1
+CRx-139,TNF
+AVE-1625,CNR1
+ALKS 27,CHRM1
+ALKS 27,CHRM3
+CYT007-TNFQb,TNF
+ACP-104,CHRM1
+ACP-104,DRD2
+Andrographolide,TNF
+Andrographolide,NFKB2
+Andrographolide,NFKB1
+Trastuzumab emtansine,ERBB2
+LGD-1550,RARA
+LGD-1550,JUN
+LM-609,ITGB3
+SR 140333,TACR1
+GTI 2040,RRM2
+Abiraterone,CYP17A1
+CNS-5161,GRIN1
+humanized SMART Anti-IL-12 Antibody,IL12B
+NCX 950,ADRB2
+CLX-0921,PPARG
+Ethyl pyruvate,TNF
+PDE4,PDE4A
+AME-527,TNF
+CHF 4227,ESR1
+CHF 4227,ESR2
+VEGF-AS,VEGFA
+RI 624,NGF
+HGS-TR2J,TNFRSF10B
+rhIGFBP-3,IGF1R
+OSI-930,KIT
+OSI-930,FLT1
+CT-011,PDCD1
+Pegdinetanib,KDR
+Denibulin,VEGFA
+Denibulin,FLT1
+Denibulin,FLT4
+CVT-6883,ADORA2B
+Varlitinib,ERBB2
+Varlitinib,EGFR
+EVT-101,RXRA
+EVT-101,GRIN2B
+ENMD-1198,TNFRSF11A
+ENMD-1198,HIF1A
+ENMD-1198,STAT3
+Amitifadine,DRD2
+TAS-108,ESR1
+TAS-108,ESR2
+PR-104,TNF
+SNS-032,VEGFA
+Archexin,AKT1
+Bardoxolone methyl,NFKBIA
+RAF-265,KDR
+RAF-265,BRAF
+Plinabulin,TNF
+PRX-07034,HTR6
+Cariprazine,DRD2
+Cariprazine,HTR1A
+Cariprazine,HTR2A
+Cariprazine,HRH1
+AV-412,EGFR
+AV-412,ERBB2
+Olaratumab,PDGFRA
+AZD-8330,MAP3K1
+KAI-1455,PRKCE
+SNX-5422,HSP90AA1
+SNX-5422,HSP90AB1
+Linsitinib,IGF1R
+Lumateperone,HTR2A
+Lumateperone,DRD2
+ABT-869,FLT3
+ABT-869,FLT1
+ABT-869,KDR
+ABT-869,FLT4
+ABT-869,KIT
+ABT-869,CSF1R
+PX-478,HIF1A
+Tapinarof,IL12B
+NXN-188,NOS1
+NXN-188,HTR1B
+PRLX 93936,VDAC2
+PRLX 93936,VDAC3
+IMC-1C11,FLT1
+IMC-1C11,KDR
+IMC-1C11,FLT4
+KX-01,SRC
+IRL-1620,EDNRB
+SUVN-502,HTR6
+Sertindole,DRD2
+Sertindole,HTR2A
+Sertindole,HTR6
+Sertindole,ADRA1A
+Sertindole,ADRA1B
+Sertindole,ADRA1D
+Mianserin,ADRA2A
+Mianserin,HTR2A
+Mianserin,HRH1
+Mianserin,HTR1A
+Mianserin,ADRA2C
+Mianserin,HTR1F
+Mianserin,ADRA2B
+Mianserin,HTR7
+Mianserin,DRD2
+Mianserin,HTR6
+Mianserin,ADRA1A
+Mianserin,ADRA1B
+Mianserin,ADRA1D
+Mianserin,DRD1
+Mianserin,DRD5
+Acetylcysteine,IKBKB
+Acetylcysteine,CHUK
+Acetylcysteine,GRIN2B
+Acetylcysteine,GRIN1
+Acetylcysteine,GRIN2A
+Acetylcysteine,GRIN2D
+Acetylcysteine,GRIN3A
+Nylidrin,IFNAR2
+Pizotifen,CHRM1
+Pizotifen,CHRM3
+Pizotifen,HTR2A
+Pizotifen,HTR1A
+Pizotifen,HTR1B
+Pizotifen,HRH1
+Pizotifen,ADRA1A
+Pizotifen,ADRA1B
+Pizotifen,ADRA1D
+Pizotifen,ADRA2A
+Pizotifen,ADRA2B
+Pizotifen,ADRA2C
+Rimonabant,CNR1
+Istaroxime,ATP2A2
+Istaroxime,ATP1A1
+Romidepsin,HDAC1
+Romidepsin,HDAC2
+Romidepsin,HDAC4
+Seliciclib,CDK1
+Seliciclib,CDK2
+Seliciclib,MAPK3
+Seliciclib,MAPK1
+Seliciclib,CSNK1E
+Icatibant,BDKRB2
+Lasofoxifene,ESR1
+Lasofoxifene,ESR2
+Tapentadol,OPRD1
+Hyaluronidase (Human Recombinant),TGFB1
+Silodosin,ADRA1A
+Silodosin,ADRA1B
+Silodosin,ADRA1D
+Regadenoson,ADORA2A
+Asenapine,DRD2
+Asenapine,HTR2A
+Asenapine,HTR1A
+Asenapine,HTR1B
+Asenapine,HTR5A
+Asenapine,HTR6
+Asenapine,HTR7
+Asenapine,ADRA2A
+Asenapine,ADRA2B
+Asenapine,ADRA2C
+Asenapine,ADRA1A
+Asenapine,DRD1
+Asenapine,HRH1
+Asenapine,HRH2
+Asenapine,ADRB1
+Asenapine,ADRB2
+Ocaperidone,DRD2
+Ocaperidone,HRH1
+Ocaperidone,ADRA1A
+Ocaperidone,ADRA1B
+Ocaperidone,ADRA2A
+Ocaperidone,ADRA1D
+Ocaperidone,ADRA2B
+Ocaperidone,ADRA2C
+Ocaperidone,HTR2A
+Nalmefene,OPRD1
+Caldaret,SLC8A1
+Ridaforolimus,MTOR
+Lanoteplase,LAMA5
+Lanoteplase,FN1
+Lanoteplase,LAMB1
+Lanoteplase,LAMC1
+Lanoteplase,LAMA1
+Lanoteplase,LAMA3
+Exisulind,PDE4D
+Exisulind,PDE4C
+CX516,GRIA1
+Amelubant,LTB4R2
+Arzoxifene,ESR1
+Arzoxifene,ESR2
+Droxidopa,ADRA1A
+Droxidopa,ADRA1B
+Droxidopa,ADRA1D
+Droxidopa,ADRA2A
+Droxidopa,ADRA2B
+Droxidopa,ADRA2C
+Droxidopa,ADRB1
+Droxidopa,ADRB2
+Lonidamine,CFTR
+Lonidamine,HK1
+Sitaxentan,EDNRB
+Tocilizumab,IL6R
+Alvimopan,OPRD1
+Levocetirizine,HRH1
+Temsirolimus,MTOR
+Amisulpride,DRD2
+Amisulpride,HTR7
+Amisulpride,HTR2A
+Apoptone,BCL2
+Pegpleranib,PDGFB
+Trodusquemine,PTPN1
+Tezampanel,GABBR1
+Lucatumumab,CD40
+Pertuzumab,ERBB2
+Xaliproden,HTR1A
+Bazedoxifene,ESR1
+Bazedoxifene,ESR2
+Ambrisentan,EDNRB
+Human C1-esterase inhibitor,PLAT
+Oxymetholone,NPPB
+Talnetant,TACR3
+Semaxanib,KDR
+Dexanabinol,TNF
+Dotarizine,HTR2A
+Dotarizine,HTR1A
+Lonafarnib,IGFBP3
+Aprinocarsen,PRKCA
+Sarizotan,HTR1A
+Sarizotan,DRD2
+Enrasentan,EDNRB
+Lestaurtinib,FLT3
+Fradafiban,ITGB3
+Sumanirole,DRD2
+Propentofylline,PDE4A
+Enzastaurin,PRKCB
+Enzastaurin,CHEK1
+Enzastaurin,CHEK2
+Enzastaurin,AKT1
+Enzastaurin,PIK3R1
+Onercept,TNF
+Repinotan,HTR1A
+Muraglitazar,PPARA
+Muraglitazar,PPARG
+Deramciclane,HTR2A
+Ertiprotafib,PTPN1
+Ertiprotafib,IKBKB
+Ertiprotafib,PPARA
+Ertiprotafib,PPARG
+Ragaglitazar,PPARA
+Ragaglitazar,PPARG
+Tesaglitazar,PPARA
+Tesaglitazar,PPARG
+Robalzotan,HTR1A
+Astaxanthin,NFKBIA
+Labradimil,BDKRB2
+Tezosentan,EDNRB
+Pazopanib,FLT1
+Pazopanib,KDR
+Pazopanib,FLT4
+Pazopanib,PDGFRA
+Pazopanib,KIT
+Pazopanib,FGFR3
+Pazopanib,FGF1
+Pazopanib,SH2B3
+Midostaurin,PRKCA
+Midostaurin,KDR
+Midostaurin,KIT
+Midostaurin,PDGFRA
+Midostaurin,FLT3
+Lexatumumab,TNFRSF10B
+Panobinostat,HDAC1
+Panobinostat,HDAC2
+Panobinostat,HDAC3
+Panobinostat,HDAC4
+Panobinostat,HDAC5
+Bosutinib,ABL1
+Bosutinib,LYN
+Bosutinib,HCK
+Bosutinib,SRC
+Bosutinib,CDK2
+Bosutinib,MAP2K1
+Bosutinib,MAP2K2
+Bosutinib,CAMK2G
+Flupirtine,ADRA2A
+Axitinib,FLT1
+Axitinib,KDR
+Axitinib,FLT4
+Casopitant,TACR1
+Perifosine,AKT1
+Perifosine,MAPK1
+Perifosine,PRKCA
+Bevasiranib,VEGFA
+Liraglutide,GLP1R
+Saredutant,TACR2
+Pasireotide,SSTR2
+Pasireotide,SSTR5
+Golimumab,TNF
+Esmirtazapine,HRH1
+Esmirtazapine,HTR2A
+Esmirtazapine,ADRA2A
+Esmirtazapine,ADRA2B
+Esmirtazapine,ADRA2C
+Asoprisnil,PGR
+Vilazodone,HTR1A
+Mepyramine,HRH1
+Mevastatin,HMGCR
+Xylometazoline,ADRA1A
+Xylometazoline,ADRA2A
+Xylometazoline,ADRA2B
+Xylometazoline,ADRA1B
+Xylometazoline,ADRA1D
+Xylometazoline,ADRA2C
+Betahistine,HRH1
+Fesoterodine,CHRM3
+Fesoterodine,CHRM1
+Isometheptene,ADRA1A
+Levonordefrin,ADRA2A
+Levonordefrin,ADRA2B
+Levonordefrin,ADRA2C
+Methacholine,CHRM3
+Methyltestosterone,ESR1
+Naphazoline,ADRA1A
+Naphazoline,ADRA2A
+Nilvadipine,CACNA1C
+Nilvadipine,CACNA2D1
+Nilvadipine,CACNB2
+Nilvadipine,CACNA1D
+Nilvadipine,CACNA2D3
+Norelgestromin,PGR
+Buserelin,LHCGR
+Lornoxicam,PTGS2
+Bufuralol,ADRB1
+Bufuralol,ADRB2
+beta-Naphthoflavone,ESR1
+Bafilomycin A1,ATP6V1A
+Bafilomycin B1,ATP6V1A
+Aceclofenac,PTGS2
+Ketobemidone,OPRD1
+Ketobemidone,GRIN1
+Ketobemidone,GRIN2A
+Ketobemidone,GRIN2B
+Ketobemidone,GRIN2C
+Ketobemidone,GRIN2D
+Ketobemidone,GRIN3A
+Ketobemidone,GRIN3B
+Seratrodast,TBXA2R
+Gavestinel,GRIN1
+Gavestinel,GRIN2A
+Gavestinel,GRIN2B
+Gavestinel,GRIN2C
+Gavestinel,GRIN2D
+Gavestinel,GRIN3A
+Gavestinel,GRIN3B
+Drotaverine,PDE4A
+Drotaverine,CACNA1C
+Glycine betaine,BCL2
+Manganese,TAB1
+Manganese,TF
+Tetryzoline,ADRA1A
+Alcaftadine,HRH1
+Dalteparin,VEGFA
+Halcinonide,SMO
+Hexocyclium,CHRM1
+Hexocyclium,CHRM3
+Hydroxyprogesterone caproate,PGR
+Lanreotide,SSTR2
+Lanreotide,SSTR5
+Nepafenac,PTGS2
+Plerixafor,CXCR4
+Protokylol,ADRB2
+Tinzaparin,ITGA4
+Tinzaparin,CXCL12
+4-BROMO-3-(CARBOXYMETHOXY)-5-[3-(CYCLOHEXYLAMINO)PHENYL]THIOPHENE-2-CARBOXYLIC ACID,PTPN1
+2-((9H-PURIN-6-YLTHIO)METHYL)-5-CHLORO-3-(2-METHOXYPHENYL)QUINAZOLIN-4(3H)-ONE,PIK3CD
+"2-(3-FLUORO-4-HYDROXYPHENYL)-7-VINYL-1,3-BENZOXAZOL-5-OL",ESR2
+"2-(3-FLUORO-4-HYDROXYPHENYL)-7-VINYL-1,3-BENZOXAZOL-5-OL",NCOA1
+"N-(2-hydroxy-1,1-dimethylethyl)-1-methyl-3-(1H-pyrrolo[2,3-b]pyridin-2-yl)-1H-indole-5-carboxamide",SYK
+"N-(5-{4-Chloro-3-[(2-hydroxyethyl)sulfamoyl]phenyl}-4-methyl-1,3-thiazol-2-yl)acetamide",PIK3C3
+(4R)-4-(3-butoxy-4-methoxybenzyl)imidazolidin-2-one,PDE4A
+(4R)-4-(3-butoxy-4-methoxybenzyl)imidazolidin-2-one,PDE4D
+"2',5'-DIDEOXY-ADENOSINE 3'-MONOPHOSPHATE",GNAS
+"2',5'-DIDEOXY-ADENOSINE 3'-MONOPHOSPHATE",ADCY2
+"2',5'-DIDEOXY-ADENOSINE 3'-MONOPHOSPHATE",ADCY5
+"4-[(7-OXO-7H-THIAZOLO[5,4-E]INDOL-8-YLMETHYL)-AMINO]-N-PYRIDIN-2-YL-BENZENESULFONAMIDE",CDK2
+4-[(3S)-1-AZABICYCLO[2.2.2]OCT-3-YLAMINO]-3-(1H-BENZIMIDAZOL-2-YL)-6-CHLOROQUINOLIN-2(1H)-ONE,CHEK1
+6-fluoro-2-(2-hydroxy-3-isobutoxy-phenyl)-1H-benzoimidazole-5-carboxamidine,PLAU
+6-FLUORO-2-[2-HYDROXY-3-(2-METHYL-CYCLOHEXYLOXY)-PHENYL]-1H-INDOLE-5-CARBOXAMIDINE,PLAU
+N-(4-CARBAMIMIDOYL-3-CHORO-PHENYL)-2-HYDROXY-3-IODO-5-METHYL-BENZAMIDE,PLAU
+2-HYDROXY-5-(2-MERCAPTO-ETHYLSULFAMOYL)-BENZOIC ACID,CASP3
+"3,6,9,12,15,18-HEXAOXAICOSANE",PIN1
+17-METHYL-17-ALPHA-DIHYDROEQUILENIN,ESR1
+17-METHYL-17-ALPHA-DIHYDROEQUILENIN,NCOA2
+3-(3-FLUORO-4-HYDROXYPHENYL)-7-HYDROXY-1-NAPHTHONITRILE,ESR2
+3-(3-FLUORO-4-HYDROXYPHENYL)-7-HYDROXY-1-NAPHTHONITRILE,NCOA1
+"N-{5-[4-(4-METHYLPIPERAZIN-1-YL)PHENYL]-1H-PYRROLO[2,3-B]PYRIDIN-3-YL}NICOTINAMIDE",CHEK1
+"N,N-DIMETHYL-4-(4-PHENYL-1H-PYRAZOL-3-YL)-1H-PYRROLE-2-CARBOXAMIDE",MAPK1
+1-[1-(3-aminophenyl)-3-tert-butyl-1H-pyrazol-5-yl]-3-naphthalen-1-ylurea,SRC
+1-[1-(3-aminophenyl)-3-tert-butyl-1H-pyrazol-5-yl]-3-naphthalen-1-ylurea,MAPK14
+1-[1-(3-aminophenyl)-3-tert-butyl-1H-pyrazol-5-yl]-3-phenylurea,SRC
+"[(3S)-3-(Methylcarbamoyl)-2-{[(2-methyl-2-propanyl)oxy]carbonyl}-1,2,3,4-tetrahydro-7-isoquinolinyl]sulfamic acid",PTPN1
+"(13R,15S)-13-METHYL-16-OXA-8,9,12,22,24-PENTAAZAHEXACYCLO[15.6.2.16,9.1,12,15.0,2,7.0,21,25]HEPTACOSA-1(24),2,4,6,17(25),18,20-HEPTAENE-23,26-DIONE",CDK2
+"(5S)-4,5-difluoro-6-[(2-fluoro-4-iodophenyl)imino]-N-(2-hydroxyethoxy)cyclohexa-1,3-diene-1-carboxamide",MAP2K1
+"1-(4-fluorophenyl)-N-[3-fluoro-4-(1H-pyrrolo[2,3-b]pyridin-4-yloxy)phenyl]-2-oxo-1,2-dihydropyridine-3-carboxamide",MET
+"3-[3-chloro-5-(5-{[(1S)-1-phenylethyl]amino}isoxazolo[5,4-c]pyridin-3-yl)phenyl]propan-1-ol",PLK1
+"4-(2-amino-1-methyl-1H-imidazo[4,5-b]pyridin-6-yl)phenol",ESR1
+"4-(2-amino-1-methyl-1H-imidazo[4,5-b]pyridin-6-yl)phenol",NCOA2
+"(2S,3S,4E,6E,8S,9S)-3-amino-9-methoxy-2,6,8-trimethyl-10-phenyldeca-4,6-dienoic acid",PPP2R5C
+"(2S,3S,4E,6E,8S,9S)-3-amino-9-methoxy-2,6,8-trimethyl-10-phenyldeca-4,6-dienoic acid",PPP2CA
+"(2S,3S,4E,6E,8S,9S)-3-amino-9-methoxy-2,6,8-trimethyl-10-phenyldeca-4,6-dienoic acid",PPP2R1A
+"(2S)-3-(1-{[2-(2-CHLOROPHENYL)-5-METHYL-1,3-OXAZOL-4-YL]METHYL}-1H-INDOL-5-YL)-2-ETHOXYPROPANOIC ACID",NCOA1
+"(2S)-3-(1-{[2-(2-CHLOROPHENYL)-5-METHYL-1,3-OXAZOL-4-YL]METHYL}-1H-INDOL-5-YL)-2-ETHOXYPROPANOIC ACID",PPARG
+"1-ethyl-N-(phenylmethyl)-4-(tetrahydro-2H-pyran-4-ylamino)-1H-pyrazolo[3,4-b]pyridine-5-carboxamide",PDE4B
+"1-({2-[2-(4-CHLOROPHENYL)ETHYL]-1,3-DIOXOLAN-2-YL}METHYL)-1H-IMIDAZOLE",HMOX1
+3-(2-AMINOQUINAZOLIN-6-YL)-4-METHYL-N-[3-(TRIFLUOROMETHYL)PHENYL]BENZAMIDE,LCK
+"(9Z,11E,13S)-13-hydroxyoctadeca-9,11-dienoic acid",PPARG
+[5-HYDROXY-2-(4-HYDROXYPHENYL)-1-BENZOFURAN-7-YL]ACETONITRILE,ESR2
+[5-HYDROXY-2-(4-HYDROXYPHENYL)-1-BENZOFURAN-7-YL]ACETONITRILE,NCOA1
+[5-HYDROXY-2-(4-HYDROXYPHENYL)-1-BENZOFURAN-7-YL]ACETONITRILE,ESR1
+"10,11-dimethoxy-4-methyldibenzo[c,f]-2,7-naphthyridine-3,6-diamine",PDPK1
+"4-(6-HYDROXY-BENZO[D]ISOXAZOL-3-YL)BENZENE-1,3-DIOL",ESR2
+4-[[2-[[4-chloro-3-(trifluoromethyl)phenyl]amino]-3H-benzimidazol-5-yl]oxy]-N-methyl-pyridine-2-carboxamide,KDR
+"N-ethyl-4-{[5-(methoxycarbamoyl)-2-methylphenyl]amino}-5-methylpyrrolo[2,1-f][1,2,4]triazine-6-carboxamide",MAPK14
+(3S)-1-{[4-(but-2-yn-1-yloxy)phenyl]sulfonyl}pyrrolidine-3-thiol,ADAM17
+N-(3-cyclopropyl-1H-pyrazol-5-yl)-2-(2-naphthyl)acetamide,CDK2
+2-ANILINO-6-CYCLOHEXYLMETHOXYPURINE,CDK2
+"N-(4-ACETYLPHENYL)-5-(5-CHLORO-2,4-DIHYDROXYPHENYL)-1H-PYRAZOLE-4-CARBOXAMIDE",HSP90AA1
+"4-CHLORO-6-(4-{4-[4-(METHYLSULFONYL)BENZYL]PIPERAZIN-1-YL}-1H-PYRAZOL-5-YL)BENZENE-1,3-DIOL",HSP90AA1
+"5-(5-CHLORO-2,4-DIHYDROXYPHENYL)-N-ETHYL-4-PIPERAZIN-1-YL-1H-PYRAZOLE-3-CARBOXAMIDE",HSP90AA1
+(2S)-1-(3H-Indol-3-yl)-3-{[5-(6-isoquinolinyl)-3-pyridinyl]oxy}-2-propanamine,PRKACA
+"5-(5-chloro-2,4-dihydroxyphenyl)-N-ethyl-4-[4-(morpholin-4-ylmethyl)phenyl]isoxazole-3-carboxamide",HSP90AA1
+"3-[3-(3-methyl-6-{[(1S)-1-phenylethyl]amino}-1H-pyrazolo[4,3-c]pyridin-1-yl)phenyl]propanamide",PLK1
+"5-(5-CHLORO-2,4-DIHYDROXYPHENYL)-N-ETHYL-4-(4-METHOXYPHENYL)ISOXAZOLE-3-CARBOXAMIDE",HSP90AA1
+"2-amino-4-[2,4-dichloro-5-(2-pyrrolidin-1-ylethoxy)phenyl]-N-ethylthieno[2,3-d]pyrimidine-6-carboxamide",HSP90AA1
+"1-(5-OXO-2,3,5,9B-TETRAHYDRO-1H-PYRROLO[2,1-A]ISOINDOL-9-YL)-3-(5-PYRROLIDIN-2-YL-1H-PYRAZOL-3-YL)-UREA",CDK2
+(2S)-1-{[5-(1H-Indazol-5-yl)-3-pyridinyl]oxy}-3-(7aH-indol-3-yl)-2-propanamine,PRKACA
+(2S)-2-(1H-indol-3-yl)hexanoic acid,SKP1
+(2S)-2-(1H-indol-3-yl)pentanoic acid,SKP1
+(2S)-8-[(tert-butoxycarbonyl)amino]-2-(1H-indol-3-yl)octanoic acid,SKP1
+"(5-phenyl-7-(pyridin-3-ylmethylamino)pyrazolo[1,5-a]pyrimidin-3-yl)methanol",CDK2
+"2-CHLORO-N-[(1R,2R)-1-HYDROXY-2,3-DIHYDRO-1H-INDEN-2-YL]-6H-THIENO[2,3-B]PYRROLE-5-CARBOXAMIDE",PYGM
+2-(4-(2-HYDROXY-3-(ISOPROPYLAMINO)PROPOXY)PHENYL)ETHANAMIDE,PLA2G2E
+"N-[2-methyl-5-(methylcarbamoyl)phenyl]-2-{[(1R)-1-methylpropyl]amino}-1,3-thiazole-5-carboxamide",MAPK14
+N-({4-[(2-aminopyridin-4-yl)oxy]-3-fluorophenyl}carbamoyl)-2-(4-fluorophenyl)acetamide,MET
+"2-(4-fluorophenyl)-N-{[3-fluoro-4-(1H-pyrrolo[2,3-b]pyridin-4-yloxy)phenyl]carbamoyl}acetamide",MET
+"N-{3-[(5-chloro-1H-pyrrolo[2,3-b]pyridin-3-yl)carbonyl]-2,4-difluorophenyl}propane-1-sulfonamide",BRAF
+"N-{2,4-difluoro-3-[(5-pyridin-3-yl-1H-pyrrolo[2,3-b]pyridin-3-yl)carbonyl]phenyl}ethanesulfonamide",BRAF
+"(3S,5E)-3-propyl-3,4-dihydrothieno[2,3-f][1,4]oxazepin-5(2H)-imine",NOS3
+"2-(5-HYDROXY-NAPHTHALEN-1-YL)-1,3-BENZOOXAZOL-6-OL",NCOA1
+"2-(5-HYDROXY-NAPHTHALEN-1-YL)-1,3-BENZOOXAZOL-6-OL",ESR2
+N-BENZYL-4-[4-(3-CHLOROPHENYL)-1H-PYRAZOL-3-YL]-1H-PYRROLE-2-CARBOXAMIDE,MAPK1
+"2-(1,3-benzodioxol-5-yl)-5-[(3-fluoro-4-methoxybenzyl)sulfanyl]-1,3,4-oxadiazole",GSK3B
+"N-{3-[5-(1H-1,2,4-triazol-3-yl)-1H-indazol-3-yl]phenyl}furan-2-carboxamide",MAPK9
+"2-(3,4-DIHYDROXYPHENYL)-8-(1,1-DIOXIDOISOTHIAZOLIDIN-2-YL)-3-HYDROXY-6-METHYL-4H-CHROMEN-4-ONE",CDK2
+3-(5-{[4-(AMINOMETHYL)PIPERIDIN-1-YL]METHYL}-1H-INDOL-2-YL)QUINOLIN-2(1H)-ONE,CHEK1
+2-(4-HYDROXY-PHENYL)BENZOFURAN-5-OL,ESR2
+5-HYDROXY-3-[(1R)-1-(1H-PYRROL-2-YL)ETHYL]-2H-INDOL-2-ONE,PDPK1
+"2,2'-{[9-(HYDROXYIMINO)-9H-FLUORENE-2,7-DIYL]BIS(OXY)}DIACETIC ACID",CHEK1
+"(3aS,4R,9bR)-2,2-difluoro-4-(4-hydroxyphenyl)-6-(methoxymethyl)-1,2,3,3a,4,9b-hexahydrocyclopenta[c]chromen-8-ol",ESR2
+(2S)-1-AMINO-3-[(5-NITROQUINOLIN-8-YL)AMINO]PROPAN-2-OL,CHEK1
+2-(cyclohexylamino)benzoic acid,CHEK1
+"(2R,3R,4S,5R)-2-[6-amino-8-[(3,4-dichlorophenyl)methylamino]purin-9-yl]-5-(hydroxymethyl)oxolane-3,4-diol",HSPA8
+"2-[(2-chloro-4-iodophenyl)amino]-N-{[(2R)-2,3-dihydroxypropyl]oxy}-3,4-difluorobenzamide",MAP2K1
+"3,5-DIMETHYL-1-PHENYL-1H-PYRAZOLE-4-CARBOXYLIC ACID ETHYL ESTER",PDE4D
+2-{5-[3-(7-PROPYL-3-TRIFLUOROMETHYLBENZO[D]ISOXAZOL-6-YLOXY)PROPOXY]INDOL-1-YL}ETHANOIC ACID,PPARG
+(2R)-1-(DIMETHYLAMINO)-3-{4-[(6-{[2-FLUORO-5-(TRIFLUOROMETHYL)PHENYL]AMINO}PYRIMIDIN-4-YL)AMINO]PHENOXY}PROPAN-2-OL,CDK2
+"5-[1-(4-methoxyphenyl)-1H-benzimidazol-6-yl]-1,3,4-oxadiazole-2(3H)-thione",GSK3B
+"5-(2,3-dichlorophenyl)-N-(pyridin-4-ylmethyl)-3-thiocyanatopyrazolo[1,5-a]pyrimidin-7-amine",CDK2
+"2-CHLORO-N-[(3R)-2-OXO-1,2,3,4-TETRAHYDROQUINOLIN-3-YL]-6H-THIENO[2,3-B]PYRROLE-5-CARBOXAMIDE",PYGM
+(2S)-2-{3-[({[2-fluoro-4-(trifluoromethyl)phenyl]carbonyl}amino)methyl]-4-methoxybenzyl}butanoic acid,PPARD
+3-(5-{[4-(AMINOMETHYL)PIPERIDIN-1-YL]METHYL}-1H-INDOL-2-YL)-1H-INDAZOLE-6-CARBONITRILE,CHEK1
+6-[(Z)-AMINO(IMINO)METHYL]-N-[3-(CYCLOPENTYLOXY)PHENYL]-2-NAPHTHAMIDE,PLAU
+"(3Z)-6-(4-HYDROXY-3-METHOXYPHENYL)-3-(1H-PYRROL-2-YLMETHYLENE)-1,3-DIHYDRO-2H-INDOL-2-ONE",CHEK1
+3-{[4-(but-2-yn-1-yloxy)phenyl]sulfonyl}propane-1-thiol,ADAM17
+"N-(2,2,2-TRIFLUOROETHYL)-N-{4-[2,2,2-TRIFLUORO-1-HYDROXY-1-(TRIFLUOROMETHYL)ETHYL]PHENYL}BENZENESULFONAMIDE",NCOA2
+"N-(2,2,2-TRIFLUOROETHYL)-N-{4-[2,2,2-TRIFLUORO-1-HYDROXY-1-(TRIFLUOROMETHYL)ETHYL]PHENYL}BENZENESULFONAMIDE",RXRB
+"N-(2,2,2-TRIFLUOROETHYL)-N-{4-[2,2,2-TRIFLUORO-1-HYDROXY-1-(TRIFLUOROMETHYL)ETHYL]PHENYL}BENZENESULFONAMIDE",NR1H3
+"N-(2,2,2-TRIFLUOROETHYL)-N-{4-[2,2,2-TRIFLUORO-1-HYDROXY-1-(TRIFLUOROMETHYL)ETHYL]PHENYL}BENZENESULFONAMIDE",NCOA1
+"4-[(1S,2S,5S)-5-(HYDROXYMETHYL)-8-METHYL-3-OXABICYCLO[3.3.1]NON-7-EN-2-YL]PHENOL",NCOA2
+"4-[(1S,2S,5S)-5-(HYDROXYMETHYL)-8-METHYL-3-OXABICYCLO[3.3.1]NON-7-EN-2-YL]PHENOL",ESR1
+"4-[(1S,2S,5S,9R)-5-(HYDROXYMETHYL)-8,9-DIMETHYL-3-OXABICYCLO[3.3.1]NON-7-EN-2-YL]PHENOL",ESR1
+"4-[(1S,2S,5S,9R)-5-(HYDROXYMETHYL)-8,9-DIMETHYL-3-OXABICYCLO[3.3.1]NON-7-EN-2-YL]PHENOL",NCOA2
+"4-CHLORO-6-(4-PIPERAZIN-1-YL-1H-PYRAZOL-5-YL)BENZENE-1,3-DIOL",HSP90AA1
+PD-0325901,MAP2K1
+(1S)-2-(1H-INDOL-3-YL)-1-[({5-[(E)-2-PYRIDIN-4-YLVINYL]PYRIDIN-3-YL}OXY)METHYL]ETHYLAMINE,PRKACA
+"4'-FLUORO-1,1'-BIPHENYL-4-CARBOXYLIC ACID",BCL2L1
+"(4S,5E,7Z,10Z,13Z,16Z,19Z)-4-hydroxydocosa-5,7,10,13,16,19-hexaenoic acid",PPARG
+1-CHLORO-6-(4-HYDROXYPHENYL)-2-NAPHTHOL,NCOA1
+1-CHLORO-6-(4-HYDROXYPHENYL)-2-NAPHTHOL,ESR2
+"4-({4-[(4-AMINOBUT-2-YNYL)OXY]PHENYL}SULFONYL)-N-HYDROXY-2,2-DIMETHYLTHIOMORPHOLINE-3-CARBOXAMIDE",ADAM17
+1-[4-(2-oxo-2-phenylethyl)phenyl]guanidine,PLAU
+"(2S)-1-(6H-INDOL-3-YL)-3-{[5-(7H-PYRAZOLO[3,4-C]PYRIDIN-5-YL)PYRIDIN-3-YL]OXY}PROPAN-2-AMINE",PRKACA
+O6-CYCLOHEXYLMETHOXY-2-(4'-SULPHAMOYLANILINO) PURINE,CDK2
+"(2R)-1-(2,6-dimethylphenoxy)propan-2-amine",PLAU
+4-BROMO-3-(CARBOXYMETHOXY)-5-PHENYLTHIOPHENE-2-CARBOXYLIC ACID,PTPN1
+1-{2-OXO-3-[(1R)-1-(1H-PYRROL-2-YL)ETHYL]-2H-INDOL-5-YL}UREA,PDPK1
+"5-(4-CHLORO-5-PHENYL-3-THIENYL)-1,2,5-THIADIAZOLIDIN-3-ONE 1,1-DIOXIDE",PTPN1
+(2S)-N-[(3Z)-5-CYCLOPROPYL-3H-PYRAZOL-3-YLIDENE]-2-[4-(2-OXOIMIDAZOLIDIN-1-YL)PHENYL]PROPANAMIDE,CDK2
+Neflamapimod,MAPK14
+(2R)-N-HYDROXY-2-[(3S)-3-METHYL-3-{4-[(2-METHYLQUINOLIN-4-YL)METHOXY]PHENYL}-2-OXOPYRROLIDIN-1-YL]PROPANAMIDE,ADAM17
+"2,3-DIPHENYL-N-(2-PIPERAZIN-1-YLETHYL)FURO[2,3-B]PYRIDIN-4-AMINE",LCK
+"methyl (1R,2S)-2-(hydroxycarbamoyl)-1-{4-[(2-methylquinolin-4-yl)methoxy]benzyl}cyclopropanecarboxylate",ADAM17
+"(7S)-2-(2-aminopyrimidin-4-yl)-7-(2-fluoroethyl)-1,5,6,7-tetrahydro-4H-pyrrolo[3,2-c]pyridin-4-one",GSK3B
+4-(4-HYDROXYPHENYL)-1-NAPHTHALDEHYDE OXIME,NCOA1
+4-(4-HYDROXYPHENYL)-1-NAPHTHALDEHYDE OXIME,ESR2
+4-(4-hydroxy-3-methylphenyl)-6-phenylpyrimidin-2(5H)-one,PIM1
+N-[4-(5-fluoro-6-methylpyridin-2-yl)-5-quinoxalin-6-yl-1H-imidazol-2-yl]acetamide,TGFBR1
+"(4Z)-6-bromo-4-({[4-(pyrrolidin-1-ylmethyl)phenyl]amino}methylidene)isoquinoline-1,3(2H,4H)-dione",IGF1R
+"5-ETHYL-3-METHYL-1,5-DIHYDRO-4H-PYRAZOLO[4,3-C]QUINOLIN-4-ONE",CHEK1
+"6-({5-fluoro-2-[(3,4,5-trimethoxyphenyl)amino]pyrimidin-4-yl}amino)-2,2-dimethyl-2H-pyrido[3,2-b][1,4]oxazin-3(4H)-one",SYK
+5-phenyl-1H-indazol-3-amine,JAK2
+4-(3-amino-1H-indazol-5-yl)-N-tert-butylbenzenesulfonamide,JAK2
+5-[(2-AMINOETHYL)AMINO]-6-FLUORO-3-(1H-PYRROL-2-YL)BENZO[CD]INDOL-2(1H)-ONE,CDK2
+"N-cyclopropyl-4-pyrazolo[1,5-b]pyridazin-3-ylpyrimidin-2-amine",CDK2
+5-CYANO-FURAN-2-CARBOXYLIC ACID [5-HYDROXYMETHYL-2-(4-METHYL-PIPERIDIN-1-YL)-PHENYL]-AMIDE,CSF1R
+[4-({4-[(5-cyclopropyl-1H-pyrazol-3-yl)amino]-6-(methylamino)pyrimidin-2-yl}amino)phenyl]acetonitrile,CAMK2B
+"(5R,6E,8Z,11Z,14Z,17Z)-5-hydroxyicosa-6,8,11,14,17-pentaenoic acid",PPARG
+"3-((3-bromo-5-o-tolylpyrazolo[1,5-a]pyrimidin-7-ylamino)methyl)pyridine 1-oxide",CDK2
+N-(4-phenoxyphenyl)-2-[(pyridin-4-ylmethyl)amino]nicotinamide,KDR
+"4-(4-METHYLPIPERAZIN-1-YL)-N-[5-(2-THIENYLACETYL)-1,5-DIHYDROPYRROLO[3,4-C]PYRAZOL-3-YL]BENZAMIDE",PLK1
+"(1S,3R,6S)-4-oxo-6-{4-[(2-phenylquinolin-4-yl)methoxy]phenyl}-5-azaspiro[2.4]heptane-1-carboxylic acid",ADAM17
+"2-{2-[(3,5-dimethylphenyl)amino]pyrimidin-4-yl}-N-[(1S)-2-hydroxy-1-methylethyl]-4-methyl-1,3-thiazole-5-carboxamide",SYK
+"4-[(1S,2S,5S)-5-(HYDROXYMETHYL)-6,8,9-TRIMETHYL-3-OXABICYCLO[3.3.1]NON-7-EN-2-YL]PHENOL",ESR1
+"4-[(1S,2S,5S)-5-(HYDROXYMETHYL)-6,8,9-TRIMETHYL-3-OXABICYCLO[3.3.1]NON-7-EN-2-YL]PHENOL",NCOA2
+4-BROMO-3-(CARBOXYMETHOXY)-5-(4-HYDROXYPHENYL)THIOPHENE-2-CARBOXYLIC ACID,PTPN1
+5-HYDROXY-2-(4-HYDROXYPHENYL)-1-BENZOFURAN-7-CARBONITRILE,ESR2
+5-HYDROXY-2-(4-HYDROXYPHENYL)-1-BENZOFURAN-7-CARBONITRILE,NCOA1
+6-CHLORO-3-(3-METHYLISOXAZOL-5-YL)-4-PHENYLQUINOLIN-2(1H)-ONE,CSF1R
+6-CYCLOHEXYLMETHOXY-2-(3'-CHLOROANILINO) PURINE,CDK2
+"(1S)-1-(1H-INDOL-3-YLMETHYL)-2-(2-PYRIDIN-4-YL-[1,7]NAPHTYRIDIN-5-YLOXY)-EHYLAMINE",PRKACA
+2-(4-HYDROXY-5-PHENYL-1H-PYRAZOL-3-YL)-1H-BENZOIMIDAZOLE-5-CARBOXAMIDINE,F3
+"(8E,10S,12Z)-10-hydroxy-6-oxooctadeca-8,12-dienoic acid",PPARG
+"(8R,9Z,12Z)-8-hydroxy-6-oxooctadeca-9,12-dienoic acid",PPARG
+"3-bromo-5-phenyl-N-(pyridin-4-ylmethyl)pyrazolo[1,5-a]pyrimidin-7-amine",CDK2
+"(5-{3-[5-(PIPERIDIN-1-YLMETHYL)-1H-INDOL-2-YL]-1H-INDAZOL-6-YL}-2H-1,2,3-TRIAZOL-4-YL)METHANOL",CHEK1
+"2-METHYL-2-(4-{[({4-METHYL-2-[4-(TRIFLUOROMETHYL)PHENYL]-1,3-THIAZOL-5-YL}CARBONYL)AMINO]METHYL}PHENOXY)PROPANOIC ACID",NCOA1
+"2-METHYL-2-(4-{[({4-METHYL-2-[4-(TRIFLUOROMETHYL)PHENYL]-1,3-THIAZOL-5-YL}CARBONYL)AMINO]METHYL}PHENOXY)PROPANOIC ACID",PPARA
+"6-CHLORO-9-HYDROXY-1,3-DIMETHYL-1,9-DIHYDRO-4H-PYRAZOLO[3,4-B]QUINOLIN-4-ONE",MAPK8IP1
+"6-CHLORO-9-HYDROXY-1,3-DIMETHYL-1,9-DIHYDRO-4H-PYRAZOLO[3,4-B]QUINOLIN-4-ONE",MAPK8
+"N-[5-(1,1-DIOXIDOISOTHIAZOLIDIN-2-YL)-1H-INDAZOL-3-YL]-2-(4-PIPERIDIN-1-YLPHENYL)ACETAMIDE",CDK2
+1-(5-CHLORO-2-METHOXYPHENYL)-3-{6-[2-(DIMETHYLAMINO)-1-METHYLETHOXY]PYRAZIN-2-YL}UREA,CHEK1
+3-BROMO-6-HYDROXY-2-(4-HYDROXYPHENYL)-1H-INDEN-1-ONE,ESR2
+3-BROMO-6-HYDROXY-2-(4-HYDROXYPHENYL)-1H-INDEN-1-ONE,NCOA1
+N-{[4-(but-2-yn-1-yloxy)phenyl]sulfonyl}-5-methyl-D-tryptophan,ADAM17
+"3-{[(1R)-1-phenylethyl]amino}-4-(pyridin-4-ylamino)cyclobut-3-ene-1,2-dione",MAPKAPK2
+"N-[(1S)-2-AMINO-1-(2,4-DICHLOROBENZYL)ETHYL]-5-[2-(METHYLAMINO)PYRIMIDIN-4-YL]THIOPHENE-2-CARBOXAMIDE",PRKACA
+3-(6-HYDROXY-NAPHTHALEN-2-YL)-BENZO[D]ISOOXAZOL-6-OL,ESR2
+3-(6-HYDROXY-NAPHTHALEN-2-YL)-BENZO[D]ISOOXAZOL-6-OL,NCOA1
+"(4R)-7,8-dichloro-1',9-dimethyl-1-oxo-1,2,4,9-tetrahydrospiro[beta-carboline-3,4'-piperidine]-4-carbonitrile",PIM1
+"(3-ENDO)-8-METHYL-8-AZABICYCLO[3.2.1]OCT-3-YL 1H-PYRROLO[2,3-B]PYRIDINE-3-CARBOXYLATE",CHEK1
+"5-{4-[(3,5-DIFLUOROBENZYL)AMINO]PHENYL}-6-ETHYLPYRIMIDINE-2,4-DIAMINE",NOS3
+"[2'-HYDROXY-3'-(1H-PYRROLO[3,2-C]PYRIDIN-2-YL)-BIPHENYL-3-YLMETHYL]-UREA",F3
+"7-PYRIDIN-2-YL-N-(3,4,5-TRIMETHOXYPHENYL)-7H-PYRROLO[2,3-D]PYRIMIDIN-2-AMINE",PTK2
+"[{2-bromo-4-[(2R)-3-oxo-2,3-diphenylpropyl]phenyl}(difluoro)methyl]phosphonic acid",PTPN1
+(S)-N-(1-(3-CHLORO-4-FLUOROPHENYL)-2-HYDROXYETHYL)-4-(4-(3-CHLOROPHENYL)-1H-PYRAZOL-3-YL)-1H-PYRROLE-2-CARBOXAMIDE,MAPK1
+2-(6-methylpyridin-2-yl)-N-pyridin-4-ylquinazolin-4-amine,TGFBR1
+2-({2-[(3-HYDROXYPHENYL)AMINO]PYRIMIDIN-4-YL}AMINO)BENZAMIDE,MAPK8
+"N-[7-(3-AMINOPHENYL)-5-METHOXY-1,3-BENZOXAZOL-2-YL]-2,5-DICHLOROBENZENESULFONAMIDE",FBP1
+"N-(4-AMINO-5-CYANO-6-ETHOXYPYRIDIN-2-YL)-2-(4-BROMO-2,5-DIMETHOXYPHENYL)ACETAMIDE",MAPK8IP1
+"N-(4-AMINO-5-CYANO-6-ETHOXYPYRIDIN-2-YL)-2-(4-BROMO-2,5-DIMETHOXYPHENYL)ACETAMIDE",MAPK8
+"N-cyclopropyl-6-[(6,7-dimethoxyquinolin-4-yl)oxy]naphthalene-1-carboxamide",KDR
+"5-CYANO-N-(2,5-DIMETHOXYBENZYL)-6-ETHOXYPYRIDINE-2-CARBOXAMIDE",MAPK8IP1
+"5-CYANO-N-(2,5-DIMETHOXYBENZYL)-6-ETHOXYPYRIDINE-2-CARBOXAMIDE",MAPK8
+N-(4-chlorophenyl)-2-[(pyridin-4-ylmethyl)amino]benzamide,FLT1
+5-[3-(BENZYLAMINO)PHENYL]-4-BROMO-3-(CARBOXYMETHOXY)THIOPHENE-2-CARBOXYLIC ACID,PTPN1
+2-[(7-HYDROXY-NAPHTHALEN-1-YL)-OXALYL-AMINO]-BENZOIC ACID,PTPN1
+"5,6-DIPHENYL-N-(2-PIPERAZIN-1-YLETHYL)FURO[2,3-D]PYRIMIDIN-4-AMINE",LCK
+"3-(CARBOXYMETHOXY)THIENO[2,3-B]PYRIDINE-2-CARBOXYLIC ACID",PTPN1
+"2-(1H-imidazol-1-yl)-9-methoxy-8-(2-methoxyethoxy)benzo[c][2,7]naphthyridin-4-amine",PDPK1
+"(9S,10E,12Z)-9-hydroxyoctadeca-10,12-dienoic acid",PPARG
+N-cyclopropyl-4-methyl-3-[1-(2-methylphenyl)phthalazin-6-yl]benzamide,MAPK14
+"18-CHLORO-11,12,13,14-TETRAHYDRO-1H,10H-8,4-(AZENO)-9,15,1,3,6-BENZODIOXATRIAZACYCLOHEPTADECIN-2-ONE",CHEK1
+"2,5-DICHLORO-N-(5-CHLORO-1,3-BENZOXAZOL-2-YL)BENZENESULFONAMIDE",FBP1
+"1-(5-CHLORO-2,4-DIMETHOXYPHENYL)-3-(5-CYANOPYRAZIN-2-YL)UREA",CHEK1
+"5-chloro-N-{4-[(1R)-1,2-dihydroxyethyl]phenyl}-1H-indole-2-carboxamide",PYGL
+(3E)-3-[(phenylamino)methylidene]dihydrofuran-2(3H)-one,HSP90AA1
+"6-(3-BROMO-2-NAPHTHYL)-1,3,5-TRIAZINE-2,4-DIAMINE",HSP90AA1
+"4-(6-{[(4-METHYLCYCLOHEXYL)AMINO]METHYL}-1,4-DIHYDROINDENO[1,2-C]PYRAZOL-3-YL)BENZOIC ACID",CHEK1
+"2,5-DICHLORO-N-[5-METHOXY-7-(6-METHOXYPYRIDIN-3-YL)-1,3-BENZOXAZOL-2-YL]BENZENESULFONAMIDE",FBP1
+"3-({2-[(2-AMINO-6-METHYLPYRIMIDIN-4-YL)ETHYNYL]BENZYL}AMINO)-1,3-OXAZOL-2(3H)-ONE",HSP90AA1
+N-[(2-AMINO-6-METHYLPYRIMIDIN-4-YL)METHYL]-3-{[(E)-(2-OXODIHYDROFURAN-3(2H)-YLIDENE)METHYL]AMINO}BENZENESULFONAMIDE,HSP90AA1
+"6-chloro-N-pyrimidin-5-yl-3-{[3-(trifluoromethyl)phenyl]amino}-1,2-benzisoxazole-7-carboxamide",KDR
+"N-(CYCLOPROPYLMETHYL)-4-(METHYLOXY)-3-({5-[3-(3-PYRIDINYL)PHENYL]-1,3-OXAZOL-2-YL}AMINO)BENZENESULFONAMIDE",KDR
+"N-[5-(ETHYLSULFONYL)-2-METHOXYPHENYL]-5-[3-(2-PYRIDINYL)PHENYL]-1,3-OXAZOL-2-AMINE",KDR
+"3-[4-AMINO-1-(1-METHYLETHYL)-1H-PYRAZOLO[3,4-D]PYRIMIDIN-3-YL]PHENOL",SRC
+4-[3-(1H-BENZIMIDAZOL-2-YL)-1H-INDAZOL-6-YL]-2-METHOXYPHENOL,CHEK1
+1-(adamantan-1-yl)-2-(1H-imidazol-1-yl)ethanone,HMOX1
+4-(2-Aminoethyl)Benzenesulfonyl Fluoride,GAPDH
+4-(2-Aminoethyl)Benzenesulfonyl Fluoride,ATP6V1B2
+Brefeldin A,CYTH2
+Brefeldin A,ARF1
+"2-amino-N-(4-methyl-1,3-thiazol-2-yl)-5-[(4-methyl-4H-1,2,4-triazol-3-yl)sulfanyl]benzamide",GCK
+"3-[(4-fluorophenyl)sulfanyl]-N-(4-methyl-1,3-thiazol-2-yl)-6-[(4-methyl-4H-1,2,4-triazol-3-yl)sulfanyl]pyridine-2-carboxamide",GCK
+"N-(3-chlorophenyl)-N-methyl-2-oxo-3-[(3,4,5-trimethyl-1H-pyrrol-2-yl)methyl]-2H-indole-5-sulfonamide",MET
+(2S)-2-({6-[(3-amino-5-chlorophenyl)amino]-9-isopropyl-9H-purin-2-yl}amino)-3-methylbutan-1-ol,CDK6
+ETHYL 4-[(4-METHYLPYRIDIN-2-YL)AMINO]PIPERIDINE-1-CARBOXYLATE,NOS3
+"4-[3-(2-Chloro-4,5-difluoro-benzoyl)ureido]-3-trifluoromethoxybenzoic acid",PYGL
+"1-{2-[3-(2-Chloro-4,5-difluoro-benzoyl)-ureido]-4-fluoro-phenyl}-piperidine-4-carboxylic acid",PYGL
+"4-[(3-CHLORO-4-{[(2R)-3,3,3-TRIFLUORO-2-HYDROXY-2-METHYLPROPANOYL]AMINO}PHENYL)SULFONYL]-N,N-DIMETHYLBENZAMIDE",PDK1
+"(4R)-N-[4-({[2-(DIMETHYLAMINO)ETHYL]AMINO}CARBONYL)-1,3-THIAZOL-2-YL]-4-METHYL-1-OXO-2,3,4,9-TETRAHYDRO-1H-BETA-CARBOLINE-6-CARBOXAMIDE",MAPKAPK2
+Sobetirome,THRB
+"(10R)-10-methyl-3-(6-methylpyridin-3-yl)-9,10,11,12-tetrahydro-8H-[1,4]diazepino[5',6':4,5]thieno[3,2-f]quinolin-8-one",MAPKAPK2
+"(3R)-3-(aminomethyl)-9-methoxy-1,2,3,4-tetrahydro-5H-[1]benzothieno[3,2-e][1,4]diazepin-5-one",MAPKAPK2
+"(3R)-3-(aminomethyl)-9-methoxy-1,2,3,4-tetrahydro-5H-[1]benzothieno[3,2-e][1,4]diazepin-5-one",CDK2
+"N,N'-[biphenyl-4,4'-diyldi(2R)propane-2,1-diyl]dimethanesulfonamide",GRIA2
+"3-(1H-indol-3-yl)-4-(1-{2-[(2S)-1-methylpyrrolidinyl]ethyl}-1H-indol-3-yl)-1H-pyrrole-2,5-dione",PDPK1
+"3-[1-(3-AMINOPROPYL)-1H-INDOL-3-YL]-4-(1H-INDOL-3-YL)-1H-PYRROLE-2,5-DIONE",PDPK1
+"3-(1H-indol-3-yl)-4-{1-[2-(1-methylpyrrolidin-2-yl)ethyl]-1H-indol-3-yl}-1H-pyrrole-2,5-dione",PRKACA
+4-PHENOXY-N-(PYRIDIN-2-YLMETHYL)BENZAMIDE,MAPK14
+2-({5-CHLORO-2-[(2-METHOXY-4-MORPHOLIN-4-YLPHENYL)AMINO]PYRIMIDIN-4-YL}AMINO)-N-METHYLBENZAMIDE,PTK2
+"5-[5,6-BIS(METHYLOXY)-1H-BENZIMIDAZOL-1-YL]-3-{[1-(2-CHLOROPHENYL)ETHYL]OXY}-2-THIOPHENECARBOXAMIDE",CDK2
+3-[5-(1H-IMIDAZOL-1-YL)-7-METHYL-1H-BENZIMIDAZOL-2-YL]-4-[(PYRIDIN-2-YLMETHYL)AMINO]PYRIDIN-2(1H)-ONE,IGF1R
+4-PHOSPHONOOXY-PHENYL-METHYL-[4-PHOSPHONOOXY]BENZEN,PTPN1
+"{(2Z)-4-AMINO-2-[(4-METHOXYPHENYL)IMINO]-2,3-DIHYDRO-1,3-THIAZOL-5-YL}(4-METHOXYPHENYL)METHANONE",CSNK1G3
+"4-Amino-2-[(3-chlorophenyl)amino]-5-(4-fluorobenzoyl)-1,3-thiazol-3-ium",CSNK1G3
+"(2Z)-5'-BROMO-2,3'-BIINDOLE-2',3(1H,1'H)-DIONE AMMONIATE",CDK2
+"5-(5-CHLORO-2,4-DIHYDROXYPHENYL)-N-ETHYL-4-(4-METHOXYPHENYL)-1H-PYRAZOLE-3-CARBOXAMIDE",HSP90AA1
+(2E)-1-[2-hydroxy-4-methoxy-5-(3-methylbut-2-en-1-yl)phenyl]-3-(4-hydroxyphenyl)prop-2-en-1-one,PLA2G2E
+(2S)-1-{4-[(4-Anilino-5-bromo-2-pyrimidinyl)amino]phenoxy}-3-(dimethylamino)-2-propanol,CDK2
+"4-bromo-6-(6-hydroxy-1,2-benzisoxazol-3-yl)benzene-1,3-diol",HSP90AA1
+(2R)-1-{4-[(4-Anilino-5-bromo-2-pyrimidinyl)amino]phenoxy}-3-(dimethylamino)-2-propanol,CDK2
+difluoro(5-{2-[(5-octyl-1H-pyrrol-2-yl-kappaN)methylidene]-2H-pyrrol-5-yl-kappaN}pentanoato)boron,PPARG
+"3-(2-aminoquinazolin-6-yl)-1-(3,3-dimethylindolin-6-yl)-4-methylpyridin-2(1H)-one",KDR
+"N-phenyl-1H-pyrrolo[2,3-b]pyridin-3-amine",PIM1
+"3-(3-methoxybenzyl)-1H-pyrrolo[2,3-b]pyridine",FGFR1
+3-(2-aminoquinazolin-6-yl)-4-methyl-1-[3-(trifluoromethyl)phenyl]pyridin-2(1H)-one,KDR
+"2-IMINO-5-(1-PYRIDIN-2-YL-METH-(E)-YLIDENE)-1,3-THIAZOLIDIN-4-ONE",CDK2
+"(1R,3R)-5-[(2E)-3-{(1S,3R)-2,2,3-trimethyl-3-[6,6,6-trifluoro-5-hydroxy-5-(trifluoromethyl)hex-3-yn-1-yl]cyclopentyl}prop-2-en-1-ylidene]cyclohexane-1,3-diol",NCOA1
+"4-{5-[(Z)-(2,4-DIOXO-1,3-THIAZOLIDIN-5-YLIDENE)METHYL]FURAN-2-YL}BENZENESULFONAMIDE",CDK2
+"4-{5-[(Z)-(2-IMINO-4-OXO-1,3-THIAZOLIDIN-5-YLIDENE)METHYL]-2-FURYL}-N-METHYLBENZENESULFONAMIDE",CDK2
+"4-{5-[(Z)-(2-IMINO-4-OXO-1,3-THIAZOLIDIN-5-YLIDENE)METHYL]FURAN-2-YL}BENZENESULFONAMIDE",CDK2
+"N'-(6-aminopyridin-3-yl)-N-(2-cyclopentylethyl)-4-methyl-benzene-1,3-dicarboxamide",KDR
+"4-{5-[(Z)-(2-IMINO-4-OXO-1,3-THIAZOLIDIN-5-YLIDENE)METHYL]FURAN-2-YL}-2-(TRIFLUOROMETHYL)BENZENESULFONAMIDE",CDK2
+"4-{5-[(Z)-(2-IMINO-4-OXO-1,3-THIAZOLIDIN-5-YLIDENE)METHYL]FURAN-2-YL}BENZOIC ACID",CDK2
+"4-{5-[(1Z)-1-(2-IMINO-4-OXO-1,3-THIAZOLIDIN-5-YLIDENE)ETHYL]-2-FURYL}BENZENESULFONAMIDE",CDK2
+5-AMINO-6-CYCLOHEXYL-4-HYDROXY-2-ISOBUTYL-HEXANOIC ACID,CTSD
+(2S)-1-(9H-Carbazol-4-yloxy)-3-(isopropylamino)propan-2-ol,ADRB2
+[1-(6-{6-[(1-methylethyl)amino]-1H-indazol-1-yl}pyrazin-2-yl)-1H-pyrrol-3-yl]acetic acid,CSNK2A2
+"(5BETA)-PREGNANE-3,20-DIONE",NCOA1
+"(5BETA)-PREGNANE-3,20-DIONE",RXRA
+"N-[4-(2,4-DIMETHYL-THIAZOL-5-YL)-PYRIMIDIN-2-YL]-N',N'-DIMETHYL-BENZENE-1,4-DIAMINE",CDK2
+"(2R,3R,4S)-3-(4-HYDROXYPHENYL)-4-METHYL-2-[4-(2-PYRROLIDIN-1-YLETHOXY)PHENYL]CHROMAN-6-OL",ESR1
+"(4R,2S)-5'-(4-(4-CHLOROBENZYLOXY)PYRROLIDIN-2-YLMETHANESULFONYL)ISOQUINOLINE",PRKACA
+"N-[2-(5-methyl-4H-1,2,4-triazol-3-yl)phenyl]-7H-pyrrolo[2,3-d]pyrimidin-4-amine",AKT1
+"N-[2-(5-methyl-4H-1,2,4-triazol-3-yl)phenyl]-7H-pyrrolo[2,3-d]pyrimidin-4-amine",GSK3B
+"5-(5-chloro-7H-pyrrolo[2,3-d]pyrimidin-4-yl)-4,5,6,7-tetrahydro-1H-imidazo[4,5-c]pyridine",AKT1
+"5-(5-chloro-7H-pyrrolo[2,3-d]pyrimidin-4-yl)-4,5,6,7-tetrahydro-1H-imidazo[4,5-c]pyridine",GSK3B
+"4-[4-(2,3-DIHYDRO-1,4-BENZODIOXIN-6-YL)-3-METHYL-1H-PYRAZOL-5-YL]-6-ETHYLBENZENE-1,3-DIOL",HSP90AB1
+"4-[4-(2,3-DIHYDRO-1,4-BENZODIOXIN-6-YL)-3-METHYL-1H-PYRAZOL-5-YL]-6-ETHYLBENZENE-1,3-DIOL",HSP90AA1
+"(5Z)-5-(3-BROMOCYCLOHEXA-2,5-DIEN-1-YLIDENE)-N-(PYRIDIN-4-YLMETHYL)-1,5-DIHYDROPYRAZOLO[1,5-A]PYRIMIDIN-7-AMINE",CDK2
+"2,3,6A,7,8,9-HEXAHYDRO-11H-[1,4]DIOXINO[2,3-G]PYRROLO[2,1-B][1,3]BENZOXAZIN-11-ONE",GRIA2
+"4-chloro-6-{5-[(2-morpholin-4-ylethyl)amino]-1,2-benzisoxazol-3-yl}benzene-1,3-diol",HSP90AA1
+S-{3-[(4-ANILINOQUINAZOLIN-6-YL)AMINO]-3-OXOPROPYL}-L-CYSTEINE,EGFR
+"(6AR,11AS,11BR)-10-ACETYL-9-HYDROXY-7,7-DIMETHYL-2,6,6A,7,11A,11B-HEXAHYDRO-11H-PYRROLO[1',2':2,3]ISOINDOLO[4,5,6-CD]INDOL-11-ONE",ATP2A1
+"6-(3,4-DIHYDROXYBENZYL)-3-ETHYL-1-(2,4,6-TRICHLOROPHENYL)-1H-PYRAZOLO[3,4-D]PYRIMIDIN-4(5H)-ONE",CDK2
+4-[5-(3-IODO-PHENYL)-2-(4-METHANESULFINYL-PHENYL)-1H-IMIDAZOL-4-YL]-PYRIDINE,MAPK14
+6-(3-AMINOPHENYL)-N-(TERT-BUTYL)-2-(TRIFLUOROMETHYL)QUINAZOLIN-4-AMINE,CDK2
+"2-(4-(AMINOMETHYL)PIPERIDIN-1-YL)-N-(3_CYCLOHEXYL-4-OXO-2,4-DIHYDROINDENO[1,2-C]PYRAZOL-5-YL)ACETAMIDE",CDK2
+"1-(3-(2,4-DIMETHYLTHIAZOL-5-YL)-4-OXO-2,4-DIHYDROINDENO[1,2-C]PYRAZOL-5-YL)-3-(4-METHYLPIPERAZIN-1-YL)UREA",CDK2
+"4-(2-aminoethoxy)-N-(2,5-diethoxyphenyl)-3,5-dimethylbenzamide",PLAU
+"4-(2-aminoethoxy)-N-(3-chloro-2-ethoxy-5-piperidin-1-ylphenyl)-3,5-dimethylbenzamide",PLAU
+"6-(2-fluorobenzyl)-2,4-dimethyl-4,6-dihydro-5H-thieno[2',3':4,5]pyrrolo[2,3-d]pyridazin-5-one",PKM
+Dibromotyrosine,EPOR
+"(3AS,4R,9BR)-2,2-DIFLUORO-4-(4-HYDROXYPHENYL)-1,2,3,3A,4,9B-HEXAHYDROCYCLOPENTA[C]CHROMEN-8-OL",ESR1
+"(3AS,4R,9BR)-2,2-DIFLUORO-4-(4-HYDROXYPHENYL)-1,2,3,3A,4,9B-HEXAHYDROCYCLOPENTA[C]CHROMEN-8-OL",ESR2
+"(2R)-1-[(5,6-DIPHENYL-7H-PYRROLO[2,3-D]PYRIMIDIN-4-YL)AMINO]PROPAN-2-OL",CHEK1
+"(2R)-3-{[(4Z)-5,6-DIPHENYL-6,7-DIHYDRO-4H-PYRROLO[2,3-D]PYRIMIDIN-4-YLIDENE]AMINO}PROPANE-1,2-DIOL",CHEK1
+N-ACETYL-L-PHENYLALANYL-4-[DIFLUORO(PHOSPHONO)METHYL]-L-PHENYLALANINAMIDE,PTPN1
+"N-(5,6-DIPHENYLFURO[2,3-D]PYRIMIDIN-4-YL)GLYCINE",CHEK1
+"(5,6-DIPHENYL-FURO[2,3-D]PYRIMIDIN-4-YLAMINO)-ACETIC",CHEK1
+"3-AMINO-3-BENZYL-[4.3.0]BICYCLO-1,6-DIAZANONAN-2-ONE",CHEK1
+N-[4-(3-BROMO-PHENYLAMINO)-QUINAZOLIN-6-YL]-ACRYLAMIDE,SRC
+N-[4-(3-BROMO-PHENYLAMINO)-QUINAZOLIN-6-YL]-ACRYLAMIDE,EGFR
+"5-AMINO-3-{[4-(AMINOSULFONYL)PHENYL]AMINO}-N-(2,6-DIFLUOROPHENYL)-1H-1,2,4-TRIAZOLE-1-CARBOTHIOAMIDE",CSNK1G3
+"5-AMINO-3-{[4-(AMINOSULFONYL)PHENYL]AMINO}-N-(2,6-DIFLUOROPHENYL)-1H-1,2,4-TRIAZOLE-1-CARBOTHIOAMIDE",CAMK4
+"5-AMINO-3-{[4-(AMINOSULFONYL)PHENYL]AMINO}-N-(2,6-DIFLUOROPHENYL)-1H-1,2,4-TRIAZOLE-1-CARBOTHIOAMIDE",ABL2
+(2S)-2-ETHOXY-3-{4-[2-(10H-PHENOXAZIN-10-YL)ETHOXY]PHENYL}PROPANOIC ACID,PPARG
+"3-({[(3S)-3,4-dihydroxybutyl]oxy}amino)-1H,2'H-2,3'-biindol-2'-one",GSK3B
+"3-({[(3S)-3,4-dihydroxybutyl]oxy}amino)-1H,2'H-2,3'-biindol-2'-one",CAMK4
+"(9ALPHA,13BETA,17BETA)-2-[(1Z)-BUT-1-EN-1-YL]ESTRA-1,3,5(10)-TRIENE-3,17-DIOL",ESR1
+"(9ALPHA,13BETA,17BETA)-2-[(1Z)-BUT-1-EN-1-YL]ESTRA-1,3,5(10)-TRIENE-3,17-DIOL",NCOA2
+5-(DIMETHYLAMINO)-2-NAPHTHALENESULFONIC ACID,PLAT
+"4-{[5-(CYCLOHEXYLMETHOXY)[1,2,4]TRIAZOLO[1,5-A]PYRIMIDIN-7-YL]AMINO}BENZENESULFONAMIDE",CDK2
+"4-{[5-(CYCLOHEXYLAMINO)[1,2,4]TRIAZOLO[1,5-A]PYRIMIDIN-7-YL]AMINO}BENZENESULFONAMIDE",CDK2
+"4-({5-[(4-AMINOCYCLOHEXYL)AMINO][1,2,4]TRIAZOLO[1,5-A]PYRIMIDIN-7-YL}AMINO)BENZENESULFONAMIDE",CDK2
+"4-{[5-(CYCLOHEXYLOXY)[1,2,4]TRIAZOLO[1,5-A]PYRIMIDIN-7-YL]AMINO}BENZENESULFONAMIDE",CDK2
+"2-({[3-(3,4-dihydroisoquinolin-2(1H)-ylsulfonyl)phenyl]carbonyl}amino)benzoic acid",PPARD
+"1-[(2,6-difluorophenyl)sulfonyl]-4-(2,3-dihydro-1,4-benzodioxin-6-ylsulfonyl)piperazine",PKM
+methyl (3S)-3-[(tert-butoxycarbonyl)amino]-4-oxopentanoate,CASP3
+"1-(2,3-dihydro-1,4-benzodioxin-6-ylsulfonyl)-4-[(4-methoxyphenyl)sulfonyl]piperazine",PKM
+"(16ALPHA,17ALPHA)-ESTRA-1,3,5(10)-TRIENE-3,16,17-TRIOL",ESR2
+"(9BETA,11ALPHA,13ALPHA,14BETA,17ALPHA)-11-(METHOXYMETHYL)ESTRA-1(10),2,4-TRIENE-3,17-DIOL",ESR1
+"(9BETA,11ALPHA,13ALPHA,14BETA,17ALPHA)-11-(METHOXYMETHYL)ESTRA-1(10),2,4-TRIENE-3,17-DIOL",NCOA2
+3-CHLORO-2-(4-HYDROXYPHENYL)-2H-INDAZOL-5-OL,ESR1
+3-CHLORO-2-(4-HYDROXYPHENYL)-2H-INDAZOL-5-OL,NCOA2
+3-ETHYL-2-(4-HYDROXYPHENYL)-2H-INDAZOL-5-OL,ESR1
+3-ETHYL-2-(4-HYDROXYPHENYL)-2H-INDAZOL-5-OL,NCOA2
+"[(3R)-3-(Methylcarbamoyl)-2-{[(2-methyl-2-propanyl)oxy]carbonyl}-1,2,3,4-tetrahydro-7-isoquinolinyl]sulfamic acid",PTPN1
+3-(5-methoxy-1H-indol-3-yl)propanoic acid,PPARG
+Indeglitazar,NCOA1
+Indeglitazar,PPARA
+Indeglitazar,PPARD
+Indeglitazar,PPARG
+"2-[2-(2-FLUOROPHENYL)PYRIDIN-4-YL]-1,5,6,7-TETRAHYDRO-4H-PYRROLO[3,2-C]PYRIDIN-4-ONE",MAPKAPK2
+"2-[2-(2-FLUOROPHENYL)PYRIDIN-4-YL]-1,5,6,7-TETRAHYDRO-4H-PYRROLO[3,2-C]PYRIDIN-4-ONE",MAPKAPK3
+"5-(3-HYDROXYPHENYL)ISOTHIAZOL-3(2H)-ONE 1,1-DIOXIDE",PTPN1
+"4-[(E)-(3,5-DIAMINO-1H-PYRAZOL-4-YL)DIAZENYL]PHENOL",CDK2
+"(7R,12R,13R)-13-formyl-12,14-dihydroxy-3,5,7-trimethyltetradeca-2,4-dienoic acid",HMGCS1
+"(2R)-1-[4-({4-[(2,5-Dichlorophenyl)amino]-2-pyrimidinyl}amino)phenoxy]-3-(dimethylamino)-2-propanol",CDK2
+"(2S)-1-[4-({6-[(2,6-Difluorophenyl)amino]-4-pyrimidinyl}amino)phenoxy]-3-(dimethylamino)-2-propanol",CDK2
+"(2S)-1-[4-({4-[(2,5-Dichlorophenyl)amino]-2-pyrimidinyl}amino)phenoxy]-3-(dimethylamino)-2-propanol",CDK2
+"(9aS)-4-bromo-9a-butyl-7-hydroxy-1,2,9,9a-tetrahydro-3H-fluoren-3-one",ESR2
+"(2R)-1-[4-({6-[(2,6-Difluorophenyl)amino]-4-pyrimidinyl}amino)phenoxy]-3-(dimethylamino)-2-propanol",CDK2
+"(2Z,3E)-2,3'-BIINDOLE-2',3(1H,1'H)-DIONE 3-{O-[(3R)-3,4-DIHYDROXYBUTYL]OXIME}",CAMK2A
+"[(3,7,11-TRIMETHYL-DODECA-2,6,10-TRIENYLOXYCARBAMOYL)-METHYL]-PHOSPHONIC ACID",KRAS
+FARNESYL DIPHOSPHATE,KRAS
+"(3R,5Z,8S,9S,11E)-8,9,16-TRIHYDROXY-14-METHOXY-3-METHYL-3,4,9,10-TETRAHYDRO-1H-2-BENZOXACYCLOTETRADECINE-1,7(8H)-DIONE",MAPK1
+"1-[5-methyl-2-(trifluoromethyl)furan-3-yl]-3-[(2Z)-5-(2-{[6-(1H-1,2,4-triazol-3-ylamino)pyrimidin-4-yl]amino}ethyl)-1,3-thiazol-2(3H)-ylidene]urea",PLK1
+N-(2-METHOXYETHYL)-4-({4-[2-METHYL-1-(1-METHYLETHYL)-1H-IMIDAZOL-5-YL]PYRIMIDIN-2-YL}AMINO)BENZENESULFONAMIDE,CDK2
+4-{[4-(1-CYCLOPROPYL-2-METHYL-1H-IMIDAZOL-5-YL)PYRIMIDIN-2-YL]AMINO}-N-METHYLBENZENESULFONAMIDE,CDK2
+"(S)-2-CHLORO-N-(1-(2-(2-HYDROXYETHYLAMINO)-2-OXOETHYL)-2-OXO-1,2,3,4-TETRAHYDROQUINOLIN-3-YL)-6H-THIENO[2,3-B]PYRROLE-5-CARBOXAMIDE",PYGM
+"(2S)-N-[(3S)-1-(2-AMINO-2-OXOETHYL)-2-OXO-1,2,3,4-TETRAHYDROQUINOLIN-3-YL]-2-CHLORO-2H-THIENO[2,3-B]PYRROLE-5-CARBOXAMIDE",PYGM
+"5-(2-PHENYLPYRAZOLO[1,5-A]PYRIDIN-3-YL)-1H-PYRAZOLO[3,4-C]PYRIDAZIN-3-AMINE",MAPK1
+"3,7,3',4'-TETRAHYDROXYFLAVONE",CDK6
+"(3R,4R,5R)-5-(HYDROXYMETHYL)-1-(3-PHENYLPROPYL)PIPERIDINE-3,4-DIOL",PYGM
+"N-cyclopropyl-2',6-dimethyl-4'-(5-methyl-1,3,4-oxadiazol-2-yl)biphenyl-3-carboxamide",MAPK14
+"N-[(1S)-2-amino-1-phenylethyl]-5-(1H-pyrrolo[2,3-b]pyridin-4-yl)thiophene-2-carboxamide",AKT2
+"N-[(1S)-2-amino-1-phenylethyl]-5-(1H-pyrrolo[2,3-b]pyridin-4-yl)thiophene-2-carboxamide",GSK3B
+4-[3-(4-FLUOROPHENYL)-1H-PYRAZOL-4-YL]PYRIDINE,MAPK14
+"2-{[(6-OXO-1,6-DIHYDROPYRIDIN-3-YL)METHYL]AMINO}-N-[4-PROPYL-3-(TRIFLUOROMETHYL)PHENYL]BENZAMIDE",ABL1
+"4-{4-[(5-hydroxy-2-methylphenyl)amino]quinolin-7-yl}-1,3-thiazole-2-carbaldehyde",MAPK14
+"N-(3-cyanophenyl)-2'-methyl-5'-(5-methyl-1,3,4-oxadiazol-2-yl)-4-biphenylcarboxamide",MAPK14
+"N-(cyclopropylmethyl)-2'-methyl-5'-(5-methyl-1,3,4-oxadiazol-2-yl)biphenyl-4-carboxamide",MAPK14
+"N~3~-cyclopropyl-N~4~'-(cyclopropylmethyl)-6-methylbiphenyl-3,4'-dicarboxamide",MAPK14
+"[4-(5-naphthalen-2-yl-1H-pyrrolo[2,3-b]pyridin-3-yl)phenyl]acetic acid",SGK1
+"(E)-[4-(3,5-difluorophenyl)-3H-pyrrolo[2,3-b]pyridin-3-ylidene](3-methoxyphenyl)methanol",FGFR1
+(2S)-2-(4-ethylphenoxy)-3-phenylpropanoic acid,PPARG
+"2-fluoro-6-{[2-({2-methoxy-4-[(methylsulfonyl)methyl]phenyl}amino)-7H-pyrrolo[2,3-d]pyrimidin-4-yl]amino}benzamide",MAPK8
+"1-(3,5-DICHLOROPHENYL)-5-METHYL-1H-1,2,4-TRIAZOLE-3-CARBOXYLIC ACID",CDK2
+"[4-({4-[(5-CYCLOPROPYL-1H-PYRAZOL-3-YL)AMINO]QUINAZOLIN-2-YL}IMINO)CYCLOHEXA-2,5-DIEN-1-YL]ACETONITRILE",CAMK2D
+N-METHYL-1-[4-(9H-PURIN-6-YL)PHENYL]METHANAMINE,PRKACA
+(S)-1-PHENYL-1-[4-(9H-PURIN-6-YL)PHENYL]METHANAMINE,PRKACA
+6-{4-[4-(4-CHLOROPHENYL)PIPERIDIN-4-YL]PHENYL}-9H-PURINE,PRKACA
+(2R)-2-(4-chlorophenyl)-2-[4-(1H-pyrazol-4-yl)phenyl]ethanamine,PRKACA
+(2S)-2-(4-chlorophenyl)-2-[4-(1H-pyrazol-4-yl)phenyl]ethanamine,PRKACA
+4-(4-CHLOROPHENYL)-4-[4-(1H-PYRAZOL-4-YL)PHENYL]PIPERIDINE,PRKACA
+4-(4-CHLOROPHENYL)-4-[4-(1H-PYRAZOL-4-YL)PHENYL]PIPERIDINE,AKT2
+4-(4-CHLOROPHENYL)-4-[4-(1H-PYRAZOL-4-YL)PHENYL]PIPERIDINE,GSK3B
+(2R)-2-(4-CHLOROPHENYL)-2-PHENYLETHANAMINE,PRKACA
+2-chloro-5-nitro-N-phenylbenzamide,NCOA2
+2-chloro-5-nitro-N-phenylbenzamide,PPARG
+2-chloro-5-nitro-N-phenylbenzamide,RXRA
+(S)-2-METHYL-1-[(4-METHYL-5-ISOQUINOLINE)SULFONYL]-HOMOPIPERAZINE,PRKACA
+(S)-2-METHYL-1-[(4-METHYL-5-ISOQUINOLINE)SULFONYL]-HOMOPIPERAZINE,ROCK1
+"8-(6-BROMO-BENZO[1,3]DIOXOL-5-YLSULFANYL)-9-(3-ISOPROPYLAMINO-PROPYL)-ADENINE",HSP90AB1
+"8-(6-BROMO-BENZO[1,3]DIOXOL-5-YLSULFANYL)-9-(3-ISOPROPYLAMINO-PROPYL)-ADENINE",HSP90AA1
+"N-hydroxy-5-[(3-phenyl-5,6-dihydroimidazo[1,2-a]pyrazin-7(8H)-yl)carbonyl]thiophene-2-carboxamide",HDAC4
+"(2S)-1-(Dimethylamino)-3-(4-{[4-(2-methylimidazo[1,2-a]pyridin-3-yl)-2-pyrimidinyl]amino}phenoxy)-2-propanol",CDK2
+"(1aR,8S,13S,14S,15aR)-5,13,14-trihydroxy-3-methoxy-8-methyl-8,9,13,14,15,15a-hexahydro-6H-oxireno[k][2]benzoxacyclotetradecine-6,12(1aH)-dione",MAPK1
+7-HYDROXY-4-METHYL-3-(2-HYDROXY-ETHYL)COUMARIN,PFN1
+"N-(TERT-BUTYL)-3,5-DIMETHYL-N'-[(5-METHYL-2,3-DIHYDRO-1,4-BENZODIOXIN-6-YL)CARBONYL]BENZOHYDRAZIDE",NR1H3
+"N-(TERT-BUTYL)-3,5-DIMETHYL-N'-[(5-METHYL-2,3-DIHYDRO-1,4-BENZODIOXIN-6-YL)CARBONYL]BENZOHYDRAZIDE",RXRB
+(3R)-3-HYDROXYDODECANOIC ACID,ACOX1
+Hexestrol,ESR1
+"dimethyl (1R,4S)-5,6-bis(4-hydroxyphenyl)-7-oxabicyclo[2.2.1]hepta-2,5-diene-2,3-dicarboxylate",ESR1
+"dimethyl (1R,4S)-5,6-bis(4-hydroxyphenyl)-7-oxabicyclo[2.2.1]hepta-2,5-diene-2,3-dicarboxylate",NCOA2
+Erteberel,ESR2
+Erteberel,ESR1
+N-(4-{[(3S)-3-(dimethylamino)pyrrolidin-1-yl]carbonyl}phenyl)-5-fluoro-4-[2-methyl-1-(1-methylethyl)-1H-imidazol-5-yl]pyrimidin-2-amine,CDK2
+PH-797804,MAPK14
+2-fluoro-4-[4-(4-fluorophenyl)-1H-pyrazol-3-yl]pyridine,MAPK14
+2-{4-[5-(4-chlorophenyl)-4-pyrimidin-4-yl-1H-pyrazol-3-yl]piperidin-1-yl}-2-oxoethanol,MAPK14
+ISOQUINOLINE-5-SULFONIC ACID (2-(2-(4-CHLOROBENZYLOXY)ETHYLAMINO)ETHYL)AMIDE,PRKACA
+ISOQUINOLINE-5-SULFONIC ACID (2-(2-(4-CHLOROBENZYLOXY)ETHYLAMINO)ETHYL)AMIDE,AKT2
+ISOQUINOLINE-5-SULFONIC ACID (2-(2-(4-CHLOROBENZYLOXY)ETHYLAMINO)ETHYL)AMIDE,GSK3B
+"({[(3E)-2'-OXO-2',7'-DIHYDRO-2,3'-BIINDOL-3(7H)-YLIDENE]AMINO}OXY)ACETIC ACID",PYGM
+1H-INDOL-3-YLACETIC ACID,PLA2G2E
+1H-INDOL-3-YLACETIC ACID,SKP1
+3-isobutyl-1-methyl-7H-xanthine,PDE3B
+3-isobutyl-1-methyl-7H-xanthine,PDE4D
+(2-CARBAMOYLMETHYL-5-PROPYL-OCTAHYDRO-INDOL-7-YL)ACETIC ACID,PLA2G2E
+3-(1H-BENZIMIDAZOL-2-YL)-1H-INDAZOLE,CHEK1
+"(3S)-4-{[4-(BUT-2-YNYLOXY)PHENYL]SULFONYL}-N-HYDROXY-2,2-DIMETHYLTHIOMORPHOLINE-3-CARBOXAMIDE",ADAM17
+[4-({4-[(5-cyclopropyl-1H-pyrazol-3-yl)amino]quinazolin-2-yl}amino)phenyl]acetonitrile,SRC
+N-(2-CHLORO-4-FLUOROBENZOYL)-N'-(5-HYDROXY-2-METHOXYPHENYL)UREA,PYGL
+3-[3-(4-methylpiperazin-1-yl)-7-(trifluoromethyl)quinoxalin-5-yl]phenol,MET
+2-{4-[4-({4-[2-methyl-1-(1-methylethyl)-1H-imidazol-5-yl]pyrimidin-2-yl}amino)phenyl]piperazin-1-yl}-2-oxoethanol,CDK2
+N-[(1R)-3-(4-HYDROXYPHENYL)-1-METHYLPROPYL]-2-(2-PHENYL-1H-INDOL-3-YL)ACETAMIDE,ESR1
+N-[2-(4-BROMOCINNAMYLAMINO)ETHYL]-5-ISOQUINOLINE SULFONAMIDE,PRKACA
+5-(2-methylpiperazine-1-sulfonyl)isoquinoline,PRKACA
+N-[2-(METHYLAMINO)ETHYL]-5-ISOQUINOLINESULFONAMIDE,PRKACA
+5-(3-{3-[3-HYDROXY-2-(METHOXYCARBONYL)PHENOXY]PROPENYL}PHENYL)-4-(HYDROXYMETHYL)ISOXAZOLE-3-CARBOXYLIC ACID,PTPN1
+ISOTHIAZOLIDINONE ANALOG,PTPN1
+"N-{(3S,4S)-4-[(6-AMINO-4-METHYLPYRIDIN-2-YL)METHYL]PYRROLIDIN-3-YL}-N'-(4-CHLOROBENZYL)ETHANE-1,2-DIAMINE",NOS1
+"N-{(3S,4S)-4-[(6-AMINO-4-METHYLPYRIDIN-2-YL)METHYL]PYRROLIDIN-3-YL}-N'-(4-CHLOROBENZYL)ETHANE-1,2-DIAMINE",NOS3
+"N-{(3R,4S)-4-[(6-amino-4-methylpyridin-2-yl)methyl]pyrrolidin-3-yl}-N'-(3-chlorobenzyl)ethane-1,2-diamine",NOS1
+"N-{(3R,4S)-4-[(6-amino-4-methylpyridin-2-yl)methyl]pyrrolidin-3-yl}-N'-(3-chlorobenzyl)ethane-1,2-diamine",NOS3
+"(3AS,4R,9BR)-4-(4-HYDROXYPHENYL)-6-(METHOXYMETHYL)-1,2,3,3A,4,9B-HEXAHYDROCYCLOPENTA[C]CHROMEN-8-OL",ESR2
+"(3AS,4R,9BR)-4-(4-HYDROXYPHENYL)-6-(METHOXYMETHYL)-1,2,3,3A,4,9B-HEXAHYDROCYCLOPENTA[C]CHROMEN-8-OL",ESR1
+"(2S)-1,3-benzothiazol-2-yl{2-[(2-pyridin-3-ylethyl)amino]pyrimidin-4-yl}ethanenitrile",PIM1
+"(3Z)-N,N-DIMETHYL-2-OXO-3-(4,5,6,7-TETRAHYDRO-1H-INDOL-2-YLMETHYLIDENE)-2,3-DIHYDRO-1H-INDOLE-5-SULFONAMIDE",CALM1
+"(3Z)-N,N-DIMETHYL-2-OXO-3-(4,5,6,7-TETRAHYDRO-1H-INDOL-2-YLMETHYLIDENE)-2,3-DIHYDRO-1H-INDOLE-5-SULFONAMIDE",CALM2
+"(3Z)-N,N-DIMETHYL-2-OXO-3-(4,5,6,7-TETRAHYDRO-1H-INDOL-2-YLMETHYLIDENE)-2,3-DIHYDRO-1H-INDOLE-5-SULFONAMIDE",CALM3
+"(3Z)-N,N-DIMETHYL-2-OXO-3-(4,5,6,7-TETRAHYDRO-1H-INDOL-2-YLMETHYLIDENE)-2,3-DIHYDRO-1H-INDOLE-5-SULFONAMIDE",CAMK2D
+"N~4~-methyl-N~4~-(3-methyl-1H-indazol-6-yl)-N~2~-(3,4,5-trimethoxyphenyl)pyrimidine-2,4-diamine",KDR
+1-[4-(PYRIDIN-4-YLOXY)PHENYL]-3-[3-(TRIFLUOROMETHYL)PHENYL]UREA,ABL1
+"4-{4-[4-(3-AMINOPROPOXY)PHENYL]-1H-PYRAZOL-5-YL}-6-CHLOROBENZENE-1,3-DIOL",HSP90AB1
+"4-[1-allyl-7-(trifluoromethyl)-1H-indazol-3-yl]benzene-1,3-diol",ESR1
+"4-[1-allyl-7-(trifluoromethyl)-1H-indazol-3-yl]benzene-1,3-diol",NCOA2
+"4-(6-HYDROXY-1H-INDAZOL-3-YL)BENZENE-1,3-DIOL",ESR1
+"4-(6-HYDROXY-1H-INDAZOL-3-YL)BENZENE-1,3-DIOL",NCOA2
+"1-cyclopentyl-3-(1H-pyrrolo[2,3-b]pyridin-5-yl)-1H-pyrazolo[3,4-d]pyrimidin-4-amine",SRC
+"1-cyclobutyl-3-(3,4-dimethoxyphenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-amine",SRC
+"1-(1-methylethyl)-3-quinolin-6-yl-1H-pyrazolo[3,4-d]pyrimidin-4-amine",SRC
+"N-(2-chlorophenyl)-5-phenylimidazo[1,5-a]pyrazin-8-amine",LCK
+"N-(2,6-dimethylphenyl)-5-phenylimidazo[1,5-a]pyrazin-8-amine",LCK
+"N-(2-chloro-6-methylphenyl)-8-[(3S)-3-methylpiperazin-1-yl]imidazo[1,5-a]quinoxalin-4-amine",LCK
+Wortmannin,PLK1
+Wortmannin,PIK3R1
+Wortmannin,PIK3CA
+"1-BENZYL-3-(4-METHOXYPHENYLAMINO)-4-PHENYLPYRROLE-2,5-DIONE",RXRA
+"1-BENZYL-3-(4-METHOXYPHENYLAMINO)-4-PHENYLPYRROLE-2,5-DIONE",NR1H3
+N-(3-TERT-BUTYL-1H-PYRAZOL-5-YL)-N'-{4-CHLORO-3-[(PYRIDIN-3-YLOXY)METHYL]PHENYL}UREA,MAPK14
+N-[3-(1H-BENZIMIDAZOL-2-YL)-1H-PYRAZOL-4-YL]BENZAMIDE,CDK2
+4-[(2-{4-[(CYCLOPROPYLCARBAMOYL)AMINO]-1H-PYRAZOL-3-YL}-1H-BENZIMIDAZOL-6-YL)METHYL]MORPHOLIN-4-IUM,JAK2
+N-[4-CHLORO-3-(PYRIDIN-3-YLOXYMETHYL)-PHENYL]-3-FLUORO-,MAPK14
+2-[4-(3-METHYL-1H-PYRAZOL-4-YL)PHENYL]ETHANAMINE,PRKACA
+"4-(2-AMINOETHOXY)-3,5-DICHLORO-N-[3-(1-METHYLETHOXY)PHENYL]BENZAMIDE",PLAU
+(2S)-1-(1H-INDOL-3-YL)-3-{[5-(3-METHYL-1H-INDAZOL-5-YL)PYRIDIN-3-YL]OXY}PROPAN-2-AMINE,AKT2
+(2S)-1-(1H-INDOL-3-YL)-3-{[5-(3-METHYL-1H-INDAZOL-5-YL)PYRIDIN-3-YL]OXY}PROPAN-2-AMINE,GSK3B
+(2S)-1-(1H-INDOL-3-YL)-3-{[5-(3-METHYL-1H-INDAZOL-5-YL)PYRIDIN-3-YL]OXY}PROPAN-2-AMINE,PRKACA
+{4-[3-(4-acetyl-3-hydroxy-2-propylphenoxy)propoxy]phenoxy}acetic acid,PPARD
+1-(4-HEXYLPHENYL)PROP-2-EN-1-ONE,THRB
+3-FLUORO-5-MORPHOLIN-4-YL-N-[3-(2-PYRIDIN-4-YLETHYL)-1H-INDOL-5-YL]BENZAMIDE,MAPK14
+3-fluoro-N-1H-indol-5-yl-5-morpholin-4-ylbenzamide,MAPK14
+3-(1-NAPHTHYLMETHOXY)PYRIDIN-2-AMINE,MAPK14
+"(4-AMINO-2-{[1-(METHYLSULFONYL)PIPERIDIN-4-YL]AMINO}PYRIMIDIN-5-YL)(2,3-DIFLUORO-6-METHOXYPHENYL)METHANONE",CDK2
+"3-(2-CHLOROPHENYL)-1-(2-{[(1S)-2-HYDROXY-1,2-DIMETHYLPROPYL]AMINO}PYRIMIDIN-4-YL)-1-(4-METHOXYPHENYL)UREA",MAPK14
+"8-(2-CHLOROPHENYLAMINO)-2-(2,6-DIFLUOROPHENYLAMINO)-9-ETHYL-9H-PURINE-1,7-DIIUM",MAPK14
+"2-(2,6-DIFLUOROPHENOXY)-N-(2-FLUOROPHENYL)-9-ISOPROPYL-9H-PURIN-8-AMINE",MAPK14
+3-pyridin-4-yl-1H-indazole,PRKACA
+"5-benzyl-1,3-thiazol-2-amine",PRKACA
+"2-(methylamino)-N-(4-methyl-1,3-thiazol-2-yl)-5-[(4-methyl-4H-1,2,4-triazol-3-yl)sulfanyl]benzamide",GCK
+(2S)-2-(biphenyl-4-yloxy)-3-phenylpropanoic acid,PPARG
+"N-METHYL-4-{[(2-OXO-1,2-DIHYDRO-3H-INDOL-3-YLIDENE)METHYL]AMINO}BENZENESULFONAMIDE",CDK2
+"N-METHYL-{4-[2-(7-OXO-6,7-DIHYDRO-8H-[1,3]THIAZOLO[5,4-E]INDOL-8-YLIDENE)HYDRAZINO]PHENYL}METHANESULFONAMIDE",CDK2
+"3-{[(2,2-DIOXIDO-1,3-DIHYDRO-2-BENZOTHIEN-5-YL)AMINO]METHYLENE}-5-(1,3-OXAZOL-5-YL)-1,3-DIHYDRO-2H-INDOL-2-ONE",CDK2
+"4-{[(2-OXO-1,2-DIHYDRO-3H-INDOL-3-YLIDENE)METHYL]AMINO}-N-(1,3-THIAZOL-2-YL)BENZENESULFONAMIDE",CDK2
+"3-{[4-([AMINO(IMINO)METHYL]AMINOSULFONYL)ANILINO]METHYLENE}-2-OXO-2,3-DIHYDRO-1H-INDOLE",CDK2
+"N-(5-{3,4-difluoro-2-[(2-fluoro-4-iodophenyl)amino]phenyl}-1,3,4-oxadiazol-2-yl)ethane-1,2-diamine",MAP2K1
+5-hydroxynaphthalene-1-sulfonamide,CDK2
+N-(4-sulfamoylphenyl)-1H-indazole-3-carboxamide,CDK2
+4-[(6-chloropyrazin-2-yl)amino]benzenesulfonamide,CDK2
+N-phenyl-1H-pyrazole-3-carboxamide,CDK2
+4-(acetylamino)-N-(4-fluorophenyl)-1H-pyrazole-3-carboxamide,CDK2
+(4E)-N-(4-fluorophenyl)-4-[(phenylcarbonyl)imino]-4H-pyrazole-3-carboxamide,CDK2
+"{[(2,6-difluorophenyl)carbonyl]amino}-N-(4-fluorophenyl)-1H-pyrazole-3-carboxamide",CDK2
+"5-chloro-7-[(1-methylethyl)amino]pyrazolo[1,5-a]pyrimidine-3-carbonitrile",CDK2
+"5-[(4-AMINOCYCLOHEXYL)AMINO]-7-(PROPAN-2-YLAMINO)PYRAZOLO[1,5-A]PYRIMIDINE-3-CARBONITRILE",CDK2
+"4-{[(2,6-difluorophenyl)carbonyl]amino}-N-[(3S)-piperidin-3-yl]-1H-pyrazole-3-carboxamide",CDK2
+"4-{[(2,6-dichlorophenyl)carbonyl]amino}-N-piperidin-4-yl-1H-pyrazole-3-carboxamide",CDK2
+"4-[3-(dibenzylamino)phenyl]-2,4-dioxobutanoic acid",PTPN1
+"1-[4-(4-chlorophenyl)-1-(7H-pyrrolo[2,3-d]pyrimidin-4-yl)piperidin-4-yl]methanamine",PRKACA
+"1-[4-(4-chlorobenzyl)-1-(7H-pyrrolo[2,3-d]pyrimidin-4-yl)piperidin-4-yl]methanamine",PRKACA
+"4-(4-chlorobenzyl)-1-(7H-pyrrolo[2,3-d]pyrimidin-4-yl)piperidin-4-aminium",PRKACA
+"(5R,7R,8S,9S,10R)-7-(hydroxymethyl)-3-phenyl-1,6-dioxa-2-azaspiro[4.5]dec-2-ene-8,9,10-triol",PYGM
+"(5E)-14-CHLORO-15,17-DIHYDROXY-4,7,8,9,10,11-HEXAHYDRO-2-BENZOXACYCLOPENTADECINE-1,12(3H,13H)-DIONE",HSP90AB1
+Fasudil,PRKACA
+Fasudil,ROCK1
+Fasudil,ROCK2
+"(4R)-7-chloro-9-methyl-1-oxo-1,2,4,9-tetrahydrospiro[beta-carboline-3,4'-piperidine]-4-carbonitrile",PIM1
+7-AMINO-4-METHYL-CHROMEN-2-ONE,PPIF
+"(2E,4E)-11-METHOXY-3,7,11-TRIMETHYLDODECA-2,4-DIENOIC ACID",NCOA2
+"(2E,4E)-11-METHOXY-3,7,11-TRIMETHYLDODECA-2,4-DIENOIC ACID",RXRB
+"(2E,4E)-11-METHOXY-3,7,11-TRIMETHYLDODECA-2,4-DIENOIC ACID",NR1H3
+"4-(4-methoxy-1H-pyrrolo[2,3-b]pyridin-3-yl)pyrimidin-2-amine",CDK2
+"4-(4-propoxy-1H-pyrrolo[2,3-b]pyridin-3-yl)pyrimidin-2-amine",CDK2
+"4-(5-phenyl-1H-pyrrolo[2,3-b]pyridin-3-yl)benzoic acid",SGK1
+2-(4-CARCOXY-5-ISOPROPYLTHIAZOLYL)BENZOPIPERIDINE,SRC
+"4-methyl-7,8-dihydro-5H-thiopyrano[4,3-d]pyrimidin-2-amine",HSP90AA1
+"(5E,7S)-2-amino-7-(4-fluoro-2-pyridin-3-ylphenyl)-4-methyl-7,8-dihydroquinazolin-5(6H)-one oxime",HSP90AA1
+"2-[(4-ETHYNYL-2-FLUOROPHENYL)AMINO]-3,4-DIFLUORO-N-(2-HYDROXYETHOXY)BENZAMIDE",MAP2K1
+"2-AMINO-4-FLUORO-5-[(1-METHYL-1H-IMIDAZOL-2-YL)SULFANYL]-N-(1,3-THIAZOL-2-YL)BENZAMIDE",GCK
+"1-METHYL-5-(2-PHENOXYMETHYL-PYRROLIDINE-1-SULFONYL)-1H-INDOLE-2,3-DIONE",CASP3
+"S-[(1-Hydroxy-2,2,5,5-tetramethyl-2,5-dihydro-1H-pyrrol-3-yl)methyl] methanesulfonothioate",EIF4E
+"HYDROXY(OXO)(3-{[(2Z)-4-[3-(1H-1,2,4-TRIAZOL-1-YLMETHYL)PHENYL]PYRIMIDIN-2(5H)-YLIDENE]AMINO}PHENYL)AMMONIUM",CDK2
+"4-METHYL-5-{(2E)-2-[(4-MORPHOLIN-4-YLPHENYL)IMINO]-2,5-DIHYDROPYRIMIDIN-4-YL}-1,3-THIAZOL-2-AMINE",CDK2
+"(8alpha,10alpha,13alpha,17beta)-17-[(4-hydroxyphenyl)carbonyl]androsta-3,5-diene-3-carboxylic acid",NCOA1
+N-{4-METHYL-3-[(3-PYRIMIDIN-4-YLPYRIDIN-2-YL)AMINO]PHENYL}-3-(TRIFLUOROMETHYL)BENZAMIDE,TEK
+[N-(3-DIBENZYLCARBAMOYL-OXIRANECARBONYL)-HYDRAZINO]-ACETIC ACID,CASP3
+"5,7-DIHYDROXY-2-(3,4,5-TRIHYDROXYPHENYL)-4H-CHROMEN-4-ONE",PIM1
+Myristic acid,PRKACA
+Myristic acid,CALM1
+Myristic acid,CALM2
+Myristic acid,CALM3
+Myristic acid,ABL1
+Myristic acid,HNF4A
+Myristic acid,NCOA1
+Myristic acid,PPP3R1
+Myristic acid,PPP3CA
+Myristic acid,INS
+Myristic acid,ARF6
+Myristic acid,ARF1
+Myristic acid,PPARA
+"[5-(5-Amino-1H-pyrrolo[3,2-b]pyridin-2-yl)-6-hydroxy-3'-nitro-3-biphenylyl]acetic acid",F3
+6-CYCLOHEXYLMETHYLOXY-2-(4'-HYDROXYANILINO)PURINE,CDK2
+5-AMINO-NAPHTALENE-2-MONOSULFONATE,FGF1
+N-(4-CHLOROPHENYL)-3-(PHOSPHONOOXY)NAPHTHALENE-2-CARBOXAMIDE,ALDOA
+4-(6-CYCLOHEXYLMETHOXY-9H-PURIN-2-YLAMINO)--BENZAMIDE,CDK2
+"N,4-dimethyl-3-[(1-phenyl-1H-pyrazolo[3,4-d]pyrimidin-4-yl)amino]benzamide",MAPK14
+6-(CYCLOHEXYLMETHOXY)-8-ISOPROPYL-9H-PURIN-2-AMINE,CDK2
+3-(6-CYCLOHEXYLMETHOXY-9H-PURIN-2-YLAMINO)-BENZENESULFONAMIDE,CDK2
+4-[5-(2-CARBOXY-1-FORMYL-ETHYLCARBAMOYL)-PYRIDIN-3-YL]-BENZOIC ACID,CASP3
+"(2R)-2-{[4-(benzylamino)-8-(1-methylethyl)pyrazolo[1,5-a][1,3,5]triazin-2-yl]amino}butan-1-ol",CDK2
+"(5Z)-12-CHLORO-13,15-DIHYDROXY-4,7,8,9-TETRAHYDRO-2-BENZOXACYCLOTRIDECINE-1,10(3H,11H)-DIONE",HSP90AB1
+"(5E)-12-CHLORO-13,15-DIHYDROXY-4,7,8,9-TETRAHYDRO-2-BENZOXACYCLOTRIDECINE-1,10(3H,11H)-DIONE",HSP90AB1
+"4-[8-(3-nitrophenyl)-1,7-naphthyridin-6-yl]benzoic acid",PDE4A
+"4-[8-(3-nitrophenyl)-1,7-naphthyridin-6-yl]benzoic acid",PDE4B
+"4-[8-(3-nitrophenyl)-1,7-naphthyridin-6-yl]benzoic acid",PDE4D
+3-[5-(2-nitropent-1-en-1-yl)furan-2-yl]benzoic acid,PPARG
+"(3S)-3-cyclopentyl-6-methyl-7-[(4-methylpiperazin-1-yl)sulfonyl]-3,4-dihydro-2H-1,2,4-benzothiadiazine 1,1-dioxide",GRIA2
+"(3R)-3-cyclopentyl-7-[(4-methylpiperazin-1-yl)sulfonyl]-3,4-dihydro-2H-1,2-benzothiazine 1,1-dioxide",GRIA2
+"(3R)-3-cyclopentyl-6-methyl-7-[(4-methylpiperazin-1-yl)sulfonyl]-3,4-dihydro-2H-1,2-benzothiazine 1,1-dioxide",GRIA2
+3-({2-[(4-{[6-(CYCLOHEXYLMETHOXY)-9H-PURIN-2-YL]AMINO}PHENYL)SULFONYL]ETHYL}AMINO)PROPAN-1-OL,CDK2
+"6-CYCLOHEXYLMETHYLOXY-5-NITROSO-PYRIMIDINE-2,4-DIAMINE",CDK2
+"DIETHYL (1R,2S,3R,4S)-5,6-BIS(4-HYDROXYPHENYL)-7-OXABICYCLO[2.2.1]HEPT-5-ENE-2,3-DICARBOXYLATE",ESR1
+"DIETHYL (1R,2S,3R,4S)-5,6-BIS(4-HYDROXYPHENYL)-7-OXABICYCLO[2.2.1]HEPT-5-ENE-2,3-DICARBOXYLATE",NCOA2
+"2-DEOXY-3,4-BIS-O-[3-(4-HYDROXYPHENYL)PROPANOYL]-L-THREO-PENTARIC ACID",PYGM
+2-(2-HYDROXYETHYLAMINO)-6-(3-CHLOROANILINO)-9-ISOPROPYLPURINE,CSNK1G1
+"6-(2,6-DICHLOROPHENYL)-2-{[3-(HYDROXYMETHYL)PHENYL]AMINO}-8-METHYLPYRIDO[2,3-D]PYRIMIDIN-7(8H)-ONE",ABL1
+"4-{[4-{[(1R,2R)-2-(dimethylamino)cyclopentyl]amino}-5-(trifluoromethyl)pyrimidin-2-yl]amino}-N-methylbenzenesulfonamide",PTK2B
+"(5Z)-13-CHLORO-14,16-DIHYDROXY-3,4,7,8,9,10-HEXAHYDRO-1H-2-BENZOXACYCLOTETRADECINE-1,11(12H)-DIONE",HSP90AB1
+4-{[(2S)-3-(tert-butylamino)-2-hydroxypropyl]oxy}-3H-indole-2-carbonitrile,ADRB1
+"N~2~,N~2~-DIMETHYL-N~1~-(6-OXO-5,6-DIHYDROPHENANTHRIDIN-2-YL)GLYCINAMIDE",EEF2
+"N-cyclopropyl-3-{[1-(2,4-difluorophenyl)-7-methyl-6-oxo-6,7-dihydro-1H-pyrazolo[3,4-b]pyridin-4-yl]amino}-4-methylbenzamide",MAPK14
+"5-[3-(2-METHOXYPHENYL)-1H-PYRROLO[2,3-B]PYRIDIN-5-YL]-N,N-DIMETHYLPYRIDINE-3-CARBOXAMIDE",ABL1
+N-cyclopropyl-4-methyl-3-{2-[(2-morpholin-4-ylethyl)amino]quinazolin-6-yl}benzamide,MAPK14
+"6-[4-(2-fluorophenyl)-1,3-oxazol-5-yl]-N-(1-methylethyl)-1,3-benzothiazol-2-amine",MAPK14
+"1-methyl-8-(phenylamino)-4,5-dihydro-1H-pyrazolo[4,3-h]quinazoline-3-carboxylic acid",CDK2
+"2-(2-QUINOLIN-3-YLPYRIDIN-4-YL)-1,5,6,7-TETRAHYDRO-4H-PYRROLO[3,2-C]PYRIDIN-4-ONE",MAPKAPK2
+"2-(2-QUINOLIN-3-YLPYRIDIN-4-YL)-1,5,6,7-TETRAHYDRO-4H-PYRROLO[3,2-C]PYRIDIN-4-ONE",MAPKAPK3
+"2-{[(1R,2S)-2-aminocyclohexyl]amino}-4-[(3-methylphenyl)amino]pyrimidine-5-carboxamide",SYK
+1-(9-ethyl-9H-carbazol-3-yl)-N-methylmethanamine,TP53
+PARA-(BENZOYL)-PHENYLALANINE,PTPN1
+"4-[4-(2,5-DIOXO-PYRROLIDIN-1-YL)-PHENYLAMINO]-4-HYDROXY-BUTYRIC ACID",MYL6B
+"4,5-bis(4-methoxyphenyl)-2-thiophen-2-yl-1H-imidazole",PDE10A
+2-({4-[4-(pyridin-4-ylmethyl)-1H-pyrazol-3-yl]phenoxy}methyl)quinoline,PDE10A
+2-{[4-(4-pyridin-4-yl-1H-pyrazol-3-yl)phenoxy]methyl}quinoline,PDE10A
+2-{[4-(1-methyl-4-pyridin-4-yl-1H-pyrazol-3-yl)phenoxy]methyl}quinoline,PDE10A
+"6,7-DIMETHOXY-4-[(3R)-3-(2-NAPHTHYLOXY)PYRROLIDIN-1-YL]QUINAZOLINE",PDE10A
+"6,7-DIMETHOXY-4-[(3R)-3-(QUINOXALIN-2-YLOXY)PYRROLIDIN-1-YL]QUINAZOLINE",PDE10A
+"2-[5,6-BIS-(4-METHOXY-PHENYL)-FURO[2,3-D]PYRIMIDIN-4-YLAMINO]-ETHANOL",CHEK1
+"2-[(5,6-DIPHENYLFURO[2,3-D]PYRIMIDIN-4-YL)AMINO]ETHANOL",CHEK1
+2-(ETHOXYMETHYL)-4-(4-FLUOROPHENYL)-3-[2-(2-HYDROXYPHENOXY)PYRIMIDIN-4-YL]ISOXAZOL-5(2H)-ONE,MAPK14
+6-(DIFLUORO-PHOSPHONO-METHYL)-NAPHTHALENE-2-CARBOXYLIC ACID,PTPN1
+"2-Amino-1-methyl-6-phenylimidazo(4,5-b)pyridine",ESR1
+"2-Amino-1-methyl-6-phenylimidazo(4,5-b)pyridine",NCOA2
+"2-[(2,4-DICHLOROBENZOYL)AMINO]-5-(PYRIMIDIN-2-YLOXY)BENZOIC ACID",PPARG
+"2-[(2,4-DICHLOROBENZOYL)AMINO]-5-(PYRIMIDIN-2-YLOXY)BENZOIC ACID",NCOA2
+"2-[(2,4-DICHLOROBENZOYL)AMINO]-5-(PYRIMIDIN-2-YLOXY)BENZOIC ACID",RXRA
+[5-AMINO-1-(4-FLUOROPHENYL)-1H-PYRAZOL-4-YL][3-(PIPERIDIN-4-YLOXY)PHENYL]METHANONE,MAPK14
+"[5-AMINO-1-(4-FLUOROPHENYL)-1H-PYRAZOL-4-YL](3-{[(2R)-2,3-DIHYDROXYPROPYL]OXY}PHENYL)METHANONE",MAPK14
+"(5E,14E)-11-oxoprosta-5,9,12,14-tetraen-1-oic acid",PPARG
+"8-BENZO[1,3]DIOXOL-,5-YLMETHYL-9-BUTYL-9H-",HSP90AA1
+Parecoxib,PTGS2
+"6-BROMO-13-THIA-2,4,8,12,19-PENTAAZATRICYCLO[12.3.1.1~3,7~]NONADECA-1(18),3(19),4,6,14,16-HEXAENE 13,13-DIOXIDE",CDK2
+"4-{[(2R)-2-(2-methylphenyl)pyrrolidin-1-yl]carbonyl}benzene-1,3-diol",HSP90AA1
+"2-(1H-pyrrol-1-ylcarbonyl)benzene-1,3,5-triol",HSP90AA1
+3-{3-[(DIMETHYLAMINO)METHYL]-1H-INDOL-7-YL}PROPAN-1-OL,PLA2G2E
+N-1H-indazol-5-yl-2-(6-methylpyridin-2-yl)quinazolin-4-amine,TGFBR1
+N-(5-METHYL-1H-PYRAZOL-3-YL)-2-PHENYLQUINAZOLIN-4-AMINE,CAMK1D
+N-(4-PHENYLAMINO-QUINAZOLIN-6-YL)-ACRYLAMIDE,SRC
+(2R)-2-({9-(1-methylethyl)-6-[(4-pyridin-2-ylbenzyl)amino]-9H-purin-2-yl}amino)butan-1-ol,CDK2
+"METHYL 3-CHLORO-2-{3-[(2,5-DIHYDROXY-4-METHOXYPHENYL)AMINO]-3-OXOPROPYL}-4,6-DIHYDROXYBENZOATE",HSP90AB1
+"METHYL 3-CHLORO-2-{3-[(2,5-DIHYDROXY-4-METHOXYPHENYL)AMINO]-3-OXOPROPYL}-4,6-DIHYDROXYBENZOATE",HSP90B1
+"2-(3-AMINO-2,5,6-TRIMETHOXYPHENYL)ETHYL 5-CHLORO-2,4-DIHYDROXYBENZOATE",HSP90AB1
+"2-(3-AMINO-2,5,6-TRIMETHOXYPHENYL)ETHYL 5-CHLORO-2,4-DIHYDROXYBENZOATE",HSP90B1
+4-AMINO-N-[(2-SULFANYLETHYL)CARBAMOYL]BENZENESULFONAMIDE,FBP1
+"(1S)-2-oxo-1-phenyl-2-[(1,3,4-trioxo-1,2,3,4-tetrahydroisoquinolin-5-yl)amino]ethyl acetate",CASP3
+"(1S)-1-(3-chlorophenyl)-2-oxo-2-[(1,3,4-trioxo-1,2,3,4-tetrahydroisoquinolin-5-yl)amino]ethyl acetate",CASP3
+"N-[3-(2-fluoroethoxy)phenyl]-N'-(1,3,4-trioxo-1,2,3,4-tetrahydroisoquinolin-6-yl)butanediamide",CASP3
+"(3S,5R,7R,8S,9S,10R)-7-(hydroxymethyl)-3-(2-naphthyl)-1,6-dioxa-2-azaspiro[4.5]decane-8,9,10-triol",PYGM
+"(3S,5R,7R,8S,9S,10R)-7-(hydroxymethyl)-3-(4-methylphenyl)-1,6-dioxa-2-azaspiro[4.5]decane-8,9,10-triol",PYGM
+[4-({5-(AMINOCARBONYL)-4-[(3-METHYLPHENYL)AMINO]PYRIMIDIN-2-YL}AMINO)PHENYL]ACETIC ACID,MAPK1
+[4-({5-(AMINOCARBONYL)-4-[(3-METHYLPHENYL)AMINO]PYRIMIDIN-2-YL}AMINO)PHENYL]ACETIC ACID,INSR
+[4-({5-(AMINOCARBONYL)-4-[(3-METHYLPHENYL)AMINO]PYRIMIDIN-2-YL}AMINO)PHENYL]ACETIC ACID,IRS1
+"N~4~-(3-methyl-1H-indazol-6-yl)-N~2~-(3,4,5-trimethoxyphenyl)pyrimidine-2,4-diamine",KDR
+4-[5-(4-FLUORO-PHENYL)-2-(4-METHANESULFINYL-PHENYL)-3H-IMIDAZOL-4-YL]-PYRIDINE,MAPK14
+4-[5-(4-FLUORO-PHENYL)-2-(4-METHANESULFINYL-PHENYL)-3H-IMIDAZOL-4-YL]-PYRIDINE,MAPK1
+4-(4-FLUOROPHENYL)-1-CYCLOROPROPYLMETHYL-5-(4-PYRIDYL)-IMIDAZOLE,MAPK14
+"1-[4-(AMINOSULFONYL)PHENYL]-1,6-DIHYDROPYRAZOLO[3,4-E]INDAZOLE-3-CARBOXAMIDE",CDK2
+"5-(2,3-dichlorophenyl)-N-(pyridin-4-ylmethyl)pyrazolo[1,5-a]pyrimidin-7-amine",CDK2
+"6-(2-fluorophenyl)-N-(pyridin-3-ylmethyl)imidazo[1,2-a]pyrazin-8-amine",CDK2
+"3-methyl-N-(pyridin-4-ylmethyl)imidazo[1,2-a]pyrazin-8-amine",CDK2
+"5-(2-fluorophenyl)-N-(pyridin-4-ylmethyl)pyrazolo[1,5-a]pyrimidin-7-amine",CDK2
+"3-bromo-5-phenyl-N-(pyridin-3-ylmethyl)pyrazolo[1,5-a]pyrimidin-7-amine",CDK2
+"3-bromo-5-phenyl-N-(pyrimidin-5-ylmethyl)pyrazolo[1,5-a]pyridin-7-amine",CDK2
+"3-bromo-6-phenyl-N-(pyrimidin-5-ylmethyl)imidazo[1,2-a]pyridin-8-amine",CDK2
+"N-((2-aminopyrimidin-5-yl)methyl)-5-(2,6-difluorophenyl)-3-ethylpyrazolo[1,5-a]pyrimidin-7-amine",CDK2
+"3-cyclopropyl-5-phenyl-N-(pyridin-3-ylmethyl)pyrazolo[1,5-a]pyrimidin-7-amine",CDK2
+"(3R)-METHYLCARBAMOYL-7-SULFOAMINO-3,4-DIHYDRO-1H-ISOQUINOLINE-2-CARBOXYLIC ACID BENZYL ESTER",PTPN1
+"(1E)-5-(1-piperidin-4-yl-3-pyridin-4-yl-1H-pyrazol-4-yl)-2,3-dihydro-1H-inden-1-one oxime",BRAF
+"2-[(2-methoxyethyl)amino]-4-(4-oxo-1,2,3,4-tetrahydro-9H-carbazol-9-yl)benzamide",HSP90AA1
+"2-HYDROXYMETHYL-6-OCTYLSULFANYL-TETRAHYDRO-PYRAN-3,4,5-TRIOL",ADRB1
+3-FLUORO-N-[1-(4-FLUOROPHENYL)-3-(2-THIENYL)-1H-PYRAZOL-5-YL]BENZENESULFONAMIDE,PPARG
+(2E)-N-{4-[(3-bromophenyl)amino]quinazolin-6-yl}-4-(dimethylamino)but-2-enamide,SRC
+(2S)-1-{[5-(3-METHYL-1H-INDAZOL-5-YL)PYRIDIN-3-YL]OXY}-3-PHENYLPROPAN-2-AMINE,PRKACA
+"3-PYRIDIN-4-YL-2,4-DIHYDRO-INDENO[1,2-.C.] PYRAZOLE",PRKACA
+4-{[4-AMINO-6-(CYCLOHEXYLMETHOXY)-5-NITROSOPYRIMIDIN-2-YL]AMINO}BENZAMIDE,CDK2
+3-[(3-(2-CARBOXYETHYL)-4-METHYLPYRROL-2-YL)METHYLENE]-2-INDOLINONE,FGFR1
+"2-amino-5-[3-(1-ethyl-1H-pyrazol-5-yl)-1H-pyrrolo[2,3-b]pyridin-5-yl]-N,N-dimethylbenzamide",ABL1
+"6-{[6-(1-methyl-1H-pyrazol-4-yl)[1,2,4]triazolo[4,3-b]pyridazin-3-yl]sulfanyl}quinoline",MET
+1-(3-HYDROXYPROPYL)-2-[(3-NITROBENZOYL)AMINO]-1H-BENZIMIDAZOL-5-YL PIVALATE,IRAK4
+"5-(4-METHOXYBIPHENYL-3-YL)-1,2,5-THIADIAZOLIDIN-3-ONE 1,1-DIOXIDE",PTPN1
+"1,2,5-THIADIAZOLIDIN-3-ONE-1,1-DIOXIDE",PTPN1
+"4-[(1S,2R,5S)-4,4,8-TRIMETHYL-3-OXABICYCLO[3.3.1]NON-7-EN-2-YL]PHENOL",ESR1
+"4-[(1S,2R,5S)-4,4,8-TRIMETHYL-3-OXABICYCLO[3.3.1]NON-7-EN-2-YL]PHENOL",NCOA2
+"6-[4-(2-piperidin-1-ylethoxy)phenyl]-3-pyridin-4-ylpyrazolo[1,5-a]pyrimidine",ACVR1
+tributylstannanyl,NCOA2
+tributylstannanyl,RXRA
+Triclosan,PPARG
+"2,2,2-TRIFLUORO-1-{5-[(3-PHENYL-5,6-DIHYDROIMIDAZO[1,2-A]PYRAZIN-7(8H)-YL)CARBONYL]THIOPHEN-2-YL}ETHANE-1,1-DIOL",HDAC4
+"9-ACETYL-2,3,4,9-TETRAHYDRO-1H-CARBAZOL-1-ONE",CREBBP
+"4-[(5-ISOPROPYL-1,3-THIAZOL-2-YL)AMINO]BENZENESULFONAMIDE",CDK2
+N-(5-ISOPROPYL-THIAZOL-2-YL)-2-PYRIDIN-3-YL-ACETAMIDE,CDK2
+"REL-(9R,12S)-9,10,11,12-TETRAHYDRO-9,12-EPOXY-1H-DIINDOLO[1,2,3-FG:3',2',1'-KL]PYRROLO[3,4-I][1,6]BENZODIAZOCINE-1,3(2H)-DIONE",CHEK1
+FG-2216,HIF1A
+"9-amino-5-(2-aminopyrimidin-4-yl)pyrido[3',2':4,5]pyrrolo[1,2-c]pyrimidin-4-ol",CDK2
+"4-(2-aminoethoxy)-N-(3-chloro-5-piperidin-1-ylphenyl)-3,5-dimethylbenzamide",PLAU
+"1-tert-butyl-3-(3-methylbenzyl)-1H-pyrazolo[3,4-d]pyrimidin-4-amine",CAMK2G
+"6-(5-BROMO-2-HYDROXYPHENYL)-2-OXO-4-PHENYL-1,2-DIHYDROPYRIDINE-3-CARBONITRILE",PIM1
+"4-[3-(4-chlorophenyl)-2,1-benzisoxazol-5-yl]pyrimidin-2-amine",PIM1
+"N-cyclohexyl-3-[3-(trifluoromethyl)phenyl][1,2,4]triazolo[4,3-b]pyridazin-6-amine",PIM1
+"2,3-diphenyl-1H-indole-7-carboxylic acid",PIM1
+3-FLUORO-5-MORPHOLIN-4-YL-N-[1-(2-PYRIDIN-4-YLETHYL)-1H-INDOL-6-YL]BENZAMIDE,MAPK14
+"(3AS,4R,9BR)-4-(4-HYDROXYPHENYL)-1,2,3,3A,4,9B-HEXAHYDROCYCLOPENTA[C]CHROMEN-9-OL",ESR1
+"CYCLOHEXYLMETHYL-2,3-DIHYDROXY-5-METHYL-HEXYLAMIDE",CTSD
+"1,3-CYCLOHEXANEDIOL, 4-METHYLENE-5-[(2E)-[(1S,3AS,7AS)-OCTAHYDRO-1-(5-HYDROXY-5-METHYL-1,3-HEXADIYNYL)-7A-METHYL-4H-INDEN-4-YLIDENE]ETHYLIDENE]-, (1R,3S,5Z)",NCOA1
+"N,N'-DIMETHYL-N-(ACETYL)-N'-(7-NITROBENZ-2-OXA-1,3-DIAZOL-4-YL)ETHYLENEDIAMINE",HRAS
+(R)-TRANS-4-(1-AMINOETHYL)-N-(4-PYRIDYL) CYCLOHEXANECARBOXAMIDE,PRKACA
+(R)-TRANS-4-(1-AMINOETHYL)-N-(4-PYRIDYL) CYCLOHEXANECARBOXAMIDE,ROCK1
+(R)-TRANS-4-(1-AMINOETHYL)-N-(4-PYRIDYL) CYCLOHEXANECARBOXAMIDE,ROCK2
+(2S)-2-(4-chlorophenoxy)-3-phenylpropanoic acid,PPARG
+N-(3-METHYLBUT-2-EN-1-YL)-9H-PURIN-6-AMINE,CDK2
+"4-{2-[(7-amino-2-furan-2-yl[1,2,4]triazolo[1,5-a][1,3,5]triazin-5-yl)amino]ethyl}phenol",ADORA2A
+RALOXIFENE CORE,ESR1
+RALOXIFENE CORE,NCOA2
+"1-[(2S)-4-(5-phenyl-1H-pyrazolo[3,4-b]pyridin-4-yl)morpholin-2-yl]methanamine",CHEK1
+"N-(4-OXO-5,6,7,8-TETRAHYDRO-4H-[1,3]THIAZOLO[5,4-C]AZEPIN-2-YL)ACETAMIDE",CHEK1
+"5,6,7,8-TETRAHYDRO[1]BENZOTHIENO[2,3-D]PYRIMIDIN-4(3H)-ONE",CHEK1
+"[4-amino-2-(tert-butylamino)-1,3-thiazol-5-yl](phenyl)methanone",CHEK1
+2-(methylsulfanyl)-5-(thiophen-2-ylmethyl)-1H-imidazol-4-ol,CHEK1
+6-MORPHOLIN-4-YL-9H-PURINE,CHEK1
+"1-[(2S)-4-(5-BROMO-1H-PYRAZOLO[3,4-B]PYRIDIN-4-YL)MORPHOLIN-2-YL]METHANAMINE",CHEK1
+(4-{(2S)-2-[(tert-butoxycarbonyl)amino]-3-methoxy-3-oxopropyl}phenyl)methaneseleninic acid,PTPN1
+4-(2-methoxyethoxy)-6-methylpyrimidin-2-amine,HSP90AA1
+"4-(2,4-dichlorophenyl)-5-phenyldiazenyl-pyrimidin-2-amine",HSP90AA1
+"3,6-DIAMINO-5-CYANO-4-(4-ETHOXYPHENYL)THIENO[2,3-B]PYRIDINE-2-CARBOXAMIDE",HSP90AA1
+"2-AMINO-4-(2,4-DICHLOROPHENYL)-N-ETHYLTHIENO[2,3-D]PYRIMIDINE-6-CARBOXAMIDE",HSP90AA1
+"1-[(2-NITROPHENYL)SULFONYL]-1H-PYRROLO[3,2-B]PYRIDINE-6-CARBOXAMIDE",MET
+Antazoline,HRH1
+Chloropyramine,HRH1
+Dimetindene,HRH1
+Isothipendyl,HRH1
+Metiamide,HRH2
+Roxatidine acetate,HRH2
+Bopindolol,ADRB1
+Bopindolol,ADRB2
+Bopindolol,HTR1A
+Bopindolol,HTR1B
+Bupranolol,ADRB1
+Bupranolol,ADRB2
+Dichloroacetic Acid,PDK1
+Cinitapride,HTR1A
+Cinitapride,HTR2A
+Tofisopam,PDE4A
+Tofisopam,PDE10A
+Tofisopam,PDE3A
+Nadroparin,FOS
+Nadroparin,MYC
+Triflusal,NFKB1
+Triflusal,PDE10A
+Lurasidone,DRD2
+Lurasidone,HTR2A
+Lurasidone,HTR7
+Lurasidone,HTR1A
+Lurasidone,ADRA2C
+Lurasidone,ADRA2A
+Hyaluronic acid,ICAM1
+Ivacaftor,CFTR
+Azilsartan medoxomil,AGTR1
+Vismodegib,SMO
+Agmatine,ADRA2C
+Agmatine,GRIN1
+Serotonin,HTR2A
+Uric Acid,PYGL
+Ellagic Acid,PRKACA
+Ellagic Acid,PRKCA
+Ellagic Acid,PRKCB
+Ellagic Acid,SYK
+Pitavastatin,HMGCR
+Cholecystokinin,CCKAR
+Cholecystokinin,RAF1
+Cholecystokinin,MAPK3
+Cholecystokinin,PRKCB
+Cholecystokinin,CCKBR
+Crizotinib,MET
+Ulipristal,PGR
+Fingolimod,S1PR5
+Fingolimod,HDAC1
+Eribulin,BCL2
+Gabapentin Enacarbil,CACNA2D1
+Gabapentin Enacarbil,CACNA2D2
+Cabozantinib,MET
+Cabozantinib,KDR
+Cabozantinib,RET
+Ruxolitinib,JAK1
+Ruxolitinib,JAK2
+Vemurafenib,BRAF
+Perampanel,GRIA1
+Aflibercept,VEGFA
+Aflibercept,PGF
+Aflibercept,VEGFB
+Ocriplasmin,FN1
+Arbaclofen,GABBR1
+Arbaclofen,GABBR2
+Arbaclofen Placarbil,GABBR1
+Arbaclofen Placarbil,GABBR2
+Peginesatide,EPOR
+Tofacitinib,JAK1
+Tofacitinib,JAK2
+Tofacitinib,JAK3
+Tofacitinib,TYK2
+Regorafenib,FLT1
+Regorafenib,KDR
+Regorafenib,FLT4
+Regorafenib,KIT
+Regorafenib,PDGFRA
+Regorafenib,FGFR1
+Regorafenib,FGFR2
+Regorafenib,TEK
+Regorafenib,NTRK1
+Regorafenib,EPHA2
+Regorafenib,RAF1
+Regorafenib,BRAF
+Regorafenib,MAPK11
+Regorafenib,ABL1
+Regorafenib,RET
+Aclidinium,CHRM1
+Aclidinium,CHRM3
+Ponatinib,ABL1
+Ponatinib,KIT
+Ponatinib,RET
+Ponatinib,TEK
+Ponatinib,FLT3
+Ponatinib,FGFR1
+Ponatinib,FGFR2
+Ponatinib,FGFR3
+Ponatinib,FGFR4
+Ponatinib,LCK
+Ponatinib,SRC
+Ponatinib,LYN
+Ponatinib,KDR
+Ponatinib,PDGFRA
+Certolizumab pegol,TNF
+Dimethyl fumarate,RELA
+Pomalidomide,TNF
+Pomalidomide,PTGS2
+Trametinib,MAP2K1
+Trametinib,MAP2K2
+Dabrafenib,BRAF
+Dabrafenib,RAF1
+Dabrafenib,SIK1
+Aleglitazar,PPARA
+Aleglitazar,PPARG
+Aleglitazar,NCOA1
+Afatinib,EGFR
+Afatinib,ERBB2
+Afatinib,ERBB4
+Perospirone,HTR2A
+Perospirone,DRD2
+Perospirone,HTR1A
+Perospirone,HRH1
+Perospirone,ADRA1A
+Perospirone,ADRA1B
+Perospirone,ADRA1D
+Amperozide,HTR2A
+Macitentan,EDNRB
+Chlorcyclizine,HRH1
+Indoramin,ADRA1A
+Ifenprodil,GRIN1
+Ifenprodil,GRIN2B
+Gemeprost,PTGER2
+Clinofibrate,PPARA
+Clinofibrate,PPARG
+Clinofibrate,PPARD
+Befunolol,ADRB1
+Befunolol,ADRB2
+Butriptyline,HRH1
+Butriptyline,HTR2A
+Bromopride,DRD2
+Vorapaxar,F2R
+Vedolizumab,ITGA4
+Nivolumab,PDCD1
+Pembrolizumab,PDCD1
+Albiglutide,GLP1R
+Dulaglutide,GLP1R
+Metreleptin,LEPR
+Netupitant,TACR1
+Atosiban,OXTR
+Atosiban,AVPR1B
+Cannabidiol,CNR1
+Cannabidiol,HTR1A
+Cannabidiol,HTR2A
+Cannabidiol,OPRD1
+Cannabidiol,PPARG
+Cannabidiol,VDAC1
+Ciprofibrate,PPARA
+Vortioxetine,HTR7
+Vortioxetine,HTR1B
+Vortioxetine,HTR1A
+Vortioxetine,ADRB1
+Trimetazidine,ACAA1
+Tibolone,ESR1
+Palbociclib,CDK4
+Palbociclib,CDK6
+Umeclidinium,CHRM1
+Umeclidinium,CHRM3
+Lenvatinib,FLT1
+Lenvatinib,KDR
+Lenvatinib,FLT4
+Lenvatinib,FGFR1
+Lenvatinib,FGFR2
+Lenvatinib,FGFR3
+Lenvatinib,FGFR4
+Lenvatinib,KIT
+Nintedanib,FLT1
+Nintedanib,KDR
+Nintedanib,FLT4
+Nintedanib,FGFR1
+Nintedanib,FGFR2
+Nintedanib,FGFR3
+Nintedanib,FLT3
+Nintedanib,LCK
+Nintedanib,LYN
+Nintedanib,SRC
+Olodaterol,ADRB2
+Vilanterol,ADRB2
+Tetracaine,RYR1
+Tetracaine,RYR2
+Eugenol,ESR1
+Eugenol,ESR2
+Trimebutine,CACNA1C
+Trimebutine,CACNA1D
+Trimebutine,CACNB1
+Trimebutine,CACNB2
+Trimebutine,CACNB3
+Trimebutine,CACNB4
+Trimebutine,KCNMA1
+Trimebutine,KCNMB3
+Trimebutine,KCNMB4
+Trimebutine,CHRM1
+Trimebutine,CHRM3
+Tixocortol,HDAC2
+Xanthinol,GAPDH
+Quinagolide,DRD2
+Quinagolide,DRD1
+Quinagolide,DRD5
+Somatrem,GHR
+Somatrem,IGF1R
+Somatostatin,SSTR2
+Somatostatin,SSTR5
+Ancestim,KIT
+Asfotase Alfa,S1PR1
+Methoxy polyethylene glycol-epoetin beta,EPOR
+Stiripentol,LDHA
+Stiripentol,LDHB
+Aurothioglucose,ADCY1
+Aurothioglucose,ADCY2
+Aurothioglucose,ADCY5
+Dienogest,PGR
+Medrogestone,PGR
+Chorionic Gonadotropin (Human),LHCGR
+Brexpiprazole,HTR1A
+Brexpiprazole,DRD2
+Brexpiprazole,HTR2A
+Brexpiprazole,ADRA2C
+Brexpiprazole,ADRA1B
+Chromic chloride,INSR
+Copper,GAPDH
+Copper,ACTG1
+Copper,ENO1
+Copper,HSP90B1
+Copper,TF
+Copper,SRSF1
+Copper,PKM
+Copper,HSPA8
+Copper,HSP90AA1
+Copper,LDHA
+Copper,YWHAB
+Copper,SERPINE1
+Copper,BDNF
+Copper,APOA1
+Copper,KRT9
+Copper,SERPINF1
+Sonidegib,SMO
+Etizolam,PTAFR
+Dosulepin,HTR1A
+Dosulepin,HTR2A
+Dosulepin,HRH1
+Dosulepin,CHRM1
+Dosulepin,CHRM3
+Dosulepin,ADRA2A
+Dosulepin,ADRA2B
+Dosulepin,ADRA2C
+Dosulepin,ADRA1A
+Dosulepin,ADRA1B
+Dosulepin,ADRA1D
+Etoperidone,ADRA1A
+Etoperidone,ADRA1B
+Etoperidone,ADRA1D
+Etoperidone,ADRA2A
+Etoperidone,ADRA2B
+Etoperidone,ADRA2C
+Etoperidone,DRD2
+Etoperidone,CHRM1
+Etoperidone,CHRM3
+Etoperidone,HTR2A
+Lorpiprazole,HTR2A
+Lorpiprazole,ADRA1A
+Lorpiprazole,ADRA1B
+Lorpiprazole,ADRA1D
+Lorpiprazole,ADRA2A
+Lorpiprazole,ADRA2B
+Lorpiprazole,ADRA2C
+Lorpiprazole,HRH1
+Lobeglitazone,PPARG
+Ciglitazone,PPARG
+Cirazoline,ADRA1A
+Cirazoline,ADRA1B
+Cirazoline,ADRA1D
+Cirazoline,ADRA2A
+Cirazoline,ADRA2B
+Cirazoline,ADRA2C
+Synephrine,ADRA1A
+Synephrine,ADRA1B
+Synephrine,ADRA1D
+Arotinolol,ADRB1
+Arotinolol,ADRB2
+Arotinolol,ADRA1A
+Arotinolol,ADRA1B
+Arotinolol,ADRA1D
+Moxisylyte,ADRA1A
+Moxisylyte,ADRA1B
+Moxisylyte,ADRA1D
+Moxisylyte,ADRA2A
+Moxisylyte,ADRA2B
+Moxisylyte,ADRA2C
+AS-8112,DRD2
+Pholcodine,OPRD1
+Limaprost,PTGER1
+Limaprost,PTGER2
+Loxoprofen,PTGS2
+Dexibuprofen,PTGS2
+Dexibuprofen,BCL2
+Dexibuprofen,THBD
+Dexibuprofen,PLAT
+Dexibuprofen,PPARG
+Dexibuprofen,CFTR
+Dexketoprofen,PTGS2
+Droxicam,PTGS2
+Tolfenamic Acid,PTGS2
+Firocoxib,PTGS2
+Polaprezinc,TNF
+Polaprezinc,IL3
+Polaprezinc,FLT1
+Polaprezinc,NGF
+Polaprezinc,HSP90AA1
+Polaprezinc,HSP90AB1
+Blonanserin,DRD2
+Blonanserin,HTR2A
+Melperone,DRD2
+Zotepine,DRD1
+Zotepine,DRD5
+Zotepine,DRD2
+Zotepine,HTR2A
+Zotepine,HTR6
+Zotepine,HTR7
+Barnidipine,CACNA1C
+Conestat alfa,PLAT
+Aranidipine,CACNA1C
+Aranidipine,CACNA1D
+Aranidipine,ADRA1A
+Aranidipine,ADRA1B
+Aranidipine,ADRA1D
+Aranidipine,ADRA2A
+Aranidipine,ADRA2B
+Aranidipine,ADRA2C
+Azelnidipine,CACNB1
+Benidipine,CACNA1C
+Benidipine,CACNA1D
+Benidipine,CACNB1
+Benidipine,CACNB2
+Benidipine,CACNB3
+Benidipine,CACNB4
+Cilnidipine,CACNA1C
+Cilnidipine,CACNA1D
+Cilnidipine,CACNB1
+Cilnidipine,CACNB2
+Cilnidipine,CACNB3
+Cilnidipine,CACNB4
+Efonidipine,CACNA1C
+Lacidipine,CACNA1C
+Lacidipine,CACNA1D
+Lacidipine,CACNB1
+Lacidipine,CACNB2
+Lacidipine,CACNB3
+Lacidipine,CACNB4
+Levamlodipine,CACNA1C
+Levamlodipine,NOS3
+Manidipine,CACNA1C
+Manidipine,CACNA1D
+Manidipine,CACNB1
+Manidipine,CACNB2
+Manidipine,CACNB3
+Manidipine,CACNB4
+Niguldipine,ADRA1A
+Methylene blue,NOS1
+Moxonidine,ADRA2A
+Pirlindole,HTR1A
+Pirlindole,ADRA2A
+Imidafenacin,CHRM1
+Imidafenacin,CHRM3
+Lixisenatide,GLP1R
+Eluxadoline,OPRD1
+Doxofylline,ADORA2A
+Doxofylline,ADRB2
+Fimasartan,AGTR1
+Lumacaftor,CFTR
+Trapidil,PDE1B
+Trapidil,PDE1C
+Trapidil,PDE10A
+Trapidil,PDE4A
+Trapidil,PDE4B
+Trapidil,PDE4C
+Trapidil,PDE4D
+Trapidil,PDE3A
+Trapidil,PDE3B
+Morniflumate,PTGS2
+Morniflumate,TBXA2R
+Pipamperone,DRD2
+Pipamperone,HTR2A
+Pipamperone,ADRA1A
+Pipamperone,ADRA1B
+Pipamperone,ADRA1D
+Pipamperone,DRD1
+Pipamperone,ADRA2A
+Propacetamol,PTGS2
+Propacetamol,CNR1
+Tianeptine,GRIA1
+Tianeptine,HTR1A
+Talniflumate,PTGS2
+Butylscopolamine,CHRM3
+Chondroitin sulfate,BDNF
+Chondroitin sulfate,GDNF
+Chondroitin sulfate,VEGFA
+Setiptiline,ADRA2A
+Setiptiline,ADRA2B
+Setiptiline,ADRA2C
+Setiptiline,HTR1A
+Setiptiline,HTR1B
+Setiptiline,HTR1E
+Setiptiline,HTR1F
+Setiptiline,HTR2A
+Setiptiline,HTR6
+Setiptiline,HTR7
+"Synthetic Conjugated Estrogens, A",ESR1
+"Synthetic Conjugated Estrogens, B",ESR1
+Osimertinib,EGFR
+Daratumumab,CD38
+Seractide acetate,MC2R
+Levobetaxolol,ADRB1
+Polyestradiol phosphate,ESR1
+Norethynodrel,ESR1
+Norgestrel,PGR
+Isosorbide,BCL2
+Isosorbide,BCL2L1
+Magnesium acetate tetrahydrate,GRIN1
+Magnesium acetate tetrahydrate,GRIN2A
+Magnesium acetate tetrahydrate,GRIN2B
+Magnesium acetate tetrahydrate,GRIN2C
+Magnesium acetate tetrahydrate,GRIN2D
+Magnesium acetate tetrahydrate,GRIN3A
+Magnesium acetate tetrahydrate,GRIN3B
+Soybean oil,PPARA
+Glycerin,PPARD
+Glycerin,PLA2G2E
+Glycerin,ITPR1
+Glycerin,ARF1
+Magnesium carbonate,GRIN1
+Magnesium carbonate,GRIN2A
+Magnesium carbonate,GRIN2B
+Magnesium carbonate,GRIN2C
+Magnesium carbonate,GRIN2D
+Magnesium carbonate,GRIN3A
+Magnesium carbonate,GRIN3B
+Acrivastine,HRH1
+Octocrylene,ESR1
+Octocrylene,ESR2
+Thonzonium,ATP6V1C1
+Dexchlorpheniramine maleate,HRH1
+Necitumumab,EGFR
+Insulin Degludec,INSR
+Foreskin fibroblast (neonatal),FLT1
+Foreskin fibroblast (neonatal),IL1R1
+Foreskin fibroblast (neonatal),FGF1
+Foreskin fibroblast (neonatal),FGFR2
+Foreskin fibroblast (neonatal),TGFB1
+Foreskin fibroblast (neonatal),TNF
+Foreskin keratinocyte (neonatal),FGF1
+Foreskin keratinocyte (neonatal),EGFR
+Foreskin keratinocyte (neonatal),FGFR2
+Foreskin keratinocyte (neonatal),PDGFRA
+Foreskin keratinocyte (neonatal),TGFB1
+Foreskin keratinocyte (neonatal),TNF
+Foreskin keratinocyte (neonatal),VEGFA
+Carboxymethylcellulose,SLC2A1
+Homosalate,PGR
+Homosalate,ESR1
+Phenyl salicylate,PTGS2
+Trolamine salicylate,PTGS2
+Calcium Citrate,CASR
+Calcium Citrate,CASQ1
+Calcium Citrate,CALM1
+Calcium Citrate,CALM2
+Calcium Citrate,CALM3
+Calcium Citrate,CALM1
+Calcium Citrate,CALM2
+Calcium Citrate,CALM3
+Calcium Citrate,CALM1
+Calcium Citrate,CALM2
+Calcium Citrate,CALM3
+Turpentine,MAPK1
+Racepinephrine,ADRA1A
+Racepinephrine,ADRA1B
+Racepinephrine,ADRA2A
+Racepinephrine,ADRA2B
+Racepinephrine,ADRA2C
+Racepinephrine,ADRB1
+Racepinephrine,ADRB2
+Racepinephrine,ADRA1D
+Opium,OPRD1
+Omega-3 fatty acids,PPARG
+Omega-3 fatty acids,PPARA
+Omega-3 fatty acids,SREBF1
+Butamben,CACNG1
+Butamben,CACNA2D1
+Butamben,CACNA2D2
+Butamben,CACNA2D3
+Butamben,CACNA1C
+Butamben,CACNA1D
+Butamben,CACNB1
+Butamben,CACNB2
+Butamben,CACNB3
+Butamben,CACNB4
+Butamben,KCNJ12
+Pyrantel,CHRM1
+Anthralin,MAPK8IP1
+Homatropine,CHRM1
+Homatropine,CHRM3
+Menthyl salicylate,PTGS2
+Enzacamene,PGR
+Enzacamene,ESR2
+Enzacamene,ESR1
+Thonzylamine,HRH1
+Thonzylamine,CHRM1
+Thonzylamine,CHRM3
+Dihydroergocornine,HTR1A
+Dihydroergocornine,HTR1B
+Dihydroergocornine,HTR1E
+Dihydroergocornine,HTR1F
+Dihydroergocornine,HTR2A
+Dihydroergocornine,HTR6
+Dihydroergocornine,HTR7
+Dihydroergocornine,ADRB1
+Dihydroergocornine,ADRB2
+Dihydroergocornine,ADRA1A
+Dihydroergocornine,ADRA1B
+Dihydroergocornine,ADRA1D
+Dihydroergocornine,ADRA2A
+Dihydroergocornine,ADRA2B
+Dihydroergocornine,ADRA2C
+Dihydro-alpha-ergocryptine,DRD2
+Dihydro-alpha-ergocryptine,DRD1
+Dihydro-alpha-ergocryptine,DRD5
+Epicriptine,DRD1
+Epicriptine,DRD5
+Epicriptine,DRD2
+DL-Methylephedrine,ADRB1
+DL-Methylephedrine,ADRA2A
+DL-Methylephedrine,ADRA1A
+DL-Methylephedrine,ADRA1B
+DL-Methylephedrine,ADRA1D
+DL-Methylephedrine,ADRA2A
+DL-Methylephedrine,ADRA2B
+DL-Methylephedrine,ADRA2C
+DL-Methylephedrine,ADRB1
+DL-Methylephedrine,ADRB2
+Thrombin,F2R
+Glycol salicylate,PTGS2
+Dipyrithione,PTGS2
+Clove oil,COL1A1
+Calcium Phosphate,CASR
+Calcium Phosphate,CASQ1
+Calcium Phosphate,CALM1
+Calcium Phosphate,CALM2
+Calcium Phosphate,CALM3
+Calcium Phosphate,CALM1
+Calcium Phosphate,CALM2
+Calcium Phosphate,CALM3
+Calcium Phosphate,CALM1
+Calcium Phosphate,CALM2
+Calcium Phosphate,CALM3
+Xylazine,ADRA2A
+Xylazine,ADRA2B
+Xylazine,ADRA2C
+Indigotindisulfonic Acid,ADRA1A
+Indigotindisulfonic Acid,ADRA1B
+Indigotindisulfonic Acid,ADRA1D
+Indigotindisulfonic Acid,ADRA2A
+Indigotindisulfonic Acid,ADRA2B
+Indigotindisulfonic Acid,ADRA2C
+Venetoclax,BCL2
+Pipradrol,DRD1
+Pipradrol,DRD5
+Etafedrine,ADRB2
+Thimerosal,FXYD2
+Bilastine,HRH1
+Tuberculin Purified Protein Derivative,TLR2
+Myrrh,PPARA
+Rupatadine,PTAFR
+Rupatadine,HRH1
+Gestrinone,PGR
+Gestrinone,ESR1
+Tasonermin,TNFRSF1B
+Isavuconazole,CACNA1C
+Isavuconazole,KCNJ6
+Artenimol,ACTG1
+Artenimol,ENO1
+Artenimol,LDHA
+Artenimol,LDHB
+Artenimol,PFN1
+Artenimol,PKM
+Artenimol,RPS6
+Artenimol,HSPA8
+Artenimol,ALDOA
+Artenimol,GAPDH
+Artenimol,CYCS
+Dibotermin alfa,BMPR2
+Dibotermin alfa,BMPR1A
+Tucatinib,ERBB2
+Curcumin,PPARG
+Equol,ESR2
+Naldemedine,OPRD1
+Voclosporin,PPP3R1
+Voclosporin,PPP3R2
+Tezacaftor,CFTR
+Ribociclib,CDK4
+Ribociclib,CDK6
+Depatuxizumab mafodotin,EGFR
+Icotinib,EGFR
+Rilmenidine,ADRA2A
+Tetrahydrocannabivarin,CNR1
+Tetrahydrocannabivarin,HTR1A
+Sarilumab,IL6R
+Pilaralisib,PIK3CA
+Arhalofenate,PPARG
+Baricitinib,JAK1
+Baricitinib,JAK2
+Baricitinib,PTK2B
+Baricitinib,JAK3
+Neratinib,EGFR
+Mocetinostat,HDAC1
+Mocetinostat,HDAC3
+Mocetinostat,HDAC2
+Angiotensin II,AGTR1
+Lebrikizumab,IL13
+Vestipitant,TACR1
+Binimetinib,TNF
+Binimetinib,MAP3K1
+Binimetinib,MAP2K2
+Tesevatinib,ERBB2
+Diacerein,NR1H3
+Abemaciclib,CDK4
+Abemaciclib,CDK6
+Isoflavone,PPARA
+Isoflavone,PPARG
+Fostamatinib,SYK
+Fostamatinib,ABL1
+Fostamatinib,TYK2
+Fostamatinib,JAK1
+Fostamatinib,MET
+Fostamatinib,PRKACA
+Fostamatinib,STK3
+Fostamatinib,TEC
+Fostamatinib,TAOK1
+Fostamatinib,TAOK2
+Fostamatinib,TAOK3
+Fostamatinib,TBK1
+Fostamatinib,TEK
+Fostamatinib,TGFBR1
+Fostamatinib,ULK1
+Fostamatinib,ULK2
+Fostamatinib,ZAP70
+Fostamatinib,ABL2
+Fostamatinib,ACVR1
+Fostamatinib,ACVR1B
+Fostamatinib,BMPR1B
+Fostamatinib,BMPR2
+Fostamatinib,BRAF
+Fostamatinib,CAMK1
+Fostamatinib,CAMK1D
+Fostamatinib,CAMK2A
+Fostamatinib,CAMK2B
+Fostamatinib,CAMK2D
+Fostamatinib,CAMK2G
+Fostamatinib,CAMKK2
+Fostamatinib,CDK1
+Fostamatinib,CDK4
+Fostamatinib,CHEK1
+Fostamatinib,CHEK2
+Fostamatinib,CSF1R
+Fostamatinib,CSNK1A1
+Fostamatinib,CSNK2A2
+Fostamatinib,EGFR
+Fostamatinib,EPHA2
+Fostamatinib,ERBB2
+Fostamatinib,ERBB4
+Fostamatinib,FGFR1
+Fostamatinib,FGFR2
+Fostamatinib,FGFR3
+Fostamatinib,FGR
+Fostamatinib,FLT1
+Fostamatinib,FLT3
+Fostamatinib,FLT4
+Fostamatinib,MTOR
+Fostamatinib,FYN
+Fostamatinib,GSK3A
+Fostamatinib,GSK3B
+Fostamatinib,HCK
+Fostamatinib,IKBKB
+Fostamatinib,INSR
+Fostamatinib,IRAK3
+Fostamatinib,IRAK4
+Fostamatinib,JAK2
+Fostamatinib,JAK3
+Fostamatinib,KDR
+Fostamatinib,KIT
+Fostamatinib,LATS1
+Fostamatinib,LCK
+Fostamatinib,LYN
+Fostamatinib,MAP2K2
+Fostamatinib,MAP2K3
+Fostamatinib,MAP2K5
+Fostamatinib,MAP2K6
+Fostamatinib,MAP3K1
+Fostamatinib,MAP3K11
+Fostamatinib,MAP3K12
+Fostamatinib,MAP3K13
+Fostamatinib,MAP3K3
+Fostamatinib,MAP3K4
+Fostamatinib,MAP3K6
+Fostamatinib,MAP4K2
+Fostamatinib,MAP4K3
+Fostamatinib,MAP4K4
+Fostamatinib,MAPK13
+Fostamatinib,MAPK14
+Fostamatinib,MAPK15
+Fostamatinib,MAPK4
+Fostamatinib,MAPK7
+Fostamatinib,MAPK9
+Fostamatinib,MAPKAPK5
+Fostamatinib,MATK
+Fostamatinib,MKNK1
+Fostamatinib,MKNK2
+Fostamatinib,MST1R
+Fostamatinib,MYLK
+Fostamatinib,MYLK3
+Fostamatinib,NTRK1
+Fostamatinib,NTRK2
+Fostamatinib,NTRK3
+Fostamatinib,PAK1
+Fostamatinib,PAK2
+Fostamatinib,PAK4
+Fostamatinib,PAK6
+Fostamatinib,PDGFRA
+Fostamatinib,PDPK1
+Fostamatinib,PHKG1
+Fostamatinib,PIK3CD
+Fostamatinib,PIM1
+Fostamatinib,PKN1
+Fostamatinib,PLK1
+Fostamatinib,PLK2
+Fostamatinib,PLK3
+Fostamatinib,PLK4
+Fostamatinib,PRKAA1
+Fostamatinib,PRKAA1
+Fostamatinib,PRKAA2
+Fostamatinib,PRKAB1
+Fostamatinib,PRKAB2
+Fostamatinib,PRKAG1
+Fostamatinib,PRKAG2
+Fostamatinib,PRKAG3
+Fostamatinib,PRKACB
+Fostamatinib,PRKCD
+Fostamatinib,PRKCE
+Fostamatinib,PRKCG
+Fostamatinib,PRKCI
+Fostamatinib,PRKCQ
+Fostamatinib,PRKD1
+Fostamatinib,PRKG2
+Fostamatinib,PTK2
+Fostamatinib,PTK2B
+Fostamatinib,RAF1
+Fostamatinib,RET
+Fostamatinib,RIPK1
+Fostamatinib,RIPK2
+Fostamatinib,ROCK2
+Fostamatinib,RPS6KA1
+Fostamatinib,SGK3
+Fostamatinib,SIK1
+Fostamatinib,SIK2
+Fostamatinib,SRC
+Pardoprunox,DRD2
+Pardoprunox,HTR1A
+Tetrahydropalmatine,DRD1
+Tetrahydropalmatine,DRD2
+Sotatercept,ACVR2A
+Ulimorelin,GHSR
+Tideglusib,GSK3B
+Dilmapimod,TNF
+Dupilumab,IL4R
+Sarpogrelate,HTR2A
+Obatoclax,BCL2
+Tivantinib,MET
+Zalutumumab,EGFR
+Tulobuterol,ADRB2
+Cixutumumab,IGF1R
+Brigatinib,EGFR
+Brigatinib,ABL1
+Brigatinib,IGF1R
+Brigatinib,FLT3
+Brigatinib,INSR
+Brigatinib,MET
+Brigatinib,ERBB4
+Brigatinib,ERBB2
+Propiverine,CHRM1
+Propiverine,CHRM3
+Propiverine,CACNA1C
+Propiverine,ADRA1A
+Foretinib,KDR
+Radotinib,ABL1
+Navitoclax,BCL2
+Navitoclax,BAD
+Vofopitant,TACR1
+Alvespimycin,HSP90AA1
+Propyl Gallate,ESR1
+Ketanserin,HTR2A
+Piribedil,DRD2
+Copanlisib,PIK3CA
+Copanlisib,PIK3CD
+Raclopride,DRD2
+Nelotanserin,HTR2A
+Abexinostat,HDAC1
+JNJ-37822681,DRD2
+Dacetuzumab,CD40
+Nafamostat,ICAM1
+Naveglitazar,PPARG
+Ritanserin,HTR2A
+Phenethyl Isothiocyanate,ACTA2
+Phenethyl Isothiocyanate,ACTB
+Phenethyl Isothiocyanate,TXN
+Phenethyl Isothiocyanate,YWHAB
+Phenethyl Isothiocyanate,YWHAE
+Phenethyl Isothiocyanate,YWHAH
+Phenethyl Isothiocyanate,YWHAQ
+Phenethyl Isothiocyanate,YWHAZ
+Ibalizumab,CXCR4
+Amuvatinib,KIT
+Amuvatinib,MET
+Amuvatinib,RET
+Amuvatinib,PDGFRA
+Amuvatinib,FLT3
+Etelcalcetide,CASR
+Vonicog Alfa,COL1A1
+Quizartinib,FLT3
+Dihydrexidine,DRD1
+Leukotriene B4,LTB4R2
+Leukotriene B4,PPARA
+Tiapride,DRD2
+Tiapride,HTR1A
+Tiapride,HTR1B
+Tiapride,HTR1E
+Tiapride,HTR1F
+Tiapride,HTR2A
+Tiapride,HTR6
+Tiapride,HTR7
+Tiapride,ADRA1A
+Tiapride,ADRA1B
+Tiapride,ADRA1D
+Tiapride,ADRA2A
+Tiapride,ADRA2B
+Tiapride,ADRA2C
+Gossypol,BCL2L1
+Macimorelin,GHSR
+Von Willebrand Factor Human,COL1A1
+Levosalbutamol,ADRB2
+Fluciclovine (18F),GRIN1
+Fluciclovine (18F),GRIN2A
+Fluciclovine (18F),GRIN2B
+Fluciclovine (18F),GRIN2C
+Fluciclovine (18F),GRIN2D
+Fluciclovine (18F),GRIN3A
+Fluciclovine (18F),GRIN3B
+Fluciclovine (18F),GRIA1
+Fluciclovine (18F),GRIA2
+Fluciclovine (18F),GRIA4
+Coagulation factor VII human,F3
+Olmutinib,EGFR
+Ripasudil,ROCK1
+Ripasudil,ROCK2
+Alclofenac,PTGS2
+Rhein,NR1H3
+Dihydroergocristine,HTR1A
+Dihydroergocristine,HTR1B
+Dihydroergocristine,HTR1E
+Dihydroergocristine,HTR1F
+Dihydroergocristine,HTR2A
+Dihydroergocristine,HTR6
+Dihydroergocristine,HTR7
+Dihydroergocristine,ADRB1
+Dihydroergocristine,ADRB2
+Dihydroergocristine,ADRA1A
+Dihydroergocristine,ADRA1B
+Dihydroergocristine,ADRA1D
+Dihydroergocristine,ADRA2A
+Dihydroergocristine,ADRA2B
+Dihydroergocristine,ADRA2C
+Dihydroergocristine,DRD1
+Dihydroergocristine,DRD5
+Dihydroergocristine,DRD2
+Bufexamac,PTGS2
+Mifamurtide,NOD2
+Bioallethrin,CACNA1C
+Bioallethrin,CACNA1D
+Bioallethrin,CACNB1
+Bioallethrin,CACNB2
+Bioallethrin,CACNB3
+Bioallethrin,CACNB4
+Glycyrrhizic acid,TNF
+Glycyrrhizic acid,CASP3
+Glycyrrhizic acid,NFKB2
+Glycyrrhizic acid,NFKB1
+Xamoterol,ADRB1
+Acemetacin,PTGS2
+Calcium levulinate,CALM1
+Calcium levulinate,CALM2
+Calcium levulinate,CALM3
+Calcium levulinate,CASQ1
+Demegestone,PGR
+2-Methoxy-6-{(E)-[(4-methylphenyl)imino]methyl}phenol,ESR2
+2-Methoxy-6-{(E)-[(4-methylphenyl)imino]methyl}phenol,ESR1
+Fenofibric acid,PPARA
+Fenofibric acid,PPARG
+Fenofibric acid,PPARD
+Candesartan,AGTR1
+Dotatate gallium Ga-68,SSTR2
+Semaglutide,GLP1R
+Relcovaptan,OXTR
+Ulixertinib,MAPK3
+Ulixertinib,MAPK1
+Netarsudil,ROCK1
+Netarsudil,ROCK2
+"2,5-Dimethoxy-4-ethylthioamphetamine",HTR2A
+Testosterone cypionate,ESR1
+Testosterone enanthate,ESR1
+Testosterone undecanoate,ESR1
+"N-(2-hydroxybenzyl)-2,5-dimethoxy-4-cyanophenylethylamine",HTR2A
+Ferric cation,TFRC
+Stanolone acetate,ESR1
+Estradiol acetate,ESR1
+Estradiol acetate,ESR2
+Estradiol acetate,NCOA2
+Estradiol acetate,BECN1
+Estradiol benzoate,ESR1
+Estradiol benzoate,ESR2
+Estradiol benzoate,NCOA2
+Estradiol benzoate,BECN1
+Estradiol cypionate,ESR1
+Estradiol cypionate,ESR2
+Estradiol cypionate,NCOA2
+Estradiol cypionate,BECN1
+Estradiol dienanthate,ESR1
+Estradiol dienanthate,ESR2
+Estradiol dienanthate,NCOA2
+Estradiol dienanthate,BECN1
+Estradiol valerate,ESR1
+Estradiol valerate,ESR2
+Estradiol valerate,NCOA2
+Estradiol valerate,BECN1
+Fish oil,PTGS2
+Fish oil,CACNA1C
+Fish oil,CACNA1D
+Fish oil,CACNB1
+Fish oil,CACNB2
+Fish oil,CACNB3
+Fish oil,CACNB4
+Fish oil,NFKB2
+Fish oil,NFKB1
+Fish oil,SREBF1
+Fish oil,PPARA
+Fish oil,PPARG
+Fish oil,PPARD
+Lutetium Lu 177 dotatate,SSTR2
+Lutetium Lu 177 dotatate,SSTR5
+SB-269970,HTR7
+Magnesium acetate,ATP1A1
+alpha-Tocopherol succinate,PRKCB
+alpha-Tocopherol succinate,PRKCA
+alpha-Tocopherol succinate,PPP2CB
+alpha-Tocopherol succinate,PPP2CA
+D-alpha-Tocopherol acetate,PRKCB
+D-alpha-Tocopherol acetate,PRKCA
+D-alpha-Tocopherol acetate,PPP2CB
+D-alpha-Tocopherol acetate,PPP2CA
+Tildrakizumab,IL12B
+Choline salicylate,PLD2
+Choline salicylate,PLD1
+Medical Cannabis,CNR1
+Medical Cannabis,HTR1A
+Medical Cannabis,HTR2A
+Medical Cannabis,OPRD1
+Medical Cannabis,PPARG
+Medical Cannabis,VDAC1
+"5-methoxy-N,N-dimethyltryptamine",HTR1A
+"5-methoxy-N,N-dimethyltryptamine",HTR2A
+Nabiximols,CNR1
+Nabiximols,HTR1A
+Nabiximols,HTR2A
+Nabiximols,OPRD1
+Nabiximols,PPARG
+Nabiximols,VDAC1
+Darglitazone,PPARG
+SC-236,NFKB2
+SC-236,NFKB1
+SC-236,RELA
+8-chlorotheophylline,ADORA2A
+Loxicodegol,OPRD1
+Aripiprazole lauroxil,DRD2
+Aripiprazole lauroxil,HTR1A
+Aripiprazole lauroxil,HTR2A
+Aripiprazole lauroxil,HTR1B
+Aripiprazole lauroxil,HTR1E
+Aripiprazole lauroxil,DRD1
+Aripiprazole lauroxil,DRD5
+Aripiprazole lauroxil,HTR6
+Aripiprazole lauroxil,HTR7
+Aripiprazole lauroxil,HRH1
+Aripiprazole lauroxil,ADRA1A
+Aripiprazole lauroxil,ADRA1B
+Aripiprazole lauroxil,ADRA2A
+Aripiprazole lauroxil,ADRA2B
+Aripiprazole lauroxil,ADRA2C
+Aripiprazole lauroxil,CHRM1
+Aripiprazole lauroxil,CHRM3

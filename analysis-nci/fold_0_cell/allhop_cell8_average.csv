@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp5,B cell receptor signaling pathway,0.1262135954951456,HCT-116,8,1
+sp14,GnRH signaling pathway,0.06601941956631067,HCT-116,8,2
+sp24,NOD-like receptor signaling pathway,0.06410256610957302,HCT-116,8,3
+sp32,RIG-I-like receptor signaling pathway,0.06369426949363055,HCT-116,8,4
+sp11,Fc epsilon RI signaling pathway,0.05675675813408106,HCT-116,8,5
+sp38,T cell receptor signaling pathway,0.05572519239383204,HCT-116,8,6
+sp18,Hippo signaling pathway - multiple species,0.05327869006168031,HCT-116,8,7
+sp40,TNF signaling pathway,0.04758064655770967,HCT-116,8,8
+sp37,Sphingolipid signaling pathway,0.0436507946932086,HCT-116,8,9
+sp9,ErbB signaling pathway,0.04341926950474897,HCT-116,8,10
+sp36,Signaling pathways regulating pluripotency of stem cells,0.04252336567246728,HCT-116,8,11
+sp30,Phospholipase D signaling pathway,0.0396678984181153,HCT-116,8,12
+sp42,Toll-like receptor signaling pathway,0.03931034594188964,HCT-116,8,13
+sp3,Adipocytokine signaling pathway,0.038062284813944615,HCT-116,8,14
+sp6,C-type lectin receptor signaling pathway,0.03801478471642026,HCT-116,8,15
+sp31,Prolactin signaling pathway,0.03769841401031745,HCT-116,8,16
+sp43,VEGF signaling pathway,0.036135693729646,HCT-116,8,17
+sp20,Insulin signaling pathway,0.03497230025478786,HCT-116,8,18
+sp23,NF-kappa B signaling pathway,0.029918865151135888,HCT-116,8,19
+sp7,Calcium signaling pathway,0.028895549038878407,HCT-116,8,20
+sp10,Estrogen signaling pathway,0.028635779630758026,HCT-116,8,21
+sp39,TGF-beta signaling pathway,0.02829457496427518,HCT-116,8,22
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.028156222412506794,HCT-116,8,23
+sp46,cGMP-PKG signaling pathway,0.02734571051758252,HCT-116,8,24
+sp35,Relaxin signaling pathway,0.02715655024826676,HCT-116,8,25
+sp27,Oxytocin signaling pathway,0.02694610851962668,HCT-116,8,26
+sp16,Hedgehog signaling pathway,0.026815644009553056,HCT-116,8,27
+sp13,Glucagon signaling pathway,0.02586206958614166,HCT-116,8,28
+sp47,mTOR signaling pathway,0.024795002767339112,HCT-116,8,29
+sp2,AMPK signaling pathway,0.02430330598126273,HCT-116,8,30
+sp25,Neurotrophin signaling pathway,0.024084778936017806,HCT-116,8,31
+sp29,PPAR signaling pathway,0.023255814313443958,HCT-116,8,32
+sp15,HIF-1 signaling pathway,0.0231693371516877,HCT-116,8,33
+sp19,IL-17 signaling pathway,0.021325209934211713,HCT-116,8,34
+sp26,Notch signaling pathway,0.020408163727338755,HCT-116,8,35
+sp4,Apelin signaling pathway,0.02011735192032491,HCT-116,8,36
+sp12,FoxO signaling pathway,0.01973684273241816,HCT-116,8,37
+sp41,Thyroid hormone signaling pathway,0.019354839251251463,HCT-116,8,38
+sp34,Ras signaling pathway,0.01901267590532509,HCT-116,8,39
+sp33,Rap1 signaling pathway,0.01891831851997542,HCT-116,8,40
+sp48,p53 signaling pathway,0.018413598550133692,HCT-116,8,41
+sp22,MAPK signaling pathway,0.018157808739484665,HCT-116,8,42
+sp45,cAMP signaling pathway,0.016981132397930594,HCT-116,8,43
+sp44,Wnt signaling pathway,0.016839706583399835,HCT-116,8,44
+sp17,Hippo signaling pathway,0.016632809286453568,HCT-116,8,45
+sp8,Chemokine signaling pathway,0.015523285584800685,HCT-116,8,46
+sp28,PI3K-Akt signaling pathway,0.015519087432101801,HCT-116,8,47
+sp21,JAK-STAT signaling pathway,0.01294052891865362,HCT-116,8,48

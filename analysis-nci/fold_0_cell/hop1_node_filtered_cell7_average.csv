@@ -1,0 +1,28 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,1.0,EKVX,7,1
+sp37,Sphingolipid signaling pathway,0.5729274826,EKVX,7,2
+sp24,NOD-like receptor signaling pathway,0.52294769485,EKVX,7,3
+sp2,AMPK signaling pathway,0.504880636735,EKVX,7,4
+sp7,Calcium signaling pathway,0.438364252575,EKVX,7,5
+sp5,B cell receptor signaling pathway,0.38768184899999997,EKVX,7,6
+sp32,RIG-I-like receptor signaling pathway,0.363299196,EKVX,7,7
+sp46,cGMP-PKG signaling pathway,0.3514717618466667,EKVX,7,8
+sp33,Rap1 signaling pathway,0.17322081149999996,EKVX,7,9
+sp47,mTOR signaling pathway,0.1228447932113793,EKVX,7,10
+sp38,T cell receptor signaling pathway,0.1149119204,EKVX,7,11
+sp42,Toll-like receptor signaling pathway,0.07495704279999994,EKVX,7,12
+sp21,JAK-STAT signaling pathway,0.068191667697,EKVX,7,13
+sp28,PI3K-Akt signaling pathway,0.049511248619454155,EKVX,7,14
+sp4,Apelin signaling pathway,0.033412807546666666,EKVX,7,15
+sp3,Adipocytokine signaling pathway,0.024110594649999977,EKVX,7,16
+sp35,Relaxin signaling pathway,0.0232083704,EKVX,7,17
+sp6,C-type lectin receptor signaling pathway,0.022853764899999948,EKVX,7,18
+sp13,Glucagon signaling pathway,0.021247961399999977,EKVX,7,19
+sp20,Insulin signaling pathway,0.0204445376,EKVX,7,20
+sp23,NF-kappa B signaling pathway,0.01887296483,EKVX,7,21
+sp30,Phospholipase D signaling pathway,0.015459843677999973,EKVX,7,22
+sp29,PPAR signaling pathway,0.013661257838199969,EKVX,7,23
+sp41,Thyroid hormone signaling pathway,0.00982202275,EKVX,7,24
+sp17,Hippo signaling pathway,0.00934561891866665,EKVX,7,25
+sp44,Wnt signaling pathway,0.007830003286499986,EKVX,7,26
+sp45,cAMP signaling pathway,0.006139745239999966,EKVX,7,27

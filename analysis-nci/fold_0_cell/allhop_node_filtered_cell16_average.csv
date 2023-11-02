@@ -1,0 +1,44 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,0.50866801295,LOX IMVI,16,1
+sp24,NOD-like receptor signaling pathway,0.39832610676666663,LOX IMVI,16,2
+sp32,RIG-I-like receptor signaling pathway,0.37187375999999994,LOX IMVI,16,3
+sp5,B cell receptor signaling pathway,0.36020527999999996,LOX IMVI,16,4
+sp2,AMPK signaling pathway,0.2579264315343898,LOX IMVI,16,5
+sp37,Sphingolipid signaling pathway,0.16021877278000002,LOX IMVI,16,6
+sp46,cGMP-PKG signaling pathway,0.14544120928237497,LOX IMVI,16,7
+sp29,PPAR signaling pathway,0.13921114077650001,LOX IMVI,16,8
+sp7,Calcium signaling pathway,0.134775397878,LOX IMVI,16,9
+sp15,HIF-1 signaling pathway,0.1276464507622222,LOX IMVI,16,10
+sp19,IL-17 signaling pathway,0.11167126884499999,LOX IMVI,16,11
+sp3,Adipocytokine signaling pathway,0.11142361949999997,LOX IMVI,16,12
+sp34,Ras signaling pathway,0.099902662642,LOX IMVI,16,13
+sp31,Prolactin signaling pathway,0.0986677052,LOX IMVI,16,14
+sp38,T cell receptor signaling pathway,0.07433544336428573,LOX IMVI,16,15
+sp9,ErbB signaling pathway,0.06414471554999998,LOX IMVI,16,16
+sp25,Neurotrophin signaling pathway,0.04745311523347824,LOX IMVI,16,17
+sp22,MAPK signaling pathway,0.03626581029945623,LOX IMVI,16,18
+sp47,mTOR signaling pathway,0.03578738324502424,LOX IMVI,16,19
+sp33,Rap1 signaling pathway,0.03459012372467097,LOX IMVI,16,20
+sp42,Toll-like receptor signaling pathway,0.03174350689571428,LOX IMVI,16,21
+sp45,cAMP signaling pathway,0.03151189622238094,LOX IMVI,16,22
+sp11,Fc epsilon RI signaling pathway,0.03096412456666663,LOX IMVI,16,23
+sp36,Signaling pathways regulating pluripotency of stem cells,0.03077913696799998,LOX IMVI,16,24
+sp4,Apelin signaling pathway,0.028376932901545436,LOX IMVI,16,25
+sp14,GnRH signaling pathway,0.02726016155624999,LOX IMVI,16,26
+sp6,C-type lectin receptor signaling pathway,0.026932537723333316,LOX IMVI,16,27
+sp30,Phospholipase D signaling pathway,0.02629537923909089,LOX IMVI,16,28
+sp17,Hippo signaling pathway,0.025526928050407387,LOX IMVI,16,29
+sp41,Thyroid hormone signaling pathway,0.02060549617057725,LOX IMVI,16,30
+sp27,Oxytocin signaling pathway,0.020150799174669436,LOX IMVI,16,31
+sp40,TNF signaling pathway,0.01990572732649999,LOX IMVI,16,32
+sp28,PI3K-Akt signaling pathway,0.018397082774428992,LOX IMVI,16,33
+sp13,Glucagon signaling pathway,0.018095695603333333,LOX IMVI,16,34
+sp21,JAK-STAT signaling pathway,0.01804786747642856,LOX IMVI,16,35
+sp23,NF-kappa B signaling pathway,0.016747317309999975,LOX IMVI,16,36
+sp20,Insulin signaling pathway,0.016742806088456887,LOX IMVI,16,37
+sp44,Wnt signaling pathway,0.015566637215858577,LOX IMVI,16,38
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.015071051136733323,LOX IMVI,16,39
+sp35,Relaxin signaling pathway,0.01259549727399997,LOX IMVI,16,40
+sp8,Chemokine signaling pathway,0.012044766684285692,LOX IMVI,16,41
+sp12,FoxO signaling pathway,0.012012826528333317,LOX IMVI,16,42
+sp48,p53 signaling pathway,0.00984469876909998,LOX IMVI,16,43

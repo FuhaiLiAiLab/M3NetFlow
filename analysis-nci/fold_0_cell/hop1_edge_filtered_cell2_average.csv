@@ -1,0 +1,36 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp32,RIG-I-like receptor signaling pathway,0.06741383871930379,A549/ATCC,2,1
+sp30,Phospholipase D signaling pathway,0.045785080528536665,A549/ATCC,2,2
+sp42,Toll-like receptor signaling pathway,0.04331882083880595,A549/ATCC,2,3
+sp36,Signaling pathways regulating pluripotency of stem cells,0.04126351402571073,A549/ATCC,2,4
+sp18,Hippo signaling pathway - multiple species,0.039436966319354824,A549/ATCC,2,5
+sp31,Prolactin signaling pathway,0.038920472698369395,A549/ATCC,2,6
+sp20,Insulin signaling pathway,0.03739368955404706,A549/ATCC,2,7
+sp6,C-type lectin receptor signaling pathway,0.03731190135615018,A549/ATCC,2,8
+sp37,Sphingolipid signaling pathway,0.03684712526561796,A549/ATCC,2,9
+sp26,Notch signaling pathway,0.03481767557933332,A549/ATCC,2,10
+sp27,Oxytocin signaling pathway,0.03108752565929126,A549/ATCC,2,11
+sp46,cGMP-PKG signaling pathway,0.02912854171707423,A549/ATCC,2,12
+sp16,Hedgehog signaling pathway,0.028993799814999985,A549/ATCC,2,13
+sp13,Glucagon signaling pathway,0.028599458730383453,A549/ATCC,2,14
+sp47,mTOR signaling pathway,0.028414416963403043,A549/ATCC,2,15
+sp3,Adipocytokine signaling pathway,0.028120596265614018,A549/ATCC,2,16
+sp7,Calcium signaling pathway,0.027960590400297827,A549/ATCC,2,17
+sp33,Rap1 signaling pathway,0.02623356517615097,A549/ATCC,2,18
+sp19,IL-17 signaling pathway,0.025487138911071416,A549/ATCC,2,19
+sp35,Relaxin signaling pathway,0.0248438054160194,A549/ATCC,2,20
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.024796860875168126,A549/ATCC,2,21
+sp25,Neurotrophin signaling pathway,0.02439372023808437,A549/ATCC,2,22
+sp44,Wnt signaling pathway,0.022887544407199,A549/ATCC,2,23
+sp15,HIF-1 signaling pathway,0.0219541569422655,A549/ATCC,2,24
+sp12,FoxO signaling pathway,0.02157330013507245,A549/ATCC,2,25
+sp34,Ras signaling pathway,0.01969426127763509,A549/ATCC,2,26
+sp48,p53 signaling pathway,0.01941146004582322,A549/ATCC,2,27
+sp2,AMPK signaling pathway,0.0193015962356842,A549/ATCC,2,28
+sp4,Apelin signaling pathway,0.019095810144320643,A549/ATCC,2,29
+sp8,Chemokine signaling pathway,0.017988729211029095,A549/ATCC,2,30
+sp17,Hippo signaling pathway,0.01792626437640415,A549/ATCC,2,31
+sp41,Thyroid hormone signaling pathway,0.017645316624887736,A549/ATCC,2,32
+sp22,MAPK signaling pathway,0.017285227081770542,A549/ATCC,2,33
+sp28,PI3K-Akt signaling pathway,0.014791256192536795,A549/ATCC,2,34
+sp45,cAMP signaling pathway,0.014089812049214804,A549/ATCC,2,35

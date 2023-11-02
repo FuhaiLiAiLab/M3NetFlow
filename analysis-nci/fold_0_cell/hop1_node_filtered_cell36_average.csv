@@ -1,0 +1,37 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,1.0,SR,36,1
+sp7,Calcium signaling pathway,0.45217537257499996,SR,36,2
+sp24,NOD-like receptor signaling pathway,0.3964081100666666,SR,36,3
+sp37,Sphingolipid signaling pathway,0.3960113791666666,SR,36,4
+sp32,RIG-I-like receptor signaling pathway,0.24713806299999996,SR,36,5
+sp5,B cell receptor signaling pathway,0.24523559619999996,SR,36,6
+sp46,cGMP-PKG signaling pathway,0.214515844022,SR,36,7
+sp25,Neurotrophin signaling pathway,0.1755960825,SR,36,8
+sp3,Adipocytokine signaling pathway,0.14703732505724995,SR,36,9
+sp15,HIF-1 signaling pathway,0.13784076986023255,SR,36,10
+sp38,T cell receptor signaling pathway,0.10815868719999999,SR,36,11
+sp17,Hippo signaling pathway,0.10762142664290628,SR,36,12
+sp2,AMPK signaling pathway,0.0992933230698855,SR,36,13
+sp28,PI3K-Akt signaling pathway,0.09057901242648561,SR,36,14
+sp29,PPAR signaling pathway,0.08756553206333331,SR,36,15
+sp4,Apelin signaling pathway,0.08325029258315789,SR,36,16
+sp47,mTOR signaling pathway,0.07753794891351667,SR,36,17
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.0661494495,SR,36,18
+sp35,Relaxin signaling pathway,0.0642479782025,SR,36,19
+sp33,Rap1 signaling pathway,0.06063961166249996,SR,36,20
+sp27,Oxytocin signaling pathway,0.05307045943436325,SR,36,21
+sp21,JAK-STAT signaling pathway,0.044610257155290885,SR,36,22
+sp42,Toll-like receptor signaling pathway,0.042092263175,SR,36,23
+sp36,Signaling pathways regulating pluripotency of stem cells,0.02640179987,SR,36,24
+sp13,Glucagon signaling pathway,0.02201195352999995,SR,36,25
+sp6,C-type lectin receptor signaling pathway,0.020065270599999997,SR,36,26
+sp20,Insulin signaling pathway,0.01987308609999995,SR,36,27
+sp23,NF-kappa B signaling pathway,0.01690212219,SR,36,28
+sp30,Phospholipase D signaling pathway,0.016834213647999995,SR,36,29
+sp39,TGF-beta signaling pathway,0.012446809386666667,SR,36,30
+sp22,MAPK signaling pathway,0.012392881114999999,SR,36,31
+sp12,FoxO signaling pathway,0.011352265796666658,SR,36,32
+sp41,Thyroid hormone signaling pathway,0.010186553363333333,SR,36,33
+sp44,Wnt signaling pathway,0.00949592322846153,SR,36,34
+sp48,p53 signaling pathway,0.008569138505,SR,36,35
+sp45,cAMP signaling pathway,0.005812954309999966,SR,36,36

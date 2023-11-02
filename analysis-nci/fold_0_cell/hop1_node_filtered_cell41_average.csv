@@ -1,0 +1,32 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,1.0,UACC-62,41,1
+sp37,Sphingolipid signaling pathway,0.51689237965,UACC-62,41,2
+sp2,AMPK signaling pathway,0.504576874067,UACC-62,41,3
+sp7,Calcium signaling pathway,0.443571312425,UACC-62,41,4
+sp24,NOD-like receptor signaling pathway,0.42638041390000003,UACC-62,41,5
+sp5,B cell receptor signaling pathway,0.351681747,UACC-62,41,6
+sp46,cGMP-PKG signaling pathway,0.35030536076666663,UACC-62,41,7
+sp32,RIG-I-like receptor signaling pathway,0.20000384664999998,UACC-62,41,8
+sp33,Rap1 signaling pathway,0.15944607799999994,UACC-62,41,9
+sp25,Neurotrophin signaling pathway,0.12835174835000002,UACC-62,41,10
+sp38,T cell receptor signaling pathway,0.1149554206,UACC-62,41,11
+sp29,PPAR signaling pathway,0.10481044906799997,UACC-62,41,12
+sp42,Toll-like receptor signaling pathway,0.09240931439999996,UACC-62,41,13
+sp47,mTOR signaling pathway,0.08364435053875,UACC-62,41,14
+sp28,PI3K-Akt signaling pathway,0.040168003459993024,UACC-62,41,15
+sp3,Adipocytokine signaling pathway,0.02708336129999995,UACC-62,41,16
+sp23,NF-kappa B signaling pathway,0.0236149317,UACC-62,41,17
+sp13,Glucagon signaling pathway,0.02279551064999995,UACC-62,41,18
+sp44,Wnt signaling pathway,0.020922459764285712,UACC-62,41,19
+sp6,C-type lectin receptor signaling pathway,0.020812617300000003,UACC-62,41,20
+sp14,GnRH signaling pathway,0.02007064452999996,UACC-62,41,21
+sp20,Insulin signaling pathway,0.01706885315,UACC-62,41,22
+sp30,Phospholipase D signaling pathway,0.01675065703499998,UACC-62,41,23
+sp35,Relaxin signaling pathway,0.011230428563333299,UACC-62,41,24
+sp48,p53 signaling pathway,0.010869043479999988,UACC-62,41,25
+sp4,Apelin signaling pathway,0.010195397133333334,UACC-62,41,26
+sp41,Thyroid hormone signaling pathway,0.008064896330151,UACC-62,41,27
+sp21,JAK-STAT signaling pathway,0.007490680339999987,UACC-62,41,28
+sp22,MAPK signaling pathway,0.006138127537333317,UACC-62,41,29
+sp45,cAMP signaling pathway,0.005777013549999983,UACC-62,41,30
+sp17,Hippo signaling pathway,0.00469235084,UACC-62,41,31

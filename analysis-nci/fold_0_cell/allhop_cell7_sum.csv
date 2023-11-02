@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,sum_rank
+sp28,PI3K-Akt signaling pathway,261.0000090798116,EKVX,7,1
+sp22,MAPK signaling pathway,220.00000867591763,EKVX,7,2
+sp34,Ras signaling pathway,171.00001121844986,EKVX,7,3
+sp33,Rap1 signaling pathway,170.00000743941905,EKVX,7,4
+sp45,cAMP signaling pathway,162.00000913068186,EKVX,7,5
+sp7,Calcium signaling pathway,135.00000390555994,EKVX,7,6
+sp44,Wnt signaling pathway,133.00000841095388,EKVX,7,7
+sp17,Hippo signaling pathway,131.0000041946801,EKVX,7,8
+sp47,mTOR signaling pathway,127.00000337818392,EKVX,7,9
+sp8,Chemokine signaling pathway,124.00000337790189,EKVX,7,10
+sp27,Oxytocin signaling pathway,117.0000046464225,EKVX,7,11
+sp46,cGMP-PKG signaling pathway,109.00000318094594,EKVX,7,12
+sp35,Relaxin signaling pathway,102.00000444325994,EKVX,7,13
+sp20,Insulin signaling pathway,101.00000369948596,EKVX,7,14
+sp25,Neurotrophin signaling pathway,100.00000412936394,EKVX,7,15
+sp12,FoxO signaling pathway,96.00000561267993,EKVX,7,16
+sp4,Apelin signaling pathway,96.00000535136593,EKVX,7,17
+sp41,Thyroid hormone signaling pathway,96.00000312937269,EKVX,7,18
+sp21,JAK-STAT signaling pathway,94.0000041981139,EKVX,7,19
+sp36,Signaling pathways regulating pluripotency of stem cells,91.00000316983997,EKVX,7,20
+sp10,Estrogen signaling pathway,89.00000279472529,EKVX,7,21
+sp30,Phospholipase D signaling pathway,86.00000291587996,EKVX,7,22
+sp24,NOD-like receptor signaling pathway,85.00000228952288,EKVX,7,23
+sp15,HIF-1 signaling pathway,81.00000258422844,EKVX,7,24
+sp37,Sphingolipid signaling pathway,77.00000240825997,EKVX,7,25
+sp2,AMPK signaling pathway,75.00000186619336,EKVX,7,26
+sp39,TGF-beta signaling pathway,73.00000312545995,EKVX,7,27
+sp38,T cell receptor signaling pathway,73.00000293897997,EKVX,7,28
+sp6,C-type lectin receptor signaling pathway,72.00000241583997,EKVX,7,29
+sp13,Glucagon signaling pathway,69.00000247148996,EKVX,7,30
+sp14,GnRH signaling pathway,68.00000211299998,EKVX,7,31
+sp48,p53 signaling pathway,65.00000331267795,EKVX,7,32
+sp9,ErbB signaling pathway,64.00000164455999,EKVX,7,33
+sp1,AGE-RAGE signaling pathway in diabetic complications,62.000001884179966,EKVX,7,34
+sp23,NF-kappa B signaling pathway,59.000001982099974,EKVX,7,35
+sp40,TNF signaling pathway,59.00000194497998,EKVX,7,36
+sp42,Toll-like receptor signaling pathway,57.000002453739974,EKVX,7,37
+sp31,Prolactin signaling pathway,57.00000186268198,EKVX,7,38
+sp19,IL-17 signaling pathway,56.00000248489995,EKVX,7,39
+sp5,B cell receptor signaling pathway,52.000001495999996,EKVX,7,40
+sp26,Notch signaling pathway,50.00000205977996,EKVX,7,41
+sp43,VEGF signaling pathway,49.00000183597998,EKVX,7,42
+sp16,Hedgehog signaling pathway,48.000002686407974,EKVX,7,43
+sp29,PPAR signaling pathway,44.000001125253974,EKVX,7,44
+sp3,Adipocytokine signaling pathway,44.00000081095998,EKVX,7,45
+sp11,Fc epsilon RI signaling pathway,42.00000134715999,EKVX,7,46
+sp32,RIG-I-like receptor signaling pathway,40.000001240799996,EKVX,7,47
+sp18,Hippo signaling pathway - multiple species,26.000000733219995,EKVX,7,48

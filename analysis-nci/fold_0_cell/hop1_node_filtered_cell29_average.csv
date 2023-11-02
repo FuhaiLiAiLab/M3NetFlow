@@ -1,0 +1,36 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,1.0,SF-295,29,1
+sp24,NOD-like receptor signaling pathway,0.53254490725,SF-295,29,2
+sp7,Calcium signaling pathway,0.43561146744999996,SF-295,29,3
+sp37,Sphingolipid signaling pathway,0.40841325593333333,SF-295,29,4
+sp5,B cell receptor signaling pathway,0.382217343,SF-295,29,5
+sp46,cGMP-PKG signaling pathway,0.34871551698333336,SF-295,29,6
+sp2,AMPK signaling pathway,0.25746250061982373,SF-295,29,7
+sp32,RIG-I-like receptor signaling pathway,0.1411985872,SF-295,29,8
+sp29,PPAR signaling pathway,0.11722489069559998,SF-295,29,9
+sp38,T cell receptor signaling pathway,0.1159568446,SF-295,29,10
+sp42,Toll-like receptor signaling pathway,0.08052445833,SF-295,29,11
+sp47,mTOR signaling pathway,0.07584243954277776,SF-295,29,12
+sp21,JAK-STAT signaling pathway,0.040707139229999974,SF-295,29,13
+sp25,Neurotrophin signaling pathway,0.0309496129,SF-295,29,14
+sp28,PI3K-Akt signaling pathway,0.03011009258599509,SF-295,29,15
+sp3,Adipocytokine signaling pathway,0.029710590499999998,SF-295,29,16
+sp13,Glucagon signaling pathway,0.023799528769999974,SF-295,29,17
+sp14,GnRH signaling pathway,0.023776526617499988,SF-295,29,18
+sp33,Rap1 signaling pathway,0.022411181000000002,SF-295,29,19
+sp36,Signaling pathways regulating pluripotency of stem cells,0.022079111800000002,SF-295,29,20
+sp6,C-type lectin receptor signaling pathway,0.0215230345999999,SF-295,29,21
+sp20,Insulin signaling pathway,0.0191115121,SF-295,29,22
+sp23,NF-kappa B signaling pathway,0.01814868188,SF-295,29,23
+sp45,cAMP signaling pathway,0.017065123249999963,SF-295,29,24
+sp30,Phospholipase D signaling pathway,0.015783515195454532,SF-295,29,25
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.01455993805,SF-295,29,26
+sp39,TGF-beta signaling pathway,0.01172698566999995,SF-295,29,27
+sp12,FoxO signaling pathway,0.010205891949999974,SF-295,29,28
+sp35,Relaxin signaling pathway,0.00962694892999995,SF-295,29,29
+sp41,Thyroid hormone signaling pathway,0.00935009866,SF-295,29,30
+sp48,p53 signaling pathway,0.009083904075,SF-295,29,31
+sp4,Apelin signaling pathway,0.008422042144999963,SF-295,29,32
+sp44,Wnt signaling pathway,0.008222522986923057,SF-295,29,33
+sp17,Hippo signaling pathway,0.00691048130399995,SF-295,29,34
+sp22,MAPK signaling pathway,0.005351671139344975,SF-295,29,35

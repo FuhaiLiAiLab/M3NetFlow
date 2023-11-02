@@ -1,0 +1,66 @@
+SpNotation,cell_line_name,Attention,SignalingPath
+sp16,A498,1.0,Hedgehog signaling pathway
+sp16,A549/ATCC,1.0,Hedgehog signaling pathway
+sp16,ACHN,1.0,Hedgehog signaling pathway
+sp2,BT-549,1.0,AMPK signaling pathway
+sp2,CAKI-1,0.340630137,AMPK signaling pathway
+sp16,DU-145,1.0,Hedgehog signaling pathway
+sp16,EKVX,1.0,Hedgehog signaling pathway
+sp37,EKVX,0.5729274826,Sphingolipid signaling pathway
+sp16,HCT-116,1.0,Hedgehog signaling pathway
+sp24,HCT-116,0.5416933723,NOD-like receptor signaling pathway
+sp16,HCT-15,1.0,Hedgehog signaling pathway
+sp37,HCT-15,1.0,Sphingolipid signaling pathway
+sp46,HCT-15,1.0,cGMP-PKG signaling pathway
+sp16,HOP-62,1.0,Hedgehog signaling pathway
+sp16,HOP-92,1.0,Hedgehog signaling pathway
+sp16,HS 578T,1.0,Hedgehog signaling pathway
+sp37,HS 578T,1.0,Sphingolipid signaling pathway
+sp16,IGROV1,1.0,Hedgehog signaling pathway
+sp16,K-562,1.0,Hedgehog signaling pathway
+sp24,K-562,0.53444457705,NOD-like receptor signaling pathway
+sp16,KM12,1.0,Hedgehog signaling pathway
+sp37,KM12,1.0,Sphingolipid signaling pathway
+sp46,KM12,1.0,cGMP-PKG signaling pathway
+sp16,LOX IMVI,1.0,Hedgehog signaling pathway
+sp2,MCF7,1.0,AMPK signaling pathway
+sp16,MDA-MB-231/ATCC,1.0,Hedgehog signaling pathway
+sp16,MDA-MB-468,1.0,Hedgehog signaling pathway
+sp37,MDA-MB-468,0.5582877693499999,Sphingolipid signaling pathway
+sp16,NCI-H23,1.0,Hedgehog signaling pathway
+sp37,NCI-H23,1.0,Sphingolipid signaling pathway
+sp46,NCI-H23,1.0,cGMP-PKG signaling pathway
+sp16,NCI-H460,1.0,Hedgehog signaling pathway
+sp32,NCI-H522,0.34556613,RIG-I-like receptor signaling pathway
+sp16,OVCAR-3,1.0,Hedgehog signaling pathway
+sp16,OVCAR-4,1.0,Hedgehog signaling pathway
+sp16,OVCAR-8,1.0,Hedgehog signaling pathway
+sp37,OVCAR-8,1.0,Sphingolipid signaling pathway
+sp16,PC-3,1.0,Hedgehog signaling pathway
+sp16,RPMI-8226,1.0,Hedgehog signaling pathway
+sp24,RPMI-8226,0.55590205415,NOD-like receptor signaling pathway
+sp2,SF-268,0.5047471567652775,AMPK signaling pathway
+sp16,SF-295,1.0,Hedgehog signaling pathway
+sp16,SF-539,1.0,Hedgehog signaling pathway
+sp24,SF-539,1.0,NOD-like receptor signaling pathway
+sp46,SF-539,1.0,cGMP-PKG signaling pathway
+sp16,SK-MEL-2,1.0,Hedgehog signaling pathway
+sp24,SK-MEL-2,0.53762017775,NOD-like receptor signaling pathway
+sp37,SK-MEL-2,0.55549350675,Sphingolipid signaling pathway
+sp46,SK-MEL-2,1.0,cGMP-PKG signaling pathway
+sp16,SK-MEL-28,1.0,Hedgehog signaling pathway
+sp37,SK-MEL-28,1.0,Sphingolipid signaling pathway
+sp46,SK-MEL-28,1.0,cGMP-PKG signaling pathway
+sp16,SK-MEL-5,1.0,Hedgehog signaling pathway
+sp2,SK-OV-3,1.0,AMPK signaling pathway
+sp16,SNB-75,1.0,Hedgehog signaling pathway
+sp16,SR,1.0,Hedgehog signaling pathway
+sp16,SW-620,1.0,Hedgehog signaling pathway
+sp37,SW-620,1.0,Sphingolipid signaling pathway
+sp16,T-47D,1.0,Hedgehog signaling pathway
+sp16,U251,1.0,Hedgehog signaling pathway
+sp37,U251,1.0,Sphingolipid signaling pathway
+sp16,UACC-257,1.0,Hedgehog signaling pathway
+sp37,UACC-257,0.5667955525999999,Sphingolipid signaling pathway
+sp16,UACC-62,1.0,Hedgehog signaling pathway
+sp2,UO-31,1.0,AMPK signaling pathway

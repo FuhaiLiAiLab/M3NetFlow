@@ -1,0 +1,33 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp16,Hedgehog signaling pathway,1.0,OVCAR-3,23,1
+sp37,Sphingolipid signaling pathway,0.51954008845,OVCAR-3,23,2
+sp7,Calcium signaling pathway,0.447853536125,OVCAR-3,23,3
+sp24,NOD-like receptor signaling pathway,0.40077599919999995,OVCAR-3,23,4
+sp46,cGMP-PKG signaling pathway,0.35132131747,OVCAR-3,23,5
+sp32,RIG-I-like receptor signaling pathway,0.3200509309999999,OVCAR-3,23,6
+sp5,B cell receptor signaling pathway,0.30102784899999996,OVCAR-3,23,7
+sp2,AMPK signaling pathway,0.133617165472125,OVCAR-3,23,8
+sp33,Rap1 signaling pathway,0.12097523928381593,OVCAR-3,23,9
+sp29,PPAR signaling pathway,0.10771422026999997,OVCAR-3,23,10
+sp38,T cell receptor signaling pathway,0.09327975429999999,OVCAR-3,23,11
+sp47,mTOR signaling pathway,0.06986140421577892,OVCAR-3,23,12
+sp42,Toll-like receptor signaling pathway,0.0574108148,OVCAR-3,23,13
+sp6,C-type lectin receptor signaling pathway,0.046625679275,OVCAR-3,23,14
+sp3,Adipocytokine signaling pathway,0.0265588797,OVCAR-3,23,15
+sp28,PI3K-Akt signaling pathway,0.024507859458376004,OVCAR-3,23,16
+sp13,Glucagon signaling pathway,0.022027487949999976,OVCAR-3,23,17
+sp36,Signaling pathways regulating pluripotency of stem cells,0.02195630984,OVCAR-3,23,18
+sp20,Insulin signaling pathway,0.01803072963,OVCAR-3,23,19
+sp23,NF-kappa B signaling pathway,0.017764115499999948,OVCAR-3,23,20
+sp30,Phospholipase D signaling pathway,0.01591046312699996,OVCAR-3,23,21
+sp39,TGF-beta signaling pathway,0.01178303827,OVCAR-3,23,22
+sp35,Relaxin signaling pathway,0.011349639736666651,OVCAR-3,23,23
+sp12,FoxO signaling pathway,0.00973113797666665,OVCAR-3,23,24
+sp22,MAPK signaling pathway,0.00926067508,OVCAR-3,23,25
+sp44,Wnt signaling pathway,0.008885476126666651,OVCAR-3,23,26
+sp41,Thyroid hormone signaling pathway,0.0085022383474844,OVCAR-3,23,27
+sp48,p53 signaling pathway,0.00827241944499995,OVCAR-3,23,28
+sp4,Apelin signaling pathway,0.00793364667166665,OVCAR-3,23,29
+sp21,JAK-STAT signaling pathway,0.00761419594625,OVCAR-3,23,30
+sp17,Hippo signaling pathway,0.007133277469999999,OVCAR-3,23,31
+sp45,cAMP signaling pathway,0.005565121489999983,OVCAR-3,23,32

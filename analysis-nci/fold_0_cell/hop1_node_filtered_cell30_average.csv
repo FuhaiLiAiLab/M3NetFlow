@@ -1,0 +1,26 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp46,cGMP-PKG signaling pathway,1.0,SF-539,30,1
+sp16,Hedgehog signaling pathway,1.0,SF-539,30,2
+sp24,NOD-like receptor signaling pathway,1.0,SF-539,30,3
+sp37,Sphingolipid signaling pathway,0.51808973535,SF-539,30,4
+sp7,Calcium signaling pathway,0.4111689167,SF-539,30,5
+sp5,B cell receptor signaling pathway,0.35122911300000004,SF-539,30,6
+sp2,AMPK signaling pathway,0.25712918691857,SF-539,30,7
+sp29,PPAR signaling pathway,0.14339297284546,SF-539,30,8
+sp38,T cell receptor signaling pathway,0.110341573,SF-539,30,9
+sp47,mTOR signaling pathway,0.08157765320874999,SF-539,30,10
+sp28,PI3K-Akt signaling pathway,0.028026866271652844,SF-539,30,11
+sp3,Adipocytokine signaling pathway,0.023597663365,SF-539,30,12
+sp13,Glucagon signaling pathway,0.022809601019999973,SF-539,30,13
+sp6,C-type lectin receptor signaling pathway,0.0219510189,SF-539,30,14
+sp23,NF-kappa B signaling pathway,0.015175977005,SF-539,30,15
+sp42,Toll-like receptor signaling pathway,0.014519694100000001,SF-539,30,16
+sp8,Chemokine signaling pathway,0.01241417608,SF-539,30,17
+sp48,p53 signaling pathway,0.012037444835,SF-539,30,18
+sp35,Relaxin signaling pathway,0.01141922914999995,SF-539,30,19
+sp12,FoxO signaling pathway,0.009981782783749988,SF-539,30,20
+sp44,Wnt signaling pathway,0.008937001033571413,SF-539,30,21
+sp17,Hippo signaling pathway,0.008868251819999999,SF-539,30,22
+sp4,Apelin signaling pathway,0.0075411546919999795,SF-539,30,23
+sp21,JAK-STAT signaling pathway,0.006525850561571428,SF-539,30,24
+sp45,cAMP signaling pathway,0.005903500544333283,SF-539,30,25

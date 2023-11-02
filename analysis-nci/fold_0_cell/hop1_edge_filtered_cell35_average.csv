@@ -1,0 +1,32 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp32,RIG-I-like receptor signaling pathway,0.0662384480308917,SNB-75,35,1
+sp18,Hippo signaling pathway - multiple species,0.05630046119018986,SNB-75,35,2
+sp37,Sphingolipid signaling pathway,0.055360740194240504,SNB-75,35,3
+sp11,Fc epsilon RI signaling pathway,0.05331406537885244,SNB-75,35,4
+sp3,Adipocytokine signaling pathway,0.041421270823421036,SNB-75,35,5
+sp36,Signaling pathways regulating pluripotency of stem cells,0.03678869407783782,SNB-75,35,6
+sp39,TGF-beta signaling pathway,0.03655191551180271,SNB-75,35,7
+sp6,C-type lectin receptor signaling pathway,0.03615384161986165,SNB-75,35,8
+sp19,IL-17 signaling pathway,0.03543896966290321,SNB-75,35,9
+sp7,Calcium signaling pathway,0.03379527173035855,SNB-75,35,10
+sp46,cGMP-PKG signaling pathway,0.0337771987543783,SNB-75,35,11
+sp31,Prolactin signaling pathway,0.03281486806731307,SNB-75,35,12
+sp13,Glucagon signaling pathway,0.025585518814956295,SNB-75,35,13
+sp25,Neurotrophin signaling pathway,0.02422919923044655,SNB-75,35,14
+sp29,PPAR signaling pathway,0.023882542657193143,SNB-75,35,15
+sp15,HIF-1 signaling pathway,0.023863943513668665,SNB-75,35,16
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.022548801795438323,SNB-75,35,17
+sp33,Rap1 signaling pathway,0.022200374907394835,SNB-75,35,18
+sp47,mTOR signaling pathway,0.022127128034411168,SNB-75,35,19
+sp2,AMPK signaling pathway,0.021104376128475287,SNB-75,35,20
+sp48,p53 signaling pathway,0.020727714512922824,SNB-75,35,21
+sp4,Apelin signaling pathway,0.020422953280394868,SNB-75,35,22
+sp41,Thyroid hormone signaling pathway,0.01996455477399185,SNB-75,35,23
+sp22,MAPK signaling pathway,0.019317338566924136,SNB-75,35,24
+sp45,cAMP signaling pathway,0.018790020333491593,SNB-75,35,25
+sp12,FoxO signaling pathway,0.015955530742499984,SNB-75,35,26
+sp44,Wnt signaling pathway,0.014548803278917425,SNB-75,35,27
+sp28,PI3K-Akt signaling pathway,0.014442574001073611,SNB-75,35,28
+sp8,Chemokine signaling pathway,0.014317981842071587,SNB-75,35,29
+sp17,Hippo signaling pathway,0.01321074058571791,SNB-75,35,30
+sp21,JAK-STAT signaling pathway,0.009503945061078982,SNB-75,35,31

@@ -1,0 +1,30 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp11,Fc epsilon RI signaling pathway,0.06202586706947865,HS 578T,12,1
+sp20,Insulin signaling pathway,0.06060254554630188,HS 578T,12,2
+sp14,GnRH signaling pathway,0.0510829478779649,HS 578T,12,3
+sp40,TNF signaling pathway,0.042568770986535616,HS 578T,12,4
+sp6,C-type lectin receptor signaling pathway,0.04126540965968378,HS 578T,12,5
+sp46,cGMP-PKG signaling pathway,0.035632699889665505,HS 578T,12,6
+sp3,Adipocytokine signaling pathway,0.03431687355649121,HS 578T,12,7
+sp10,Estrogen signaling pathway,0.032519386269221504,HS 578T,12,8
+sp27,Oxytocin signaling pathway,0.031186288872655107,HS 578T,12,9
+sp23,NF-kappa B signaling pathway,0.027766313535049488,HS 578T,12,10
+sp35,Relaxin signaling pathway,0.027084705418503507,HS 578T,12,11
+sp47,mTOR signaling pathway,0.025635874550607927,HS 578T,12,12
+sp7,Calcium signaling pathway,0.024160810310929908,HS 578T,12,13
+sp16,Hedgehog signaling pathway,0.023061983126603756,HS 578T,12,14
+sp4,Apelin signaling pathway,0.02257752994978472,HS 578T,12,15
+sp15,HIF-1 signaling pathway,0.022231690795721248,HS 578T,12,16
+sp29,PPAR signaling pathway,0.022155489927085607,HS 578T,12,17
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.021944756615087584,HS 578T,12,18
+sp22,MAPK signaling pathway,0.021042626715325804,HS 578T,12,19
+sp2,AMPK signaling pathway,0.02022864075943561,HS 578T,12,20
+sp41,Thyroid hormone signaling pathway,0.02002853248108356,HS 578T,12,21
+sp45,cAMP signaling pathway,0.018587646575291345,HS 578T,12,22
+sp44,Wnt signaling pathway,0.01690214408085018,HS 578T,12,23
+sp12,FoxO signaling pathway,0.01591393141432054,HS 578T,12,24
+sp34,Ras signaling pathway,0.014457066761746537,HS 578T,12,25
+sp17,Hippo signaling pathway,0.01436955558853189,HS 578T,12,26
+sp28,PI3K-Akt signaling pathway,0.01330095210221179,HS 578T,12,27
+sp8,Chemokine signaling pathway,0.013274632262568479,HS 578T,12,28
+sp21,JAK-STAT signaling pathway,0.01237260271625982,HS 578T,12,29

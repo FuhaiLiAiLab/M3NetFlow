@@ -1,0 +1,32 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp40,TNF signaling pathway,0.059830192534876016,SF-295,29,1
+sp18,Hippo signaling pathway - multiple species,0.05545878816771652,SF-295,29,2
+sp42,Toll-like receptor signaling pathway,0.0435885717745652,SF-295,29,3
+sp6,C-type lectin receptor signaling pathway,0.042652954864583315,SF-295,29,4
+sp3,Adipocytokine signaling pathway,0.040744086469736825,SF-295,29,5
+sp43,VEGF signaling pathway,0.035054591463174585,SF-295,29,6
+sp46,cGMP-PKG signaling pathway,0.03465262133991378,SF-295,29,7
+sp13,Glucagon signaling pathway,0.03137760048973775,SF-295,29,8
+sp35,Relaxin signaling pathway,0.02945085082259009,SF-295,29,9
+sp16,Hedgehog signaling pathway,0.02795012162925713,SF-295,29,10
+sp39,TGF-beta signaling pathway,0.027489677074224644,SF-295,29,11
+sp23,NF-kappa B signaling pathway,0.027104752217003727,SF-295,29,12
+sp19,IL-17 signaling pathway,0.025281424581974233,SF-295,29,13
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.025048244603049004,SF-295,29,14
+sp15,HIF-1 signaling pathway,0.023811793494138755,SF-295,29,15
+sp7,Calcium signaling pathway,0.023008848300103347,SF-295,29,16
+sp29,PPAR signaling pathway,0.02224156308420637,SF-295,29,17
+sp44,Wnt signaling pathway,0.02200917647514959,SF-295,29,18
+sp12,FoxO signaling pathway,0.021276832791165295,SF-295,29,19
+sp22,MAPK signaling pathway,0.021018344950333518,SF-295,29,20
+sp47,mTOR signaling pathway,0.02064719994151438,SF-295,29,21
+sp8,Chemokine signaling pathway,0.01839581196005992,SF-295,29,22
+sp34,Ras signaling pathway,0.018077518117363214,SF-295,29,23
+sp45,cAMP signaling pathway,0.015744126488128465,SF-295,29,24
+sp28,PI3K-Akt signaling pathway,0.015644756353877534,SF-295,29,25
+sp4,Apelin signaling pathway,0.01541247043866269,SF-295,29,26
+sp2,AMPK signaling pathway,0.014842403787235527,SF-295,29,27
+sp33,Rap1 signaling pathway,0.014139829295739021,SF-295,29,28
+sp17,Hippo signaling pathway,0.013751929094690212,SF-295,29,29
+sp21,JAK-STAT signaling pathway,0.012837348679884598,SF-295,29,30
+sp27,Oxytocin signaling pathway,0.01086869467015383,SF-295,29,31

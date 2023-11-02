@@ -1,0 +1,49 @@
+SpNotation,SignalingPath,Attention,cell_line_name,cell_line_num,mean_rank
+sp5,B cell receptor signaling pathway,0.1417305761927536,BT-549,4,1
+sp24,NOD-like receptor signaling pathway,0.10246119626775411,BT-549,4,2
+sp14,GnRH signaling pathway,0.09276542631220337,BT-549,4,3
+sp32,RIG-I-like receptor signaling pathway,0.07664273666610168,BT-549,4,4
+sp11,Fc epsilon RI signaling pathway,0.07399768178580245,BT-549,4,5
+sp42,Toll-like receptor signaling pathway,0.06330632211612068,BT-549,4,6
+sp38,T cell receptor signaling pathway,0.0628324890025185,BT-549,4,7
+sp40,TNF signaling pathway,0.06192630343635512,BT-549,4,8
+sp18,Hippo signaling pathway - multiple species,0.05666510786509433,BT-549,4,9
+sp9,ErbB signaling pathway,0.04970153708918031,BT-549,4,10
+sp31,Prolactin signaling pathway,0.048697358190136035,BT-549,4,11
+sp43,VEGF signaling pathway,0.045645269466548656,BT-549,4,12
+sp37,Sphingolipid signaling pathway,0.045447036122128324,BT-549,4,13
+sp30,Phospholipase D signaling pathway,0.0439009732446895,BT-549,4,14
+sp46,cGMP-PKG signaling pathway,0.043151752621176216,BT-549,4,15
+sp6,C-type lectin receptor signaling pathway,0.0410703960045652,BT-549,4,16
+sp36,Signaling pathways regulating pluripotency of stem cells,0.039798640366779645,BT-549,4,17
+sp20,Insulin signaling pathway,0.03746659813414994,BT-549,4,18
+sp10,Estrogen signaling pathway,0.03644759601761132,BT-549,4,19
+sp3,Adipocytokine signaling pathway,0.036374969558333324,BT-549,4,20
+sp12,FoxO signaling pathway,0.03498169372953397,BT-549,4,21
+sp23,NF-kappa B signaling pathway,0.0349598680299241,BT-549,4,22
+sp39,TGF-beta signaling pathway,0.03373517219096633,BT-549,4,23
+sp7,Calcium signaling pathway,0.03291093699714284,BT-549,4,24
+sp35,Relaxin signaling pathway,0.031213039699852563,BT-549,4,25
+sp16,Hedgehog signaling pathway,0.03075114820441378,BT-549,4,26
+sp47,mTOR signaling pathway,0.029541865249160196,BT-549,4,27
+sp1,AGE-RAGE signaling pathway in diabetic complications,0.02735553722950979,BT-549,4,28
+sp25,Neurotrophin signaling pathway,0.02703535575091983,BT-549,4,29
+sp26,Notch signaling pathway,0.02594437766387753,BT-549,4,30
+sp15,HIF-1 signaling pathway,0.025286668621930096,BT-549,4,31
+sp33,Rap1 signaling pathway,0.024626760959222883,BT-549,4,32
+sp28,PI3K-Akt signaling pathway,0.023311072744301393,BT-549,4,33
+sp4,Apelin signaling pathway,0.022765108022282234,BT-549,4,34
+sp2,AMPK signaling pathway,0.02179871186271537,BT-549,4,35
+sp27,Oxytocin signaling pathway,0.021306138886892995,BT-549,4,36
+sp34,Ras signaling pathway,0.020358950457557503,BT-549,4,37
+sp19,IL-17 signaling pathway,0.020061699920149344,BT-549,4,38
+sp17,Hippo signaling pathway,0.019355269740024383,BT-549,4,39
+sp29,PPAR signaling pathway,0.019046707020248636,BT-549,4,40
+sp13,Glucagon signaling pathway,0.019020628711656423,BT-549,4,41
+sp21,JAK-STAT signaling pathway,0.017605798304908854,BT-549,4,42
+sp45,cAMP signaling pathway,0.017583819289171933,BT-549,4,43
+sp22,MAPK signaling pathway,0.017467990422209666,BT-549,4,44
+sp48,p53 signaling pathway,0.01610245203725262,BT-549,4,45
+sp41,Thyroid hormone signaling pathway,0.015901235699261777,BT-549,4,46
+sp44,Wnt signaling pathway,0.01534688845156708,BT-549,4,47
+sp8,Chemokine signaling pathway,0.01233372280761092,BT-549,4,48
