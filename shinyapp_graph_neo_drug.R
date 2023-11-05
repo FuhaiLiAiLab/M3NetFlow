@@ -268,7 +268,7 @@ server <- function(input, output) {
     # vertex color
     vertex_col = rep('lightblue', vcount(net))
     vertex_col[V(net)$Att_Deg>=node_threshold()] = 'tomato'
-    vertex_col[V(net)$node_type=='drug'] = 'white'
+    vertex_col[V(net)$node_type=='drug'] = 'gold'
     # vertex size
     vertex_size = rep(input$gene_node_size, vcount(net))
     vertex_size[V(net)$Att_Deg>=node_threshold()] = input$imgene_node_size
@@ -293,19 +293,19 @@ server <- function(input, output) {
     ### TOP and LOW DRUGS
     if (top_drugA_ingraph){
       edge_width[E(net)[from(V(net)[as.character(top_drugA_num)])]]=5
-      edge_color[E(net)[from(V(net)[as.character(top_drugA_num)])]]='purple'
+      edge_color[E(net)[from(V(net)[as.character(top_drugA_num)])]]='cyan2'
     }
     if (top_drugB_ingraph){
       edge_width[E(net)[from(V(net)[as.character(top_drugB_num)])]]=5
-      edge_color[E(net)[from(V(net)[as.character(top_drugB_num)])]]='purple'
+      edge_color[E(net)[from(V(net)[as.character(top_drugB_num)])]]='cyan2'
     }
     if (low_drugA_ingraph){
       edge_width[E(net)[from(V(net)[as.character(low_drugA_num)])]]=5
-      edge_color[E(net)[from(V(net)[as.character(low_drugA_num)])]]='green'
+      edge_color[E(net)[from(V(net)[as.character(low_drugA_num)])]]='brown1'
     }
     if (low_drugB_ingraph){
       edge_width[E(net)[from(V(net)[as.character(low_drugB_num)])]]=5
-      edge_color[E(net)[from(V(net)[as.character(low_drugB_num)])]]='green'
+      edge_color[E(net)[from(V(net)[as.character(low_drugB_num)])]]='brown1'
     }
     
     
@@ -322,7 +322,7 @@ server <- function(input, output) {
     
     set.seed(18)
     plot(net,
-         vertex.frame.width = 2,
+         vertex.frame.width = 0,
          vertex.frame.color = vertex_fcol,
          vertex.color = vertex_col,
          vertex.size = vertex_size,
@@ -337,10 +337,10 @@ server <- function(input, output) {
     ### ADD LEGEND
     legend(x=-1.05, y=1.10, # y= -0.72,
            legend=c('Genes', 'Important Genes', 'Drugs'), pch=c(21,21,22), 
-           pt.bg=c('lightblue', 'tomato', 'white'), pt.cex=2, cex=1.2, bty='n')
+           pt.bg=c('lightblue', 'tomato', 'gold'), pt.cex=2, cex=1.2, bty='n')
     legend(x=-1.06, y=0.98, # y= -0.85, 
            legend=c('Drug-Gene', 'Top Drug-Gene', 'Low Drug-Gene', 'Gene-Gene', 'Selected Signaling Pathway'),
-           col=c('gold', 'purple', 'green', 'gray', 'black'), lwd=c(5,5), cex=1.2, bty='n')
+           col=c('gold', 'cyan2', 'brown1', 'gray', 'black'), lwd=c(5,5), cex=1.2, bty='n')
   })
 }
 
