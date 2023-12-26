@@ -12,7 +12,7 @@ from torch.autograd import Variable
 import utils
 from geo_loader.read_geograph import read_batch
 from geo_loader.geograph_sampler import GeoGraphLoader
-from enc_dec.geo_gat_decoder import GATDecoder
+from enc_dec.geo_gformer_decoder import GraphFormerDecoder
 
 # PARSE ARGUMENTS FROM COMMAND LINE
 def arg_parse():
@@ -106,7 +106,7 @@ def build_geogat_model(args, device, dataset):
     num_edge = num_gene_edge + num_drug_edge
     # import pdb; pdb.set_trace()
     # BUILD UP MODEL
-    model = GATDecoder(input_dim=args.input_dim, hidden_dim=args.hidden_dim, embedding_dim=args.output_dim, 
+    model = GraphFormerDecoder(input_dim=args.input_dim, hidden_dim=args.hidden_dim, embedding_dim=args.output_dim, 
                 decoder_dim=args.decoder_dim, num_head=1, device=device)
     model = model.to(device)
     return model
