@@ -52,3 +52,11 @@
 /analysis-nci/fold_3
 /analysis-nci/fold_4
 /analysis-nci/fold_5
+
+# Results
+TrainingPred_[1-9].txt
+TrainingPred_[1-9][0-9].txt
+TrainingPred_10[0-1].txt
+TestPred[1-9].txt
+TestPred[1-9][0-9].txt
+TestPred10[0-1].txt

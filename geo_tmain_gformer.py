@@ -86,8 +86,8 @@ def learning_rate_schedule(args, dl_input_num, iteration_num, e1, e2, e3, e4):
     return learning_rate
 
 
-def build_geogat_model(args, device, dataset):
-    print('--- BUILDING UP GAT MODEL ... ---')
+def build_geogformer_model(args, device, dataset):
+    print('--- BUILDING UP GraphFormer MODEL ... ---')
     # GET PARAMETERS
     # [num_gene, num_drug, (adj)node_num]
     final_annotation_gene_df = pd.read_csv('./' + dataset + '/filtered_data/kegg_gene_annotation.csv')
@@ -122,7 +122,7 @@ def sparse_mx_to_torch_sparse_tensor(sparse_mx):
     return torch.sparse.FloatTensor(indices, values, shape)
 
 
-def train_geogat_model(dataset_loader, model, device, args, learning_rate):
+def train_geogformer_model(dataset_loader, model, device, args, learning_rate):
     optimizer = torch.optim.Adam(filter(lambda p : p.requires_grad, model.parameters()), lr=learning_rate, eps=1e-7, weight_decay=1e-15)
     batch_loss = 0
     for batch_idx, data in enumerate(dataset_loader):
@@ -142,7 +142,7 @@ def train_geogat_model(dataset_loader, model, device, args, learning_rate):
     return model, batch_loss, ypred
 
 
-def train_geogat(args, fold_n, load_path, iteration_num, device, dataset):
+def train_geogformer(args, fold_n, load_path, iteration_num, device, dataset):
     # TRAINING DATASET BASIC PARAMETERS
     # [num_feature, num_gene, num_drug]
     num_feature = 8
@@ -160,7 +160,7 @@ def train_geogat(args, fold_n, load_path, iteration_num, device, dataset):
     edge_index = torch.from_numpy(np.load(form_data_path + '/edge_index.npy') ).long() 
 
     # BUILD [WeightBiGNN, DECODER] MODEL
-    model = build_geogat_model(args, device, dataset)
+    model = build_geogformer_model(args, device, dataset)
     if args.model == 'load':
         model.load_state_dict(torch.load(load_path, map_location=device))
 
@@ -218,7 +218,7 @@ def train_geogat(args, fold_n, load_path, iteration_num, device, dataset):
             learning_rate = learning_rate_schedule(args, dl_input_num, iteration_num, e1, e2, e3, e4)
             # learning_rate = 0.001
             print('TRAINING MODEL...')
-            model, batch_loss, batch_ypred = train_geogat_model(dataset_loader, model, device, args, learning_rate)
+            model, batch_loss, batch_ypred = train_geogformer_model(dataset_loader, model, device, args, learning_rate)
             print('BATCH LOSS: ', batch_loss)
             batch_loss_list.append(batch_loss)
             # PRESERVE PREDICTION OF BATCH TRAINING DATA
@@ -254,7 +254,7 @@ def train_geogat(args, fold_n, load_path, iteration_num, device, dataset):
         # # # TEST MODEL ON TEST DATASET
         # fold_n = 1
         test_save_path = path
-        test_pearson, test_loss, tmp_test_input_df = test_geogat(prog_args, fold_n, model, test_save_path, device, dataset)
+        test_pearson, test_loss, tmp_test_input_df = test_geogformer(prog_args, fold_n, model, test_save_path, device, dataset)
         test_pearson_score = test_pearson['Pred Score'][0]
         test_pearson_list.append(test_pearson_score)
         test_loss_list.append(test_loss)
@@ -279,7 +279,7 @@ def train_geogat(args, fold_n, load_path, iteration_num, device, dataset):
         torch.save(model.state_dict(), path + '/best_train_model.pt')
 
 
-def test_geogat_model(dataset_loader, model, device, args):
+def test_geogformer_model(dataset_loader, model, device, args):
     batch_loss = 0
     for batch_idx, data in enumerate(dataset_loader):
         x = Variable(data.x, requires_grad=False).to(device)
@@ -293,7 +293,7 @@ def test_geogat_model(dataset_loader, model, device, args):
     return model, batch_loss, ypred
 
 
-def test_geogat(args, fold_n, model, test_save_path, device, dataset):
+def test_geogformer(args, fold_n, model, test_save_path, device, dataset):
     print('-------------------------- TEST START --------------------------')
     print('-------------------------- TEST START --------------------------')
     print('-------------------------- TEST START --------------------------')
@@ -331,7 +331,7 @@ def test_geogat(args, fold_n, model, test_save_path, device, dataset):
         dataset_loader, node_num, feature_dim = GeoGraphLoader.load_graph(geo_datalist, prog_args)
         print('TEST MODEL...')
         # import pdb; pdb.set_trace()
-        model, batch_loss, batch_ypred = test_geogat_model(dataset_loader, model, device, args)
+        model, batch_loss, batch_ypred = test_geogformer_model(dataset_loader, model, device, args)
         print('BATCH LOSS: ', batch_loss)
         batch_loss_list.append(batch_loss)
         # PRESERVE PREDICTION OF BATCH TEST DATA
@@ -383,13 +383,13 @@ if __name__ == "__main__":
     dl_input_num = yTr.shape[0]
     epoch_iteration = int(dl_input_num / prog_args.batch_size)
     start_iter_num = 100 * epoch_iteration
-    train_geogat(prog_args, fold_n, load_path, start_iter_num, device, dataset)
+    train_geogformer(prog_args, fold_n, load_path, start_iter_num, device, dataset)
 
     # ### TEST THE MODEL
     # # TEST [FOLD-1]
     # fold_n = 1
-    # model = build_geogat_model(prog_args, device, dataset)
+    # model = build_geogformer_model(prog_args, device, dataset)
     # test_load_path = './' + dataset + '/result/epoch_60/best_train_model.pt'
     # model.load_state_dict(torch.load(test_load_path, map_location=device))
     # test_save_path = './' + dataset + '/result/epoch_60'
-    # test_geogat(prog_args, fold_n, model, test_save_path, device, dataset)
+    # test_geogformer(prog_args, fold_n, model, test_save_path, device, dataset)

@@ -143,22 +143,23 @@ class MixhopDecoder(nn.Module):
         self.act = nn.ReLU()
         self.act2 = nn.LeakyReLU(negative_slope=0.1)
         
-        self.parameter1 = torch.nn.Parameter(torch.randn(embedding_dim, decoder_dim).to(device='cuda'))
+        self.parameter1 = torch.nn.Parameter(torch.randn(embedding_dim*3, decoder_dim).to(device='cuda'))
         self.parameter2 = torch.nn.Parameter(torch.randn(decoder_dim, decoder_dim).to(device='cuda'))
 
-        self.x_norm_first = nn.BatchNorm1d(hidden_dim)
-        self.x_norm_block = nn.BatchNorm1d(hidden_dim)
-        self.x_norm_last = nn.BatchNorm1d(embedding_dim)
+        self.x_norm_first = nn.BatchNorm1d(hidden_dim*3)
+        self.x_norm_block = nn.BatchNorm1d(hidden_dim*3)
+        self.x_norm_last = nn.BatchNorm1d(embedding_dim*3)
 
 
     def build_conv_layer(self, input_dim, hidden_dim, embedding_dim):
         conv_first = MixHopConv(in_channels=input_dim, out_channels=hidden_dim)
-        conv_block = MixHopConv(in_channels=hidden_dim, out_channels=hidden_dim)
-        conv_last = MixHopConv(in_channels=hidden_dim, out_channels=embedding_dim)
+        conv_block = MixHopConv(in_channels=hidden_dim*3, out_channels=hidden_dim)
+        conv_last = MixHopConv(in_channels=hidden_dim*3, out_channels=embedding_dim)
         return conv_first, conv_block, conv_last
 
     def forward(self, x, edge_index, drug_index):
         x = self.conv_first(x, edge_index)
+        # import pdb; pdb.set_trace()
         x = self.x_norm_first(x)
         x = self.act2(x)
 

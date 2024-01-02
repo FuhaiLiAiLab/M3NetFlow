@@ -26,7 +26,15 @@ class RebuildLoss():
         max_test_id = 0
         for i in range(1, epoch_num + 1):
             # TEST LOSS
-            test_df = pd.read_csv(path + '/TestPred' + str(i) + '.txt', delimiter=',')
+            try:
+                # Attempt to read the file
+                test_df = pd.read_csv(path + '/TestPred' + str(i) + '.txt', delimiter=',')
+                # Process the DataFrame as needed
+                print("Test file read successfully!")
+            except Exception as e:
+                # If an error occurs, this block of code will run
+                print("An error occurred:", e)
+                break  # Exit the loop
             test_score_list = list(test_df['Score'])
             test_pred_list = list(test_df['Pred Score'])
             test_epoch_loss = mean_squared_error(test_score_list, test_pred_list)
@@ -35,7 +43,15 @@ class RebuildLoss():
             test_epoch_corr = test_epoch_pearson['Pred Score'][0]
             test_epoch_pearson_list.append(test_epoch_corr)
             # TRAIN LOSS
-            train_df = pd.read_csv(path + '/TrainingPred_' + str(i) + '.txt', delimiter=',')
+            try:
+                # Attempt to read the file
+                train_df = pd.read_csv(path + '/TrainingPred_' + str(i) + '.txt', delimiter=',')
+                # Process the DataFrame as needed
+                print("Training file read successfully!")
+            except Exception as e:
+                # If an error occurs, this block of code will run
+                print("An error occurred:", e)
+                break  # Exit the loop
             train_score_list = list(train_df['Score'])
             train_pred_list = list(train_df['Pred Score'])
             train_epoch_loss = mean_squared_error(train_score_list, train_pred_list)
@@ -212,26 +228,64 @@ class AnalyseCorr():
         # plt.show()
         # return train_pearson, test_pearson
 
-    def comparison(self, dataset, gcn_decoder_test_list, gat_decoder_test_list, m3net_decoder_test_list):
-        colors = sns.color_palette("Set2", 3)
+    def fold_comparison(self, dataset, gcn_decoder_test_list, gat_decoder_test_list, m3net_decoder_test_list,
+                        gformer_decoder_test_list, mixhop_decoder_test_list, pna_decoder_test_list, gin_decoder_test_list):
+        colors = sns.color_palette("Set2", 7)
         labels = ['1st Fold', '2nd Fold', '3rd Fold', '4th Fold', '5th Fold', 'Average']
         x = np.arange(len(labels))
-        width = 0.25 
+        width = 0.15 
         print(gcn_decoder_test_list)
         print(gat_decoder_test_list)
+        print(gformer_decoder_test_list)
+        print(mixhop_decoder_test_list)
+        print(pna_decoder_test_list)
+        print(gin_decoder_test_list)
         print(m3net_decoder_test_list)
         sns.set_style(style=None)
-        gcn = plt.bar(x - 1*width, gcn_decoder_test_list, width, label='GCN Decoder', color=colors[0])
-        gat = plt.bar(x, gat_decoder_test_list, width, label='GAT Decoder', color=colors[1])
-        m3net = plt.bar(x + 1*width, m3net_decoder_test_list, width, label='M3NetFlow', color=colors[2])
+        gcn = plt.bar(x - 3*width, gcn_decoder_test_list, width, label='GCN Decoder', color=colors[0])
+        gat = plt.bar(x - 2*width, gat_decoder_test_list, width, label='GAT Decoder', color=colors[1])
+        gformer = plt.bar(x - 1*width, gformer_decoder_test_list, width, label='GraphFormer Decoder', color=colors[2])
+        mixhop = plt.bar(x, mixhop_decoder_test_list, width, label='MixHop Decoder', color=colors[3])
+        pna = plt.bar(x + 1*width, pna_decoder_test_list, width, label='PNA Decoder', color=colors[4])
+        gin = plt.bar(x + 2*width, gin_decoder_test_list, width, label='GIN Decoder', color=colors[5])
+        m3net = plt.bar(x + 3*width, m3net_decoder_test_list, width, label='M3NetFlow', color=colors[6])
         plt.ylabel('Pearson Correlation')
         # plt.title('Pearson Correlation Comparison For 3 GNN Models')
-        plt.ylim(0.0, 0.8)
+        plt.ylim(0.0, 1.0)
         plt.xticks(x, labels=labels)
-        plt.legend()
-        plt.savefig('./' + dataset + '/result/comparisons.png', dpi=600)
+        plt.legend(loc='upper right', ncol=2)
+        plt.savefig('./' + dataset + '/result/fold_comparisons.png', dpi=600)
         # plt.show()
 
+    def dataset_avg_comparison(self, dataset, gcn_decoder_avg_list, gat_decoder_avg_list, m3net_decoder_avg_list,
+                        gformer_decoder_avg_list, mixhop_decoder_avg_list, pna_decoder_avg_list, gin_decoder_avg_list):
+        colors = sns.color_palette("Set2", 7)
+        labels = ['NCI ALMANAC', 'O\'NEIL']
+        x = np.arange(len(labels))
+        width = 0.1
+        print(gcn_decoder_avg_list)
+        print(gat_decoder_avg_list)
+        print(gformer_decoder_avg_list)
+        print(mixhop_decoder_avg_list)
+        print(pna_decoder_avg_list)
+        print(gin_decoder_avg_list)
+        print(m3net_decoder_avg_list)
+        sns.set_style(style=None)
+        gcn = plt.bar(x - 3*width, gcn_decoder_avg_list, width, label='GCN Decoder', color=colors[0])
+        gat = plt.bar(x - 2*width, gat_decoder_avg_list, width, label='GAT Decoder', color=colors[1])
+        gformer = plt.bar(x - 1*width, gformer_decoder_avg_list, width, label='GraphFormer Decoder', color=colors[2])
+        mixhop = plt.bar(x, mixhop_decoder_avg_list, width, label='MixHop Decoder', color=colors[3])
+        pna = plt.bar(x + 1*width, pna_decoder_avg_list, width, label='PNA Decoder', color=colors[4])
+        gin = plt.bar(x + 2*width, gin_decoder_avg_list, width, label='GIN Decoder', color=colors[5])
+        m3net = plt.bar(x + 3*width, m3net_decoder_avg_list, width, label='M3NetFlow', color=colors[6])
+        plt.ylabel('Pearson Correlation')
+        # plt.title('Pearson Correlation Comparison For 3 GNN Models')
+        plt.ylim(0.0, 1.0)
+        plt.xticks(x, labels=labels)
+        plt.legend(loc='upper right', ncol=2)
+        plt.savefig('./datainfo-nci/result/dataset_avg_comparisons.png', dpi=600)
+        plt.savefig('./datainfo-oneil/result/dataset_avg_comparisons.png', dpi=600)
+        # plt.show()
 
 def model_result(dataset, modelname, epoch_num, rebuild=True):
     model_test_result_list = []
@@ -355,8 +409,8 @@ def func(pct, allvalues):
 
 if __name__ == "__main__":
     ### DATASET SELECTION
-    dataset = 'datainfo-nci'
-    # dataset = 'datainfo-oneil'
+    # dataset = 'datainfo-nci'
+    dataset = 'datainfo-oneil'
 
     # train_test_split(num_fold=5, dataset=dataset)
 
@@ -366,22 +420,60 @@ if __name__ == "__main__":
     # gcn_decoder_test_list = model_result(dataset=dataset, modelname='gcn', epoch_num=180, rebuild=rebuild) 
     # gat_decoder_test_list = model_result(dataset=dataset, modelname='gat', epoch_num=100, rebuild=rebuild) 
     # m3net_decoder_test_list = model_result(dataset=dataset, modelname='tsgnn', epoch_num=100, rebuild=rebuild) 
+    # gformer_decoder_test_list = model_result(dataset=dataset, modelname='gformer', epoch_num=100, rebuild=rebuild)
+    # mixhop_decoder_test_list = model_result(dataset=dataset, modelname='mixhop', epoch_num=101, rebuild=rebuild)
+    # pna_decoder_test_list = model_result(dataset=dataset, modelname='pna', epoch_num=102, rebuild=rebuild)
+    # gin_decoder_test_list = model_result(dataset=dataset, modelname='gin', epoch_num=103, rebuild=rebuild)
+    
 
     # ### NCI-ALMANAC
     # gcn_decoder_test_list = [0.5064605657342812, 0.5245598748183634, 0.46695701896538616, 0.5214272962811511, 0.577206595098155, 0.5193222701794674]
     # gat_decoder_test_list = [0.4917665201363847, 0.48933140810934184, 0.5279742511264676, 0.4924140826253474, 0.45652443502586376, 0.4916021394046811]
+    # gformer_decoder_test_list = [0.5191915959337753, 0.4620808788688887, 0.4973815851375888, 0.4193846053535848, 0.5530826367153683, 0.49022426040184114]
+    # mixhop_decoder_test_list = [0.5850845000339114, 0.5242580384353244, 0.6002993417038929, 0.550967487093009, 0.6283811983447232, 0.5777981131221722]
+    # pna_decoder_test_list = [0.5676587113909519, 0.5076425321295546, 0.5703734693007946, 0.5748871370660421, 0.5609961769577918, 0.556311605369027]
+    # gin_decoder_test_list = [0.5033109275725756, 0.5261676213479256, 0.5309486759647144, 0.5512287542233378, 0.5764453825578173, 0.537620272333274]
     # m3net_decoder_test_list = [0.6009660675416006, 0.6010748931833301, 0.617941461925096, 0.6009383601682954, 0.6151593354988303, 0.6072160236634304]
+
 
     # ### O'NEIL
     # gcn_decoder_test_list = [0.43974780918316303, 0.32089903988461155, 0.48944945583649246, 0.46613296163029383, 0.5075061443622683, 0.4447470821793658]
     # gat_decoder_test_list = [0.5213588523120589, 0.5890929146467674, 0.5305813326489733, 0.6111279005550803, 0.6009412335511605, 0.570620446742808]
+    # gformer_decoder_test_list = [0.6580038764121525, 0.6310555718835166, 0.3726091981313277, 0.4947573450166675, 0.6356900906958312, 0.558423216427899]
+    # mixhop_decoder_test_list = [0.3362786301139629, 0.28015495258926015, 0.08714591882785602, 0.2735587138026469, 0.38044543587146196, 0.2715167302410376]
+    # pna_decoder_test_list = [0.6149061494822229, 0.6657145188163491, 0.6184177263455443, 0.6002953138808116, 0.6108316401367845, 0.6220330697323424]
+    # gin_decoder_test_list = [0.30254402231699007, 0.3025009382136159, 0.5258996456361255, 0.2624503395917013, 0.26285018432852714, 0.331249026017392]
     # m3net_decoder_test_list = [0.629468193556913, 0.6383564434819521, 0.616114257622284, 0.6906363694186656, 0.6432778487211956, 0.643570622560202]
 
-    # AnalyseCorr().comparison(dataset, gcn_decoder_test_list, gat_decoder_test_list, m3net_decoder_test_list)
+    # ### DATASET SCORES
+    gcn_decoder_avg_list = [0.5193222701794674, 0.4447470821793658]
+    gat_decoder_avg_list = [0.4916021394046811, 0.570620446742808]
+    gformer_decoder_avg_list = [0.49022426040184114, 0.558423216427899]
+    mixhop_decoder_avg_list = [0.5777981131221722, 0.2715167302410376]
+    pna_decoder_avg_list = [0.556311605369027, 0.6220330697323424]
+    gin_decoder_avg_list = [0.537620272333274, 0.331249026017392]
+    m3net_decoder_avg_list = [0.6072160236634304, 0.643570622560202]
+
+    # AnalyseCorr().fold_comparison(dataset, gcn_decoder_test_list, 
+    #                                 gat_decoder_test_list, 
+    #                                 m3net_decoder_test_list, 
+    #                                 gformer_decoder_test_list, 
+    #                                 mixhop_decoder_test_list, 
+    #                                 pna_decoder_test_list, 
+    #                                 gin_decoder_test_list)
+    
+
+    AnalyseCorr().dataset_avg_comparison(dataset, gcn_decoder_avg_list, 
+                                    gat_decoder_avg_list, 
+                                    m3net_decoder_avg_list, 
+                                    gformer_decoder_avg_list, 
+                                    mixhop_decoder_avg_list, 
+                                    pna_decoder_avg_list, 
+                                    gin_decoder_avg_list)
 
 
     # AnalyseCorr().pred_result(fold_n=1, epoch_name='epoch_100', dataset=dataset, modelname='tsgnn')
     # AnalyseCorr().pred_all_result(num_fold=5, epoch_num=100, dataset=dataset, modelname='tsgnn', train_mean=False)
 
     # cell_line_cancer_percentage(dataset=dataset)
-    cell_line_cancer_percentage_split(dataset=dataset)
+    # cell_line_cancer_percentage_split(dataset=dataset)

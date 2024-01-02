@@ -270,9 +270,9 @@ class GraphFormerDecoder(nn.Module):
 
 
     def build_conv_layer(self, input_dim, hidden_dim, embedding_dim):
-        conv_first = TransformerConv(input_dim=input_dim, embed_dim=hidden_dim, heads=self.num_head)
-        conv_block = TransformerConv(input_dim=hidden_dim, embed_dim=hidden_dim, heads=self.num_head)
-        conv_last = TransformerConv(input_dim=hidden_dim, embed_dim=embedding_dim, heads=self.num_head)
+        conv_first = TransformerConv(in_channels=input_dim, out_channels=hidden_dim, heads=self.num_head)
+        conv_block = TransformerConv(in_channels=hidden_dim, out_channels=hidden_dim, heads=self.num_head)
+        conv_last = TransformerConv(in_channels=hidden_dim, out_channels=embedding_dim, heads=self.num_head)
         return conv_first, conv_block, conv_last
 
     def forward(self, x, edge_index, drug_index):

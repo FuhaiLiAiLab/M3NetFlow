@@ -11,6 +11,12 @@ class GCNConv(MessagePassing):
         super(GCNConv, self).__init__(aggr='add')
         self.lin = torch.nn.Linear(in_channels, out_channels)
 
+        self.reset_parameters()
+    
+    def reset_parameters(self):
+        super().reset_parameters()
+        self.lin.reset_parameters()
+
     def forward(self, x, edge_index):
         # X: [N, in_channels]
         # edge_index: [2, E]
