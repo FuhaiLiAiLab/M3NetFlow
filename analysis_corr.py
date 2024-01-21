@@ -280,7 +280,7 @@ class AnalyseCorr():
         m3net = plt.bar(x + 3*width, m3net_decoder_avg_list, width, label='M3NetFlow', color=colors[6])
         plt.ylabel('Pearson Correlation')
         # plt.title('Pearson Correlation Comparison For 3 GNN Models')
-        plt.ylim(0.0, 1.0)
+        plt.ylim(0.0, 0.9)
         plt.xticks(x, labels=labels)
         plt.legend(loc='upper right', ncol=2)
         plt.savefig('./datainfo-nci/result/dataset_avg_comparisons.png', dpi=600)
