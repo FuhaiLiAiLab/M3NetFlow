@@ -52,9 +52,10 @@ for (x in 1:num_cell){
 ```
 python analysis_cell_node.py
 ```
+![](./figures/Figure4.jpg)
+
 
 ### (5) Model Results and Our Vistualization Tool VisNetFlow
-![](./figures/Figure4.jpg)
 ![](./figures/Figure5.jpg)
 
 * visit the website: https://m3netflow.shinyapps.io/NetFlowVis/
