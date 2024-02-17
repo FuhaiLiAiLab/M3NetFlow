@@ -58,5 +58,5 @@ python analysis_cell_node.py
 ### (5) Model Results and Our Vistualization Tool VisNetFlow
 ![](./figures/Figure5.jpg)
 
-* visit the website: https://m3netflow.shinyapps.io/NetFlowVis/
+* visit the website: https://m3netflow.shinyapps.io/NetFlowVis/ for our tool VisNetFlow
 
