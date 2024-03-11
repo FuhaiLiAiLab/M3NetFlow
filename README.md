@@ -1,16 +1,22 @@
 # M3NetFlow
 
-## 1. Parsing the Raw Data Files
+## 1. Model Overall Architecture
+![](./figures/Figure2.jpg)
+
+## 2. Parsing the Raw Data Files
 ```
 python post_parse.py
 ```
 
-## 2. Run the Model to Get Prediction
+## 3. Run the Model to Get Prediction
+
 ```
 python geo_tmain_path_tsgnn.py
 ```
+### 3.1 Model Performance and comparisons
+![](./figures/Figure3-nv.jpg)
 
-## 3. Analysing the Result to Give Interpretation
+## 4. Analysing the Result to Give Interpretation
 ### (1) Run each fold analysis to extract the attention in subnetwork
 ```
 python geo_analysis_path_tsgnn.py
@@ -46,8 +52,11 @@ for (x in 1:num_cell){
 ```
 python analysis_cell_node.py
 ```
+![](./figures/Figure4.jpg)
 
-```
 
-```
+### (5) Model Results and Our Vistualization Tool VisNetFlow
+![](./figures/Figure5.jpg)
+
+* visit the website: https://m3netflow.shinyapps.io/NetFlowVis/ for our tool VisNetFlow
 
