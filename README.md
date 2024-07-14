@@ -4,6 +4,7 @@
 ![](./figures/Figure2.jpg)
 
 ## 2. Parsing the Raw Data Files
+
 ```
 python post_parse.py
 ```
