@@ -101,7 +101,14 @@ def split_files_and_calculate_average_attention(patient_type_one, patient_type_t
 patient_type_one = 'AD'
 patient_type_two = 'NOAD'
 
+threshold = 0.1
+top = 50
+giant_comp_threshold = 20
+
 # 1. Split Files Based on AD and calculate average attention
 split_files_and_calculate_average_attention(patient_type_one, patient_type_two)
 
-# 2. Plot the graph
+# t=0.1  p<0.2 | 0.1 ratio  (base 400 genes 120<0.2 pvalues  120/400=0.3 ratio) gene node weighted degree
+# t=0.15 p<0.2 | 0.1 ratio  80
+# t=0.2  p<0.2 | 0.1 ratio  increases 70
+# t=0.3  p<0.2 | 0.1 ratio  converges 50 
