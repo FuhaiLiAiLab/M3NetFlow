@@ -504,14 +504,12 @@ class SubGraphAttentionConv(MessagePassing):
             if os.path.isfile(survival_label_save_path) == True:
                 continue
 
-            # import pdb; pdb.set_trace()
             
             hop_edge_num = int((torch.sum(batch_mask[batch_idx])).cpu().detach().numpy())
             hop1_list = ['hop1' for x in range(hop_edge_num)]
             hop2_list = ['hop2' for x in range(hop_edge_num)]
             hop3_list = ['hop3' for x in range(hop_edge_num)]
             hop_list = hop1_list + hop2_list + hop3_list
-
 
             from_array = batch_edgeindex[batch_idx, :, 0] - (batch_idx * sub_khop_node_num)
             to_array = batch_edgeindex[batch_idx, :, 1] - (batch_idx * sub_khop_node_num)

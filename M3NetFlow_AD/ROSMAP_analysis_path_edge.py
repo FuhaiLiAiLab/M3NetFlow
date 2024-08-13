@@ -92,7 +92,7 @@ class PathNetAnalyse():
                 sp_survival_label_df, kth_hop_sp_df_list = PathNetAnalyse().sp_kth_hop_att_network(fold_n=fold_n, sp=sp, khop_sum=3, survival_label = survival_label)
                 survival_specific_combined_sp_khop_df_list.append(sp_survival_label_df)
             comtemp_survival_specific_combined_sp_khop_df = pd.concat(survival_specific_combined_sp_khop_df_list)
-            comtemp_survival_specific_combined_sp_khop_df.to_csv('./' + dataset + '-analysis' + '/fold_' + str(fold_n) + '/survival' + str(survival_label_num) + '.csv', index=False, header=True)
+            # comtemp_survival_specific_combined_sp_khop_df.to_csv('./' + dataset + '-analysis' + '/fold_' + str(fold_n) + '/survival' + str(survival_label_num) + '.csv', index=False, header=True)
             comtemp_survival_specific_combined_sp_khop_df.to_csv('./' + dataset + '-analysis' + '/fold_' + str(fold_n) + '_survival/survival' + str(survival_label_num) + '.csv', index=False, header=True)
             
 

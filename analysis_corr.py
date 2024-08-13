@@ -279,7 +279,6 @@ class AnalyseCorr():
         gin = plt.bar(x + 2*width, gin_decoder_avg_list, width, label='GIN Decoder', color=colors[5])
         m3net = plt.bar(x + 3*width, m3net_decoder_avg_list, width, label='M3NetFlow', color=colors[6])
         plt.ylabel('Pearson Correlation')
-        # plt.title('Pearson Correlation Comparison For 3 GNN Models')
         plt.ylim(0.0, 0.9)
         plt.xticks(x, labels=labels)
         plt.legend(loc='upper right', ncol=2)

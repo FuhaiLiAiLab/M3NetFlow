@@ -255,8 +255,7 @@ class ROSMAP_LoadData():
         form_data_path = './' + graph_output_folder + '/form_data'
         kegg_path_gene_interaction_df = pd.read_csv('./' + graph_output_folder + '/keggpath-gene-edge-name-all.csv')
         # FORM NOTATION TO [signaling pathways]
-        kegg_sp_list = list(set(kegg_path_gene_interaction_df['path']))
-        kegg_sp_list.sort()
+        kegg_sp_list = sorted(list(set(kegg_path_gene_interaction_df['path'])))
         kegg_sp_notation_list = ['sp' + str(x) for x in range(1, len(kegg_sp_list)+1)]
         kegg_sp_map_df = pd.DataFrame({'SignalingPath': kegg_sp_list, 'SpNotation': kegg_sp_notation_list})
         kegg_sp_map_df.to_csv('./' + graph_output_folder + '/kegg_sp_map.csv', index=False, header=True)
@@ -274,11 +273,10 @@ class ROSMAP_LoadData():
             src_sp_gene_list = list(sp_kegg_path_gene_df['src'])
             dest_sp_gene_list = list(sp_kegg_path_gene_df['dest'])
             sp_gene_list = sorted(list(set(src_sp_gene_list + dest_sp_gene_list)))
-            sp_gene_idx_array = np.array([x-1 for x in sp_gene_list])
+            sp_gene_idx_array = np.array(sp_gene_list)
             # MAP [sp_gene_list] TO [subgraph index / gene name]
             khop_subidx = np.arange(sp_gene_idx_array.shape[0] * 3)
-            addone_sp_gene_idx_array = sp_gene_idx_array + 1
-            khop_sp_gene_idx_array = np.tile(addone_sp_gene_idx_array, 3)
+            khop_sp_gene_idx_array = np.tile(sp_gene_idx_array, 3)
             sp_gene_map_df = pd.DataFrame({'Sub_idx': khop_subidx, 'Node_idx': khop_sp_gene_idx_array})
             # import pdb; pdb.set_trace()
             sp_gene_map_df = pd.merge(sp_gene_map_df, kegg_gene_num_dict_df, how='left', left_on='Node_idx', right_on='Gene_num')
@@ -355,16 +353,16 @@ if __name__ == "__main__":
     ### Dataset Selection
     dataset = args.dataset
 
-    # ############# MOUDLE 1 #################
-    # ### Load all split data into graph format
-    # graph_output_folder = dataset + '-graph-data'
-    # processed_dataset = dataset + '-process'
-    # if os.path.exists('./' +graph_output_folder + '/form_data') == False:
-    #     os.mkdir('./' +graph_output_folder + '/form_data')
-    # k = 5
-    # batch_size = 64
-    # ROSMAP_LoadData().load_all_split(batch_size, k, processed_dataset, graph_output_folder)
-    # ROSMAP_LoadData().combine_whole_dataset(k, graph_output_folder)
+    ############# MOUDLE 1 #################
+    ### Load all split data into graph format
+    graph_output_folder = dataset + '-graph-data'
+    processed_dataset = dataset + '-process'
+    if os.path.exists('./' +graph_output_folder + '/form_data') == False:
+        os.mkdir('./' +graph_output_folder + '/form_data')
+    k = 5
+    batch_size = 64
+    ROSMAP_LoadData().load_all_split(batch_size, k, processed_dataset, graph_output_folder)
+    ROSMAP_LoadData().combine_whole_dataset(k, graph_output_folder)
 
     ############## MOUDLE 2 #################
     graph_output_folder = dataset + '-graph-data'
