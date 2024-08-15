@@ -14,7 +14,7 @@ def split_files_and_calculate_average_attention(patient_type_one, patient_type_t
     map_dict_df = pd.read_csv(map_dict_path)
     num_to_id_dict = pd.Series(map_dict_df['individualID'].values, index=map_dict_df['individualID_Num']).to_dict()
 
-    label_path = 'ROSMAP-graph-data/survival-label.csv'
+    label_path = 'ROSMAP-graph-data/random-survival-label.csv'
     label_df = pd.read_csv(label_path)
     if patient_type_one in ['AD', 'NOAD']:
         id_to_dict = pd.Series(label_df['ceradsc'].values, index=label_df['individualID']).to_dict()
