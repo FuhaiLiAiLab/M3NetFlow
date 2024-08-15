@@ -38,7 +38,7 @@ class AnalyseCorr():
         m3net = plt.bar(x + 3*width, m3net_decoder_avg_list, width, label='M3NetFlow', color=colors[6])
         plt.ylabel('Pearson Correlation / Accuracy')
         # plt.title('Pearson Correlation Comparison For 3 GNN Models')
-        plt.ylim(0.0, 0.9)
+        plt.ylim(0.0, 0.95)
         plt.xticks(x, labels=labels)
         plt.legend(loc='upper right', ncol=2)
         plt.savefig('./ROSMAP-result/dataset_avg_comparisons.png', dpi=600)
@@ -57,7 +57,7 @@ if __name__ == "__main__":
     mixhop_decoder_avg_list = [0.5777981131221722, 0.2715167302410376, 0.572]
     pna_decoder_avg_list = [0.556311605369027, 0.6220330697323424, 0.5783]
     gin_decoder_avg_list = [0.537620272333274, 0.331249026017392, 0.4983]
-    m3net_decoder_avg_list = [0.6072160236634304, 0.643570622560202, 0.6583]
+    m3net_decoder_avg_list = [0.6072160236634304, 0.643570622560202, 0.6743]
 
     AnalyseCorr().dataset_avg_comparison( 
                                     gcn_decoder_avg_list, 

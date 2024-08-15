@@ -407,7 +407,7 @@ if __name__ == "__main__":
     # Dataset Selection
     dataset = 'ROSMAP'
     
-    for fold in range(1, 6):
+    for fold in range(3, 4):
         fold_n = fold
         ### Train the model
         # Train [FOLD-1x]
