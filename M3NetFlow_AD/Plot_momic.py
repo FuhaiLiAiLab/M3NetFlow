@@ -82,6 +82,12 @@ def split_files_and_calculate_average_attention(patient_type_one, patient_type_t
     patient_type_one_result_df.to_csv(f'./ROSMAP-analysis/avg_analysis/average_attention_{patient_type_one}.csv', index=False)
     patient_type_two_result_df = calculate_average_attention(patient_type_two_dir)
     patient_type_two_result_df.to_csv(f'./ROSMAP-analysis/avg_analysis/average_attention_{patient_type_two}.csv', index=False)
+    patient_type_one_name_result_df = add_node_name(patient_type_one_result_df)
+    patient_type_two_name_result_df = add_node_name(patient_type_two_result_df)
+    patient_type_one_name_result_df.to_csv(f'./ROSMAP-analysis/avg_analysis/average_attention_{patient_type_one}_name.csv', index=False)
+    patient_type_two_name_result_df.to_csv(f'./ROSMAP-analysis/avg_analysis/average_attention_{patient_type_two}_name.csv', index=False)
+    calculate_weighted_degree(patient_type_one_name_result_df, patient_type_one)
+    calculate_weighted_degree(patient_type_two_name_result_df, patient_type_two)
 
     
     def filter_edges(patient_type):
@@ -92,6 +98,33 @@ def split_files_and_calculate_average_attention(patient_type_one, patient_type_t
     filter_edges(patient_type_one)
     filter_edges(patient_type_two)
 
+def add_node_name(df):
+    map_all_gene_df = pd.read_csv('./ROSMAP-graph-data/map-all-gene.csv')
+    map_all_gene_dict = dict(zip(map_all_gene_df['Gene_num'], map_all_gene_df['Gene_name']))
+    df['From'] = df['From'].replace(map_all_gene_dict)
+    df['To'] = df['To'].replace(map_all_gene_dict)
+    return df
+
+def calculate_weighted_degree(df, patient_type):
+    # Calculate the weighted degree for each node
+    weighted_degree_from = df.groupby('From')['Attention'].sum().reset_index()
+    weighted_degree_to = df.groupby('To')['Attention'].sum().reset_index()
+
+    print(weighted_degree_from)
+    print(weighted_degree_to)
+
+    # import pdb; pdb.set_trace()
+    from_attention = np.array(weighted_degree_from['Attention'].tolist())
+    to_attention = np.array(weighted_degree_to['Attention'].tolist())
+    average_attention_list = ((from_attention + to_attention)/2).tolist()
+
+    map_all_gene_df = pd.read_csv('./ROSMAP-graph-data/map-all-gene.csv')
+    map_all_gene_weight_df = map_all_gene_df.copy()
+    map_all_gene_weight_df['Att_deg'] = average_attention_list
+    if patient_type == 'AD':
+        map_all_gene_weight_df.to_csv('./ROSMAP-analysis/avg_analysis/map-all-gene-AD-att_deg.csv', index=False)
+    elif patient_type == 'NOAD':
+        map_all_gene_weight_df.to_csv('./ROSMAP-analysis/avg_analysis/map-all-gene-NOAD-att_deg.csv', index=False)
 
 
 ###############Main workflow###############

@@ -73,18 +73,18 @@ ui <- fluidPage(
       
       sliderInput('edge_threshold',
                   'Select the threshold of edge weight to plot',
-                  min = 0.05, max = 0.5,
-                  value = 0.2),
+                  min = 0.0, max = 0.25,
+                  value = 0.1),
       
       sliderInput('node_threshold',
                   'Select the threshold of marking important genes',
-                  min = 0.15, max = 1.5,
-                  value = 0.2),
+                  min = 1.0, max = 5.0,
+                  value = 1.5),
       
       sliderInput('giant_comp_threshold',
                   'Select the threshold of each component',
-                  min = 0.0, max = 50.0,
-                  value = 20.0),
+                  min = 0.0, max = 20.0,
+                  value = 15),
 
       sliderInput('gene_node_size',
                   'Select the gene node size',
@@ -133,7 +133,11 @@ server <- function(input, output) {
     }
     cell_path_csv = paste(cell_path, '.csv', sep='')
     net_edge_weight = read.csv(cell_path_csv)
-    net_node = read.csv('./ROSMAP-graph-data/map-all-gene.csv') # NODE LABEL
+    if (input$type_num == 1){
+      net_node = read.csv('./ROSMAP-analysis/avg_analysis/map-all-gene-AD-Att_deg.csv') # NODE LABEL
+    }else if (input$type_num == 2){
+      net_node = read.csv('./ROSMAP-analysis/avg_analysis/map-all-gene-NOAD-Att_deg.csv') # NODE LABEL
+    }
     
     ### 2.1 FILTER EDGE BY [edge_weight]
     filter_net_edge = filter(net_edge_weight, Attention > edge_threshold())
@@ -164,13 +168,13 @@ server <- function(input, output) {
     vertex_fcol = rep('black', vcount(net))
     # vertex color
     vertex_col = rep('lightblue', vcount(net))
-    vertex_col[V(net)$Att_Deg>=node_threshold()] = 'tomato'
+    vertex_col[V(net)$Att_deg>=node_threshold()] = 'tomato'
     # vertex size
     vertex_size = rep(input$gene_node_size, vcount(net))
-    vertex_size[V(net)$Att_Deg>=node_threshold()] = input$imgene_node_size
+    vertex_size[V(net)$Att_deg>=node_threshold()] = input$imgene_node_size
     # vertex cex
     vertex_cex = rep(input$gene_label_size, vcount(net))
-    vertex_cex[V(net)$Att_Deg>=node_threshold()] = input$imgene_label_size
+    vertex_cex[V(net)$Att_deg>=node_threshold()] = input$imgene_label_size
     # edge width
     edge_width = (E(net)$Attention)*(2.0)
     # edge color
@@ -201,7 +205,7 @@ server <- function(input, output) {
          vertex.color = vertex_col,
          vertex.size = vertex_size,
          vertex.shape = 'circle',
-         vertex.label = V(net)$node_name,
+         vertex.label = V(net)$Gene_name,
          vertex.label.color = 'black',
          vertex.label.cex = vertex_cex,
          edge.width = edge_width,
