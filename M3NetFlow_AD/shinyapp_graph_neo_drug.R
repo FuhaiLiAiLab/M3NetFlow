@@ -79,7 +79,7 @@ ui <- fluidPage(
       sliderInput('node_threshold',
                   'Select the threshold of marking important genes',
                   min = 1.0, max = 5.0,
-                  value = 1.5),
+                  value = 4),
       
       sliderInput('giant_comp_threshold',
                   'Select the threshold of each component',
