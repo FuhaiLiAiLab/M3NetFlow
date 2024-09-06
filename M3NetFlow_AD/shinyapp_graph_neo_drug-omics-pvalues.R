@@ -84,7 +84,7 @@ ui <- fluidPage(
       sliderInput('pvalue_threshold',
                   'Select the threshold of marking important genes by p-values',
                   min = 0, max = 0.3,
-                  value = 0.05),
+                  value = 0.1),
       
       sliderInput('giant_comp_threshold',
                   'Select the threshold of each component',
@@ -94,21 +94,21 @@ ui <- fluidPage(
       sliderInput('gene_node_size',
                   'Select the gene node size',
                   min = 0, max = 10,
-                  value = 4.0),
+                  value = 5.0),
 
       sliderInput('imgene_node_size',
                   'Select the important gene node size',
                   min = 0, max = 10,
-                  value = 7.0),
+                  value = 6.0),
 
       sliderInput('gene_label_size',
                   'Select the label size of gene nodes',
-                  min = 0.2, max = 1.0,
-                  value = 0.6),
+                  min = 0.5, max = 1.0,
+                  value = 0.75),
 
       sliderInput('imgene_label_size',
                   'Select the label size of important genes',
-                  min = 0.4, max = 1.5,
+                  min = 0.5, max = 1.5,
                   value = 0.8),
     ),
     mainPanel(
@@ -202,7 +202,7 @@ server <- function(input, output) {
     vertex_cex = rep(input$gene_label_size, vcount(net))
     vertex_cex[V(net)$Att_deg>=node_threshold()] = input$imgene_label_size
     # edge width
-    edge_width = (E(net)$Attention)*(2.0)
+    edge_width = (E(net)$Attention)*(7.0)
     # edge color
     edge_color = rep('gray', ecount(net))
 
@@ -226,7 +226,7 @@ server <- function(input, output) {
     
     set.seed(18)
     plot(net,
-         vertex.frame.width = 3.0,
+         vertex.frame.width = 4.0,
          vertex.frame.color = vertex_fcol,
          vertex.color = vertex_col,
          vertex.size = vertex_size,
@@ -234,6 +234,7 @@ server <- function(input, output) {
          vertex.label = V(net)$Gene_name,
          vertex.label.color = 'black',
          vertex.label.cex = vertex_cex,
+         vertex.label.font = 2,
          edge.width = edge_width,
          edge.color = edge_color,
          edge.curved = 0.2,
@@ -243,10 +244,11 @@ server <- function(input, output) {
            legend=c('Genes', 'Important Genes Marked By Attention-based Scores', 'Genes With Significant Differences'), pch=c(21,21,21), 
            col=c('lightblue', 'tomato', '#a569bd'),
            pt.bg=c('lightblue', 'tomato', 'white'), 
+           pt.lwd=c(1, 1, 4),
            pt.cex=2, cex=1.2, bty='n')
     legend(x= -1.16, y=1.00, # y= -0.85, 
            legend=c('Gene-Gene', 'Selected Signaling Pathway'),
-           col=c('gray', 'black'), lwd=c(2,2), cex=1.2, bty='n')
+           col=c('gray', 'black'), lwd=c(3,3), cex=1.2, bty='n')
   })
 }
 
