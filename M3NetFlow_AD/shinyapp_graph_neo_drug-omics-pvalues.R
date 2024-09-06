@@ -81,6 +81,11 @@ ui <- fluidPage(
                   min = 1.0, max = 5.0,
                   value = 2),
       
+      sliderInput('pvalue_threshold',
+                  'Select the threshold of marking important genes by p-values',
+                  min = 0, max = 0.3,
+                  value = 0.05),
+      
       sliderInput('giant_comp_threshold',
                   'Select the threshold of each component',
                   min = 0.0, max = 20.0,
@@ -120,6 +125,9 @@ server <- function(input, output) {
   node_threshold <- reactive({
     input$node_threshold
   })
+  pvalue_threshold <- reactive({
+    input$pvalue_threshold
+  })
   giant_comp_threshold <- reactive({
     input$giant_comp_threshold
   })
@@ -134,9 +142,9 @@ server <- function(input, output) {
     cell_path_csv = paste(cell_path, '.csv', sep='')
     net_edge_weight = read.csv(cell_path_csv)
     if (input$type_num == 1){
-      net_node = read.csv('./ROSMAP-analysis/avg_analysis/map-all-gene-AD-Att_deg.csv') # NODE LABEL
+      net_node = read.csv('./ROSMAP-analysis/avg_analysis/map-all-gene-AD-Att_deg_pvalue.csv') # NODE LABEL
     }else if (input$type_num == 2){
-      net_node = read.csv('./ROSMAP-analysis/avg_analysis/map-all-gene-NOAD-Att_deg.csv') # NODE LABEL
+      net_node = read.csv('./ROSMAP-analysis/avg_analysis/map-all-gene-NOAD-Att_deg_pvalue.csv') # NODE LABEL
     }
     
     ### 2.1 FILTER EDGE BY [edge_weight]
@@ -166,8 +174,24 @@ server <- function(input, output) {
     net = graph_from_data_frame(d=refilter_net_edge, vertices=refilter_net_node, directed=F)
 
     ### 4. NETWORK PARAMETERS SETTINGS
-    # vertex frame color
-    vertex_fcol = rep('black', vcount(net))
+    # vertex frame color as long as one of the 10 pvalues is smaller than pvalue_threshold, makr it as black 
+    # feature includes (['proteomics_pvalues', 'gene-expression_pvalues', 'cnv_del_pvalues', 'cnv_dup_pvalues', 'cnv_mcnv_pvalues', 'methy-Downstream_pvalues', 
+    #                     'methy-Core-Promoter_pvalues', 'methy-Proximal-Promoter_pvalues', 'methy-Distal-Promoter_pvalues', 'methy-Upstream_pvalues'])
+    vertex_fcol = rep(NA, vcount(net))
+    vertex_fcol[V(net)$gene_expression_pvalues < pvalue_threshold()] = '#a569bd'
+    # # Combine all conditions into one logical OR condition
+    # mark_condition = V(net)$proteomics_pvalues <= pvalue_threshold() |
+    #   V(net)$gene_expression_pvalues <= pvalue_threshold() |
+    #   V(net)$cnv_del_pvalues <= pvalue_threshold() |
+    #   V(net)$cnv_dup_pvalues <= pvalue_threshold() |
+    #   V(net)$cnv_mcnv_pvalues <= pvalue_threshold() |
+    #   V(net)$methy_Downstream_pvalues <= pvalue_threshold() |
+    #   V(net)$methy_Core_Promoter_pvalues <= pvalue_threshold() |
+    #   V(net)$methy_Proximal_Promoter_pvalues <= pvalue_threshold() |
+    #   V(net)$methy_Distal_Promoter_pvalues <= pvalue_threshold() |
+    #   V(net)$methy_Upstream_pvalues <= pvalue_threshold()
+    # vertex_fcol[mark_condition] = '#a569bd'
+
     # vertex color
     vertex_col = rep('lightblue', vcount(net))
     vertex_col[V(net)$Att_deg>=node_threshold()] = 'tomato'
@@ -202,7 +226,7 @@ server <- function(input, output) {
     
     set.seed(18)
     plot(net,
-         vertex.frame.width = 0,
+         vertex.frame.width = 3.0,
          vertex.frame.color = vertex_fcol,
          vertex.color = vertex_col,
          vertex.size = vertex_size,
@@ -214,13 +238,15 @@ server <- function(input, output) {
          edge.color = edge_color,
          edge.curved = 0.2,
          layout=layout_with_graphopt)
-    ### ADD LEGEND
-    legend(x=-1.05, y=1.10, # y= -0.72,
-           legend=c('Genes', 'Important Genes'), pch=c(21,21), 
-           pt.bg=c('lightblue', 'tomato'), pt.cex=2, cex=1.2, bty='n')
-    legend(x=-1.06, y=0.98, # y= -0.85, 
+    ### Add Legend
+    legend(x= -1.15, y=1.13, # y= -0.72,
+           legend=c('Genes', 'Important Genes Marked By Attention-based Scores', 'Genes With Significant Differences'), pch=c(21,21,21), 
+           col=c('lightblue', 'tomato', '#a569bd'),
+           pt.bg=c('lightblue', 'tomato', 'white'), 
+           pt.cex=2, cex=1.2, bty='n')
+    legend(x= -1.16, y=1.00, # y= -0.85, 
            legend=c('Gene-Gene', 'Selected Signaling Pathway'),
-           col=c('gray', 'black'), lwd=c(5,5), cex=1.2, bty='n')
+           col=c('gray', 'black'), lwd=c(2,2), cex=1.2, bty='n')
   })
 }
 
