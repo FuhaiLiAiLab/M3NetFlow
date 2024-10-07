@@ -4,9 +4,8 @@ import torch
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from sklearn.metrics import mean_squared_error
 
-from geo_tmain_path_tsgnn import arg_parse, build_geotsgnn_model
+from geo_tmain_m3netflow import arg_parse, build_geotsgnn_model
 
 class PanEdgeAnalyse():
     def __init__(self):
@@ -49,10 +48,6 @@ class PanEdgeAnalyse():
         node_num_dict = dict(zip(node_num_dict_df.node_name, node_num_dict_df.node_num))
         kegg_gene_interaction_df = kegg_gene_interaction_df.replace({'src': node_num_dict, 'dest': node_num_dict})
         kegg_gene_interaction_df.to_csv('./analysis-' + dataname + '/fold_' + str(fold_n) + '_pan/kegg_weighted_gene_interaction.csv', index=False, header=True)
-
-    
-
-
 
 
 if __name__ == "__main__":

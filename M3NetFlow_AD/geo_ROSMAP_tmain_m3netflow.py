@@ -12,7 +12,7 @@ from torch.autograd import Variable
 import utils
 from geo_loader.read_geograph import read_batch
 from geo_loader.geograph_sampler import GeoGraphLoader
-from enc_dec.geo_mosgraphflow_decoder import TSGNNDecoder
+from M3NetFlow_AD.enc_dec.geo_m3netflow_decoder import TSGNNDecoder
 from sklearn.metrics import accuracy_score, f1_score, confusion_matrix, precision_score, recall_score
 
 

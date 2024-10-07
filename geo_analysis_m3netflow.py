@@ -12,7 +12,7 @@ from torch.autograd import Variable
 import utils
 from geo_loader.read_geograph import read_batch
 from geo_loader.geograph_sampler import GeoGraphLoader
-from enc_dec.geo_mosgraphflow_analysis_decoder import TSGNNDecoder
+from enc_dec.geo_analysis_m3netflow_decoder import TSGNNDecoder
 
 # PARSE ARGUMENTS FROM COMMAND LINE
 def arg_parse():
@@ -54,31 +54,38 @@ def arg_parse():
                         model = '0', # 'load'
                         lr = 0.002,
                         clip = 2.0,
-                        batch_size = 1,
+                        batch_size = 16,
                         num_workers = 1,
-                        num_epochs = 80,
-                        input_dim = 10,
-                        hidden_dim = 10,
-                        output_dim = 30,
+                        num_epochs = 100,
+                        input_dim = 8,
+                        hidden_dim = 8,
+                        output_dim = 24,
                         decoder_dim = 150,
-                        dropout = 0.1)
+                        dropout = 0.01)
     return parser.parse_args()
 
-def build_geotsgnn_model(args, device, graph_output_folder,num_class, fold_n):
+def build_geotsgnn_model(args, device, dataset):
     print('--- BUILDING UP TSGNN MODEL ... ---')
     # GET PARAMETERS
     # [num_gene, num_drug, (adj)node_num]
-    final_annotation_gene_df = pd.read_csv(os.path.join(graph_output_folder, 'map-all-gene.csv'))
-    gene_name_list = list(final_annotation_gene_df['Gene_name'])
-    node_num = len(gene_name_list)
+    final_annotation_gene_df = pd.read_csv('./' + dataset + '/filtered_data/kegg_gene_annotation.csv')
+    gene_name_list = list(final_annotation_gene_df['kegg_gene'])
+    num_gene = len(gene_name_list)
+    drug_num_dict_df = pd.read_csv('./' + dataset + '/filtered_data/drug_num_dict.csv')
+    drug_dict = dict(zip(drug_num_dict_df.Drug, drug_num_dict_df.drug_num))
+    num_drug = len(drug_dict)
+    node_num = num_gene + num_drug
     # [num_gene_edge, num_drug_edge]
-    form_data_path = './' + graph_output_folder + '/form_data'
-    edge_index = torch.from_numpy(np.load(form_data_path + '/edge_index.npy') ).long()
-    num_edge = edge_index.shape[1]
+    gene_num_df = pd.read_csv('./' + dataset + '/filtered_data/kegg_gene_num_interaction.csv')
+    gene_num_df = gene_num_df.drop_duplicates()
+    drugbank_num_df = pd.read_csv('./' + dataset + '/filtered_data/final_drugbank_num_sym.csv')
+    num_gene_edge = gene_num_df.shape[0]
+    num_drug_edge = drugbank_num_df.shape[0]
+    num_edge = num_gene_edge + num_drug_edge
     # import pdb; pdb.set_trace()
     # BUILD UP MODEL
     model = TSGNNDecoder(input_dim=args.input_dim, hidden_dim=args.hidden_dim, embedding_dim=args.output_dim, decoder_dim=args.decoder_dim,
-                node_num=node_num, num_edge=num_edge, device=device,graph_output_folder=graph_output_folder,num_class=num_class, fold_n=fold_n)
+                num_gene=num_gene, node_num=node_num, num_edge=num_edge, num_gene_edge=num_gene_edge, device=device, dataset=dataset)
     model = model.to(device)
     return model
 
@@ -93,56 +100,55 @@ def sparse_mx_to_torch_sparse_tensor(sparse_mx):
     return torch.sparse.FloatTensor(indices, values, shape)
     
 
-def analysis_geotsgnn_model(dataset_loader, batch_random_final_dl_input_df, analysis_save_path, model, device, args,graph_output_folder):
+def analysis_geotsgnn_model(dataset_loader, adj, batch_random_final_dl_input_df, analysis_save_path, model, device, args):
     batch_loss = 0
     for batch_idx, data in enumerate(dataset_loader):
         x = Variable(data.x, requires_grad=False).to(device)
         edge_index = Variable(data.edge_index, requires_grad=False).to(device)
-        label = Variable(data.label, requires_grad=False).to(device)
-        #assert label.min() >= 0, f"Label min is less than 0: {label.min().item()}"
-        #assert label.max() < num_class, f"Label max is out of range: {label.max().item()}"
-        #adj = Variable(adj.float(), requires_grad=False).to(device)
+        drug_index = Variable(data.drug_index, requires_grad=False).to(device)
+        label = Variable(data.label, requires_grad=True).to(device)
+        adj = Variable(adj.float(), requires_grad=False).to(device)
         # THIS WILL USE METHOD [def forward()] TO MAKE PREDICTION
-        output, ypred = model(x, edge_index, graph_output_folder, batch_random_final_dl_input_df, analysis_save_path)
-        # batch_ypred = ypred
-        # print('Batch prediction shape:', batch_ypred.shape)
-        loss = model.loss(output, label)
+        ypred = model(x, edge_index, drug_index, adj, batch_random_final_dl_input_df, analysis_save_path)
+        loss = model.loss(ypred, label)
         batch_loss += loss.item()
-    return model, batch_loss
+    return model, batch_loss, ypred
 
 
-def analysis_geotsgnn(args, fold_n, model, analysis_save_path, device, graph_output_folder):
+def analysis_geotsgnn(args, fold_n, model, analysis_save_path, device, dataset):
     print('-------------------------- ANALYSIS START --------------------------')
     print('-------------------------- ANALYSIS START --------------------------')
     print('-------------------------- ANALYSIS START --------------------------')
     print('-------------------------- ANALYSIS START --------------------------')
     print('-------------------------- ANALYSIS START --------------------------')
     # ANALYSIS MODEL ON WHOLE DATASET
-    form_data_path = './' + graph_output_folder + '/form_data'
+    form_data_path = './' + dataset + '/form_analysis_data'
     xAll = np.load(form_data_path + '/xAll.npy')
     yAll = np.load(form_data_path + '/yAll.npy')
-    random_final_dl_input_df = pd.read_csv('./' + graph_output_folder + '/random-survival-label.csv')
+    drugAll =  np.load(form_data_path + '/drugAll.npy')
+    random_final_dl_input_df = pd.read_csv('./' + dataset + '/filtered_data/random_final_dl_input.csv')
     # READ [adj, edge_index] FILES 
-    #adj = sparse_mx_to_torch_sparse_tensor(sparse.load_npz(form_data_path + '/adj_sparse.npz'))
+    adj = sparse_mx_to_torch_sparse_tensor(sparse.load_npz(form_data_path + '/adj_sparse.npz'))
     edge_index = torch.from_numpy(np.load(form_data_path + '/edge_index.npy') ).long() 
 
     dl_input_num = xAll.shape[0]
     batch_size = args.batch_size
     # CLEAN RESULT PREVIOUS EPOCH_I_PRED FILES
     # [num_feature, num_gene, num_drug]
-    num_feature = 10
-
-    final_annotation_gene_df = pd.read_csv(os.path.join(graph_output_folder, 'map-all-gene.csv'))
-    num_node = final_annotation_gene_df.shape[0]
+    num_feature = 8
+    dict_drug_num = pd.read_csv('./' + dataset + '/filtered_data/drug_num_dict.csv')
+    num_drug = dict_drug_num.shape[0]
+    final_annotation_gene_df = pd.read_csv('./' + dataset + '/filtered_data/kegg_gene_annotation.csv')
+    num_gene = final_annotation_gene_df.shape[0]
     # [num_cellline]
-    survival_label_list = sorted(list(set(random_final_dl_input_df['individualID'])))
-    survival_label_num = [x for x in range(1, len(survival_label_list)+1)]
-    survival_label_map_df = pd.DataFrame({'individualID': survival_label_list, 'individualID_Num': survival_label_num})
-    survival_label_map_df.to_csv('./' + graph_output_folder + '/survival_label_map_dict.csv', index=False, header=True)
-    batch_included_survival_label_list = []
+    cell_line_list = sorted(list(set(random_final_dl_input_df['Cell Line Name'])))
+    cell_line_num = [x for x in range(1, len(cell_line_list)+1)]
+    cell_line_map_df = pd.DataFrame({'Cell_Line_Name': cell_line_list, 'Cell_Line_Num': cell_line_num})
+    cell_line_map_df.to_csv('./' + dataset + '/filtered_data/cell_line_map_dict.csv', index=False, header=True)
+    batch_included_cell_line_list = []
     # RUN ANALYSIS MODEL
     model.eval()
-    # all_ypred = np.zeros((1, 1))
+    all_ypred = np.zeros((1, 1))
     upper_index = 0
     batch_loss_list = []
     for index in range(0, dl_input_num, batch_size):
@@ -150,60 +156,69 @@ def analysis_geotsgnn(args, fold_n, model, analysis_save_path, device, graph_out
             upper_index = index + batch_size
         else:
             upper_index = dl_input_num
-        geo_datalist = read_batch(index, upper_index, xAll, yAll, num_feature, num_node, edge_index, graph_output_folder)
+        geo_datalist = read_batch(index, upper_index, xAll, yAll, drugAll,\
+                num_feature, num_gene, num_drug, edge_index, dataset)
         dataset_loader, node_num, feature_dim = GeoGraphLoader.load_graph(geo_datalist, prog_args)
         batch_random_final_dl_input_df = random_final_dl_input_df.iloc[index : upper_index]
         print('ANALYZE MODEL...')
         # import pdb; pdb.set_trace()
-        model, batch_loss = analysis_geotsgnn_model(dataset_loader, 
-                                            batch_random_final_dl_input_df, analysis_save_path, model, device, args,graph_output_folder)
+        model, batch_loss, batch_ypred = analysis_geotsgnn_model(dataset_loader, adj, 
+                                            batch_random_final_dl_input_df, analysis_save_path, model, device, args)
         print('BATCH LOSS: ', batch_loss)
         batch_loss_list.append(batch_loss)
-        # # PRESERVE PREDICTION OF BATCH TEST DATA
-        # batch_ypred = (Variable(batch_ypred).data).cpu().numpy()
-        # all_ypred = np.vstack((all_ypred, batch_ypred))
-        # all_ypred = np.concatenate((all_ypred, batch_ypred.reshape(-1, 1)), axis=0)
+        # PRESERVE PREDICTION OF BATCH TEST DATA
+        batch_ypred = (Variable(batch_ypred).data).cpu().numpy()
+        all_ypred = np.vstack((all_ypred, batch_ypred))
         # TIME TO STOP SINCE ALL [cell line] WERE INCLUDED
-        tmp_batch_survival_label_list = sorted(list(set(batch_random_final_dl_input_df['individualID'])))
-        batch_included_survival_label_list += tmp_batch_survival_label_list
-        batch_included_survival_label_list = sorted(list(set(batch_included_survival_label_list)))
+        tmp_batch_cell_line_list = sorted(list(set(batch_random_final_dl_input_df['Cell Line Name'])))
+        batch_included_cell_line_list += tmp_batch_cell_line_list
+        batch_included_cell_line_list = sorted(list(set(batch_included_cell_line_list)))
         # import pdb; pdb.set_trace()
-        if batch_included_survival_label_list == survival_label_list:
-            print(len(batch_included_survival_label_list))
-            print(batch_included_survival_label_list)
+        if batch_included_cell_line_list == cell_line_list:
+            print(len(batch_included_cell_line_list))
+            print(batch_included_cell_line_list)
             break
 
 
+
 if __name__ == "__main__":
-    # Parse argument from terminal or default parameters
+    # PARSE ARGUMENT FROM TERMINAL OR DEFAULT PARAMETERS
     prog_args = arg_parse()
 
-    # Check and allocate resources
+    # CHECK AND ALLOCATE RESOURCES
     device, prog_args.gpu_ids = utils.get_available_devices()
-    # Manual set
+    # MANUAL SET
     device = torch.device('cuda:0') 
     torch.cuda.set_device(device)
     print('MAIN DEVICE: ', device)
-    # Single gpu
+    # SINGLE GPU
     prog_args.gpu_ids = [0]
     os.environ["CUDA_VISIBLE_DEVICES"] = '0'
 
-    # Dataset Selection
-    dataset = 'ROSMAP'
-    graph_output_folder = dataset + '-graph-data'
+    ### DATASET SELECTION
+    dataset = 'datainfo-nci'
+    dataname = 'nci'
+    # dataset = 'datainfo-oneil'
+    # dataset = 'oneil
 
-    k = 5
-    for fold_n in np.arange(1, k + 1):
-        os.makedirs('./' + dataset + '-analysis/fold_' + str(fold_n), exist_ok=True)
-        graph_output_folder = dataset + '-graph-data'
-        yTr = np.load('./' + graph_output_folder + '/form_data/yTr' + str(fold_n) + '.npy')
-        unique_numbers, occurrences = np.unique(yTr, return_counts=True)
-        num_class = len(unique_numbers)
-        print("num:" ,num_class)
+    ### MODEL SELECTION
+    modelname = 'tsgnn'
+    # modelname = 'gat'
+    # modelname = 'gcn'
+    
+    while os.path.exists('./analysis-' + dataname) == False:
+        os.mkdir('./analysis-' + dataname)
 
-        model = build_geotsgnn_model(prog_args, device, graph_output_folder,num_class, fold_n)
-        ### TEST THE MODEL
-        analysis_load_path = './' + dataset + '-result/mosgraphflow/fold_' + str(fold_n) + '/best_train_model.pt'
-        analysis_save_path = './' + dataset + '-analysis/fold_' + str(fold_n)
-        model.load_state_dict(torch.load(analysis_load_path, map_location=device))
-        analysis_geotsgnn(prog_args, fold_n, model, analysis_save_path, device, graph_output_folder)
+    # # ANALYSIS THE MODEL
+    # ANALYSIS USING [FOLD-1]
+    fold_n = 5
+    while os.path.exists('./analysis-' + dataname + '/fold_' + str(fold_n)) == False:
+        os.mkdir('./analysis-' + dataname + '/fold_' + str(fold_n))
+    model = build_geotsgnn_model(prog_args, device, dataset)
+    if fold_n == 1:
+        analysis_load_path = './' + dataset + '/result/' + modelname + '/epoch_100/best_train_model.pt'
+    else:
+        analysis_load_path = './' + dataset + '/result/' + modelname + '/epoch_100_' + str(fold_n - 1) + '/best_train_model.pt'
+    analysis_save_path = './analysis-' + dataname + '/fold_' + str(fold_n)
+    model.load_state_dict(torch.load(analysis_load_path, map_location=device))
+    analysis_geotsgnn(prog_args, fold_n, model, analysis_save_path, device, dataset)

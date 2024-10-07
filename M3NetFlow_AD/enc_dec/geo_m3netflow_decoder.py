@@ -536,9 +536,9 @@ class GlobalWeBGNN(nn.Module):
         return web_x, mean_up_edge_weight, mean_down_edge_weight
 
 
-class TSGNNDecoder(nn.Module):
+class M3NetFlowDecoder(nn.Module):
     def __init__(self, input_dim, hidden_dim, embedding_dim, decoder_dim, node_num, num_edge, device, num_class):
-        super(TSGNNDecoder, self).__init__()
+        super(M3NetFlowDecoder, self).__init__()
         self.input_dim = input_dim
         self.hidden_dim = hidden_dim
         self.embedding_dim = embedding_dim

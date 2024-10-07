@@ -12,7 +12,7 @@ from torch.autograd import Variable
 import utils
 from geo_loader.read_geograph import read_batch
 from geo_loader.geograph_sampler import GeoGraphLoader
-from enc_dec.geo_tsgnn_decoder import TSGNNDecoder
+from enc_dec.geo_m3netflow_decoder import TSGNNDecoder
 
 # PARSE ARGUMENTS FROM COMMAND LINE
 def arg_parse():

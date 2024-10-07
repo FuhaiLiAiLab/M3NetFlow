@@ -1,4 +1,3 @@
-import os
 import pdb
 import math
 import torch
@@ -40,6 +39,7 @@ class WeBConv(MessagePassing):
         # [batch_size]
         batch_size = int(x.shape[0] / self.node_num)
         # TEST PARAMETERS
+        # import pdb; pdb.set_trace()
         print(torch.sum(self.up_gene_edge_weight))
         print(torch.sum(self.down_gene_edge_weight))
 
@@ -97,7 +97,7 @@ class WeBConv(MessagePassing):
 
 
 class SubGraphAttentionConv(MessagePassing):
-    def __init__(self, in_channels, out_channels, head, negative_slope, aggr, device, dataset):
+    def __init__(self, in_channels, out_channels, head, negative_slope, aggr, device):
         super(SubGraphAttentionConv, self).__init__(node_dim=0)
         assert out_channels % head == 0
         self.k = out_channels // head
@@ -108,7 +108,6 @@ class SubGraphAttentionConv(MessagePassing):
         self.negative_slope = negative_slope
         self.aggr = aggr
         self.device = device
-        self.dataset = dataset
 
         self.weight_linear = nn.Linear(in_channels, out_channels, bias=False)
         self.att = torch.nn.Parameter(torch.Tensor(1, head, 2 * self.k))
@@ -121,74 +120,18 @@ class SubGraphAttentionConv(MessagePassing):
         glorot(self.att)
         zeros(self.bias)
 
-    def forward(self, x, edge_index, mask, batch_random_final_dl_input_df, sp_path):
-        dataset = self.dataset
+    def forward(self, x, edge_index, mask):
         ### ADD SELF LOOPS IN THE EDGE SPACE
-        x = self.weight_linear(x).view(-1, self.num_head, self.k) # N * num_head * h
         # import pdb; pdb.set_trace()
-        batch_size = batch_random_final_dl_input_df.shape[0]
-        sub_khop_node_num = int(x.shape[0] / batch_size)
-        return self.propagate(edge_index, x=x, mask=mask, batch_df=batch_random_final_dl_input_df, path=sp_path, sub_khop_node_num=sub_khop_node_num, dataset=dataset)
+        x = self.weight_linear(x).view(-1, self.num_head, self.k) # N * num_head * h
+        return self.propagate(edge_index, x=x, mask=mask)
 
-    def message(self, edge_index, x_i, x_j, mask, batch_df, path, sub_khop_node_num, dataset):
+    def message(self, edge_index, x_i, x_j, mask):
         alpha = (torch.cat([x_i, x_j], dim=-1) * self.att).sum(dim=-1) # E * num_head * h
         alpha = F.leaky_relu(alpha, self.negative_slope)
         alpha = softmax(alpha, edge_index[0])
         head_mask = torch.tile(mask, (1, self.num_head)).reshape(x_j.shape[0], self.num_head, 1)
         x_j.masked_fill_(head_mask==0, 0.)
-
-        # CACULATE THE ATTENTION
-        batch_size = batch_df.shape[0]
-        batch_alpha = alpha.clone()
-        mask = mask.unsqueeze(-1)
-        batch_mask = mask.reshape(batch_size, -1)
-        batch_alpha = batch_alpha.masked_fill_(mask==0, 0.)
-        batch_alpha = torch.mean(batch_alpha, dim=1)
-        batch_alpha = batch_alpha.reshape(batch_size, -1)
-        batch_cell_line_list = list(batch_df['Cell Line Name'])
-        batch_edgeindex = edge_index.clone()
-        batch_edgeindex = batch_edgeindex.t().reshape(batch_size, -1, 2)
-
-        # PREPARE [cell line] MAP
-        cell_line_map_df = pd.read_csv('./' + dataset + '/filtered_data/cell_line_map_dict.csv')
-        cell_line_map_dict = dict(zip(cell_line_map_df.Cell_Line_Name, cell_line_map_df.Cell_Line_Num))
-
-        # import pdb; pdb.set_trace()
-
-        for batch_idx in range(batch_size):
-            input_row = batch_df.iloc[batch_idx]
-            drugA = input_row[0]
-            drugB = input_row[1]
-            cell_line = input_row[2]
-            cell_line_num = cell_line_map_dict[cell_line]
-            cell_line_save_path = path + '/cell' + str(cell_line_num) + '.csv'
-            if os.path.isfile(cell_line_save_path) == True:
-                continue
-
-            # import pdb; pdb.set_trace()
-            
-            hop_edge_num = int((torch.sum(batch_mask[batch_idx])).cpu().detach().numpy())
-            hop1_list = ['hop1' for x in range(hop_edge_num)]
-            hop2_list = ['hop2' for x in range(hop_edge_num)]
-            hop3_list = ['hop3' for x in range(hop_edge_num)]
-            hop_list = hop1_list + hop2_list + hop3_list
-
-
-            from_array = batch_edgeindex[batch_idx, :, 0] - (batch_idx * sub_khop_node_num)
-            to_array = batch_edgeindex[batch_idx, :, 1] - (batch_idx * sub_khop_node_num)
-
-            from_list =  list(from_array.cpu().detach().numpy())
-            to_list =  list(to_array.cpu().detach().numpy())
-            mask_list = list(batch_mask[batch_idx].cpu().detach().numpy())
-            attention_list = list(batch_alpha[batch_idx].cpu().detach().numpy())
-            cell_line_att_df = pd.DataFrame({'From': from_list,
-                                             'To': to_list,
-                                             'Mask': mask_list,
-                                             'Attention': attention_list,
-                                             'Hop': hop_list})
-            # import pdb; pdb.set_trace()
-            cell_line_att_df.to_csv(cell_line_save_path, index=False, header=True)
-
         return x_j * alpha.view(-1, self.num_head, 1) # E * num_head * h
 
     def update(self, aggr_out):
@@ -198,13 +141,12 @@ class SubGraphAttentionConv(MessagePassing):
 
 
 class TraverseSubGNN(nn.Module):
-    def __init__(self, input_dim, embedding_dim, head, max_layer, device, dataset):
+    def __init__(self, input_dim, embedding_dim, head, max_layer, device):
         super(TraverseSubGNN, self).__init__()
         self.input_dim = input_dim
         self.embedding_dim = embedding_dim
         self.max_layer = max_layer
         self.device = device
-        self.dataset = dataset
 
         self.subgat_khop = self.build_traverse_subgat_layer(
                             input_dim=input_dim, embedding_dim=embedding_dim, head=head, max_layer=max_layer, device=device)
@@ -212,11 +154,11 @@ class TraverseSubGNN(nn.Module):
         self.norm = nn.BatchNorm1d(embedding_dim)
 
     def build_traverse_subgat_layer(self, input_dim, embedding_dim, head, max_layer, device):
-        subgat_khop = SubGraphAttentionConv(in_channels=input_dim, out_channels=embedding_dim, head=3, negative_slope=0.2, aggr="add", device=device, dataset=self.dataset)
+        subgat_khop = SubGraphAttentionConv(in_channels=input_dim, out_channels=embedding_dim, head=3, negative_slope=0.2, aggr="add", device=device)
         return subgat_khop
     
-    def forward(self, subx, subadj_edgeindex, sub_mask_edgeindex, batch_size, subgraph_size, batch_random_final_dl_input_df, sp_path):
-        khop_subx = self.subgat_khop(subx, subadj_edgeindex, sub_mask_edgeindex, batch_random_final_dl_input_df, sp_path)
+    def forward(self, subx, subadj_edgeindex, sub_mask_edgeindex, batch_size, subgraph_size):
+        khop_subx = self.subgat_khop(subx, subadj_edgeindex, sub_mask_edgeindex)
         khop_subx = self.norm(self.act2(khop_subx))
         khop_subx = khop_subx.reshape(batch_size, self.max_layer, subgraph_size, -1)
         khop_subx = torch.mean(khop_subx, dim=1)
@@ -271,15 +213,14 @@ class GlobalWeBGNN(nn.Module):
         return web_x, mean_up_edge_weight, mean_down_edge_weight
 
 
-class TSGNNDecoder(nn.Module):
+class M3NetFlowDecoder(nn.Module):
     def __init__(self, input_dim, hidden_dim, embedding_dim, decoder_dim,
-                                num_gene, node_num, num_edge, num_gene_edge, device, dataset):
-        super(TSGNNDecoder, self).__init__()
+                                num_gene, node_num, num_edge, num_gene_edge, device):
+        super(M3NetFlowDecoder, self).__init__()
         self.input_dim = input_dim
         self.hidden_dim = hidden_dim
         self.embedding_dim = embedding_dim
         self.device = device
-        self.dataset = dataset
 
         self.num_gene = num_gene
         self.node_num = node_num
@@ -287,7 +228,7 @@ class TSGNNDecoder(nn.Module):
         self.num_gene_edge = num_gene_edge
 
         self.max_layer = 3
-        self.traverse_subgnn = TraverseSubGNN(input_dim=input_dim, embedding_dim=input_dim*3, head=3, max_layer=self.max_layer, device=device, dataset=dataset)
+        self.traverse_subgnn = TraverseSubGNN(input_dim=input_dim, embedding_dim=input_dim*3, head=3, max_layer=self.max_layer, device=device)
         self.linear_traverse_x = nn.Linear(input_dim*3, 1)
         self.linear_x = nn.Linear(input_dim, input_dim)
         
@@ -302,9 +243,10 @@ class TSGNNDecoder(nn.Module):
         self.parameter2 = torch.nn.Parameter(torch.randn(decoder_dim, decoder_dim).to(device='cuda'))
 
     
-    def forward(self, x, edge_index, drug_index, adj, batch_random_final_dl_input_df, analysis_save_path):
-        dataset = self.dataset
+    def forward(self, x, edge_index, drug_index, adj, edge_feat, edge_adj_index, dataset):
         ### BUILD UP ASSIGNMENT MATRIX
+        # import pdb; pdb.set_trace()
+
         x_norm = self.x_norm(x)
         x = x.reshape(-1, self.node_num, self.input_dim)
         x_norm = x_norm.reshape(-1, self.node_num, self.input_dim)
@@ -330,10 +272,6 @@ class TSGNNDecoder(nn.Module):
             sp_notation = kegg_sp_notation_list[sp_num_notation]
             subassign_index = np.load(form_data_path + '/' + sp_notation + '_gene_idx.npy')
             subgraph_size = subassign_index.shape[0]
-            # SP PATH CREATION
-            sp_path = analysis_save_path + '/' + sp_notation
-            while os.path.exists(sp_path) == False:
-                os.mkdir(sp_path)
             # EXPAND NODE TO MULTIPLE HOPs
             subx = gene_x[:, subassign_index, :]
             batch_subx = torch.tile(subx, (1, self.max_layer, 1))
@@ -353,8 +291,7 @@ class TSGNNDecoder(nn.Module):
                 batch_sp_adj_edgeindex = torch.cat([batch_sp_adj_edgeindex, tmp_sp_adj_edgeindex], dim=1)
                 batch_sp_mask_edgeindex = torch.cat([batch_sp_mask_edgeindex, sp_mask_edgeindex])
             # RUN [traverse_subgnn]
-            khop_subx = self.traverse_subgnn(batch_subx, batch_sp_adj_edgeindex, batch_sp_mask_edgeindex, 
-                                    batch_size, subgraph_size, batch_random_final_dl_input_df, sp_path)
+            khop_subx = self.traverse_subgnn(batch_subx, batch_sp_adj_edgeindex, batch_sp_mask_edgeindex, batch_size, subgraph_size)
             traverse_sp_x[:, sp_num_notation, subassign_index, :] = khop_subx
             traverse_sp_tmp_num = torch.zeros([self.node_num, 1]).to(device='cuda')
             traverse_sp_tmp_num[subassign_index, :] = 1
@@ -404,6 +341,7 @@ class TSGNNDecoder(nn.Module):
         print(torch.sum(self.parameter1))
         # print(self.parameter2)
         return ypred
+
 
     def loss(self, pred, label):
         # import pdb; pdb.set_trace()
