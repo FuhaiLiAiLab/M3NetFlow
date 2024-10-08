@@ -142,7 +142,7 @@ By changing the threshold of important genes measured by p-values (comparing AD 
 * Select the threshold of each component
 Updating the threshold of filtering out the small component by changing this control panel.
 
-The rest panel can only change the visualization details of the plot.
+The rest panel can only change the visualization details of the plot:
 * Select the gene node size: changing the common node size
 * Select the important gene node size: modifying the size of the important nodes
 * Select the label size of gene nodes: changing the label or font size of common nodes
