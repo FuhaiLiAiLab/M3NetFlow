@@ -123,7 +123,7 @@ python ROSMAP_analysis_avg_and_pvalue.py
 To generate the visualization application on ROSMAP AD dataset, use the R code './M3NetFlow_AD/shinyapp_graph_neo_drug-omics-pvalues.R'.
 ![](./figures/Figure10.png)
 
-* visit the website: https://m3netflow.shinyapps.io/NetVisFlow-AD/ for our tool NetFlowVis-AD
+* visit the website: https://m3netflow.shinyapps.io/NetFlowVis-AD/ for our tool NetFlowVis-AD
 
 ### 5.4 Detailed instruction on application tool NetVisFlow-AD
 In the web-based user interface, the left panel can control the cancer-specific results. 
