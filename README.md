@@ -1,7 +1,7 @@
 # M3NetFlow
 
 ## 1. Model Overall Architecture
-![](./figures/Figure2-nv.png)
+![](./figures/Figure1.png)
 
 ## 2. Parsing the Raw Data Files
 ### 2.1 Preprocess the raw datasets for cancer dataset
