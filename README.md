@@ -18,6 +18,7 @@ In post_parse.py file, you may change the dataset parameter with *datainfo-nci* 
 ```
 python post_parse.py
 ```
+, and the details of data processing are available [here](./data_processing_details.pdf).
 
 ### 2.2 Preprocess the raw datasets for ROSMAP AD dataset
 Change directory into 'M3NetFlow_AD', check file 'ROSMAP_union_raw_data_process_AD.ipynb' to parse raw datasets. Afterwards, run 
@@ -81,7 +82,8 @@ And in 'kegg_path.ipynb', we can generate the Figure 4c.
 
 
 ### 4.5 Model Results and Our Vistualization Tool VisNetFlow
-To genreate the visualization application, the file 'shinyapp_graph_neo_drug.R' can be used to generate the GUI. 
+To genreate the visualization application, the file 'shinyapp_graph_neo_drug.R' can be used to generate the GUI, NetFlowVis, a tool to visualize core signaling pathways associated with synergistic drug combinations
+To visualize the results and gain a better understanding of the underlying mechanism of drug effects, we generated a core network of signaling interactions by applying a threshold. To enhance the interactions, we utilized the RShiny package and developed a visualization tool called NetFlowVis (The website link has been provided in the code availability part). This tool allows users to control the edge threshold and set a minimum number of nodes in each network component. Users have the option to select the desired cell line for visualization and mark specific signaling pathways for detailed analysis. As an example, following figure demonstrates the visualization of the cell line DU-145. Furthermore, by referring to the top 20 prior gene targets and their corresponding gene degree (node importance scores) for cell line DU-145, we observed that the majority of gene targets were included in the filtered signaling network interactions. 
 
 ![](./figures/Figure5-2.png)
 
@@ -120,7 +122,7 @@ python ROSMAP_analysis_avg_and_pvalue.py
 ```
 
 ### 5.3 Pathway Enrichment Analysis for ROSMAP AD dataset
-To generate the visualization application on ROSMAP AD dataset, use the R code './M3NetFlow_AD/shinyapp_graph_neo_drug-omics-pvalues.R'.
+To generate the visualization application on ROSMAP AD dataset, use the R code './M3NetFlow_AD/shinyapp_graph_neo_drug-omics-pvalues.R'. Following figure provides a visualization of Alzheimer’s disease (AD) samples from modified tool, NetFlowVis-AD, highlighting key genes that may contribute to the disease’s pathology. These genes, identified through comprehensive analysis, are suggested to influence critical biological processes involved in the progression of AD. By focusing on these genetic factors, the figure offers insights into potential molecular mechanisms and therapeutic targets that could further advance the understanding of AD.
 ![](./figures/Figure10.png)
 
 * visit the website: https://m3netflow.shinyapps.io/NetFlowVis-AD/ for our tool NetFlowVis-AD
