@@ -1,4 +1,4 @@
-# M3NetFlow: A multi-scale multi-hop graph AI model for integrative multi-omic data analysis
+# M3NetFlow: Multi-scale, Multi-hop Graph AI for Integrative Multi-omic Analysis
 
 <p align="center">
   <a href="https://www.cell.com/iscience/fulltext/S2589-0042(25)00180-4">
@@ -19,40 +19,81 @@
   <img src="./figures/Graphical-Abstract.png" width="60%" alt="Graphical Abstract">
 </p>
 
+## Overview
 
+Multi-omic data-driven studies are at the forefront of precision medicine by characterizing complex disease signaling systems across multiple views and levels. The integration and interpretation of multi-omic data are critical for identifying disease targets and deciphering disease signaling pathways, yet remain challenging due to dense, multi-protein interactions.  
+**M3NetFlow** addresses this gap with a **multi-scale, multi-hop, multi-omic network flow model** that supports both **hypothesis-guided** and **generic** analyses. We validate M3NetFlow on two case studies:  
+1) uncovering mechanisms behind **synergistic drug combinations** (anchor-target guided analysis), and  
+2) identifying **biomarkers of Alzheimer’s disease (AD)** (generic analysis).  
+Across evaluations, M3NetFlow achieves **state-of-the-art predictive performance** and highlights **drug-synergy and disease-associated targets**, and can be readily applied to other multi-omic tasks.
+
+---
+
+## Contents
+
+- [Overview](#overview)
+- [1. Parsing the Raw Data Files](#1-parsing-the-raw-data-files)
+  - [1.1 Cancer datasets preprocessing](#11-cancer-datasets-preprocessing)
+  - [1.2 ROSMAP AD dataset preprocessing](#12-rosmap-ad-dataset-preprocessing)
+- [2. Run the Model](#2-run-the-model)
+  - [2.1 Run M3NetFlow](#21-run-m3netflow)
+  - [2.2 Run baselines](#22-run-baselines)
+  - [2.3 Model performance and comparisons](#23-model-performance-and-comparisons)
+- [3. Interpreting Cancer Results](#3-interpreting-cancer-results)
+  - [3.1 Extract subnetwork attention](#31-extract-subnetwork-attention)
+  - [3.2 Average edge attention](#32-average-edge-attention)
+  - [3.3 Filter attention network (R)](#33-filter-attention-network-r)
+  - [3.4 Cell-gene degree maps (TF-IDF and non-TF-IDF)](#34-cell-gene-degree-maps-tf-idf-and-non-tf-idf)
+- [4. ROSMAP AD Downstream Analysis](#4-rosmap-ad-downstream-analysis)
+  - [4.1 Extract AD subnetworks](#41-extract-ad-subnetworks)
+  - [4.2 Average attention and p-values](#42-average-attention-and-p-values)
+  - [4.3 Pathway enrichment and NetFlowVis-AD](#43-pathway-enrichment-and-netflowvis-ad)
+  - [4.4 NetFlowVis-AD controls](#44-netflowvis-ad-controls)
+- [Citation](#citation)
+
+---
 
 ## 1. Parsing the Raw Data Files
-### 1.1 Preprocess the raw datasets for cancer dataset
-```
+
+### 1.1 Cancer datasets preprocessing
+
+```bash
 python ./parse/init_parse.py
-
 python ./parse/parse_circle.py
-
 python ./parse/parse_network.py
 ```
-Afterwards, parse dataset into the graph AI ready format
-In post_parse.py file, you may change the dataset parameter with *datainfo-nci* or *datainfo-oneil*. Also, fold number can be modified with changing 'n_fold' = [1-5]
 
-```
+Afterwards, parse datasets into the **graph-AI-ready** format. In `post_parse.py`, you may set the dataset parameter to **datainfo-nci** or **datainfo-oneil**. You can also modify the number of folds via `n_fold = [1-5]`.
+
+```bash
 python post_parse.py
 ```
-, and the details of data processing are available [here](./data_processing_details.pdf).
 
-### 1.2 Preprocess the raw datasets for ROSMAP AD dataset
-Change directory into 'M3NetFlow_AD', check file 'ROSMAP_union_raw_data_process_AD.ipynb' to parse raw datasets. Afterwards, run 
-```
+Further processing details are available in [data_processing_details.pdf](./data_processing_details.pdf).
+
+### 1.2 ROSMAP AD dataset preprocessing
+
+Change directory to `M3NetFlow_AD` and use the notebook `ROSMAP_union_raw_data_process_AD.ipynb` to parse raw datasets. Then run:
+
+```bash
 python load_data.py
 ```
 
-## 2. Run the Model to Get Prediction
-### 2.1 Run the M3NetFlow model
-By checking the file 'geo_tmain_m3netflow.py' in current folder or changing directory into './M3NetFlow_AD', you can change the parameters 'dataset' and 'fold_n'.
-```
+---
+
+## 2. Run the Model
+
+### 2.1 Run M3NetFlow
+
+From the project root (or `./M3NetFlow_AD`), configure `dataset` and `fold_n` in `geo_tmain_m3netflow.py`, then run:
+
+```bash
 python geo_tmain_m3netflow.py
 ```
 
-### 2.2 Run other baseline models
-```
+### 2.2 Run baselines
+
+```bash
 python geo_tmain_gcn.py
 python geo_tmain_gat.py
 python geo_tmain_gformer.py
@@ -61,24 +102,31 @@ python geo_tmain_pna.py
 python geo_tmain_gin.py
 ```
 
-Tips: For model performance on ROSMAP AD dataset, you can change directory into folder 'M3NetFlow'
+> **Tip:** For ROSMAP AD model performance, change directory into `M3NetFlow_AD`.
 
-### 2.3 Model Performance and comparisons
+### 2.3 Model performance and comparisons
+
 ![](./figures/Figure3-newresult.png)
 
-## 3. Analysing the Result to Give Interpretation for Cancer Datasets
-### 3.1 Run each fold analysis to extract the attention in subnetwork
-```
+---
+
+## 3. Interpreting Cancer Results
+
+### 3.1 Extract subnetwork attention
+
+```bash
 python geo_analysis_m3netflow.py
 ```
 
-### 3.2 Average attention scores for edges in each fold
-```
+### 3.2 Average edge attention
+
+```bash
 python analysis_path_edge.py
 ```
 
-### 3.3 Filter attention network in R without reweighting first (whole_net / sub_net)
-```
+### 3.3 Filter attention network (R)
+
+```r
 setwd('/Users/muhaha/Files/VS-Files/M3NetFlow')
 cell_map_dict_df = read.csv('./datainfo-nci/filtered_data/cell_line_map_dict.csv')
 fold_n = 0
@@ -88,82 +136,92 @@ for (x in 1:num_cell){
 }
 ```
 
-### 3.4 Create 'cell line - gene' degree map with TF-IDF and non TF-IDF
-By adding the TF-IDF weight to the node importance, the node / gene importance of each specific cell line has been generated by following python file.
-```
+### 3.4 Cell-gene degree maps (TF-IDF and non-TF-IDF)
+
+Add TF-IDF weights to node importance to obtain cell-line-specific gene importance:
+
+```bash
 python analysis_cell_node.py
 ```
 
-And in 'kegg_path.ipynb', we can generate the Figure 4c.
+`kegg_path.ipynb` produces Figure 4c.
 
 ![](./figures/Figure4.png)
 
+---
 
-### 3.5 Model Results and Our Vistualization Tool VisNetFlow
-To genreate the visualization application, the file 'shinyapp_graph_neo_drug.R' can be used to generate the GUI, NetFlowVis, a tool to visualize core signaling pathways associated with synergistic drug combinations
-To visualize the results and gain a better understanding of the underlying mechanism of drug effects, we generated a core network of signaling interactions by applying a threshold. To enhance the interactions, we utilized the RShiny package and developed a visualization tool called NetFlowVis (The website link has been provided in the code availability part). This tool allows users to control the edge threshold and set a minimum number of nodes in each network component. Users have the option to select the desired cell line for visualization and mark specific signaling pathways for detailed analysis. As an example, following figure demonstrates the visualization of the cell line DU-145. Furthermore, by referring to the top 20 prior gene targets and their corresponding gene degree (node importance scores) for cell line DU-145, we observed that the majority of gene targets were included in the filtered signaling network interactions. 
+## 4. ROSMAP AD Downstream Analysis
 
-![](./figures/Figure5-2.png)
+Change directory to `M3NetFlow_AD` for AD analyses.
 
-* visit the website: https://m3netflow.shinyapps.io/NetFlowVis/ for our tool NetFlowVis
+### 4.1 Extract AD subnetworks
 
-### 3.6 Detailed tutorial for NetFlowVis
-In the web-based user interface, the left panel can control the cancer-specific results. 
-* Selection of Cell Line Name
-  * Choose the specific cell line name to analysis
-
-* Selection of top and last scores drug-gene interaction
-There are 10 options for comparing the top and last drug scores. For instance, the application set the comparisons with pairs of top 1 drug combination and last 1 drug combination, top 2 drug combination and last 2 drug combination, etc.
-
-* Selection of specific signaling pathway
-There are 48 siganling pathways available for user to analysis. By selecting the signaling pathway, the related edges or paths will be highlighted in bold black color.
-
-* Select the threshold of edge weight to plot
-By selecting or changing the edge weight in the range from 0.1 to 0.5 (default value as 0.31), the edge weight under such threshold will be filtered out of the visualization.
-
-* Select the threshold of marking important genes
-By changing the threshold of important genes, the node marked as important nodes will be enlarged and modified into tomoto color.
-
-* Select the threshold of each component
-Updating the threshold of filtering out the small component by changing this control panel.
-
-## 4. Downstream analysis for ROSMAP AD dataset
-For running analysis the biomarkers for ROSMAP AD dataset, you can change the directory into the folder 'M3NetFlow_AD'.
-### 4.1 Run each fold analysis to extract the attention in subnetwork
-```
+```bash
 python ROSMAP_analysis_path_edge.py
 ```
 
-### 4.2 Average attention scores for edges in each fold
-```
+### 4.2 Average attention and p-values
+
+```bash
 python ROSMAP_analysis_avg_and_pvalue.py
 ```
 
-### 4.3 Pathway Enrichment Analysis for ROSMAP AD dataset
-To generate the visualization application on ROSMAP AD dataset, use the R code './M3NetFlow_AD/shinyapp_graph_neo_drug-omics-pvalues.R'. Following figure provides a visualization of Alzheimer’s disease (AD) samples from modified tool, NetFlowVis-AD, highlighting key genes that may contribute to the disease’s pathology. These genes, identified through comprehensive analysis, are suggested to influence critical biological processes involved in the progression of AD. By focusing on these genetic factors, the figure offers insights into potential molecular mechanisms and therapeutic targets that could further advance the understanding of AD.
+### 4.3 Pathway enrichment and NetFlowVis-AD
+
+Use the R app `./M3NetFlow_AD/shinyapp_graph_neo_drug-omics-pvalues.R` to visualize AD results. The figure below highlights AD-relevant genes (by p-values) and suggests mechanisms and potential targets.
+
 ![](./figures/Figure10.png)
 
-* visit the website: https://m3netflow.shinyapps.io/NetFlowVis-AD/ for our tool NetFlowVis-AD
+Visit **NetFlowVis-AD**: https://m3netflow.shinyapps.io/NetFlowVis-AD/
 
-### 4.4 Detailed instruction on application tool NetVisFlow-AD
-In the web-based user interface, the left panel can control the cancer-specific results. 
-* Selection of Patient Type
-  * Choose the specific type of patient (AD vs Non-AD)
+### 4.4 NetFlowVis-AD controls
 
-* Selection of specific signaling pathway
-There are 48 siganling pathways available for user to analysis. By selecting the signaling pathway, the related edges or paths will be highlighted in bold black color.
+- **Patient Type**: AD vs Non-AD.
+- **Signaling pathway selection**: 48 pathways; selected ones are emphasized.
+- **Edge-weight threshold**: `[0, 0.25]` (default **0.106**).
+- **Important gene threshold by p-value**: enlarge/mark significant nodes (tomato).
+- **Component size threshold**: filter small components.
 
-* Select the threshold of edge weight to plot
-By selecting or changing the edge weight in the range from 0 to 0.25 (default value as 0.106), the edge weight under such threshold will be filtered out of the visualization.
+**Visualization panel options**:
+- Gene node size (common nodes)
+- Important gene node size
+- Label size for common nodes
+- Label size for important nodes
 
-* Select the threshold of marking important genes by p-values
-By changing the threshold of important genes measured by p-values (comparing AD vs Non-AD), the node marked as important nodes will be enlarged and modified into tomoto color.
+---
 
-* Select the threshold of each component
-Updating the threshold of filtering out the small component by changing this control panel.
+## Citation
 
-The rest panel can only change the visualization details of the plot:
-* Select the gene node size: changing the common node size
-* Select the important gene node size: modifying the size of the important nodes
-* Select the label size of gene nodes: changing the label or font size of common nodes
-* Select the label size of important genes: changing the font size of important genes
+If you use **M3NetFlow** in your research, please cite:
+
+```bibtex
+@article{zhang2025m3netflow,
+  title={M3NetFlow: A multi-scale multi-hop graph AI model for integrative multi-omic data analysis},
+  author={Zhang, Heming and Goedegebuure, S Peter and Ding, Li and DeNardo, David and Fields, Ryan C and Province, Michael and Chen, Yixin and Payne, Philip and Li, Fuhai},
+  journal={iScience},
+  volume={28},
+  number={3},
+  year={2025},
+  publisher={Elsevier}
+}
+```
+
+---
+
+## Links
+
+- Paper: <https://www.cell.com/iscience/fulltext/S2589-0042(25)00180-4>  
+- Code: <https://github.com/FuhaiLiAiLab/M3NetFlow>  
+- NetFlowVis: <https://m3netflow.shinyapps.io/NetFlowVis/>  
+- NetFlowVis-AD: <https://m3netflow.shinyapps.io/NetFlowVis-AD/>
+
+---
+
+## License
+
+This repository is released for research use. Please see the accompanying license file (if provided) for terms.
+
+---
+## License
+
+This repository is released for research use. Please see the accompanying license file (if provided) for terms.
