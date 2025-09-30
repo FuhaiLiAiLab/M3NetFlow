@@ -220,8 +220,3 @@ If you use **M3NetFlow** in your research, please cite:
 ## License
 
 This repository is released for research use. Please see the accompanying license file (if provided) for terms.
-
----
-## License
-
-This repository is released for research use. Please see the accompanying license file (if provided) for terms.
