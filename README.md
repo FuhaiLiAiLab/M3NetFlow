@@ -204,18 +204,6 @@ If you use **M3NetFlow** in your research, please cite:
   year={2025},
   publisher={Elsevier}
 }
-```
-
----
-
-## Links
-
-- Paper: <https://www.cell.com/iscience/fulltext/S2589-0042(25)00180-4>  
-- Code: <https://github.com/FuhaiLiAiLab/M3NetFlow>  
-- NetFlowVis: <https://m3netflow.shinyapps.io/NetFlowVis/>  
-- NetFlowVis-AD: <https://m3netflow.shinyapps.io/NetFlowVis-AD/>
-
----
 
 ## License
 
